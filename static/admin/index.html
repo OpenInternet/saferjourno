@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SaferJourno - CMS</title>
+    <!-- Include the script that enables Netlify Identity on this page. -->
+    <script src="netlify-identity-widget.js"></script>
+    <link rel="stylesheet" href="all.min.css">
+
+    <style>
+        aside a span::before {
+            font-family: "Font Awesome 6 Free";
+            font-size: 1rem;
+            font-weight: 900;
+            position: absolute;
+            top: 50%;
+        }
+
+        aside a span svg {
+            display: none;
+        }
+
+        aside a[href="#/collections/introduction"] span::before {
+            content: "\f08b";
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Include the script that builds the page and powers Decap CMS -->
+    <script src="netlify-cms.js"></script>
+    <script src="hugo_shortcodes_netlify_cms.js"></script>
+</body>
+
+</html>

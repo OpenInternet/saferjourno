@@ -1,0 +1,101 @@
+baseURL = "/"
+title = "SaferJourno"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+buildDrafts  = false
+buildFuture  = false
+buildExpored = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = true
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = true
+
+pluralizeListTitles = false
+
+[permalinks]
+# blog = "/blog/:filename/"
+
+[author]
+  name = "Internews"
+  email = "info@internews.org"
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  reportTitle = "SaferJourno"
+  reportSubtitle = "Digital Security Resources for Trainers of Journalists"
+  
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Metadata mostly used in document's head
+  description = "The original SaferJourno was launched in 2014 with the aim of bolstering the digital security capacity of trainers working with journalists around the world."
+  keywords = "censorship, public, developer, journalism, violence, digital, trainers, capacity, world, privacy, security, foss"
+  images = ["img/default.png"]
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  # gitUrl = "https://github.com/XX/XXX/commit/"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
+  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
+  customCSS = []
+  customJS  = []
+
+  justifyContent = false
+
+  # Colors for favicons
+  [params.favicon.color]
+    mask = "#1F78D1"
+    msapplication = "#1F78D1"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight    = 1
+
+[privacy]
+  [privacy.instagram]
+    disable = false
+    simple = true
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = true
+  [privacy.vimeo]
+    disable = false
+    enableDNT = true
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true

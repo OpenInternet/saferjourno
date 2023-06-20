@@ -1,0 +1,16 @@
+{{ define "main" }}
+<main class="container-fluid">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-xl-7 col-lg-7 col-md-12 col-12 py-5">
+                <article>
+                    <h2 class="text-uppercase pb-3">Contents</h2>
+                    {{ range .Site.Sections }}
+                    <a class="toc-header d-block" href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    {{ end }}
+                </article>
+            </div>
+        </div>
+    </div>
+</main>
+{{ end }}

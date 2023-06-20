@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html data-theme="light" lang="{{ .Site.Language }}" itemscope itemtype="http://schema.org/WebPage">
+
+<head>
+    {{ partial "head.html" . }}
+</head>
+
+<body id="body-pd" class="body-pd">
+
+    <svg id="fader" class="fade-out"></svg>
+    <script>fadeInPage()</script>
+
+    <a class="screen-reader-text" href="#content">Skip to content</a>
+
+    {{ partial "header.html" . }}
+
+    <header class="container-fluid py-5 background-banner">
+        <div class="container py-3">
+            <div class="row justify-content-center">
+                <div class="col-xl-7 col-lg-7 col-md-12 col-12 pt-5">
+                    <h1 class="report-title">{{ .Site.Params.reportTitle }}</h1>
+                    <p class="report-subtitle">{{ .Site.Params.reportSubtitle }}</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div id="content" class="content" data-bs-spy="scroll" data-bs-target="#TableOfContents">
+        {{ block "main" . }}
+        {{ end }}
+    </div>
+
+    {{ partial "javascript.html" . }}
+
+</body>
+
+</html>

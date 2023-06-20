@@ -1,0 +1,93 @@
+{{ partial "mobile.html" .}}
+
+<div id="left-sidebar" class="d-flex flex-column left-sidebar show">
+
+  <div id="navTitle" class="title">
+    <a aria-label="{{ .Site.Title }}" href="{{ .Site.BaseURL }}">
+      {{ partial "brand.html" . }}
+    </a>
+  </div>
+
+  <hr>
+
+  <button id="theme-toggle" class="themetoggle" aria-label="Toggle Dark Theme">
+    <span class="moon" aria-hidden="true">{{ partial "fontawesome.html" "regular/moon" }}</span> <span class="sun" aria-hidden="true">{{ partial "fontawesome.html" "regular/sun-bright" }}</span><span class="hidden-text moon">Dark Theme</span><span class="hidden-text sun">Light Theme</span>
+  </button>
+
+  <button id="toc-toggle" class="toctoggle" aria-label="Collapse Table of Contents">
+    <span class="close" aria-hidden="true">{{ partial "fontawesome.html" "solid/arrow-left-to-line" }}</span> <span class="open" aria-hidden="true">{{ partial "fontawesome.html" "solid/arrow-right-from-line" }}</span> <span class="hidden-text">Collapse Table
+    of Contents</span>
+  </button>
+
+  <script>
+    let theme = localStorage.getItem("data-theme");
+    const themeToggle = document.querySelector("#theme-toggle");
+    const mobileToggle = document.querySelector("#mobile-toggle");
+
+    const changeThemeToDark = () => {
+      document.documentElement.setAttribute("data-theme", "dark");
+      localStorage.setItem("data-theme", "dark");
+    };
+
+    const changeThemeToLight = () => {
+      document.documentElement.setAttribute("data-theme", "light");
+      localStorage.setItem("data-theme", "light");
+    };
+
+    if (theme === "dark") {
+      changeThemeToDark();
+    }
+
+    themeToggle.addEventListener("click", () => {
+      let theme = localStorage.getItem("data-theme");
+      if (theme === "dark") {
+        changeThemeToLight();
+      } else {
+        changeThemeToDark();
+      }
+    });
+
+    mobileToggle.addEventListener("click", () => {
+      let theme = localStorage.getItem("data-theme");
+      if (theme === "dark") {
+        changeThemeToLight();
+      } else {
+        changeThemeToDark();
+      }
+    });
+  </script>
+
+  {{ partial "menu.html" . }}
+
+  <a aria-label="Go to Internews website" class="navbar-brand mt-auto mb-4 pt-4" href="https://internews.org" target="
+  _blank" rel="noopener noreferrer">
+    {{ partial "logo" }}
+  </a>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function (event) {
+    const showNavbar = (toggleId, sidebarId, navId, bodyId) => {
+      const toggle = document.getElementById(toggleId),
+        sidebar = document.getElementById(sidebarId),
+        nav = document.getElementById(navId),
+        bodypd = document.getElementById(bodyId);
+
+      // Validate that all variables exist
+      if (toggle && sidebar && nav && bodypd ) {
+        toggle.addEventListener("click", () => {
+          // show navbar
+          nav.classList.toggle("show");
+          // show navbar
+          sidebar.classList.toggle("show");
+          // change icon
+          toggle.classList.toggle("bx-x");
+          // add padding to body
+          bodypd.classList.toggle("body-pd");
+        });
+      }
+    };
+
+    showNavbar("toc-toggle", "left-sidebar", "nav-bar", "body-pd");
+  });
+</script>
