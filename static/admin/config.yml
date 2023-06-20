@@ -6,7 +6,7 @@ display_url: https://saferjourno.org
 
 backend:
   name: git-gateway
-  repo: internews/saferjourno
+  repo: uradotdesign/saferjourno
   branch: main
 
 local_backend: true
@@ -48,13 +48,55 @@ collections:
         name: body
         widget: markdown
         i18n: true
-  - name: chapter-1
-    label: Chapter 1
+  - name: chapters
+    label: Chapters
     identifier_field: title
-    description: Here we can edit the Chapter 1 page content.
+    description: Here we can edit individual Chapters page content.
     i18n: true
     extension: md
-    folder: content/chapter-1
+    folder: content/chapters
+    create: true
+    delete: true
+    fields:
+      - label: Content
+        name: body
+        widget: markdown
+        i18n: true
+  - name: scenarios
+    label: Scenarios
+    identifier_field: title
+    description: Here we can edit the scenarios page content.
+    i18n: true
+    extension: md
+    folder: content/scenarios
+    create: false
+    delete: false
+    fields:
+      - label: Content
+        name: body
+        widget: markdown
+        i18n: true
+  - name: advanced-guides
+    label: Advanced Guides
+    identifier_field: title
+    description: Here we can edit the advanced guides page content.
+    i18n: true
+    extension: md
+    folder: content/advanced-guides
+    create: false
+    delete: false
+    fields:
+      - label: Content
+        name: body
+        widget: markdown
+        i18n: true
+  - name: digital-risk-assessment-template
+    label: Digital Risk Assessment
+    identifier_field: title
+    description: Here we can edit the digital risk assessment template content.
+    i18n: true
+    extension: md
+    folder: content/digital-risk-assessment-template
     create: false
     delete: false
     fields:
