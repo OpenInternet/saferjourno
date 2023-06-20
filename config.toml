@@ -27,7 +27,7 @@ disableHugoGeneratorInject = true
 pluralizeListTitles = false
 
 [permalinks]
-# blog = "/blog/:filename/"
+chapters = "/:filename/"
 
 [author]
   name = "Internews"

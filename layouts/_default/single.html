@@ -12,10 +12,10 @@
                     {{ replace $content "disabled=" "" | safeHTML }}
                 </article>
 
-                <!-- <hr> -->
+                <hr>
 
                 {{ if (or .NextInSection .PrevInSection) }}
-                <div class="pagination">
+                <div class="pagination-content">
                     <div class="row{{ if not .NextInSection }} justify-content-end{{ end }}">
 
                     {{ if .NextInSection }}
