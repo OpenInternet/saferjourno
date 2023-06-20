@@ -62,6 +62,20 @@ collections:
         name: body
         widget: markdown
         i18n: true
+  - name: case-studies
+    label: Case Studies
+    identifier_field: title
+    description: Here we can edit the case studies content.
+    i18n: true
+    extension: md
+    folder: content/case-studies
+    create: false
+    delete: false
+    fields:
+      - label: Content
+        name: body
+        widget: markdown
+        i18n: true
   - name: scenarios
     label: Scenarios
     identifier_field: title
