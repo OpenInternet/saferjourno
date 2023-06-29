@@ -54,6 +54,8 @@ When speaking about the risk assessment and personal security plan it may be hel
 - Get them to think about particular stories or beats that could be riskier than others. For example, are they covering a story where sources may cause them harm or are doing something illegal? Are they receiving sensitive materials? Do they have to contact people to talk about an issue that could be considered sensitive?
 - Ask them to think about how visible they are online. Do they share a lot of data about themselves? Are they public-facing, for example do they host a show or write opinion pieces? How at risk are they from doing this work?
 
+<div class="faq">
+
 ## Common questions asked
 
 Below are some common questions that journalists ask about account security. It can be helpful to have answers to these prepared in advance.
@@ -70,6 +72,10 @@ Completing a risk assessment is the best way of being able to predict risk and t
 
 Explain that it is important to share that risk assessment with the editor or others in the newsroom who may need access to it. If the risk assessment contains sensitive data then the journalist should consider encrypting the document before sharing it with others via an end-to-end encrypted service, such as WhatsApp. Details on how to do that can be found in chapters five and six of this course.
 
+</div>
+
+<div class="outcomes">
+
 ## Learning outcomes
 
 At the end of the session journalists:
@@ -78,11 +84,19 @@ At the end of the session journalists:
 - Have a greater understanding of the digital threats they face based on their own risk profile
 - Understand what a risk assessment is and how to complete one
 
+</div>
+
+<div class="tools">
+
 ## Templates and tools
 
 The following templates and tools can be useful for teaching this session:
 
 [Risk assessment template](/digital-risk-assessment-template)
+
+</div>
+
+<div class="resources">
 
 ## Resources
 
@@ -93,6 +107,8 @@ The following resources may be helpful for teaching this chapter:
 [How technology is changing the harassment of journalists and what newsrooms can do about it](https://freedom.press/training/blog/mob-censorship-paper/) by Freedom of the Press Foundation
 
 [Safety and risk assessment](https://rorypecktrust.org/how-we-help/freelance-resources/safety-and-risk-assessment/) by the Rory Peck Trust
+
+</div>
 
 ## Activities
 
@@ -110,10 +126,7 @@ The activities below are designed to accompany this training session on account 
 
 </div>
 
-
-> Activity
-
-**Step one**
+❶ **Step one**
 
 - Ask the journalists about their day-to-day use of using technology. Some key questions could include:
 - How much do they enjoy technology?
@@ -121,14 +134,13 @@ The activities below are designed to accompany this training session on account 
 - Who else is using devices in their home? Are they sharing devices?
 - Are they using personal devices for work-related content?
 
-**Step two**
+❷ **Step two**
 
 - Tell the journalists they are going to spend some time mapping on a piece of paper the different ways that they interact with technology. This can include; makes and models of devices (if known), who has access to their devices, what kind of online accounts they have, for example, messaging apps or food delivery apps, and where these apps are located, what devices they connect to in their home, for example their TV.
 
-**Step three**
+❸ **Step three**
 
 - Have a class discussion focused on the ways journalists are interacting with technology. Points to discuss include: how they use technology for work and in their personal lives, how do family and friends influence what tech they use and how they interact with this technology? Is there a difference in how they use tech for work compared to their personal life? How their job requires tech and how much support they have from media outlets.
-
 
 ### Knowledge building
 
@@ -142,15 +154,13 @@ The activities below are designed to accompany this training session on account 
 
 </div>
 
-> Activity
-
 _Trainer note: this activity follows on from the introductory activity at the beginning of this chapter. Some of this activity asks journalists to talk about possible sensitive issues. Remind them that they do not have to talk about their own personal experiences instead they can speak about more general issues. Best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter._
 
-**Step one**
+❶ **Step one**
 
 - Ask the journalists to look at their previous work around their use of technology from the previous exercise. Ask them to think about what possible risks they could face from using technology. For example, are they concerned about hacking of their accounts? Do they worry about what data apps and services are collecting about them? Would they like to know more about how to secure sensitive documents?
 
-**Step two**
+❷ **Step two**
 
 - Write up the following: What do you want to protect? Who are you protecting it from? How will you protect it? What happens if you fail to protect it?
 - Ask the journalists to look at the questions and to think about what threats they could face. Ask them to write down answers to the questions.
@@ -160,7 +170,7 @@ _Trainer note: this activity follows on from the introductory activity at the be
 - Encourage them to think of the worst case scenario and what will happen if someone does gain access to their data. Explain that thinking about what could happen will help them plan to better protect it.
 - Encourage participants to think of where risks occur when their personal life overlaps with their profession. For example, using the same phone for work and personal communications
 
-**Step three**
+❸ **Step three**
 
 - Facilitate a class discussion on this issue pulling out common themes and threats.
 
@@ -174,11 +184,10 @@ _Trainer note: this activity follows on from the introductory activity at the be
 
 </div>
 
-> Activity
-
 _Trainer note: this exercise requires that trainers have a good understanding of what steps journalists can take to protect themselves online. Best practice for this can be found at the beginning of each chapter of this guide._
 
-**Step one**
+❶ **Step one**
+
 - Ask the journalists what they are currently doing to protect themselves in terms of digital security. Facilitate a class discussion and point out common answers. Some frequent answers could include:
   - Using secure passwords
   - Having two-factor authentication turned on
@@ -187,20 +196,19 @@ _Trainer note: this exercise requires that trainers have a good understanding of
 
 Point out that it’s not important that journalists know how to do all of these security steps yet as they will learn them throughout the course.
 
-**Step two**
+❷ **Step two**
 
 - Ask the journalist whether they have heard of a digital risk assessment and what it does. Give a brief overview using guidance from earlier in this chapter to help you if needed.
 - Share the risk assessment template with the journalists and ask them to look through it. Answer any questions they might have.
 
-**Step three**
+❸ **Step three**
 
 - Tell the journalists they are going to work alone to complete their section of the risk assessment titled thinking about general digital risk.
 - Journalists should work on answering the questions and providing concrete steps for mitigating risk.
 - Support should be provided should they have questions, doubts, or look like they need additional help.
 
-**Step four**
+❹ **Step four**
 
 - Help journalists reflect on the process by asking the following questions:
   - What information have you learned in today’s session that has helped you make more informed decisions around this issue?
   - What else do you think you need to learn?
-

@@ -1,10 +1,14 @@
 :root,
 [data-theme="light"] {
+  --h1: #{$blue-900};
+  --h2: #{$blue-900};
+  --h3: #{$blue-900};
+  --h4: #{$blue-900};
   --nav-width: 5rem;
   --toggle: #{$primary};
   --background-color: #{$white};
   --primary-bg: #{$primary};
-  --text-color: #{$gray-800};
+  --text-color: #{$gray-900};
   --text-muted: #{$gray-500};
   --link-color: #{$primary};
   --link-visited: #5b21b6;
@@ -15,6 +19,12 @@
   --caption: #{$gray-500};
   --border: #{$gray-200};
   --logo: #002d62;
+  --brand: #{$gray-950};
+  --logoColor1: #fbbf24;
+  --logoColor2: #ea580c;
+  --logoColor3: #172554;
+  --logoColor4: #2563eb;
+  --logoColor5: #172554;
   --outline: none;
   --light: flex;
   --dark: none;
@@ -22,10 +32,26 @@
   --toc-header: #{$gray-100};
   --toc-header-hover: #{$gray-200};
   --text-muted: #6c757d;
+  --outcomes: #{$blue-100};
+  --outcomes-stroke: #{$blue-400};
+  --tools: #{$yellow-100};
+  --tools-stroke: #{$yellow-400};
+  --resources: #{$orange-100};
+  --resources-stroke: #{$orange-400};
+  --faq: #{$gray-100};
+  --faq-stroke: #{$gray-400};
   --twitter-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%232b7bb9' d='M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z'%3E%3C/path%3E%3C/svg%3E");
+  --tool-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%23fbbf24' d='M78.6 5C69.1-2.4 55.6-1.5 47 7L7 47c-8.5 8.5-9.4 22-2.1 31.6l80 104c4.5 5.9 11.6 9.4 19 9.4h54.1l109 109c-14.7 29-10 65.4 14.3 89.6l112 112c12.5 12.5 32.8 12.5 45.3 0l64-64c12.5-12.5 12.5-32.8 0-45.3l-112-112c-24.2-24.2-60.6-29-89.6-14.3l-109-109V104c0-7.5-3.5-14.5-9.4-19L78.6 5zM19.9 396.1C7.2 408.8 0 426.1 0 444.1C0 481.6 30.4 512 67.9 512c18 0 35.3-7.2 48-19.9L233.7 374.3c-7.8-20.9-9-43.6-3.6-65.1l-61.7-61.7L19.9 396.1zM512 144c0-10.5-1.1-20.7-3.2-30.5c-2.4-11.2-16.1-14.1-24.2-6l-63.9 63.9c-3 3-7.1 4.7-11.3 4.7H352c-8.8 0-16-7.2-16-16V102.6c0-4.2 1.7-8.3 4.7-11.3l63.9-63.9c8.1-8.1 5.2-21.8-6-24.2C388.7 1.1 378.5 0 368 0C288.5 0 224 64.5 224 144l0 .8 85.3 85.3c36-9.1 75.8 .5 104 28.7L429 274.5c49-23 83-72.8 83-130.5zM56 432a24 24 0 1 1 48 0 24 24 0 1 1 -48 0z'/%3E%3C/svg%3E");
+  --outcome-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3Cpath fill='%2360a5fa' d='M448 96c0-35.3-28.7-64-64-64L64 32C28.7 32 0 60.7 0 96L0 416c0 35.3 28.7 64 64 64l320 0c35.3 0 64-28.7 64-64l0-320zM256 160c0 17.7-14.3 32-32 32l-96 0c-17.7 0-32-14.3-32-32s14.3-32 32-32l96 0c17.7 0 32 14.3 32 32zm64 64c17.7 0 32 14.3 32 32s-14.3 32-32 32l-192 0c-17.7 0-32-14.3-32-32s14.3-32 32-32l192 0zM192 352c0 17.7-14.3 32-32 32l-32 0c-17.7 0-32-14.3-32-32s14.3-32 32-32l32 0c17.7 0 32 14.3 32 32z'/%3E%3C/svg%3E");
+  --resource-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%23fb923c' d='M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z'/%3E%3C/svg%3E");
+  --faq-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%239ca3af' d='M256 448c141.4 0 256-93.1 256-208S397.4 32 256 32S0 125.1 0 240c0 45.1 17.7 86.8 47.7 120.9c-1.9 24.5-11.4 46.3-21.4 62.9c-5.5 9.2-11.1 16.6-15.2 21.6c-2.1 2.5-3.7 4.4-4.9 5.7c-.6 .6-1 1.1-1.3 1.4l-.3 .3 0 0 0 0 0 0 0 0c-4.6 4.6-5.9 11.4-3.4 17.4c2.5 6 8.3 9.9 14.8 9.9c28.7 0 57.6-8.9 81.6-19.3c22.9-10 42.4-21.9 54.3-30.6c31.8 11.5 67 17.9 104.1 17.9zM169.8 149.3c7.9-22.3 29.1-37.3 52.8-37.3h58.3c34.9 0 63.1 28.3 63.1 63.1c0 22.6-12.1 43.5-31.7 54.8L280 248.4c-.2 13-10.9 23.6-24 23.6c-13.3 0-24-10.7-24-24V234.5c0-8.6 4.6-16.5 12.1-20.8l44.3-25.4c4.7-2.7 7.6-7.7 7.6-13.1c0-8.4-6.8-15.1-15.1-15.1H222.6c-3.4 0-6.4 2.1-7.5 5.3l-.4 1.2c-4.4 12.5-18.2 19-30.6 14.6s-19-18.2-14.6-30.6l.4-1.2zM288 336c0 17.7-14.3 32-32 32s-32-14.3-32-32s14.3-32 32-32s32 14.3 32 32z'/%3E%3C/svg%3E");
 }
 
 [data-theme="dark"] {
+  --h1: #{$blue-300};
+  --h2: #{$blue-200};
+  --h3: #{$blue-200};
+  --h4: #{$blue-200};
   --nav-width: 5rem;
   --toggle: #{$white};
   --background-color: #{$gray-900};
@@ -41,6 +67,12 @@
   --caption: #{$gray-200};
   --border: #{$white};
   --logo: #{$white};
+  --brand: #{$white};
+  --logoColor1: #{$white};
+  --logoColor2: #{$white};
+  --logoColor3: #{$white};
+  --logoColor4: #{$white};
+  --logoColor5: #{$white};
   --outline: 1px solid hsla(0, 0%, 100%, 0.2);
   --light: none;
   --dark: flex;
@@ -48,7 +80,19 @@
   --toc-header: #{$gray-700};
   --toc-header-hover: #{$gray-800};
   --text-muted: #{$gray-400};
+  --outcomes: #{$gray-900};
+  --outcomes-stroke: #{$blue-400};
+  --tools: #{$gray-900};
+  --tools-stroke: #{$yellow-400};
+  --resources: #{$gray-900};
+  --resources-stroke: #{$orange-400};
+  --faq: #{$gray-900};
+  --faq-stroke: #{$gray-400};
   --twitter-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%23fff' d='M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z'%3E%3C/path%3E%3C/svg%3E");
+  --tool-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%23fbbf24' d='M78.6 5C69.1-2.4 55.6-1.5 47 7L7 47c-8.5 8.5-9.4 22-2.1 31.6l80 104c4.5 5.9 11.6 9.4 19 9.4h54.1l109 109c-14.7 29-10 65.4 14.3 89.6l112 112c12.5 12.5 32.8 12.5 45.3 0l64-64c12.5-12.5 12.5-32.8 0-45.3l-112-112c-24.2-24.2-60.6-29-89.6-14.3l-109-109V104c0-7.5-3.5-14.5-9.4-19L78.6 5zM19.9 396.1C7.2 408.8 0 426.1 0 444.1C0 481.6 30.4 512 67.9 512c18 0 35.3-7.2 48-19.9L233.7 374.3c-7.8-20.9-9-43.6-3.6-65.1l-61.7-61.7L19.9 396.1zM512 144c0-10.5-1.1-20.7-3.2-30.5c-2.4-11.2-16.1-14.1-24.2-6l-63.9 63.9c-3 3-7.1 4.7-11.3 4.7H352c-8.8 0-16-7.2-16-16V102.6c0-4.2 1.7-8.3 4.7-11.3l63.9-63.9c8.1-8.1 5.2-21.8-6-24.2C388.7 1.1 378.5 0 368 0C288.5 0 224 64.5 224 144l0 .8 85.3 85.3c36-9.1 75.8 .5 104 28.7L429 274.5c49-23 83-72.8 83-130.5zM56 432a24 24 0 1 1 48 0 24 24 0 1 1 -48 0z'/%3E%3C/svg%3E");
+  --outcome-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3Cpath fill='%2360a5fa' d='M448 96c0-35.3-28.7-64-64-64L64 32C28.7 32 0 60.7 0 96L0 416c0 35.3 28.7 64 64 64l320 0c35.3 0 64-28.7 64-64l0-320zM256 160c0 17.7-14.3 32-32 32l-96 0c-17.7 0-32-14.3-32-32s14.3-32 32-32l96 0c17.7 0 32 14.3 32 32zm64 64c17.7 0 32 14.3 32 32s-14.3 32-32 32l-192 0c-17.7 0-32-14.3-32-32s14.3-32 32-32l192 0zM192 352c0 17.7-14.3 32-32 32l-32 0c-17.7 0-32-14.3-32-32s14.3-32 32-32l32 0c17.7 0 32 14.3 32 32z'/%3E%3C/svg%3E");
+  --resource-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%23fb923c' d='M320 0c-17.7 0-32 14.3-32 32s14.3 32 32 32h82.7L201.4 265.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L448 109.3V192c0 17.7 14.3 32 32 32s32-14.3 32-32V32c0-17.7-14.3-32-32-32H320zM80 32C35.8 32 0 67.8 0 112V432c0 44.2 35.8 80 80 80H400c44.2 0 80-35.8 80-80V320c0-17.7-14.3-32-32-32s-32 14.3-32 32V432c0 8.8-7.2 16-16 16H80c-8.8 0-16-7.2-16-16V112c0-8.8 7.2-16 16-16H192c17.7 0 32-14.3 32-32s-14.3-32-32-32H80z'/%3E%3C/svg%3E");
+  --faq-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%239ca3af' d='M256 448c141.4 0 256-93.1 256-208S397.4 32 256 32S0 125.1 0 240c0 45.1 17.7 86.8 47.7 120.9c-1.9 24.5-11.4 46.3-21.4 62.9c-5.5 9.2-11.1 16.6-15.2 21.6c-2.1 2.5-3.7 4.4-4.9 5.7c-.6 .6-1 1.1-1.3 1.4l-.3 .3 0 0 0 0 0 0 0 0c-4.6 4.6-5.9 11.4-3.4 17.4c2.5 6 8.3 9.9 14.8 9.9c28.7 0 57.6-8.9 81.6-19.3c22.9-10 42.4-21.9 54.3-30.6c31.8 11.5 67 17.9 104.1 17.9zM169.8 149.3c7.9-22.3 29.1-37.3 52.8-37.3h58.3c34.9 0 63.1 28.3 63.1 63.1c0 22.6-12.1 43.5-31.7 54.8L280 248.4c-.2 13-10.9 23.6-24 23.6c-13.3 0-24-10.7-24-24V234.5c0-8.6 4.6-16.5 12.1-20.8l44.3-25.4c4.7-2.7 7.6-7.7 7.6-13.1c0-8.4-6.8-15.1-15.1-15.1H222.6c-3.4 0-6.4 2.1-7.5 5.3l-.4 1.2c-4.4 12.5-18.2 19-30.6 14.6s-19-18.2-14.6-30.6l.4-1.2zM288 336c0 17.7-14.3 32-32 32s-32-14.3-32-32s14.3-32 32-32s32 14.3 32 32z'/%3E%3C/svg%3E");
 }
 
 // Smooth Scrolling
@@ -135,7 +179,7 @@ body {
 }
 
 .background-banner {
-  background-image: url(img/banner.webp);
+  background-image: url(img/banner.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -151,6 +195,24 @@ h6 {
   font-feature-settings: "ss01" 1, "ss03" 1, "zero" 1, "cv02" 1, "cv11" 1;
   font-weight: 600;
   letter-spacing: -0.025em;
+}
+
+h1 {
+  color: var(--h1);
+  font-weight: 800;
+}
+
+h2 {
+  color: var(--h2);
+  font-weight: 700;
+}
+
+h3 {
+  color: var(--h3);
+}
+
+h4 {
+  color: var(--h4);
 }
 
 // SVG
@@ -169,7 +231,27 @@ h6 {
 }
 
 .logoColors {
-  //fill: var(--brand);
+  fill: var(--brand);
+}
+
+.logoColors-1 {
+  fill: var(--logoColor1);
+}
+
+.logoColors-2 {
+  fill: var(--logoColor2);
+}
+
+.logoColors-3 {
+  fill: var(--logoColor3);
+}
+
+.logoColors-4 {
+  fill: var(--logoColor4);
+}
+
+.logoColors-5 {
+  fill: var(--logoColor5);
 }
 
 // Navbar + sidebar
@@ -294,7 +376,7 @@ h6 {
 
   100% {
     opacity: 1;
-  }  
+  }
 }
 
 .nav_logo,
@@ -464,10 +546,7 @@ figcaption {
   position: relative;
 
   & h2,
-  h3,
-  h4,
-  h5,
-  h6 {
+  h3 {
     margin-top: 2.5rem;
   }
 
@@ -523,16 +602,25 @@ figcaption {
     }
   }
 
-  & ul li {
-    //list-style-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 448 512'%3E%3Cpath fill='%23002d62' d='M0 96C0 60.7 28.7 32 64 32H384c35.3 0 64 28.7 64 64V416c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V96z'%3E%3C/path%3E%3C/svg%3E");
+  & p + ul {
+    margin-top: 0;
+  }
 
-    &:has(input[type=checkbox]) {
+  & ul {
+    margin-bottom: 2.5rem;
+  }
+
+  & ul li {
+    margin-bottom: 0.2rem;
+
+    &:has(input[type="checkbox"]) {
       list-style-type: none;
     }
+  }
 
-    &::marker {
-      font-size: 1.5rem;
-    }
+  & hr {
+    border-top: 2px solid;
+    margin: 2.5rem 0;
   }
 
   & img {
@@ -555,6 +643,122 @@ figcaption {
     }
   }
 
+  & .outcomes {
+    color: var(--text-color);
+    background-color: var(--outcomes);
+    border: 2px solid var(--outcomes-stroke);
+    padding: 1.25rem 2rem;
+    margin-bottom: 1.5rem;
+    border-radius: 0.75rem;
+    position: relative;
+
+    &:after {
+      content: var(--outcome-icon);
+      width: 2.5rem;
+      height: 2.5rem;
+      position: absolute;
+      right: 1rem;
+      top: 1rem;
+    }
+
+    & h2 {
+      color: var(--text-color);
+      margin-top: 1rem;
+    }
+
+    & a {
+      color: var(--text-color);
+    }
+  }
+
+  & .faq {
+    color: var(--text-color);
+    background-color: var(--faq);
+    border: 2px solid var(--faq-stroke);
+    padding: 1.25rem 2rem;
+    margin-bottom: 1.5rem;
+    border-radius: 0.75rem;
+    position: relative;
+
+    &:after {
+      content: var(--faq-icon);
+      width: 2.5rem;
+      height: 2.5rem;
+      position: absolute;
+      right: 1rem;
+      top: 1rem;
+    }
+
+    & h2 {
+      color: var(--text-color);
+      margin-top: 1rem;
+    }
+
+    & h3 {
+      margin-top: 1rem;
+    }
+
+    & a {
+      color: var(--text-color);
+    }
+  }
+
+  & .tools {
+    color: var(--text-color);
+    background-color: var(--tools);
+    border: 2px solid var(--tools-stroke);
+    padding: 1.25rem 2rem;
+    margin-bottom: 1.5rem;
+    border-radius: 0.75rem;
+    position: relative;
+
+    &:after {
+      content: var(--tool-icon);
+      width: 2.5rem;
+      height: 2.5rem;
+      position: absolute;
+      right: 1rem;
+      top: 1rem;
+    }
+
+    & h2 {
+      color: var(--text-color);
+      margin-top: 1rem;
+    }
+
+    & a {
+      color: var(--text-color);
+    }
+  }
+
+  & .resources {
+    color: var(--text-color);
+    background-color: var(--resources);
+    border: 2px solid var(--resources-stroke);
+    padding: 1.25rem 2rem;
+    margin-bottom: 1.5rem;
+    border-radius: 0.75rem;
+    position: relative;
+
+    &:after {
+      content: var(--resource-icon);
+      width: 2.5rem;
+      height: 2.5rem;
+      position: absolute;
+      right: 1rem;
+      top: 1rem;
+    }
+
+    & h2 {
+      color: var(--text-color);
+      margin-top: 1rem;
+    }
+
+    & a {
+      color: var(--text-color);
+    }
+  }
+
   & .footnotes {
     & p {
       margin-bottom: 0.5rem;
@@ -570,6 +774,7 @@ figcaption {
 
   & table {
     width: 100%;
+    border: var(--border);
   }
 
   & thead,
@@ -578,20 +783,22 @@ figcaption {
   tr,
   td,
   th {
+    color: var(--text-color);
     border-width: 1px;
     border-collapse: collapse;
-    padding: 0.25rem 0.5rem;
+    padding: 0.5rem 1.25rem;
+    background: transparent;
   }
 
   & .table {
     position: relative;
     display: block;
     overflow-x: auto;
-    margin-block: 3rem;
-    
+    margin-block: 1.5rem;
+
     & th {
       color: $white;
-      background-color: $primary;
+      background-color: $blue-800;
     }
   }
 }
@@ -693,6 +900,21 @@ figcaption {
       position: absolute;
       right: 0;
       bottom: 0;
+    }
+  }
+  .post-content .resources,
+  .post-content .faq,
+  .post-content .outcomes,
+  .post-content .tools {
+    padding: 0.75rem 1.25rem;
+
+    & h2 {
+      max-width: 85%;
+    }
+
+    &:after {
+      width: 1.75rem;
+      height: 1.75rem;
     }
   }
 }

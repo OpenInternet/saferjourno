@@ -1,9 +1,92 @@
 // Default colors
 $white: #ffffff;
 $black: #000000;
-$primary: #002d62;
-$secondary: green;
+$primary: #2563eb;
+$secondary: #172554;
+$orange: #ea580c;
+$yellow: #fbbf24;
 $blue: #60a5fa;
+
+// Blue
+$blue-list: (
+  "50": #eff6ff,
+  "100": #dbeafe,
+  "200": #bfdbfe,
+  "300": #93c5fd,
+  "400": #60a5fa,
+  "500": #3b82f6,
+  "600": #2563eb,
+  "700": #1d4ed8,
+  "800": #1e40af,
+  "900": #1e3a8a,
+  "950": #172554,
+);
+
+$blue-50: map-get($blue-list, "50");
+$blue-100: map-get($blue-list, "100");
+$blue-200: map-get($blue-list, "200");
+$blue-300: map-get($blue-list, "300");
+$blue-400: map-get($blue-list, "400");
+$blue-500: map-get($blue-list, "500");
+$blue-600: map-get($blue-list, "600");
+$blue-700: map-get($blue-list, "700");
+$blue-800: map-get($blue-list, "800");
+$blue-900: map-get($blue-list, "900");
+$blue-950: map-get($blue-list, "950");
+
+// Orange
+$orange-list: (
+  "50": #fff7ed,
+  "100": #ffedd5,
+  "200": #fed7aa,
+  "300": #fdba74,
+  "400": #fb923c,
+  "500": #f97316,
+  "600": #ea580c,
+  "700": #c2410c,
+  "800": #9a3412,
+  "900": #7c2d12,
+  "950": #431407,
+);
+
+$orange-50: map-get($orange-list, "50");
+$orange-100: map-get($orange-list, "100");
+$orange-200: map-get($orange-list, "200");
+$orange-300: map-get($orange-list, "300");
+$orange-400: map-get($orange-list, "400");
+$orange-500: map-get($orange-list, "500");
+$orange-600: map-get($orange-list, "600");
+$orange-700: map-get($orange-list, "700");
+$orange-800: map-get($orange-list, "800");
+$orange-900: map-get($orange-list, "900");
+$orange-950: map-get($orange-list, "950");
+
+// Yellow
+$yellow-list: (
+  "50": #fffbeb,
+  "100": #fef3c7,
+  "200": #fde68a,
+  "300": #fcd34d,
+  "400": #fbbf24,
+  "500": #f59e0b,
+  "600": #d97706,
+  "700": #b45309,
+  "800": #92400e,
+  "900": #78350f,
+  "950": #451a03,
+);
+
+$yellow-50: map-get($yellow-list, "50");
+$yellow-100: map-get($yellow-list, "100");
+$yellow-200: map-get($yellow-list, "200");
+$yellow-300: map-get($yellow-list, "300");
+$yellow-400: map-get($yellow-list, "400");
+$yellow-500: map-get($yellow-list, "500");
+$yellow-600: map-get($yellow-list, "600");
+$yellow-700: map-get($yellow-list, "700");
+$yellow-800: map-get($yellow-list, "800");
+$yellow-900: map-get($yellow-list, "900");
+$yellow-950: map-get($yellow-list, "950");
 
 // Gray
 $gray-list: (
@@ -17,6 +100,7 @@ $gray-list: (
   "700": #374151,
   "800": #1f2937,
   "900": #111827,
+  "950": #030712,
 );
 
 $gray-50: map-get($gray-list, "50");
@@ -29,8 +113,36 @@ $gray-600: map-get($gray-list, "600");
 $gray-700: map-get($gray-list, "700");
 $gray-800: map-get($gray-list, "800");
 $gray-900: map-get($gray-list, "900");
+$gray-950: map-get($gray-list, "950");
 
 // Dynamic background and color classes creation
+@each $value in $blue-list {
+  .background-blue-#{nth($value, 1)} {
+    background-color: nth($value, 2) !important;
+  }
+  .color-blue-#{nth($value, 1)} {
+    color: nth($value, 2) !important;
+  }
+}
+
+@each $value in $orange-list {
+  .background-orange-#{nth($value, 1)} {
+    background-color: nth($value, 2) !important;
+  }
+  .color-orange-#{nth($value, 1)} {
+    color: nth($value, 2) !important;
+  }
+}
+
+@each $value in $yellow-list {
+  .background-yellow-#{nth($value, 1)} {
+    background-color: nth($value, 2) !important;
+  }
+  .color-yellow-#{nth($value, 1)} {
+    color: nth($value, 2) !important;
+  }
+}
+
 @each $value in $gray-list {
   .background-gray-#{nth($value, 1)} {
     background-color: nth($value, 2) !important;

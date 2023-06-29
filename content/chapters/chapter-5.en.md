@@ -50,6 +50,8 @@ _Encryption_
 - Laws around encryption are different in each country so it’s important to ensure the journalist is aware of the law of the country they are living in and any countries they are travelling to.
 - Be aware that even though the journalist may have encrypted materials they may be legally requested to decrypt the information by putting in their password if requested to do so by law enforcement.
 
+<div class="faq">
+
 ## Common questions asked
 
 Below are some common questions that journalists ask about this topic and preparing answers to them in advance can be helpful.
@@ -70,6 +72,10 @@ Try to understand what the journalist is worried about when they use the word sa
 
 Journalists working with heavy files face more challenges when it comes to securing their materials. This is because they may be working in locations with poor internet connectivity, making it harder to upload to the cloud or they need to cross borders with sensitive footage. It’s important to get journalists thinking about their own individual risk and to think through options for securing materials. For those in a fixed location, backing up materials to several external encrypted hard drives and storing them in different locations will likely be the best option.
 
+</div>
+
+<div class="outcomes">
+
 ## Learning outcomes
 
 At the end of the session journalists:
@@ -77,6 +83,10 @@ At the end of the session journalists:
 - Are able to make informed decisions around what steps they need to take to secure materials based on their own risk profile and the risk profile of particular stories.
 - Know about different types of tools they can use to secure their materials, including services to encrypt documents, USBs, HD cards, and external hard drives.
 - Have a plan for backing up and storing their data.
+
+</div>
+
+<div class="tools">
 
 ## Templates and tools
 
@@ -87,6 +97,10 @@ The following templates and tools can be useful for teaching this session:
 - Danger Zone for infected documents
 - [Template for backing up data](https://docs.google.com/spreadsheets/d/1F8ZYjnKgKa0phb368_LqjeIZMjapAWAnX6hYL5TgXaA/edit#gid=0)
 - [Risk assessment template](/digital-risk-assessment-template)
+
+</div>
+
+<div class="resources">
 
 ## Resources
 
@@ -101,6 +115,8 @@ The following resources may be helpful for teaching this chapter:
 [Cryptomator tutorial](https://www.youtube.com/watch?v=g9A0zihHZ14) by Cryptomator
 
 [Dangerzone lets you open attachments safely](https://www.wired.com/story/dangerzone-open-email-attachments-safely/) by Wired
+
+</div>
 
 ## Activities
 
@@ -118,11 +134,9 @@ The activities below are designed to accompany this training session on protecti
 
 </div>
 
-> Activity
-
 _This activity is modified from the original version of the SaferJourno guide for media trainers._
 
-**Step one**
+❶ **Step one**
 
 - The trainer creates a list of statements and puts them up on the wall of the room
 
@@ -137,7 +151,7 @@ _This activity is modified from the original version of the SaferJourno guide fo
 - They are put into small groups and each group is given three different coloured packs of post-it notes. Each colour should represent a position that the journalist has about the statement. For example, green represents agree, red for disagree, and yellow for not sure. Each group should be given the same colour post-it notes.
 - The trainer then invites the journalists to come up to put their post-it notes under the statements on the wall. For example, a journalist agrees with the statement, I need to protect my source as much as possible, and sticks a green post it-note underneath.
 
-**Step two**
+❷ **Step two**
 
 - The trainer invites the journalists to form a semicircle in front of the wall and invites them to discuss what they see.
 - The trainer can initiate the discussion by highlighting some common trends they can see from the post-it notes. For example, under the statement, I need to protect my source as much as possible, there may be a number of green post-it notes showing that the majority of the participants agree with this statement.
@@ -158,11 +172,9 @@ _This activity is modified from the original version of the SaferJourno guide fo
 
 </div>
 
-> Activity
-
 _This activity has been amended from the Level Up chapter how to secure your computer_
 
-**Step one**
+❶ **Step one**
 
 - Ask the journalists how much they value the information stored on their devices. How useful is it to their lives? Now ask them how much time they spend organising and backing up this content.
 - Ask participants how often do they backup their files? Share examples of best practices related to data backup, such as:
@@ -170,7 +182,7 @@ _This activity has been amended from the Level Up chapter how to secure your com
   - Backing up their information on a frequent, regular basis
   - Possibly encrypting the hard drive or storage media where data will be stored.
 
-**Step two**
+❷ **Step two**
 
 - Share the [backup template](https://docs.google.com/spreadsheets/d/1F8ZYjnKgKa0phb368_LqjeIZMjapAWAnX6hYL5TgXaA/edit#gid=0) with the group. Explain that they are going to work individually to complete it with some general examples of data that they need to backup. Get them to focus on personal data too, especially content that might be stored on their phones. Note that journalists may already be very familiar with backup data, especially if they work for more established newsrooms.
 - Facilitate a discussion about the spreadsheet and its content. Questions you might want to touch upon include:
@@ -188,15 +200,13 @@ _This activity has been amended from the Level Up chapter how to secure your com
 
 </div>
 
-> Activity
-
 _Trainer note: it is recommended that you carry out a live demonstration using a laptop and projector set up. Best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter. This is an advanced level activity and is recommended to be carried out by experienced trainers._
 
-**Step one**
+❶ **Step one**
 
 - Explain that there are several ways to encrypt an external hard drive. Explain that Mac users can use the built in encryption tool called FireVault. Windows PC users, who have professional accounts, can use Windows’ Bitlocker and that there is a third-party service that all can use called FireVault.
 
-**Step two**
+❷ **Step two**
 
 - Tell the journalists that in order to encrypt the external hard drive you will need to think of and use a password. Speak about the importance of creating a strong password and use this time as an opportunity to review good password best practice. Highlight that it is better to think of this password in advance so you do not have to think of it when you are encrypting.
 - Explain that you are going to show how to encrypt data to an external hard drive using FireVault:
@@ -205,7 +215,7 @@ _Trainer note: it is recommended that you carry out a live demonstration using a
   - Carry out a backup of the data on the external drive
   - Follow the steps for encrypting the external hard drive. A detailed guide to this can be found in our resources section.
 
-**Step three**
+❸ **Step three**
 
 - Answer any questions that the journalists may have
 - Speak about the importance of having more than one backup. Journalists may wish to have several encrypted external hard drives as well as a backup to the cloud. How many backups they create and where they store them will depend on their risk profile. Further information on this can be found at the beginning of this chapter.
@@ -223,15 +233,13 @@ _Trainer note: it is recommended that you carry out a live demonstration using a
 
 </div>
 
-> Activity
-
 _Trainer note: it is recommended that you carry out a live demonstration using a laptop and projector set up. Best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter. This is a medium level activity and it is recommended that trainers are comfortable using the tool before teaching how to use it._
 
-**Step one**
+❶ **Step one**
 
 - Ask journalists for general examples of individual or groups of documents they would like to encrypt. Examples include health information, sensitive documents given to them by sources, photos of their family.
 
-**Step two**
+❷ **Step two**
 
 - Tell the journalists you are going to demonstrate to them how to encrypt a file of documents so that they can be stored easily and safely in a normal cloud storage service, such as Google.
 - Tell the journalists that in order to encrypt a folder of documents you will need to think of and use a password. Speak about the importance of creating a strong password and use this time as an opportunity to review good password best practice. Highlight that it is better to think of this password in advance so you do not have to think of it when you are encrypting.
@@ -239,7 +247,7 @@ _Trainer note: it is recommended that you carry out a live demonstration using a
   - Download the application
   - Follow the steps for encrypting a file of documents. A guide to this can be found in our resources section.
 
-**Step three**
+❸ **Step three**
 
 - Answer any questions the journalists may have
 
@@ -255,17 +263,15 @@ _Trainer note: it is recommended that you carry out a live demonstration using a
 
 </div>
 
-> Activity
-
 This section should help journalists better understand the risks that they face and get them thinking about concrete steps for mitigating that risk.
 
-**Step one**
+❶ **Step one**
 
 - Tell the journalists they are going to work alone to complete their section of the risk assessment titled protecting materials.
 - Journalists should work on answering the questions and providing concrete steps for mitigating risk.
 - Support should be provided should they have questions, doubts, or look like they need additional help.
 
-**Step two**
+❷ **Step two**
 
 - Help journalists reflect on the process by asking the following questions:
   - What information have you learned in today’s session that has helped you make more informed decisions around securing materials?

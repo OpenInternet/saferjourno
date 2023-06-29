@@ -86,6 +86,8 @@ When speaking about the risk assessment and personal security plan it may be hel
 - Journalists are likely to be hesitant about managing content in their accounts and separating out their work data from their personal because of the length of time it will take. It can be helpful for the trainer to speak with the journalists about the accounts and find out which ones are the most important to secure first. This can include accounts with large amounts of personal or sensitive data.
 - Password managers may not be a secure option for those targeted by a state actor. This is because the journalist may be at risk of being detained and having his or her devices searched. Having a password manager on a device could therefore lead to more accounts being breached. The trainer should work with the journalist to think through other available options. This can include having the journalist memorize the passwords to important accounts, writing down passwords in separate places and hiding them in secure locations, or having the option to share passwords with a trusted person.
 
+<div class="faq">
+
 ## Common questions asked
 
 Below are some common questions that journalists ask about account security. It can be helpful to have answers to these prepared in advance.
@@ -106,6 +108,10 @@ Stress that password managers are currently the most secure way to protect passw
 
 More information would be needed here in order to better advise the journalist. He or she should have an individual consultation to work out the best way to secure their accounts. It’s important to highlight that even though they are using passwords and 2FA they may still be physically asked to unlock their accounts. It may also be wise for them not to use a password manager if they are at risk of people accessing their devices.
 
+</div>
+
+<div class="outcomes">
+
 ## Learning outcomes
 
 At the end of the session journalists:
@@ -115,6 +121,10 @@ At the end of the session journalists:
 - Know what 2FA is and know the steps needed to set it up on their accounts
 - Learn about different types of tools and services that can help them to protect their accounts, including different forms of 2FA, and password managers
 
+</div>
+
+<div class="tools">
+
 ## Templates and tools
 
 The following templates and tools can be useful for teaching this session:
@@ -122,6 +132,10 @@ The following templates and tools can be useful for teaching this session:
 - Different types of 2FA services, including authenticator apps and security keys. See the section, Training digital security for the first time?, for more information.
 - Options for password managers. See the section, Training digital security for the first time?, for more information.
 - [Risk assessment template](/digital-risk-assessment-template)
+
+</div>
+
+<div class="resources">
 
 ## Resources
 
@@ -134,6 +148,8 @@ The following resources may be helpful for teaching this chapter:
 [Phishing prevention and email hygiene](https://freedom.press/training/email-security-tips/) by the Freedom of the Press Foundation
 
 [Using physical security keys to secure accounts against phishing](https://cpj.org/2019/01/digital-safety-using-security-keys-to-secure-accou/) by the Committee to Protect Journalists
+
+</div>
 
 ## Activities
 
@@ -151,21 +167,19 @@ The activities below are designed to accompany this training session on account 
 
 </div>
 
-> Activity
-
-**Step one**
+❶ **Step one**
 
 - Ask the journalists to brainstorm all the different types of accounts they have on a piece of paper. They should think about accounts they use for communicating with others, shopping apps, apps for travel, etc.
 - Then ask the journalists to list the different types of content they hold in accounts, for example home address, credit card details.
 
-**Step two**
+❷ **Step two**
 
 - Facilitate a discussion on what the journalists learned from doing this activity. Ask the following questions
 - What did you learn from doing this activity?
 - Did you learn anything surprising?
 - What information is at risk in your accounts? What steps do you think you can take to protect it?
 
-**Step three**
+❸ **Step three**
 
 Walk journalists through basic best practice for account security. This can include:
 
@@ -187,15 +201,13 @@ Walk journalists through basic best practice for account security. This can incl
 
 </div>
 
-> Activity
-
 _Trainer note: this activity follows on from the introductory activity at the beginning of this chapter. Some of this activity asks journalists to talk about possible sensitive issues. Remind them that they do not have to talk about their own personal experiences instead they can speak about more general issues. Best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter._
 
-**Step one**
+❶ **Step one**
 
 - Ask the journalists to look at their previous work around their use of technology from the previous exercise. Ask them to think about what possible risks they could face from using technology. For example, are they concerned about hacking of their accounts? Do they worry about what data apps and services are collecting about them? Would they like to know more about how to secure sensitive documents?
 
-**Step two**
+❷ **Step two**
 
 - Write up the following: What do you want to protect? Who are you protecting it from? How will you protect it? What happens if you fail to protect it?
 - Ask the journalists to look at the questions and to think about what threats they could face. Ask them to write down answers to the questions.
@@ -205,7 +217,7 @@ _Trainer note: this activity follows on from the introductory activity at the be
 - Encourage them to think of the worst case scenario and what will happen if someone does gain access to their data. Explain that thinking about what could happen will help them plan to better protect it.
 - Encourage participants to think of where risks occur when their personal life overlaps with their profession. For example, using the same phone for work and personal communications
 
-**Step three**
+❸ **Step three**
 
 - Facilitate a class discussion on this issue pulling out common themes and threats.
 
@@ -219,11 +231,9 @@ _Trainer note: this activity follows on from the introductory activity at the be
 
 </div>
 
-> Activity
-
 _Trainer note: this exercise requires that trainers have a good understanding of what steps journalists can take to protect themselves online. Best practice for this can be found at the beginning of each chapter of this guide._
 
-**Step one**
+❶ **Step one**
 
 - Ask the journalists what they are currently doing to protect themselves in terms of digital security. Facilitate a class discussion and point out common answers. Some frequent answers could include:
   - Using secure passwords
@@ -233,12 +243,12 @@ _Trainer note: this exercise requires that trainers have a good understanding of
 
 Point out that it’s not important that journalists know how to do all of these security steps yet as they will learn them throughout the course.
 
-**Step two**
+❷ **Step two**
 
 - Ask the journalist whether they have heard of a digital risk assessment and what it does. Give a brief overview using guidance from earlier in this chapter to help you if needed.
 - Share the risk assessment template with the journalists and ask them to look through it. Answer any questions they might have.
 
-**Step three**
+❸ **Step three**
 
 - Tell the journalists they are going to work alone to complete their section of the risk assessment titled thinking about general digital risk.
 - Journalists should work on answering the questions and providing concrete steps for mitigating risk.

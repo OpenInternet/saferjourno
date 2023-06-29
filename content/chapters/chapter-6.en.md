@@ -77,6 +77,8 @@ When speaking about the risk assessment and personal security plan it may be hel
 - For those at risk of being infected with spyware, explain that using end-to-end encryption will not protect their communications if the device itself is infected.
 - Remind journalists that end to end protection will not protect them if they or their interlocutors are compelled to unlock their devices—or even if somebody looks over their shoulder while they are writing.
 
+<div class="faq">
+
 ## Common questions asked
 
 Below are some questions that journalists ask about safer communications. It can be helpful to have answers prepared for these in advance.
@@ -101,6 +103,10 @@ Ascertain who the journalist wants to speak to and what about. Sources that live
 
 Ask the journalist to complete a risk assessment for their team. This should include who they need to communicate with, whether they need to share documents, and who is interested in obtaining their data. Based on the risk assessment the trainer should guide them towards choosing either one tool or a range of suitable tools for communicating.
 
+</div>
+
+<div class="outcomes">
+
 ## Learning outcomes
 
 At the end of the session journalists:
@@ -109,12 +115,20 @@ At the end of the session journalists:
 - Will understand the benefits and drawbacks linked to different forms of communications and how they are exposed to more or less risk as a result.
 - Understand how to turn on security settings for their communications tools and when to use them based on their risk profile.
 
+</div>
+
+<div class="tools">
+
 ## Templates and tools
 
 The following templates and tools can be useful for teaching this session:
 
 - Different options for secure communication tools based on the individual needs of the journalists. Guidance on this can be found in the section Training digital security for the first time, found at the beginning of this chapter.
 - [Risk assessment template](/digital-risk-assessment-template)
+
+</div>
+
+<div class="resources">
 
 ## Resources
 
@@ -129,6 +143,8 @@ The following resources may be helpful for teaching this chapter:
 [Upgrading WhatsApp security](https://freedom.press/training/upgrading-whatsapp-security/) by Freedom of the Press Foundation
 
 [Locking down Signal](https://freedom.press/training/locking-down-signal/) by Freedom of the Press Foundation
+
+</div>
 
 ## Activities
 
@@ -146,11 +162,9 @@ The activities below are designed to accompany this training session on safer co
 
 </div>
 
-> Activity
-
 _Trainer note: be aware that some journalists may not feel comfortable discussing the questions involved in this activity. Ensure that they know that this is optional and if they do not want to speak personally about the subject they could talk about the situation for journalists in general._
 
-**Step one**
+❶ **Step one**
 
 - Write up the following statements on the board and ask the journalists to work in small groups to discuss them.
 
@@ -177,11 +191,9 @@ _Trainer note: be aware that some journalists may not feel comfortable discussin
 
 </div>
 
-> Activity
-
 _Trainer note: best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter. The trainer needs to have a good knowledge of the tools mentioned and any possible security issues related with them_
 
-**Step one**
+❶ **Step one**
 
 - Put the class into small groups and hand out a pack of post-it notes per group.
 - Ask them to write down, one on each post-it note, the names of different services they use to communicate with others. Give them an example to get started, for example, iMessage. Encourage them to think of other platforms they may use in the office, such as Slack.
@@ -196,7 +208,7 @@ _Trainer note: best practice for this activity can be found in the section, Trai
   - What services are people most concerned about?
   - Do your views differ from others in the room?
 
-**Step two**
+❷ **Step two**
 
 - Tell the class that the second and third part of the session will look at debunking some common myths around communication tools as well as teaching a good decision making process around choosing how to communicate with others.
 - First it’s important to get journalists thinking about the following:
@@ -219,7 +231,7 @@ _Trainer note: best practice for this activity can be found in the section, Trai
   - Whether any human right’s defenders or journalists have had their communications obtained by others and how that has happened.
   - What metadata is and how it can put them at risk
 
-**Step three**
+❸ **Step three**
 
 - Now turn the journalist’s attention back to the tools they posted up on the board. Put them into groups and assign them a communication tool to research, for example mobile phone number or Signal.
 - The journalists research the tool using the questions they learned about in step two. Ask them to present their findings to the class.
@@ -243,13 +255,11 @@ _Trainer note: best practice for this activity can be found in the section, Trai
 
 </div>
 
-> Activity
-
 _Trainer note: best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter._
 
 _The trainer needs to have a good knowledge of the tools mentioned and any possible security issues related to them. The trainer can use the case study at the end of this chapter for this exercise._
 
-**Step one**
+❶ **Step one**
 
 - Ask the journalists what they are currently doing to better secure their messaging apps. Ask them how useful, easy or inconvenient these steps are.
 - Speak with the journalists about why it is important to turn on extra security features. Tell the journalists they are going to discuss a case study that highlights why it is important to activate the extra safety features on messaging apps.
@@ -282,17 +292,15 @@ _The trainer needs to have a good knowledge of the tools mentioned and any possi
 
 </div>
 
-> Activity
-
 This section should help journalists better understand the risks that they face and get them thinking about concrete steps for mitigating that risk.
 
-**Step one**
+❶ **Step one**
 
 - Tell the journalists they are going to work alone to complete their section of the risk assessment titled safer communications.
 - Journalists should work on answering the questions and providing concrete steps for mitigating risk.
 - Support should be provided should they have questions, doubts, or look like they need additional help.
 
-**Step two**
+❷ **Step two**
 
 - Help journalists reflect on the process by asking the following questions:
   - What information have you learned in today’s session that has helped you make more informed decisions around choosing safer forms of communication?

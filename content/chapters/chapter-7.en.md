@@ -88,6 +88,8 @@ When speaking about the risk assessment and personal security plan it may be hel
 - Journalists should know what data is fine to share online and what data is best kept private. More details on this can be found at the beginning of this chapter.
 - Journalists should speak to family about what data they are happy to share online and what data they would like to keep private. They should work with their family to secure their family members’ account and be aware that if an abuser can not locate the journalist online they may well target their family.
 
+<div class="faq">
+
 ## Common questions asked
 
 Below are some questions that journalists ask about safer communications. It can be helpful to have answers prepared for these in advance. More detailed guidance is available in the section named Teaching digital security for the first time?
@@ -108,6 +110,10 @@ Explain that once data has been put on the internet it is impossible to guarante
 
 How long it takes to remove data will depend on how much personal information the journalist has online. Explain that at the beginning it always takes more time because the journalist will not know what data is available about them and that the process for taking data down can be lengthy. Once they know what content is available about them online and feel happy with that it is just a case of setting calendar reminders to themselves to review data periodically and removing anything new that appears.
 
+</div>
+
+<div class="outcomes">
+
 ## Learning outcomes
 
 At the end of the session journalists:
@@ -116,6 +122,10 @@ At the end of the session journalists:
 - Feel confident looking up data about themselves online using tried and tested techniques
 - Know how to remove their data where possible and/or hide it
 
+</div>
+
+<div class="tools">
+
 ## Templates and tools
 
 The following templates and tools can be useful for teaching this session:
@@ -123,6 +133,10 @@ The following templates and tools can be useful for teaching this session:
 - [Online violence risk assessment](https://docs.google.com/document/d/1dFpBDJlHdX5S-5w-db3zzJEAl5a_jdfse6YoD1iJRJg/edit) by the International Women’s Media Foundation
 - [Checklist for protecting staff data](https://docs.google.com/document/d/1RkON2WmMgzONzbz0voX5AusD2pUrFFtN4nU9mfsgGMA/edit?usp=sharing) by the International Women’s Media Foundation
 - [Risk assessment template](/digital-risk-assessment-template)
+
+</div>
+
+<div class="resources">
 
 ## Resources
 
@@ -140,6 +154,8 @@ The following resources may be helpful for teaching this chapter:
 
 [Protecting against targeted online attacks](https://cpj.org/2020/05/digital-safety-protecting-against-targeted-online-attacks/) by the Committee to Protect Journalists
 
+</div>
+
 ## Activities
 
 The activities below are designed to accompany this training session on online abuse. Trainers should feel free to use their own activities as well as to adapt the materials in this guide to best suit the needs of the journalists they are training. The number and type of activities selected will depend on the level of knowledge of the trainer as well as the amount of time the trainer has to spend with the participants. For those new to training in digital safety, don’t forget to review the section, Training digital security for the first time?, for best practice guidance.
@@ -156,19 +172,17 @@ The activities below are designed to accompany this training session on online a
 
 </div>
 
-> Activity
-
 _Trainer note: the idea of this session is not to get journalists to speak about their own personal cases which may be traumatic for them and others in the room, instead get them to focus on cases of others._
 
 _Best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter. Trainers may also want to consult chapter two on account security for best practices to protect against hacking and phishing which are common tactics used by online abusers._
 
-**Step one**
+❶ **Step one**
 
 - Show the journalists some case studies of online abuse against journalists in the region and ask them whether they are familiar with them.
 - Out the journalists into small groups and ask them to discuss other cases that they might know of. It may help to get them thinking about the following questions; Are there any similarities between the cases in the way the journalists are attacked? What reasons are there for the attack? Are they able to identify who may be behind the attacks?
 - Facilitate a group feedback session on the questions above.
 
-**Step two**
+❷ **Step two**
 
 - Tell the journalists they are now going to look at some of the techniques that online abusers use. Knowing how online harassers attack can help journalists better defend against it.
 
@@ -182,7 +196,7 @@ _Best practice for this activity can be found in the section, Training digital s
 
 Ask the journalists whether they are familiar with any of these tactics. Ask the following questions; Have you seen these types of attacks within your newsroom or against others? Are there any other ways that online abusers attack online? Which attack concerns you the most?
 
-**Step three**
+❸ **Step three**
 
 - Close the session by asking the group the following questions;
   - What are they currently doing to protect themselves?
@@ -202,22 +216,20 @@ Ask the journalists whether they are familiar with any of these tactics. Ask the
 
 </div>
 
-> Activity
-
 _Trainer note: this session requires journalists to look themselves up online and share some details about what they find. Let the journalists know that they do not have to share information if they do not feel comfortable doing so._
 
 _Best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter._
 
-**Step one**
+❶ **Step one**
 
 - Ask the journalists how often they look themselves up online and whether they feel comfortable with the data that they find. Facilitate a brief discussion around this.
 - Tell them that carrying out frequent online searches for their data is a good way to better protect themselves and that today they are going to learn how to do that more accurately.
 
-**Step two**
+❷ **Step two**
 
 - Get the journalists to Google themselves and make a note of what data appears. Facilitate a brief discussion on this if journalists are happy to do so.
 
-**Step three**
+❸ **Step three**
 
 - Walk the journalists through some best practice for doing more advanced searches. Trainers new to this subject can consult the section Training digital security for the first time?, located at the beginning of this chapter. The trainer may want to touch on the following:
   - Using boolean search terms to refine results
@@ -242,15 +254,13 @@ _Best practice for this activity can be found in the section, Training digital s
 
 </div>
 
-> Activity
-
 _Trainer note: best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter._
 
-**Step one**
+❶ **Step one**
 
 - Explain to the journalists that data is stored on their accounts, the accounts of family and friends, and on other sites over which they have no control. Let them know that this session will guide them through removing that data.
 
-**Step two**
+❷ **Step two**
 
 - Walk the journalists through best practice for removing data. Best practice guidance is available at the beginning of the chapter named Training digital security for the first time? The trainer might want to mention:
   - The difference between data stored on a platform they have control over vs a third-party platform
@@ -258,7 +268,7 @@ _Trainer note: best practice for this activity can be found in the section, Trai
   - Common techniques for removing or hiding content from social media sites
   - The importance of speaking to family and friends about personal data and removing information.
 
-**Step three**
+❸ **Step three**
 
 _Trainer note: you will need to use scenario II for the following exercise._
 
@@ -278,17 +288,15 @@ _Trainer note: you will need to use scenario II for the following exercise._
 
 </div>
 
-> Activity
-
 This section should help journalists better understand the risks that they face and get them thinking about concrete steps for mitigating that risk.
 
-**Step one**
+❶ **Step one**
 
 - Tell the journalists they are going to work alone to complete their section of the risk assessment titled online abuse and protecting personal data.
 - Journalists should work on answering the questions and providing concrete steps for mitigating risk.
 - Support should be provided should they have questions, doubts, or look like they need additional help.
 
-**Step two**
+❷ **Step two**
 
 - Help journalists reflect on the process by asking the following questions:
   - What information have you learned in today’s session that has helped you make more informed decisions around online abuse and protecting data.

@@ -139,6 +139,8 @@ When speaking about the risk assessment and personal security plan it may be hel
 - Encourage the journalists to map out who may be interested in obtaining their devices and/or the content on their devices. This can include others who may already have physical access to the device, For example family members. Good questions to think about include, Who could unintentionally remove or delete content from my device and how can I protect against that? How likely is my device to be stolen or broken when I am out covering an event? Does my government have a history of using spyware and have they used it against journalists in my country? How likely is the government to detain me and take my devices?
 - Understandably journalists are increasingly worried about being infected by spyware. It can be helpful to get them to think about their own risk profile and whether it fits with being targeted by spyware. For example, are they from a country where the government uses spyware? Talk about the different types of spyware and highlight that more sophisticated spyware is expensive which means it is not being deployed on a massive scale.
 
+<div class="faq">
+
 ## Common questions asked
 
 Below are some common questions that journalists ask about account security. It can be helpful to have answers to these prepared in advance.
@@ -159,6 +161,10 @@ Explain that there is always a way to recover data but this depends on the tech 
 
 The trainer should first focus on getting the journalist to consider whether they are at high risk of having spyware on their devices. Good questions to ask include, whether they live in a country where the government has a history of using spyware, are they covering stories that put them more at risk of spyware, have they or anyone they know been targeted. Explain that there are different types of spyware and the only way to be sure if a device has been infected is to send it off to be forensically analysed. Trainers could research ahead of the class whether there are any threat labs—or organisations which can forensically analyse devices for non-profits—within their region.
 
+</div>
+
+<div class="outcomes">
+
 ## Learning outcomes
 
 At the end of the session journalists:
@@ -168,6 +174,10 @@ At the end of the session journalists:
 - Understand how to encrypt their computer and whether their phone needs encryption turned on or whether it comes with encryption as standard
 - Better understand how mobile phones and mobile phone providers operate
 
+</div>
+
+<div class="tools">
+
 ## Templates and tools
 
 The following templates and tools can be useful for teaching this session:
@@ -176,6 +186,10 @@ The following templates and tools can be useful for teaching this session:
 - Apple [Lockdown Mode](https://support.apple.com/en-gb/HT212650) for protecting against spyware
 - [Scenarios](/scenarios) for helping journalists secure their phone
 - [Risk assessment template](/digital-risk-assessment-template)
+
+</div>
+
+<div class="resources">
 
 ## Resources
 
@@ -199,6 +213,8 @@ The following resources may be helpful for teaching this chapter:
 
 [About Lockdown Mode](https://support.apple.com/en-gb/HT212650) by Apple
 
+</div>
+
 ## Activities
 
 The activities below are designed to accompany this training session on device security. Trainers should feel free to use their own activities as well as to adapt the materials in this guide to best suit the needs of the journalists they are training. The number and type of activities selected will depend on the level of knowledge of the trainer as well as the amount of time the trainer has to spend with the participants. For those new to training in digital safety, don’t forget to review the section, Training digital security for the first time?, for best practice guidance.
@@ -215,16 +231,14 @@ The activities below are designed to accompany this training session on device s
 
 </div>
 
-> Activity
-
-**Step one**
+❶ **Step one**
 
 - Put the journalists into pairs and hand out a pack of post-it notes.
 - Then ask the journalists to think about what type of content they have on their devices. Ask them to write one piece of content on one post-it note. For example an email account, the content of the in-box and also the cloud account linked to the email account
 - Give the journalists five minutes to complete the activity.
 - Ask them to work with their partner to group the content into categories, for example, work documents, social media apps.
 
-**Step two**
+❷ **Step two**
 
 - Facilitate a discussion on what the journalists learned from doing this activity. Ask the following questions
   - Were you surprised by how much data was on your devices?
@@ -243,11 +257,9 @@ The activities below are designed to accompany this training session on device s
 
 </div>
 
-> Activity
-
 _Trainer note: best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter. The trainer may want to use local examples of how people have targeted devices, for example, devices seized during protests._
 
-**Step one**
+❶ **Step one**
 
 - Ask the journalists what steps they currently take to protect their devices.
   - Using their answers as a starting point go over the general best practice for protecting devices, including:
@@ -262,7 +274,7 @@ _Trainer note: best practice for this activity can be found in the section, Trai
 
 With each of these steps it can be helpful to get journalists thinking about why they are carrying out this best practice and what it is protecting against in terms of their own risk analysis.
 
-**Step two**
+❷ **Step two**
 
 - Close the session by asking the journalists to think about and discuss the following questions
   - What do I feel I do well when it comes to securing my devices?
@@ -278,13 +290,11 @@ With each of these steps it can be helpful to get journalists thinking about why
 
 </div>
 
-> Activity
-
 _This exercise has been adapted from the Level Up chapter Malware and other malicious software._
 
 _Trainer note: best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter._
 
-**Step one**
+❶ **Step one**
 
 - Explain to participants what malware is, and review a few of the types of malware that exist. It is recommended to cover the following:
   - Trojan Horse
@@ -293,7 +303,7 @@ _Trainer note: best practice for this activity can be found in the section, Trai
   - Keylogger
   - Viruses
 
-**Step two**
+❷ **Step two**
 
 - Explain some of the most common ways that devices become infected with malware, and the unsafe practices that can lead to such infections.
 - It is also important to explain the different purposes or motivations behind malware deployments:
@@ -301,7 +311,7 @@ _Trainer note: best practice for this activity can be found in the section, Trai
   - Other kinds are specifically targeted at activists, journalists or dissidents to gain access to their data or communications;
   - Still other kinds are targeted at individuals known to be connected to a number of activists, journalists or dissidents in the hope of infecting multiple targets across a network.
 
-**Step three**
+❸ **Step three**
 
 - Show local examples of different types of malware attacks and generate a discussion between participants on this issue. Questions you may want to speak about include, have you seen any of these types of attacks? Are journalists in this region targeted by this type of malware? Who is targeting you with these types of attacks?
 
@@ -321,18 +331,16 @@ _Trainer note: best practice for this activity can be found in the section, Trai
 
 </div>
 
-> Activity
-
 _Trainer note: this exercise is designed for advanced level trainers. Set up the tech in advance of the workshop. You will need a test computer for this activity. Show either FireVault for Mac or BitLocker for Widows PC depending on which computers the participants are most likely to be using._
 
 _Best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter._
 
-**Step one**
+❶ **Step one**
 
 - Ask the journalists why they think it is important to encrypt their computer. Find out whether anyone in the room has experience of encrypting their devices and/or what people know about the process of encryption.
 - Explain that there are different ways to encrypt a computer based on whether the user is using Windows, BitLocker, or Mac, FireVault.
 
-**Step two**
+❷ **Step two**
 
 - Tell the journalists that you are going to give them a practical demonstration of encrypting a computer.
 - Explain that it is good practice to backup the data on devices first before encrypting them.
@@ -340,7 +348,7 @@ _Best practice for this activity can be found in the section, Training digital s
 - Walk through the importance of creating and storing safely a backup key. Explain that if someone tries to gain access to the device and is unable to enter, the service will lock down the computer and will ask for the backup key in order to unlock it.
 - Walk the journalist through the step by step process for encrypting the device.
 
-**Step three**
+❸ **Step three**
 
 - Answer any questions that the journalists may have.
 
@@ -354,13 +362,11 @@ _Best practice for this activity can be found in the section, Training digital s
 
 </div>
 
-> Activity
-
 _This exercise has been adapted from the Level Up chapter How do mobile devices work?_
 
 _Trainer note: best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter._
 
-**Step one**
+❶ **Step one**
 
 - Tell the journalists that you are going to go over some key vocabulary linked to mobile phones. This can be done using a powerpoint presentation and can use the language mentioned in the mobile phone section of the Training digital security for the first time? This includes:
   - Antenna
@@ -371,7 +377,7 @@ _Trainer note: best practice for this activity can be found in the section, Trai
   - Removable media
   - Microphone and speaker
 
-**Step two**
+❷ **Step two**
 
 - Talk about how the user is identified on the network. This includes:
 
@@ -386,7 +392,7 @@ _Trainer note: best practice for this activity can be found in the section, Trai
   - Apps and location data
   - GPS
 
-**Step three**
+❸ **Step three**
 
 - Put the journalists into groups and ask them to identify what risks carrying a mobile phone poses. For example, GPS tracking.
 - Ask them to think about which of these risks are applicable in their own circumstances.
@@ -402,16 +408,14 @@ _Trainer note: best practice for this activity can be found in the section, Trai
 
 </div>
 
-> Activity
-
 _Trainer note: best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter._
 
-**Step one**
+❶ **Step one**
 
 - Put the journalists into small groups and ask them to work together to map out what they currently do to protect their mobile phones and the content on them? Ask them whether there are certain scenarios where they are more anxious about the security of the device.
 - Facilitate a discussion on the topic and write up any best practice that they provide on the board.
 
-**Step two**
+❷ **Step two**
 
 - Walk the journalists through best practice for protecting their mobile devices. This guidance can be found at the beginning of this chapter in the section, Training digital security for the first time? The trainer may want to speak about the following:
   - Encrypting the phone
@@ -422,7 +426,7 @@ _Trainer note: best practice for this activity can be found in the section, Trai
   - Erasing the browsing history
 - Ask the journalists which of this best practice do they think is most applicable to them.
 
-**Step three**
+❸ **Step three**
 
 _Trainer note: you will need to use scenario I for the following exercise_
 
@@ -440,13 +444,11 @@ _Trainer note: you will need to use scenario I for the following exercise_
 
 </div>
 
-> Activity
-
 _Trainer note: There is a lot of anxiety around spyware. Try to provide practical steps that journalists can take to protect against it._
 
 _Best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter. The trainer may want to use local examples of how devices have been infected with sophisticated spyware_
 
-**Step one**
+❶ **Step one**
 
 - Write up Pegasus on the board and ask the journalists what they know about it.
 - Tell the journalists that they are going to read a case study of a journalist who was infected by Pegasus. After they have read the case study, discuss the case. You can use the following questions:
@@ -479,7 +481,7 @@ _Best practice for this activity can be found in the section, Training digital s
   - Do you feel you have a greater understanding of spyware?
   - What steps do you need to take to be more secure?
 
-**Step two**
+❷ **Step two**
 
 - Walk the journalists through best practice for protecting their mobile devices. This guidance can be found at the beginning of this chapter in the section, Training digital security for the first time? The trainer may want to speak about the following:
   - Encrypting the phone
@@ -490,7 +492,7 @@ _Best practice for this activity can be found in the section, Training digital s
   - Erasing the browsing history
 - Ask the journalists which of this best practice do they think is most applicable to them.
 
-**Step three**
+❸ **Step three**
 
 _Trainer note: you will need to use scenario I for the following exercise_
 
@@ -504,8 +506,8 @@ _Trainer note: you will need to use scenario I for the following exercise_
 
 <div class="table">
 
-| Learning outcomes                                                                                                                                                                              | Time            | Resources                                                                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Learning outcomes                                                                                                                                                                              | Time            | Resources                                                     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------- |
 | Journalists think through their individual risk and the risk associated with a particular story when using their devices.<br>Journalists are able to think through mitigation for those risks. | 20 - 30 minutes | [Risk assessment template](/digital-risk-assessment-template) |
 
 </div>

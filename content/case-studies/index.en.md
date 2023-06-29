@@ -21,6 +21,8 @@ Those who had been targeted did not realize that their accounts had been comprom
 
 **Source: Human Rights Watch, 2022**
 
+<div class="faq">
+
 ### Questions 
 
 **Discuss the following questions**
@@ -39,6 +41,8 @@ Have you seen this type of targeted phishing attack before?
 
 What other governments use sophisticated phishing attacks? Is this something that you have seen in your own country?
 
+</div>
+
 ### For the trainer
 
 This case study is designed to get participants talking about mobile phone security. It can be used to consolidate knowledge learned during the module. 
@@ -50,6 +54,8 @@ Talking points to consider include:
 - Using a different phone to attend events where your device is likely to be confiscated 
 
 Trainers looking to learn more about the case can read this report by [Human Rights Watch](https://www.hrw.org/news/2022/12/05/iran-state-backed-hacking-activists-journalists-politicians) and on the US technology site [TechCrunch](https://techcrunch.com/2022/12/06/iran-hackers-espionage-campaign-journalists-activists/).
+
+------
 
 ## Reporters phone confiscated on Pentagon trip to Europe 
 
@@ -69,6 +75,8 @@ After outcry from the media and press freedom organisations, the U.S Air Force r
 
 **Source: U.S Press Freedom Tracker, 2022**
 
+<div class="faq">
+
 ### Questions 
 
 **Discuss the following questions**
@@ -87,6 +95,8 @@ What steps, if any, do you normally take to protect your devices before attendin
 
 What steps will you take in the future to ensure that your devices and the content on them is safer? 
 
+</div>
+
 ### For the trainer
 
 This case study is designed to get participants talking about mobile phone security. Iit can be used to consolidate knowledge learned during the module. 
@@ -98,6 +108,8 @@ Talking points to consider include:
 - Using a different phone to attend events where your device is likely to be confiscated 
 
 Trainers looking to learn more about the case can read about it on the [U.S Press Freedom Tracker](https://pressfreedomtracker.us/all-incidents/reuters-reporters-phone-confiscated-on-pentagon-trip-to-europe/) and in the US news site [Politico](https://www.politico.com/news/2022/05/22/pentagon-foreign-reporter-phone-official-travel-00034299). 
+
+------
 
 ## Activists put at risk after documentary film maker’s devices seized by Syrian security agents
 
@@ -120,6 +132,8 @@ Officials for Channel 4 told the Columbia Journalism Review that since McAlliste
 
 **Source: Columbia Journalism Review, 2012**
 
+<div class="faq">
+
 ### Questions 
 
 **Discuss the following questions**
@@ -133,6 +147,8 @@ What steps could he have taken while in the country to ensure that his materials
 This incident happened a number of years ago, do you think journalists are using more secure practices nowadays? Why? Why not?
 
 After reading this case study, can you think of any areas where you need to increase your digital safety knowledge?
+
+</div>
 
 ### For the trainer
 
@@ -148,6 +164,8 @@ Talking points to consider include:
 
 Trainers looking to learn more about the case can read about it in the [Columbia Journalism Review](https://archives.cjr.org/feature/the_spy_who_came_in_from_the_c.php?page=all).
 
+------
+
 ## How a third-party SMS service was used to take over Signal accounts
 
 Read the following case study and discuss the questions below. 
@@ -162,6 +180,8 @@ The attackers were able to gain access to his account because the journalist had
 
 **Source: Vice Motherboard, 2022**
 
+<div class="faq">
+
 ### Questions 
 
 **Discuss the following questions**
@@ -174,6 +194,8 @@ What steps are you currently taking to protect your messaging apps?
 
 After reading this case study, can you think of any areas where you need to increase your knowledge of using messaging apps securely?
 
+</div>
+
 ### For the trainer
 
 This case study is designed to get participants talking about source security and materials. It can be used to consolidate knowledge learned during the module. Readers will need to be made familiar with what two-factor authentication is before starting the activity. Trainers looking for more information on account security can look at chapter two of this guide.
@@ -184,6 +206,8 @@ Talking points to consider include:
 - What steps can they take to increase their security when it comes to using messaging apps?
 
 Trainers looking to learn more about the case can read about it in the article published by [Vice Motherboard](https://www.vice.com/en/article/qjkvxv/how-a-third-party-sms-service-was-used-to-take-over-signal-accounts).
+
+------
 
 ## Kyrgyz journalists on the online ‘fake farms’ that threaten to kill them
 
@@ -204,6 +228,8 @@ The response of targeted journalists to online harassment is mixed: some have re
 
 **Source: the Committee to Protect Journalists, 2021** 
 
+<div class="faq">
+
 ### Questions 
 
 **Discuss the following questions**
@@ -217,6 +243,8 @@ What threat do these types of attacks pose for democracy and press freedom?
 What can the journalists do to better protect against these types of attacks?
 
 How feasible would it be for you to monitor your news outlet’s social media account to identify fake accounts? Please detail why or why not.
+
+</div>
 
 ### For the trainer
 

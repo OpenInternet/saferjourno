@@ -74,6 +74,8 @@ When speaking about the risk assessment and personal security plan it may be hel
 - Journalists may also be using online tools because they have been told they are more secure yet they may not understand why this is the case. This can lead to online services being used incorrectly or in contexts which put the journalists at a higher level of risk.
 - The importance of carrying out secure online research is so that neither the journalist or their sources are exposed. The trainer should help the journalist to think about who would be interested in obtaining their personal data and what the tech, legal and financial capacity of those people are. Journalists should understand that they face risks based on what country they live in, prior threats they have received, as well as the topic of the stories they cover.
 
+<div class="faq">
+
 ## Common questions asked
 
 Below are some common questions that journalists ask about account security. It can be helpful to have answers to these prepared in advance.
@@ -103,6 +105,10 @@ For detailed information on deleting online content consult chapter seven of thi
 - Archived in internet archive sites, such as the Wayback Machine. These are services that archive internet content. You can request that your data is removed by visiting the site and following the steps for data removal. They may or may not comply with your request.
 - Captured via screenshots or recordings by others.
 
+</div>
+
+<div class="outcomes">
+
 ## Learning outcomes
 
 At the end of the session journalists:
@@ -111,6 +117,10 @@ At the end of the session journalists:
 - Are able to make informed decisions around what online services to use based on their own risk profile. This might include knowing what companies do with their data and how they store it, understanding the jurisdictions in which services are based, and what data law enforcement can request.
 - Have a better understanding on who has access to their online data and how this data is obtained
 - Know about different types of tools they can use to be safer when carrying out online research, including transparency reports, VPNs
+
+</div>
+
+<div class="tools">
 
 ## Templates and tools
 
@@ -122,6 +132,10 @@ The following templates and tools can be useful for teaching this session:
 - [The Tor browser](https://www.torproject.org/download/) by Tor
 - Guidance on what type of VPN to choose and how to select one or more. See the section, Training digital security for the first time?, for more information.
 - [Risk assessment template](/digital-risk-assessment-template)
+
+</div>
+
+<div class="resources">
 
 ## Resources
 
@@ -136,6 +150,8 @@ The following resources may be helpful for teaching this chapter:
 [Using the internet more securely](https://cpj.org/2019/07/digital-safety-kit-journalists/#Secure) by the Committee to Protect Journalists
 
 [Fortify your browser](https://datadetoxkit.org/en/privacy/browser) by Tactical Tech
+
+</div>
 
 ## Activities
 
@@ -153,13 +169,11 @@ The activities below are designed to accompany this training session on safer on
 
 </div>
 
-> Activity
-
 Be mindful that not all journalists will feel comfortable discussing how they carry out online research.
 
 Journalists might not be familiar with what online data includes, it can be helpful to provide them with a definition before carrying out the exercise.
 
-**Step one**
+❶ **Step one**
 
 - Write up the statements below on the board and ask the journalists to read them
   - I carry out work research on my personal devices
@@ -170,7 +184,7 @@ Journalists might not be familiar with what online data includes, it can be help
 - Ask the journalists to discuss the statements with the person next to them.
 - Facilitate a discussion on the questions, writing up common experiences on the board.
 
-**Step two**
+❷ **Step two**
 
 - Get journalists to start thinking about what they could do to be more secure online by asking them the following questions:
   - What do you need to know in order to carry out more secure internet research?
@@ -190,20 +204,18 @@ Journalists might not be familiar with what online data includes, it can be help
 
 </div>
 
-> Activity
-
 _Trainer note: best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter._
 
 _The aim of this activity is to give journalists a brief overview of how information moves around the internet so that they can better understand who can access their data. This information will help them with further exercises during the day’s session._
 
 _Journalists would benefit from an explanation of some key vocabulary, including Internet Service Provider (ISP) and Internet Protocol (IP) address.These definitions can be found in the section, Training digital security for the first time?, located at the beginning of this chapter._
 
-**Step one**
+❶ **Step one**
 
 - Ask the journalists to put forward some ideas on how information moves around the internet. Encourage them to think about how they connect to the internet from their phone or home.
 - Using their answers as a starting point illustrate how information is sent using the internet. You can either do this by drawing it on a whiteboard, using a premade illustration or by showing a video
 
-**Step two**
+❷ **Step two**
 
 - Ask the journalists the following questions:
   - What did you learn that was surprising?
@@ -220,22 +232,20 @@ _Journalists would benefit from an explanation of some key vocabulary, including
 
 </div>
 
-> Activity
-
 _Trainer note: best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter. Trainers should do some research on what data companies collect on users based on their local context in advance of this training activity and use some case studies of data_
 
-**Step one**
+❶ **Step one**
 
 - Journalists work together in small groups to write down on the A3 piece of paper what data they think companies collect about them. They should focus on telephone service providers, internet services providers as well as the big name tech companies.
 - Journalists then come together to discuss what data they think is being collected. The trainer can write up their suggestions on the board.
 
-**Step two**
+❷ **Step two**
 
 - Walk the journalists through the general data that is collected by these companies. This can include sign up data, location data, IP address, and possible content of messages. Map out the data on the board and compare it to the data that the journalist suggested at the beginning of the activity. Is there an overlap?
 - Stress that this is just a general overview of the type of data that is collected. Highlight that it is important to check the terms and conditions of companies as well as local laws in order to find out the exact data being collected.
 - The trainer may want to use a local case study to show journalists how data is being collected by companies and/or governments. The case study should highlight what data was collected, who accessed it, and what laws allowed that data to be obtained. A discussion can be facilitated around how this forms part of the journalist’s risk analysis.
 
-**Step three**
+❸ **Step three**
 
 - Outline the best practice that journalists can use when deciding what services to use. This can include:
   - Before signing up to a service, researching the companies to find out who owns them, where they are based, and where their servers are based, and analysing whether this poses a risk for the individual journalist.
@@ -262,13 +272,11 @@ _Trainer note: best practice for this activity can be found in the section, Trai
 
 </div>
 
-> Activity
-
 _Trainer note: best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter._
 
 _Best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter._
 
-**Step one**
+❶ **Step one**
 
 - Ask the journalists about situations where they have been worried that their activity online could be tracked by others. Common situations might include:
 
@@ -288,7 +296,7 @@ _Best practice for this activity can be found in the section, Training digital s
     - The journalist is able to decide whether having a VPN based in their country is a risk for them
     - The journalist understands the local law around VPN use.
 
-**Step two**
+❷ **Step two**
 
 - Carry out a quick survey with the people in the room to see who has used a VPN and who has not.
 - Tell the journalists you are going to show them how to set up and use a VPN
@@ -307,17 +315,15 @@ _Best practice for this activity can be found in the section, Training digital s
 
 </div>
 
-> Activity
-
 This section should help journalists better understand the risks that they face and get them thinking about concrete steps for mitigating that risk.
 
-**Step one**
+❶ **Step one**
 
 - Tell the journalists they are going to work alone to complete their section of the risk assessment titled safer online research.
 - Journalists should work on answering the questions and providing concrete steps for mitigating risk.
 - Support should be provided should they have questions, doubts, or look like they need additional help.
 
-**Step two**
+❷ **Step two**
 
 - Help journalists reflect on the process by asking the following questions:
   - What information have you learned in today’s session that has helped you make more informed decisions around carrying out safer online research?
