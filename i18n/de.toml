@@ -20,6 +20,9 @@ other = "Newsletter"
 [faq]
 other = "Frequently Asked Questions"
 
+[TableOfContents]
+other = "Table of Contents"
+
 # 404.html
 [archives]
 other = "Posts"

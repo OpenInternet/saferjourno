@@ -29,6 +29,7 @@
   --light: flex;
   --dark: none;
   --invert: invert(0);
+  --button: #{$blue-950};
   --toc-header: #{$gray-100};
   --toc-header-hover: #{$gray-200};
   --text-muted: #6c757d;
@@ -77,6 +78,7 @@
   --light: none;
   --dark: flex;
   --invert: invert(1);
+  --button: #{$blue-950};
   --toc-header: #{$gray-700};
   --toc-header-hover: #{$gray-800};
   --text-muted: #{$gray-400};
@@ -496,6 +498,55 @@ h4 {
         top: 0;
       }
     }
+  }
+}
+
+// Dropdown ToC on mobile
+.dropdown-menu {
+  width: 100%;
+  background-color: var(--background-color);
+  border: 1px solid var(--button);
+
+  & #TableOfContents {
+    & ul {
+      list-style: none;
+      margin-inline: auto;
+      border-left: none;
+      margin-bottom: 0;
+    }
+    & li {
+      padding-block: 0.4rem;
+      position: relative;
+
+      &:hover a {
+        font-weight: 500;
+      }
+
+      & a {
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+.dropdown button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: left;
+  outline: none;
+  border: none;
+  border-radius: .5rem;
+  padding: .75rem;
+  color: $white;
+  background-color: var(--button) !important;
+
+  &:hover, &:active {
+    color: $gray-100;
+  }
+
+  &::after {
+    content: none;
   }
 }
 
