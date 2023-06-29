@@ -238,7 +238,7 @@ _Best practice for this activity can be found in the section, Training digital s
   - Reviewing their own social media sites
   - Reviewing the sites of family members and friends
 
-**Step four**
+❹ **Step four**
 
 - Ask the journalists to now carry out a more advanced search using the techniques described above and using different search engines. Tell them that they will not be able to search for everything today so this should be seen as a more general search that they can use as a starting point for a deeper search later on at home.
 - Ask the journalists to note down any information they would like to remove.

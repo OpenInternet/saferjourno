@@ -5,7 +5,7 @@
   --h3: #{$blue-900};
   --h4: #{$blue-900};
   --nav-width: 5rem;
-  --toggle: #{$primary};
+  --toggle: #{$blue-800};
   --background-color: #{$white};
   --primary-bg: #{$primary};
   --text-color: #{$gray-900};
@@ -878,6 +878,12 @@ figcaption {
 }
 
 @media screen and (max-width: 992px) {
+  .report-title {
+    font-size: 3rem;
+  }
+  .report-subtitle {
+    font-size: 1.85rem;
+  }
   .left-sidebar {
     display: none !important;
   }

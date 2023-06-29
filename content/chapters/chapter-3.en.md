@@ -315,7 +315,7 @@ _Trainer note: best practice for this activity can be found in the section, Trai
 
 - Show local examples of different types of malware attacks and generate a discussion between participants on this issue. Questions you may want to speak about include, have you seen any of these types of attacks? Are journalists in this region targeted by this type of malware? Who is targeting you with these types of attacks?
 
-**Step four**
+❹ **Step four**
 
 - Ask the journalists what they are currently doing to protect against malware.
 - Explain that one of the best ways to protect their computers is to turn on the antivirus that comes as standard with their operating system.

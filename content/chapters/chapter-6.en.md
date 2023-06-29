@@ -237,7 +237,7 @@ _Trainer note: best practice for this activity can be found in the section, Trai
 - The journalists research the tool using the questions they learned about in step two. Ask them to present their findings to the class.
 - Look at the rest of the tools on the board and walk the journalists through the pros and cons of each one and identify the risk with each one. It can be helpful to have some examples of how communications have been obtained. For example, a case of a government subpoena, information obtained directly from the device etc.
 
-**Step four**
+❹ **Step four**
 
 - Close the session by asking the journalists what they learned from this
   - Did they learn anything surprising?

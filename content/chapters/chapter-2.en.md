@@ -254,7 +254,7 @@ Point out that it’s not important that journalists know how to do all of these
 - Journalists should work on answering the questions and providing concrete steps for mitigating risk.
 - Support should be provided should they have questions, doubts, or look like they need additional help.
 
-**Step four**
+❹ **Step four**
 
 Help journalists reflect on the process by asking the following questions:
 

@@ -255,7 +255,7 @@ _Trainer note: best practice for this activity can be found in the section, Trai
   - Getting journalists to understand who may target them for their information and make a decision on which online services to use based on that.
   - Highlighting that this is just one way that people obtain data and that there are other ways, including brute-force hacking of accounts, malware, including spyware, and physical access to devices.
 
-**Step four**
+❹ **Step four**
 
 - Wrap up the session with the following questions:
   - What did you learn that was surprising?
