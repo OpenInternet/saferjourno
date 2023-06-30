@@ -485,6 +485,17 @@ h4 {
     padding-block: 0.25rem;
     position: relative;
 
+    &:hover a:before {
+      left: -1.2rem;
+      width: 0.25rem;
+      top: 0;
+      content: "";
+      position: absolute;
+      height: 32px;
+      border-radius: 2px;
+      background-color: $primary;
+    }
+
     & a {
       text-decoration: none;
       color: var(--icon);
@@ -919,6 +930,9 @@ figcaption {
   }
   .left-sidebar {
     display: none !important;
+  }
+  .nav_link {
+    padding: 0.3rem 0 0.3rem 1rem;
   }
   body,
   .body-pd {
