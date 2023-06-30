@@ -1,23 +1,23 @@
 {{ define "main" }}
 <main class="container-fluid">
+
+    {{ if eq .Params.toc true }}
+
+    <div class="dropdown d-block d-lg-none sticky-top mb-4 pt-2">
+        <button class="dropdown-toggle w-100" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+          {{ i18n "TableOfContents"}} {{ partial "fontawesome.html" "solid/chevron-down" }}
+        </button>
+        <div class="dropdown-menu">
+            {{ .TableOfContents }}
+        </div>
+      </div>
+    
+    {{ end }}
+
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-xxl-7 col-xl-10 col-lg-10 col-md-12 col-12 {{ if eq .Params.toc true }}pt-0{{ else }}pt-4{{ end }} pt-lg-5 pb-5">
                 <article class="post-content">
-
-                    {{ if eq .Params.toc true }}
-
-                    <div class="dropdown d-block d-lg-none sticky-top mb-4 mt-3 pt-3">
-                        <button class="dropdown-toggle w-100" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                          {{ i18n "TableOfContents"}} {{ partial "fontawesome.html" "solid/chevron-down" }}
-                        </button>
-                        <div class="dropdown-menu">
-                            {{ .TableOfContents }}
-                        </div>
-                      </div>
-
-                    {{ end }}
-
 
                     <h1>{{ .Title }}</h1>
                     {{ $content := .Content }}
