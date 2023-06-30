@@ -6,10 +6,10 @@ display_url: https://saferjourno.org
 
 backend:
   name: git-gateway
-  repo: uradotdesign/saferjourno
+  repo: OpenInternet/saferjourno
   branch: main
 
-local_backend: true
+local_backend: false
 
 publish_mode: editorial_workflow
 media_folder: static/images
