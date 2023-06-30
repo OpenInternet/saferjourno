@@ -364,7 +364,7 @@ h4 {
   justify-content: space-between;
   opacity: 0;
   transition: opacity 0.25s ease-in-out;
-  width: calc(var(--nav-width) + 350px);
+  width: calc(var(--nav-width) + 270px);
 }
 
 @keyframes fadeIn {
@@ -585,7 +585,7 @@ figcaption {
   }
 
   .show {
-    width: calc(var(--nav-width) + 400px);
+    width: calc(var(--nav-width) + 320px);
     & .hidden-text,
     & .hidden {
       opacity: 1;
@@ -598,7 +598,7 @@ figcaption {
   }
 
   .body-pd {
-    padding-left: calc(var(--nav-width) + 400px);
+    padding-left: calc(var(--nav-width) + 320px);
   }
 }
 
@@ -608,9 +608,9 @@ figcaption {
 
   & h2,
   h3 {
-    margin-top: 2.5rem;
+    margin-top: 2rem;
   }
-
+  
   & a {
     color: var(--link-color);
 
