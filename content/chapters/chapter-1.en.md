@@ -3,6 +3,7 @@ type = "report"
 title = "Chapter 1: Understanding and evaluating digital risk"
 layout = "single"
 weight = 2
+toc = true
 +++
 
 ## Introduction

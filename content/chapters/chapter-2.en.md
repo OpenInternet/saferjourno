@@ -3,6 +3,7 @@ type = "report"
 title = "Chapter 2: Account Security"
 layout = "single"
 weight = 3
+toc = true
 +++
 
 ## Introduction

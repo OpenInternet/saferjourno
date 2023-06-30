@@ -3,6 +3,7 @@ type = "report"
 title = "Chapter 4: Safer online research"
 layout = "single"
 weight = 5
+toc = true
 +++
 
 ## Introduction

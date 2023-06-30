@@ -3,6 +3,7 @@ type = "report"
 title = "Case Studies"
 layout = "single"
 weight = 9
+toc = true
 +++
 
 ## Iranian-backed hacking group, Charming Kitten, targets journalists via WhatsApp messages

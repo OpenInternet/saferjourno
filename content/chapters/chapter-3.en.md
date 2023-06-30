@@ -3,6 +3,7 @@ type = "report"
 title = "Chapter 3: Device Security"
 layout = "single"
 weight = 4
+toc = true
 +++
 
 ## Introduction

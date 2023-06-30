@@ -3,6 +3,7 @@ type = "report"
 title = "Chapter 6: Safer communications"
 layout = "single"
 weight = 7
+toc = true
 +++
 
 ## Introduction

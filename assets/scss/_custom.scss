@@ -271,7 +271,7 @@ h4 {
   height: 0;
   width: 100%;
   position: fixed;
-  z-index: 20;
+  z-index: 10000;
   top: 0;
   left: 0;
   background-color: var(--background-color);
@@ -512,18 +512,21 @@ h4 {
       list-style: none;
       margin-inline: auto;
       border-left: none;
+      padding-left: 0;
       margin-bottom: 0;
     }
     & li {
       padding-block: 0.4rem;
+      padding-inline: .75rem;
       position: relative;
 
-      &:hover a {
-        font-weight: 500;
+      &:hover {
+        background-color: var(--toc-header);
       }
 
       & a {
         text-decoration: none;
+        display: block;
       }
     }
   }
@@ -536,17 +539,24 @@ h4 {
   text-align: left;
   outline: none;
   border: none;
-  border-radius: .5rem;
-  padding: .75rem;
+  border-radius: 0.5rem;
+  padding: 0.75rem;
   color: $white;
   background-color: var(--button) !important;
 
-  &:hover, &:active {
+  &:hover,
+  &:active {
     color: $gray-100;
   }
 
   &::after {
     content: none;
+  }
+
+  &.show svg path {
+    d: path(
+      "M214.6 41.4c-12.5-12.5-32.8-12.5-45.3 0l-160 160c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L160 141.2V448c0 17.7 14.3 32 32 32s32-14.3 32-32V141.2L329.4 246.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3l-160-160z"
+    );
   }
 }
 

@@ -3,6 +3,7 @@ type = "report"
 title = "Digital Risk Assessment Template"
 layout = "single"
 weight = 11
+toc = true
 +++
 
 Journalists face a wide-array of digital risks when carrying out their work and completing a risk assessment is an important factor when it comes to keeping data and sources safer. This risk assessment template is designed to get you thinking about the risks that you face as well as the steps you need to take to reduce that risk. 

@@ -3,6 +3,7 @@ type = "report"
 title = "Scenarios"
 layout = "single"
 weight = 9
+toc = true
 +++
 
 The following scenarios are designed to accompany the course and can be used to help participants consolidate their learning. These activities work well in a group setting with journalists encouraged to share ideas and best practice with each other. Trainers should feel free to adapt the materials as they see fit.

@@ -3,6 +3,7 @@ type = "report"
 title = "Advanced Guides"
 layout = "single"
 weight = 10
+toc = true
 +++
 
 ## Safe Travels: Digital Security When Traveling on Assignment
