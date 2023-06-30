@@ -16,7 +16,7 @@
       </div>
     </nav>
 
-    <div id="navbar-mobile" class="overlay d-block d-md-none">
+    <div id="navbar-mobile" class="overlay">
       <div class="container-fluid">
         <div class="container">
           <div class="navbar align-items-center justify-content-between">
@@ -50,9 +50,11 @@
 
 <script>
 function openNav() {
-document.getElementById("navbar-mobile").style.height = "100%";
+  document.getElementById("navbar-mobile").style.display = "block";
+  document.getElementById("navbar-mobile").style.height = "100%";
 }
 function closeNav() {
-document.getElementById("navbar-mobile").style.height = "0%";
+  document.getElementById("navbar-mobile").style.display = "none";
+  document.getElementById("navbar-mobile").style.height = "0%";
 }
 </script>
