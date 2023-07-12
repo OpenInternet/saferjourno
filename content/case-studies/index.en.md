@@ -1,14 +1,13 @@
-+++
-type = "report"
-title = "Case Studies"
-layout = "single"
-weight = 9
-toc = true
-+++
-
+---
+type: report
+title: Case Studies
+layout: single
+weight: 9
+toc: true
+---
 ## Iranian-backed hacking group, Charming Kitten, targets journalists via WhatsApp messages
 
-Read the following case study and discuss the questions below. 
+Read the following case study and discuss the questions below:
 
 Hackers linked to the Iranian government targeted journalists and others working on issues related to the Middle East, with a sophisticated and ongoing social engineering campaign using WhatsApp messages. 
 
@@ -24,7 +23,7 @@ Those who had been targeted did not realize that their accounts had been comprom
 
 <div class="faq">
 
-### Questions 
+### Questions
 
 **Discuss the following questions**
 
@@ -49,16 +48,17 @@ What other governments use sophisticated phishing attacks? Is this something tha
 This case study is designed to get participants talking about mobile phone security. It can be used to consolidate knowledge learned during the module. 
 
 Talking points to consider include:
-- Planning for and mitigating risk around phone security
-- Managing content on devices 
-- Preparing phones before attending government events 
-- Using a different phone to attend events where your device is likely to be confiscated 
+
+* Planning for and mitigating risk around phone security
+* Managing content on devices 
+* Preparing phones before attending government events 
+* Using a different phone to attend events where your device is likely to be confiscated 
 
 Trainers looking to learn more about the case can read this report by [Human Rights Watch](https://www.hrw.org/news/2022/12/05/iran-state-backed-hacking-activists-journalists-politicians) and on the US technology site [TechCrunch](https://techcrunch.com/2022/12/06/iran-hackers-espionage-campaign-journalists-activists/).
 
-------
+- - -
 
-## Reporters phone confiscated on Pentagon trip to Europe 
+## Reporters phone confiscated on Pentagon trip to Europe
 
 Read the following case study and discuss the questions below. 
 
@@ -78,7 +78,7 @@ After outcry from the media and press freedom organisations, the U.S Air Force r
 
 <div class="faq">
 
-### Questions 
+### Questions
 
 **Discuss the following questions**
 
@@ -103,14 +103,15 @@ What steps will you take in the future to ensure that your devices and the conte
 This case study is designed to get participants talking about mobile phone security. Iit can be used to consolidate knowledge learned during the module. 
 
 Talking points to consider include:
-- Planning for and mitigating risk around phone security
-- Managing content on devices 
-- Preparing phones before attending government events 
-- Using a different phone to attend events where your device is likely to be confiscated 
+
+* Planning for and mitigating risk around phone security
+* Managing content on devices 
+* Preparing phones before attending government events 
+* Using a different phone to attend events where your device is likely to be confiscated 
 
 Trainers looking to learn more about the case can read about it on the [U.S Press Freedom Tracker](https://pressfreedomtracker.us/all-incidents/reuters-reporters-phone-confiscated-on-pentagon-trip-to-europe/) and in the US news site [Politico](https://www.politico.com/news/2022/05/22/pentagon-foreign-reporter-phone-official-travel-00034299). 
 
-------
+- - -
 
 ## Activists put at risk after documentary film maker’s devices seized by Syrian security agents
 
@@ -128,14 +129,14 @@ He agreed to be interviewed on camera showing his face as long as McAlllister bl
 After McAllister was arrested, the Syrian activist community panicked. Kardokh immediately turned off his phone and fled, eventually arriving in Lebanon. Others who had spoken to McAllister also left the country and several of those who didn’t were arrested. “I was happy I didn’t put him in contact with more people,” Kardokh stated.
 
 Rami Jarah, a Syrian activist, now based in Cairo, told the Columbia Journalism Review how he tried to help get another well-known activist, Omar al-Baroudi,  leave the country. “He was terrified,” Jarah said. “His face was in those videos. He said that his number was on Sean’s phone.” The next day Baroudi disappeared and he has not been seen since. 
- 
+
 Officials for Channel 4 told the Columbia Journalism Review that since McAllister’s arrest they have taken steps to help his sources.
 
 **Source: Columbia Journalism Review, 2012**
 
 <div class="faq">
 
-### Questions 
+### Questions
 
 **Discuss the following questions**
 
@@ -156,16 +157,17 @@ After reading this case study, can you think of any areas where you need to incr
 This case study is designed to get participants talking about source security and materials. It can be used to consolidate knowledge learned during the module. 
 
 Talking points to consider include:
-- Preparing a risk assessment before travel
-- Understanding the digital security situation on the ground
-- The importance of preparing devices before travel
-- Steps for protecting the contact details of sources
-- Ways to protect materials, such as film footage, while on a reporting trip and the complications that can arise from that.
-- Working in areas with poor internet connectivity and electricity blackouts
+
+* Preparing a risk assessment before travel
+* Understanding the digital security situation on the ground
+* The importance of preparing devices before travel
+* Steps for protecting the contact details of sources
+* Ways to protect materials, such as film footage, while on a reporting trip and the complications that can arise from that.
+* Working in areas with poor internet connectivity and electricity blackouts
 
 Trainers looking to learn more about the case can read about it in the [Columbia Journalism Review](https://archives.cjr.org/feature/the_spy_who_came_in_from_the_c.php?page=all).
 
-------
+- - -
 
 ## How a third-party SMS service was used to take over Signal accounts
 
@@ -183,7 +185,7 @@ The attackers were able to gain access to his account because the journalist had
 
 <div class="faq">
 
-### Questions 
+### Questions
 
 **Discuss the following questions**
 
@@ -202,13 +204,14 @@ After reading this case study, can you think of any areas where you need to incr
 This case study is designed to get participants talking about source security and materials. It can be used to consolidate knowledge learned during the module. Readers will need to be made familiar with what two-factor authentication is before starting the activity. Trainers looking for more information on account security can look at chapter two of this guide.
 
 Talking points to consider include:
-- What two-factor authentication (2FA) is and how SMS is one form of 2FA.
-- The importance of staying up-to-date with the latest technology news. Encourage journalists to sign up to newsletters from the tech section of outlets in the region.
-- What steps can they take to increase their security when it comes to using messaging apps?
+
+* What two-factor authentication (2FA) is and how SMS is one form of 2FA.
+* The importance of staying up-to-date with the latest technology news. Encourage journalists to sign up to newsletters from the tech section of outlets in the region.
+* What steps can they take to increase their security when it comes to using messaging apps?
 
 Trainers looking to learn more about the case can read about it in the article published by [Vice Motherboard](https://www.vice.com/en/article/qjkvxv/how-a-third-party-sms-service-was-used-to-take-over-signal-accounts).
 
-------
+- - -
 
 ## Kyrgyz journalists on the online ‘fake farms’ that threaten to kill them
 
@@ -224,14 +227,14 @@ A joint investigation by the Kyrgyz independent news outlet, Kloop, Radio Free E
 
 In response to the attack, Kloop spent months investigating these fake accounts, tracing 800 of them, including a number that were harassing journalists, to five groups on the internet which they called “fake farms.”
 
-Dealing with these fake accounts is complicated. Kloop spends time monitoring their social media accounts looking for fake accounts and contacting people whose photos have been stolen and are being used as the face of a fake account. “If I saw a profile that used, for example, a photo of a Mongolian model, I would find that model and say, “Your photo was stolen by a fake [profile] employed by corrupt Kyrgyz officials. Could you log in from your account and complain?” This way we managed to block several accounts,” Kloop news editor Aidai Irgebayeva told CPJ.
+Dealing with these fake accounts is complicated. Kloop spends time monitoring their social media accounts looking for fake accounts and contacting people whose photos have been stolen and are being used as the face of a fake account. “If I saw a profile that used, for example, a photo of a Mongolian model, I would find that model and say, “Your photo was stolen by a fake \[profile] employed by corrupt Kyrgyz officials. Could you log in from your account and complain?” This way we managed to block several accounts,” Kloop news editor Aidai Irgebayeva told CPJ.
 The response of targeted journalists to online harassment is mixed: some have reduced their online activity whilst others have learned to evaluate the risks and are continuing to do their work. 
 
 **Source: the Committee to Protect Journalists, 2021** 
 
 <div class="faq">
 
-### Questions 
+### Questions
 
 **Discuss the following questions**
 
@@ -252,9 +255,10 @@ How feasible would it be for you to monitor your news outlet’s social media ac
 This case study is designed to get participants talking about online abuse. It can be used to consolidate knowledge learned during the module. 
 
 Talking points to consider include:
-- How are these attacks being used to stifle freedom of expression
-- What steps could journalists take to protect their personal data?
-- What steps could the media outlets take to limit the damage done by these accounts?
-- What other forms of attack could possibly happen? For example account hacking and phishing 
+
+* How are these attacks being used to stifle freedom of expression
+* What steps could journalists take to protect their personal data?
+* What steps could the media outlets take to limit the damage done by these accounts?
+* What other forms of attack could possibly happen? For example account hacking and phishing 
 
 Trainers looking to learn more about the case can read the article written by the Committee to Protect Journalists [here](https://cpj.org/2021/03/kyrgyz-journalists-online-fake-farms/).
