@@ -7,7 +7,7 @@ toc: true
 ---
 ## Iranian-backed hacking group, Charming Kitten, targets journalists via WhatsApp messages
 
-Read the following case study and discuss the questions below:
+Read the following case study and discuss the questions listed below:
 
 Hackers linked to the Iranian government targeted journalists and others working on issues related to the Middle East, with a sophisticated and ongoing social engineering campaign using WhatsApp messages. 
 
