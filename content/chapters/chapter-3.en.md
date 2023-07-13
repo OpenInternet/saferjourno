@@ -362,7 +362,7 @@ With each of these steps it can be helpful to get journalists thinking about why
 
 <div class="table">
 
-| Learning outcomes                                                                                                                     | Time       | Difficulty level | ResourcesBANANA                                                                                                                                      |
+| Learning outcomes                                                                                                                     | Time       | Difficulty level | Resources                                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Journalists learn about the relationship between mobile networks and mobile phones and how the data they collect can put them at risk | 90 minutes | Medium           | Whiteboard or flipchart, Board pens, PowerPoint slides prepared by the trainer, local examples of how mobile phones have been used to track citizens |
 
