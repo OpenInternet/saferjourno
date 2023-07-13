@@ -32,6 +32,10 @@
   --button: #{$blue-950};
   --toc-header: #{$gray-100};
   --toc-header-hover: #{$gray-200};
+  --dropdown: #{$gray-100};
+  --dropdown-item: #{$gray-300};
+  --dropdown-stroke: #{$gray-300};
+  --dropdown-background: #{$gray-50};
   --text-muted: #6c757d;
   --outcomes: #{$blue-100};
   --outcomes-stroke: #{$blue-400};
@@ -80,6 +84,10 @@
   --button: #{$blue-950};
   --toc-header: #{$gray-700};
   --toc-header-hover: #{$gray-800};
+  --dropdown: #{$gray-800};
+  --dropdown-item: #{$gray-700};
+  --dropdown-stroke: #{$gray-800};
+  --dropdown-background: #{$gray-800};
   --text-muted: #{$gray-400};
   --outcomes: #{$gray-900};
   --outcomes-stroke: #{$blue-400};
@@ -116,7 +124,7 @@ body {
   overflow-y: scroll;
   color: var(--text-color);
   background-color: var(--background-color);
-  transition: padding 0.5s ease-in-out, all 0.5s ease-in-out;
+  transition: padding 0.5s ease-in-out;
 }
 
 @supports (font-variation-settings: normal) {
@@ -320,7 +328,7 @@ h4 {
   z-index: 100;
   outline: var(--outline);
   overflow-x: hidden;
-  transition: 0.5s ease-in-out;
+  transition: width 0.5s ease-in-out;
 
   & .hidden-text,
   & .hidden {
@@ -513,9 +521,9 @@ h4 {
 
 // Dropdown ToC on mobile
 .dropdown-menu {
-  width: 100%;
-  background-color: var(--background-color);
-  border: 1px solid var(--button);
+  width: 100% !important;
+  background-color: var(--dropdown-background);
+  border: 1px solid var(--dropdown-stroke);
 
   & #TableOfContents {
     & ul {
@@ -526,12 +534,11 @@ h4 {
       margin-bottom: 0;
     }
     & li {
-      padding-block: 0.4rem;
-      padding-inline: 0.75rem;
+      padding: 0;
       position: relative;
 
       &:hover {
-        background-color: var(--toc-header);
+        background-color: var(--dropdown-item);
 
         & a:before {
           content: none;
@@ -539,10 +546,16 @@ h4 {
       }
 
       & a {
+        padding-block: 0.85rem;
+        padding-inline: 0.75rem;
         text-decoration: none;
         display: block;
       }
     }
+  }
+
+  &.show {
+    transform: translate3d(0px, 58px, 0px) !important;
   }
 }
 
@@ -555,12 +568,13 @@ h4 {
   border: none;
   border-radius: 0.5rem;
   padding: 0.75rem;
-  color: $white;
-  background-color: var(--button) !important;
+  color: var(--text-color);
+  background-color: var(--dropdown) !important;
+  border: 1px solid var(--dropdown-stroke);
 
   &:hover,
   &:active {
-    color: $gray-100;
+    color: var(--text-color);
   }
 
   &::after {
