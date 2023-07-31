@@ -20,69 +20,78 @@ It’s up to you to decide which digital security measures to implement while tr
 
 #### “Burner” Devices
 
-When traveling on assignment, your personal or work devices should not be traveling with you, they should remain at your work, home, or other secure location. Instead, you should bring what are known as “burner” devices: cheap, disposable devices to be used for the duration of the trip and the loss or compromise of which will not pose a significant risk to you, your newsroom, or your sources.
+When traveling on assignment, your personal or work devices should not be traveling with you, they should remain at your work, home, or other secure location. Instead, you should bring what are known as “burner” devices: cheap, disposable devices to be used for the duration of the trip and the loss or compromise of which will not pose a significant risk to you, your newsroom, or your sources. 
 
-Prior to your trip, obtain burner devices which you will need to use during the trip. Keep in mind that this extends to not just a phone and laptop, but to any other devices and related peripherals you may need such as a camera or voice recorder, if you’re planning to use separate equipment aside from your phone for doing audiovisual recordings.
+Prior to your trip, obtain burner devices which you will need to use during the trip. Keep in mind that this extends to not just a phone and laptop, but to any other devices and related peripherals you may need such as a camera or voice recorder, if you’re planning to use separate equipment aside from your phone for doing audiovisual recordings. Though if your additional devices use removable storage media, it may be sufficient to simply bring new, empty flash memory cards for these devices, instead of an entirely new device
 
-If you are reusing burner devices which have previously been used by you or someone else, make sure you “reformat” or “reset” the devices into a new state prior to use. You can readily find instructions for how to do so for various models of hardware. Reformatting or resetting the device helps ensure that there is no easily-recoverable past data on the device.
+If you are reusing burner devices which have previously been used by you or someone else, make sure you “reformat” or “reset” the devices prior to use. You can readily find instructions for how to do so for various models of hardware. Reformatting or resetting the device helps ensure that there is no easily-recoverable past data on the device. 
 
-When acquiring burner travel devices, if possible also acquire privacy screens for the devices, which minimize the visibility of your device screens to on-lookers. Keep the privacy screens on your devices at all times, including when in seemingly private spaces such as hotel rooms, which may be subject to surveillance.
+When acquiring burner travel devices, if possible also acquire privacy screens for the devices, which minimize the visibility of your device screens to on-lookers. Keep the privacy screens on your devices at all times, including when in seemingly private spaces such as hotel rooms, which may be subject to surveillance. 
+
+Though it may seem like overkill to go through the hassle of acquiring, setting up, and bringing burner devices on seemingly-routine trips to destinations you may consider as being relatively safe, keep in mind that any time you are traveling, you are potentially putting your sensitive sources at risk. Even seemingly innocuous trips may lead to your devices being confiscated and you being placed under arrest if you fail to provide the passwords for the devices. For instance, when an employee at a French publisher traveled from France to England, he was interrogated for six hours, and subsequently arrested for failing to provide the login credentials to his seized devices.
+
+Thus, every effort must be made to procure burner devices and leave your regular devices which may contain sensitive information at home. However, if you cannot immediately obtain burner devices, you should nonetheless at the least follow the rest of the suggestions in this guide (for instance, setting up burner accounts and logging out of your regular accounts).
 
 #### SIM Cards
 
-Much like you should leave your personal and work phones behind, you should also leave your SIM card behind. When acquiring your burner phone, make sure that the phone will be compatible with the SIM card you’re acquiring. You should look for either an ‘unlocked’ phone, or purchase the phone and SIM card from the same vendor to assure compatibility.
+Much like you should leave your personal and work phones behind, you should also leave your SIM card behind. When acquiring your burner phone, make sure that the phone will be compatible with the SIM card you’re acquiring. You should look for either an ‘unlocked’ phone, or purchase the phone and SIM card from the same vendor to assure compatibility. 
 
-You can purchase a SIM card either before embarking on your trip or after arriving at your destination. There are advantages and disadvantages to both workflows, depending on the particular circumstances of your trip. For instance, an advantage of acquiring your SIM card prior to your trip is that you can perform regular safety check-ins with your point of contact before and after going through security checkpoints. If you don’t plan on acquiring a SIM card until after arriving at your destination, you will not be able to perform these check-ins. On the other hand, an advantage of acquiring your SIM card after arriving at your destination is that you will be able to verify that your SIM card works in the region. However, a potential disadvantage of acquiring the SIM card in-region is that the region may have specific laws about having to provide identification and needing to register your SIM card with the local authorities. For these reasons, the general ideal workflow is to purchase a SIM card in advance of your trip, and to then plan to purchase an in-region SIM card if the previously purchased one is not working in-region.
+You can purchase a SIM card either before embarking on your trip or after arriving at your destination. There are advantages and disadvantages to both workflows, depending on the particular circumstances of your trip. For instance, an advantage of acquiring your SIM card prior to your trip is that you can perform regular safety check-ins with your point of contact before and after going through security checkpoints. If you don’t plan on acquiring a SIM card until after arriving at your destination, you will not be able to perform these check-ins. 
+
+On the other hand, an advantage of acquiring your SIM card after arriving at your destination is that you will be able to verify that your SIM card works in the region. However, a potential disadvantage of acquiring the SIM card in-region is that the region may have specific laws about having to provide identification and needing to register your SIM card with the local authorities. 
+
+For these reasons, the general ideal workflow is to purchase a SIM card in advance of your trip, and to then plan to purchase an in-region SIM card if the previously purchased one is not working in-region. 
+
 
 #### “Burner” Accounts
 
-Just like you shouldn’t travel with your usual personal or work devices as well as with your usual SIM card, you also shouldn’t travel with your usual accounts. In other words, make sure your travel laptop and phone aren’t logged into your usual personal or work email, cloud storage, or any other account. Much like you need to acquire burner hardware devices, create burner accounts for services you will need to use on your devices while traveling. For instance, you will likely need to login to your phone’s app store to be able to download various apps. For this purpose, you should not log in with your standard accounts, but create accounts to use while you are traveling and log into those.
+Just like you shouldn’t travel with your usual personal or work devices as well as with your usual SIM card, you also shouldn’t travel with your usual accounts. In other words, make sure your travel laptop and phone aren’t logged into your usual personal or work email, cloud storage, or any other account. Much like you need to acquire burner hardware devices, create burner accounts for services you will need to use on your devices while traveling. For instance, you will likely need to login to your phone’s app store to be able to download various apps. For this purpose, you should not log in with your standard accounts, but create accounts to use while you are traveling and log into those. 
 
-If you do need to check your work or personal accounts while on your trip, do so only once you have arrived at your staying location (such as your hotel) at your destination, not while en-route. Do not check your usual accounts while at or approaching your port of entry such as at the airport or train station.
+If you do need to check your work or personal accounts while on your trip, do so only once you have arrived at your staying location (such as your hotel) at your destination, not while en-route. Do not check your usual accounts while at or approaching your port of entry such as at the airport or train station. Additionally, it may be best to use a trusted VPN when accessing sensitive accounts, whilst keeping in mind that VPN traffic may also draw unwanted attention to yourself.
 
 ### Apps
 
-Prior to your trip, you need to conduct research into which apps may not work at your destination. Some apps may be blocked via technical means in your destination (for example, if the country you are visiting interferes with the app being able to access the internet), while others may be blocked via legal means (for instance, if the app is banned in the country you are traveling to). Perform a web search prior to your trip to attempt to find any news or community discussions of the usability of apps you need to use at your destination, as well as ask any sources or region experts.
+Prior to your trip, you need to conduct research into which apps may not work at your destination. Some apps may be blocked via technical means (for example, if the country you are visiting interferes with the app being able to access the internet), while others may be blocked via legal means (for instance, if the app is outlawed in the country you are traveling to). Perform a web search prior to your trip to attempt to find any news or community discussions of the usability of apps you need to use at your destination, as well as ask any sources or region experts.
 
-Make sure that you are using a trusted VPN app (which has gone through third-party security audits) during your trip, and that the app you are planning on using is not blocked in-region.
+Make sure that you are using a trusted VPN app (which has gone through third-party security audits) during your trip, and that the app you are planning on using is not blocked in-region. 
 
-Have back-up apps pre-selected (especially for your chat and VPN apps) to switch to in case you find that your primary apps are not working in-region.
+Additionally, be sure to have back-up apps pre-selected (especially for your chat and VPN apps) to switch to in case you find that your primary apps are not working in-region. 
 
-Do not have any potentially sensitive apps installed on your burner devices while going through security checkpoints or ports of entry; if these apps are essential to use during your trip, only install them once you have arrived at your destination and are past security checkpoints and have left your port of entry.
+Do not have any potentially sensitive apps installed on your burner devices while going through security checkpoints or ports of entry; if these apps are essential to use during your trip, only install them once you have arrived at your destination, are past security checkpoints and have left your port of entry. 
 
 ### Contacts
 
-The contacts you store on your travel devices should be minimal, including only the contacts essential for your trip (don’t copy your entire address book or contacts database to your travel devices).
+The contacts you store on your travel devices should be minimal, including only the contacts essential for your trip (don’t copy your entire address book or contacts database to your travel devices). 
 
-Your contacts should include a check-in contact at your newsroom with whom you will need to perform check-ins at regular intervals to relay that you are OK. Check-ins should be done both prior to arriving at any security checkpoint to let your contact know that you are approaching a checkpoint, and after you have passed through the security checkpoint to let your contact know that you have done so successfully.
+Your contacts should include a check-in contact at your newsroom (unless you have memorized their phone number) with whom you will need to perform check-ins at regular intervals to relay that you are OK. Check-ins should be done both prior to arriving at any security checkpoint to let your contact know that you are approaching a checkpoint, and after you have passed through the security checkpoint to let your contact know that you have done so successfully. 
 
-If you don’t perform a check-in after a set time (for instance, within four hours of letting your contact know you are approaching a checkpoint), your contact should initiate an agreed upon protocol which should typically include contacting your home country’s embassy (if your country has a presence at your destination) as well as contacting an attorney.
+If you don’t perform a check-in after a set time (for instance, within four hours of letting your contact know you are approaching a checkpoint), your contact should initiate an agreed upon protocol which should typically include contacting your home country’s embassy (if your country has a presence at your destination) as well as contacting an attorney. 
 
-If you need to store the contact information for sensitive sources, this contact information should not be on your devices during your travel, and should only be opened when you have reached your temporary residence (for instance, your hotel) at your destination. Once at your temporary residence, if you need to store the contact details of sensitive sources locally on your device, be sure to use non-revealing pseudonyms, not the real names of the sensitive sources.
+If you need to store the contact information for sensitive sources, this contact information should not be on your devices during your travel, and should only be opened when you have reached your temporary residence (for instance, your hotel) at your destination. Once at your temporary residence, if you need to store the contact details of sensitive sources locally on your device, be sure to use non-revealing pseudonyms, not the real names of the sensitive sources. 
 
 When communicating with sensitive sources, use an encrypted messaging app with disappearing messages enabled.
 
 ### Storing Information
 
-Any sensitive information, especially that which could compromise sensitive sources, should not be stored on your travel devices, especially not while you are actively traveling through checkpoints and points of entry. Instead, sensitive information should be encrypted and then stored in a cloud account, and accessed once you have successfully passed through a checkpoint and have left your port of entry. The sensitive information may be encrypted using cloud encryption tools such as Cryptomator, which encrypt data prior to uploading it to a cloud storage account such as Google Drive.
+Any sensitive information, especially that which could compromise sensitive sources, should not be stored on your travel devices, especially not while you are actively traveling through checkpoints and points of entry. Instead, sensitive information should be encrypted and then stored in a cloud account, and accessed once you have successfully passed through a checkpoint and have left your port of entry. The sensitive information may be encrypted using cloud encryption tools such as [Cryptomator](https://cryptomator.org/), which encrypt data prior to uploading it to a cloud storage account. 
 
-Passwords to your regular accounts which you will need to access during your trip should be stored in a ‘travel mode’ in your password manager. If your password manager doesn’t offer a travel mode, essential regular accounts should be moved to a separate password manager account. The purpose of keeping needed regular account passwords separate from all of your regular account passwords is that in the event of compromise, you will minimize the amount of passwords exposed. Passwords to your travel accounts should be stored in a separate password manager account altogether, with this being the main account you should use during travel.
+Passwords to your regular accounts which you will need to access during your trip should be stored in a ‘travel mode’ in your password manager. If your password manager doesn’t offer a travel mode, essential regular accounts should be moved to a separate password manager account. The purpose of keeping needed regular account passwords separate from all of your regular account passwords is that in the event of compromise, you will minimize the amount of passwords exposed. Passwords to your travel accounts should be stored in a separate password manager account altogether, with this being the main account you should use during travel. 
 
-If storing your devices unattended (for instance, if you are leaving them in your hotel room), place the devices into tamper bags. If upon returning to your devices you find evidence that the tamper bags have been tampered with, assume that the devices are compromised and proceed to obtain new devices. Store the potentially compromised old devices in your suitcase, in case the devices have been implanted with surveillance capabilities.
+If storing your devices unattended (for instance, if you are leaving them in your hotel room), place the devices into tamper bags, which are one-time-use bags you can generally order online which show immediately apparent signs of tampering if they have been opened. If upon returning to your devices you find evidence that the tamper bags have been tampered with, assume that the devices are compromised and proceed to obtain new devices. Store the potentially compromised old devices in your suitcase, in case the devices have been implanted with surveillance capabilities. 
 
 ### Border Control Protocol
 
-When crossing a border and interacting with a checkpoint, you may experience a number of search and interrogation techniques, depending on both your destination region and your departure point.
+When crossing a border or otherwise interacting with a security checkpoint, you may experience a number of search and interrogation techniques, depending on both your destination region and your departure point. 
 
-Your devices may be taken from you. If you cannot maintain a line of sight with your devices, you should operate under the assumption that when and if your devices are handed back to you that they have been compromised. Once you have left your port of entry, obtain new in-region devices as soon as possible.
+Your devices may be taken from you at a checkpoint. If you cannot maintain a line of sight with your devices, you should operate under the assumption that when and if your devices are handed back to you that they have been compromised. Once you have left your port of entry, obtain new in-region devices as soon as possible. 
 
 Authorities may ask or compel you to unlock your devices. Noncompliance with this request may result in your devices being seized, as well as you also being taken into custody, depending on the region you are traveling to. For these reasons, seeing as how you should be traveling with burner devices with no sensitive information present on them, it may be in your best interests to readily comply with a request to unlock your travel devices.
 
 ### Heading Back
 
-Keep in mind that all of the precautions outlined here apply not just to your inbound trip, but to your trip back to your origin point, as well. For instance, prior to heading back to the airport to fly back home, make sure that you once again have no sensitive information on your travel devices. If you have accessed sensitive information while on your trip, reformat or reset your travel devices prior to leaving for the port of exit (for instance, the airport or train station) to make sure no record of the sensitive information remains on your devices.
+Keep in mind that all of the precautions outlined here apply not just to your inbound trip, but to your trip back to your origin point, as well. For instance, prior to heading back to the airport to fly back home, make sure that you once again have no sensitive information on your travel devices. If you have accessed sensitive information while on your trip, reformat or reset your travel devices prior to leaving for the port of exit (for instance, the airport or train station) to make sure no record of the sensitive information remains on your devices. 
 
-If you have conducted sensitive audiovisual work such as source interviews and recorded videos or taken photos, upload these materials using your encrypted cloud storage app on a nightly basis, and make sure they are deleted from your local device.
+If you have conducted sensitive audiovisual work such as source interviews and recorded audio or video or taken photos, upload these materials using your encrypted cloud storage app on at least a daily basis, and make sure they are deleted from your local device. 
 
 ### Checklist
 
@@ -94,8 +103,8 @@ Here is a summative checklist of baseline digital security controls to undertake
   - [ ] Phone
     - [ ] SIM Card
     - [ ] Privacy screen
-  - [ ] Camera
-  - [ ] Voice recorder
+  - [ ] Camera (or new memory card)
+  - [ ] Voice recorder (or new memory card)
 - [ ] Setup burner accounts for any services (such as for the app store) which may need to be accessed while traveling.
 - [ ] Check if essential apps are operable in-region, and have back-up app options preselected.
 - [ ] Make sure sensitive contacts are not stored on travel devices during travel.
