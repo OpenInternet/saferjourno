@@ -311,6 +311,6 @@ This section should help journalists better understand the risks that they face 
 
 This case study accompanies the course material and provides journalists with real-life examples of digital threats against media workers. The case studies can be used to promote discussion around different types of risks as well as serve as a way to teach journalists steps to better protect themselves and others.
 
-[Our writeup: case study on safer communications](/case-studies#how-a-third-party-sms-service-was-used-to-take-over-signal-accounts)
+Our writeup: [Case study on safer communications](/case-studies#how-a-third-party-sms-service-was-used-to-take-over-signal-accounts)
 
 VICE's writeup: [How a third-party SMS service was used to take over Signal accounts](https://www.vice.com/en/article/qjkvxv/how-a-third-party-sms-service-was-used-to-take-over-signal-accounts)
