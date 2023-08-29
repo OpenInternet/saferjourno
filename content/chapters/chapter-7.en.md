@@ -307,4 +307,6 @@ This section should help journalists better understand the risks that they face 
 
 This case study accompanies the course material and provides journalists with real-life examples of digital threats against media workers. The case studies can be used to promote discussion around different types of risks as well as serve as a way to teach journalists steps to better protect themselves and others.
 
-[Kyrgyz on the online ‘fake farms’ that threaten to kill them](https://cpj.org/2021/03/kyrgyz-journalists-online-fake-farms/) (CPJ)
+Our writeup: [Case study on online abuse and protecting your data](/case-studies#kyrgyz-journalists-on-the-online-fake-farms-that-threaten-to-kill-them)
+
+CPJ's writeup: [Kyrgyz on the online ‘fake farms’ that threaten to kill them](https://cpj.org/2021/03/kyrgyz-journalists-online-fake-farms/) (CPJ)
