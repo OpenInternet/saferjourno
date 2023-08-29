@@ -282,5 +282,6 @@ This section should help journalists better understand the risks that they face 
 
 These case studies accompany the course material and provide journalists with real-life examples of digital threats against media workers. The case studies can be used to promote discussion around different types of risks as well as serve as a way to teach journalists steps to better protect themselves and others.
 
+Our writeup: [Case study on protecting materials](/case-studies#activists-put-at-risk-after-documentary-film-makers-devices-seized-by-syrian-security-agents)
 
-[Activists put at risk after documentary filmmaker’s devices seized by Syrian security agents](https://archives.cjr.org/feature/the_spy_who_came_in_from_the_c.php?page=all) (CJR)
+CJR's writeup: [Activists put at risk after documentary filmmaker’s devices seized by Syrian security agents](https://archives.cjr.org/feature/the_spy_who_came_in_from_the_c.php?page=all)
