@@ -309,4 +309,4 @@ This case study accompanies the course material and provides journalists with re
 
 Our writeup: [Case study on online abuse and protecting your data](/case-studies#kyrgyz-journalists-on-the-online-fake-farms-that-threaten-to-kill-them)
 
-CPJ's writeup: [Kyrgyz on the online ‘fake farms’ that threaten to kill them](https://cpj.org/2021/03/kyrgyz-journalists-online-fake-farms/) (CPJ)
+CPJ's writeup: [Kyrgyz on the online ‘fake farms’ that threaten to kill them](https://cpj.org/2021/03/kyrgyz-journalists-online-fake-farms/)
