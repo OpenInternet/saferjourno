@@ -521,3 +521,5 @@ With each of these steps it can be helpful to get journalists thinking about why
 ## Case study
 
 This case study accompanies the course material and provides journalists with real-life examples of digital threats against media workers. The case studies can be used to promote discussion around different types of risks as well as serve as a way to teach journalists steps to better protect themselves and others.
+
+[Reporter’s phone confiscated on Pentagon trip to Europe](/case-studies#reporters-phone-confiscated-on-pentagon-trip-to-europe)
