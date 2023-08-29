@@ -330,4 +330,3 @@ This section should help journalists better understand the risks that they face 
   - What information have you learned in today’s session that has helped you make more informed decisions around carrying out safer online research?
   - What else do you think you need to learn in order to be safer online?
 
-## Case study
