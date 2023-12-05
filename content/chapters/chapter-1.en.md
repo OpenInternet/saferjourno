@@ -8,7 +8,7 @@ toc = true
 
 ## Introduction
 
-Journalists face a wide-range of digital threats because of the work that they do. These threats range from online abuse to hacking to spyware and they have serious consequences both for the journalists themselves as well as for freedom of expression. Even though these challenges are significant, there are steps that journalists can take to protect themselves. The first of those steps is understanding digital risk and how to mitigate it.
+Journalists face a wide range of digital threats because of the work that they do. These threats range from online abuse to hacking to spyware and they have serious consequences both for the journalists themselves as well as for freedom of expression. Even though these challenges are significant, there are steps that journalists can take to protect themselves. The first of those steps is understanding digital risk and how to mitigate it.
 
 This chapter will cover:
 
@@ -19,7 +19,7 @@ This chapter will cover:
 
 Take a look at our helpful guidance below:
 
-- Journalists face a wide-array of digital threats because they are often revealing information that others do not want made public and also because journalists are usually public facing and need to have a presence online. This makes them, unfortunately, an easy target for digital attacks.
+- Journalists face a wide array of digital threats because they are often revealing information that others do not want made public and also because journalists are usually public facing and need to have a presence online. This makes them, unfortunately, an easy target for digital attacks.
 - Not all journalists face the same digital risks. What risks they face depend on a series of factors including, what topics they are reporting on, who may wish to target them and the tech capacity of those people, which country they are based in and the tech capacity of that government, how tech-savvy the journalist is, and whether they have already been identified as a person to target.
 - While journalists know that digital security is an important issue they may not have time to dedicate to increasing their security.
 - Journalists may be using outdated digital safety advice giving them a false sense of security about their safety.
@@ -32,8 +32,7 @@ This section covers best practice that can be used when teaching the activities 
 
 - Journalists face a wide-range of digital risks. This is because of the nature of their work and because they are often publishing information that others do not want made public.
 - Adversaries will target a journalist in a number of ways and for a number of reasons. Some common threats include;
-  - Account hacking
-  - In order to obtain information contained in accounts or to take over the account in order to post information that could discredit the journalist.
+  - Taking over accounts to obtain information saved therein or in order to post information that could discredit the journalist.
   - Seizing devices or infecting them with spyware
   - To obtain information contained on those devices, including documents, access to accounts, intercept communications
   - Monitoring their internet activity
@@ -41,8 +40,8 @@ This section covers best practice that can be used when teaching the activities 
   - Intercepting communications
   - To gain data on who they are speaking to and when
   - Online abuse
-  - To discredit the journalist and try to undermine their reputation, to get them to stop publishing content, and to force them offline.
-- Getting the journalist to understand who may wish to target them and the tech capacity of that adversary is an important part of keeping them safer. For example governments have access to high-levels of tech ability as well as financing to hire others to commit digital threats on their behalf. Research the tech ability of an adversary by carrying out an online search with the name of the attacker plus keywords, such as hacking, spyware, online attacks.
+  - To discredit the journalist and try to undermine their reputation, to get them to stop publishing content, or to force them offline.
+- Getting the journalist to understand who may wish to target them and the tech capacity of that adversary is an important part of keeping them safer. For example governments have access to high-levels of tech ability as well as financing to hire others to commit digital threats on their behalf. Non-government adversary can also have plenty of time, determination, or advanced tooling. Research the tech and operational ability of an adversary by carrying out an online search with the name of the attacker plus keywords, such as hacking, spyware, online attacks.
 - Recommend that journalists stay up-to-date with digital security issues by signing up to tech newsletters produced by media outlets in their region.
 - A digital risk assessment is a document with questions that helps journalists think about the digital risks they face as well as ways to reduce the risks. At the end of each section of this course, journalists have the option of completing a section of a risk assessment.
 
@@ -51,7 +50,7 @@ This section covers best practice that can be used when teaching the activities 
 When speaking about the risk assessment and personal security plan it may be helpful to touch upon the following:
 
 - Get the journalists to focus on the types of digital risks they may face based on where they live and the type of stories that they cover. Encourage them to think of, research online for, or speak to other journalists in their region or covering the same beat and find out the risks they face. Have any journalists reported hacking attempts on their accounts? Have they faced legal requests for their data? Is online abuse prevalent and who is behind it? Having answers to these questions will help journalists to better gauge their own risk.
-- Ask them to think about any previous digital threats they may have faced? For example, have they noticed that someone has tried to hack their accounts? Are they receiving malicious calls or messages?
+- Ask them to think about any previous digital threats they may have faced. For example, have they noticed that someone has tried to hack their accounts? Are they receiving malicious calls or messages?
 - Get them to think about particular stories or beats that could be riskier than others. For example, are they covering a story where sources may cause them harm or are doing something illegal? Are they receiving sensitive materials? Do they have to contact people to talk about an issue that could be considered sensitive?
 - Ask them to think about how visible they are online. Do they share a lot of data about themselves? Are they public-facing, for example do they host a show or write opinion pieces? How at risk are they from doing this work?
 
@@ -63,7 +62,7 @@ Below are some common questions that journalists ask about account security. It 
 
 **What is a digital security risk assessment?**
 
-Explain that it is a document with questions that help the journalist think through risks that they could face as well as steps to take to reduce that risk. Tell them that ideally the risk assessment should be completed with support from an editor and the final copy shared with the editor and/or the team the journalist is working with. Point out that it is important to do a risk assessment for all stories that could include digital risk. This could include stories that involve contacting sensitive sources, receiving sensitive information or may involve digital risks, such as device seizure or hacking of accounts amongst others.
+Explain that it is a document with questions that help the journalist think through risks that they could face as well as steps to take to reduce that risk. Tell them that ideally the risk assessment would be completed with support from an editor and the final copy shared with the editor and/or the team the journalist is working with. Point out that it is important to do a risk assessment for all stories that could include digital risk. This could include stories that involve contacting sensitive sources, receiving sensitive information or may involve digital risks, such as device seizure or hacking of accounts amongst others.
 
 **Why do I have to complete a risk assessment?**
 
