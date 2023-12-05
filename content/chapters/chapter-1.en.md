@@ -108,6 +108,8 @@ The following resources may be helpful for teaching this chapter:
 
 [Safety and risk assessment](https://rorypecktrust.org/how-we-help/freelance-resources/safety-and-risk-assessment/) by the Rory Peck Trust
 
+[Online Harassment Field Manual](https://onlineharassmentfieldmanual.pen.org/) by PEN America
+
 </div>
 
 ## Activities
@@ -136,7 +138,7 @@ The activities below are designed to accompany this training session on account 
 
 ❷ **Step two**
 
-- Tell the journalists they are going to spend some time mapping on a piece of paper the different ways that they interact with technology. This can include; makes and models of devices (if known), who has access to their devices, what kind of online accounts they have, for example, messaging apps or food delivery apps, and where these apps are located, what devices they connect to in their home, for example their TV.
+- Tell the journalists they are going to spend some time mapping on a piece of paper the different ways that they interact with technology. This can include; makes and models of devices (if known), who has access to their devices, what kind of online accounts they have, for example, messaging apps or food delivery apps, and where these apps are located, whether they use any apps or services which share details such as their location, what devices they connect to in their home, for example their TV.
 
 ❸ **Step three**
 
