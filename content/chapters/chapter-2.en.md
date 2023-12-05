@@ -61,7 +61,7 @@ _Passwords_
 - A good password is a long password, more than 15 characters. This is because the longer it is the more difficult it is for a computer algorithm to crack.
 - There are two types of passwords; passwords made up of a mixture of numbers, symbols and letters, and passwords that are made up of a random collection of words. These are called passphrases. Both types of passwords are fine to use. People often find it easier to remember passphrases so this may be a better option if the journalist is not able to use a password manager.
 - Do not use personal data, such as a date of birth or pet’s name, when creating a password. This information can easily be obtained online and used to guess your password.
-- Do not reuse passwords, use a different password for each online account. This is because companies are often hacked and people’s personal data, such as email addresses and passwords, are stolen. These are then sold online to others, such as criminals and governments. If a password is breached and you have used that password on more than one account then the other accounts are vulnerable.
+- Do not reuse passwords, use a different password for each online account. This is because companies are often hacked and people’s personal data, such as email addresses and passwords, are stolen. These are then sold online to others, such as criminals and governments. If a password is breached and you have used that password on more than one account then the other accounts are vulnerable. The password for your email service is particularly crucial; if an attacker breaches this account, they can not only read your messages and send messages on your behalf but also reset passwords for all your other accounts.
 
 _Password managers_
 
@@ -149,6 +149,12 @@ The following resources may be helpful for teaching this chapter:
 [Phishing prevention and email hygiene](https://freedom.press/training/email-security-tips/) by the Freedom of the Press Foundation
 
 [Using physical security keys to secure accounts against phishing](https://cpj.org/2019/01/digital-safety-using-security-keys-to-secure-accou/) by the Committee to Protect Journalists
+
+[Use a security key](https://securityplanner.consumerreports.org/tool/use-a-security-key-for-strongest-mfa) by Consumer Reports Security Planner
+
+[Set Up Multifactor Authentication](https://securityplanner.consumerreports.org/tool/set-up-multifactor-authentication-mfa) by Consumer Reports Security Planner
+
+[Get a Password Manager](https://securityplanner.consumerreports.org/tool/get-a-password-manager) by Consumer Reports Security Planner
 
 </div>
 
