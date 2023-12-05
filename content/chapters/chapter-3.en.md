@@ -81,10 +81,10 @@ You can protect against malware by doing the following:
 
 *Computers*
 
-* It is recommended to encrypt computers in order to protect the information contained on them. If a computer is encrypted then nobody can access the information on it without the password needed to decrypt the content. Be aware that law enforcement may request that the devices be decrypted
+* It is recommended to secure computers in order to protect the information contained on them, both by setting a good account/ login password and by encrypting the internal drive. If a computer's drive is encrypted then nobody can access the information on it without the password needed to decrypt the content. Be aware that law enforcement may, in some jurisdictions, request that the devices be decrypted, for example by forcing a user to disclose the password.
 * When setting up a computer to encrypt it will require the user to create a password. It is better to think of this password in advance and to ensure that it follows the best practice for creating secure passwords. Information on this is available in chapter two.
 * Backup all data on devices first before encrypting them.
-* There are two different ways to encrypt a computer depending on whether it is a Windows PC or a Mac. Turning on encryption for Windows PC involves activating their encryption program called Bitlocker. You can read about how to do this [here](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838#:~:text=Or%2C%20select%20Start%20%3E%20Settings%20%3E,and%20then%20follow%20the%20instructions.). Mac users can turn on FireVault, the equivalent encryption program for Macs. Read more about encrypting Mac computers [here](https://support.apple.com/en-gb/guide/mac-help/mh11785/mac).
+* There are different ways to encrypt a computer depending on whether it is a Windows PC or a Mac. Turning on encryption for Windows Pro involves activating their encryption program called Bitlocker. You can read about how to do this [here](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838#:~:text=Or%2C%20select%20Start%20%3E%20Settings%20%3E,and%20then%20follow%20the%20instructions.). Users of Windows Home editions can use a feature called [Device Encryption](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838), though it is only supported on some devices as it requires a specific hardware configuration. Mac users can turn on FileVault, the equivalent encryption program for Macs. Read more about encrypting Mac computers [here](https://support.apple.com/en-gb/guide/mac-help/mh11785/mac).
 * Turn on the antivirus program that comes as standard with your computer’s operating system. These programs will scan your computer for viruses and alert you if a virus has been located.
 
 *Mobile phones*
@@ -103,11 +103,11 @@ You can protect against malware by doing the following:
   * GPS\
      Stands for Global Positioning System. This is a receiver in the phone that connects with satellites. IT can be turned off in the settings section of the phone.
   * SIM and SIM slot\
-     Where the SIM card is stored. Some phones have the option for a dual SIM card. Phones give the option of storing data on the SIM, on the device, or in apps and services on the phone.
-* All mobile phone devices have a unique identity number called the Mobile Equipment Identity number, otherwise known as an IMEI. This number is used by telecommunications companies to identify a device and provide it a service on its network. The IMEI number can also be tracked using software. This can be used by people to locate lost or stolen devices. It can also be used by governments to locate people. This could be a risk for journalists if they are meeting with sensitive sources or are travelling to locations that they would rather others did not know about.
+     Where the SIM card is stored. Some phones have the option for a dual SIM card. Some phones now use an eSIM instead, which consists of a dedicated on-device computer which stores subscriber data.
+* All mobile phone devices have a unique identity number called the Mobile Equipment Identity number, otherwise known as an IMEI (International Mobile Equipment Identity). This number is used by telecommunications companies to identify a device and provide it a service on its network. The IMEI number can also be tracked using software. This can be used by people to locate lost or stolen devices. It can also be used by governments to locate people. This could be a risk for journalists if they are meeting with sensitive sources or are travelling to locations that they would rather others did not know about.
 * All SIM cards also have a unique identity number known as the IMSI number. When the mobile phone card connects to the network it shares this number with the provider. The IMSI contains information about the SIM card, including the country in which it was issued. This information is available to mobile phone providers and makes it possible for them to know your location. This information can be shared with governments. For those living in countries where their ID number is tied to their SIM card this means the government knows which SIM card they are using. This is known as a registered SIM. Unregistered SIM cards are SIM cards that are not tied to your identity.
 * A mobile phone gives away data about a journalist’s location and who they are communicating with. This data is collected by the telecommunications company and can be passed to governments. Telecommunications companies collect other data, including phone call history, the phone numbers of people you contact when making mobile phone calls and SMS messages.If they provide you with internet coverage they may also be obtaining data on your browsing history. This data can be accessed by people at the company and can also be obtained by governments.
-* All iPhones are encrypted as standard whereas only some Android devices are. To activate encryption for an Android phone, ensure that the device is charged and plugged in, backup any content on the device first, and then follow the instructions in the settings section of the phone.
+* All iPhones are encrypted by default, as are all Android devices running Android 10 or later. To activate encryption for an Android phone, ensure that the device is charged and plugged in, backup any content on the device first, and then follow the instructions in the settings section of the phone.
 * As well as the best practice outlined above, in the section on general best practice, it is advised to take the following steps to secure your phone, data and phone number
 
   * Turn on encryption for your phone
@@ -115,7 +115,7 @@ You can protect against malware by doing the following:
   * Clear your browsing history
   * Put a PIN lock on your SIM card. You can follow the instructions in the settings section of your phone to do this. By putting a lock on your SIM card you prevent others from gaining control of your number. This is known as [SIM jacking](https://www.wired.com/story/sim-swap-attack-defend-phone/).
   * As well as putting a PIN lock on your SIM card, you should also put steps in place, a PIN or password, to protect the account you have with your mobile phone provider. To do this, call your provider and request that a security notification be put on your account and that nobody should have access to it without providing the PIN or password.
-  * Turning off location tracking for apps and services
+  * Turning off location tracking for apps and services when such tracking is not absolutely necessary for the app to function. For more information, see the Internews [device location security guide](https://internews.org/resource/device-location-security/), and Consumer Reports' Security Planner pieces on reviewing [Android](https://securityplanner.consumerreports.org/tool/review-android-app-permissions) and [iOS](https://securityplanner.consumerreports.org/tool/review-iphone-app-permissions) permissions.
   * Setting up devices to remote wipe. Read about how to do this for Apple [here](https://support.apple.com/en-gb/guide/icloud/mmfc0ef36f/icloud) and for Google [here](https://support.google.com/accounts/answer/6160491?hl=en).
 
 *Spyware*
@@ -127,7 +127,7 @@ You can protect against malware by doing the following:
 * Apple devices are able to activate protection against spyware. This is called [Lockdown Mode](https://support.apple.com/en-gb/HT212650) and is available on iOS 16 for phones, computers and iPads. Journalists who are at high risk of being infected by spyware should turn this on for their devices. They should ensure that their family and others close to them also activate Lockdown Mode where possible.
 * Other possibilities for protecting against spyware include:
 
-  * Backup data regularly
+  * Back up data regularly
   * Carrying out a factory reset of the phone and reinstalling all services. This may erase the spyware from the device.
   * Consider buying a number of cheap Android phones and using a different one each day, week or month defending on your level of risk. Ensure a factory reset is carried out before starting to use one.
   * Update the operating system, apps, and browsers regularly.
@@ -137,7 +137,8 @@ You can protect against malware by doing the following:
 When speaking about the risk assessment and personal security plan it may be helpful to touch upon the following:
 
 * When getting journalists to think about device security, the trainer should help them to focus on what content is already on their devices and work with them to think of how they can create a process for backing up and removing information.
-* Encourage the journalists to map out who may be interested in obtaining their devices and/or the content on their devices. This can include others who may already have physical access to the device, For example family members. Good questions to think about include, Who could unintentionally remove or delete content from my device and how can I protect against that? How likely is my device to be stolen or broken when I am out covering an event? Does my government have a history of using spyware and have they used it against journalists in my country? How likely is the government to detain me and take my devices?
+* Encourage the journalists to map out who may be interested in obtaining their devices and/or the content on their devices. This can include others who may already have physical access to the device, for example family members. Good questions to think about include, Who could unintentionally remove or delete content from my device and how can I protect against that? How likely is my device to be stolen or broken when I am out covering an event? Does my government have a history of using spyware and have they used it against journalists in my country? How likely is the government to detain me and take my devices?
+ * To mitigate those risks, some journalists will prefer to live stream during events. This, however, could endanger sensitive sources who nonetheless appear in the stream. There is a similar trade-off with uploading a copy of the information to the cloud: while it means that the information remains safe even if devices are destroyed or confiscated, it also opens it up to more data requests by law enforcement and others.
 * Understandably journalists are increasingly worried about being infected by spyware. It can be helpful to get them to think about their own risk profile and whether it fits with being targeted by spyware. For example, are they from a country where the government uses spyware? Talk about the different types of spyware and highlight that more sophisticated spyware is expensive which means it is not being deployed on a massive scale.
 
 <div class="faq">
@@ -337,21 +338,21 @@ With each of these steps it can be helpful to get journalists thinking about why
 
 </div>
 
-*Trainer note: this exercise is designed for advanced level trainers. Set up the tech in advance of the workshop. You will need a test computer for this activity. Show either FireVault for Mac or BitLocker for Widows PC depending on which computers the participants are most likely to be using.*
+*Trainer note: this exercise is designed for advanced level trainers. Set up the tech in advance of the workshop. You will need a test computer for this activity. Show either FileVault for Mac or BitLocker/Disk Encryption for Windows PC depending on which computers the participants are most likely to be using.*
 
 *Best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter.*
 
 ❶ **Step one**
 
-* Ask the journalists why they think it is important to encrypt their computer. Find out whether anyone in the room has experience of encrypting their devices and/or what people know about the process of encryption.
-* Explain that there are different ways to encrypt a computer based on whether the user is using Windows, BitLocker, or Mac, FireVault.
+* Ask the journalists why they think it is important to encrypt their drive. Find out whether anyone in the room has experience of encrypting their devices and/or what people know about the process of encryption.
+* Explain that there are different ways to encrypt a drive based on whether the user is using Windows (BitLocker works on Pro Editions of Windows, Windows Disk Encryption works on Home editions) or macOS (FileVault is the ideal solution, then).
 
 ❷ **Step two**
 
 * Tell the journalists that you are going to give them a practical demonstration of encrypting a computer.
-* Explain that it is good practice to backup the data on devices first before encrypting them.
+* Explain that it is good practice to backup the data on devices first before encrypting them. Make sure that the backups are also encrypted, and secured by a strong password. You can encrypt backups using Bitlocker on Windows Pro, VeraCrypt on Windows Home, and by using encrypted Time Machine backups on macOS.
 * Explain that once the computer is encrypted it will need a password in order to gain access to the content on the device. This password is what the journalists use to log into the device so they should ensure that the password follows best practice for password creation as detailed in chapter two.
-* Walk through the importance of creating and storing safely a backup key. Explain that if someone tries to gain access to the device and is unable to enter, the service will lock down the computer and will ask for the backup key in order to unlock it.
+* Walk through the importance of creating and safely storing a backup key. Explain that if someone tries to gain access to the device and is unable to enter, the service will lock down the computer and will ask for the backup key in order to unlock it.
 * Walk the journalist through the step by step process for encrypting the device.
 
 ❸ **Step three**
