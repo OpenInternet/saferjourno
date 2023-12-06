@@ -38,7 +38,7 @@ _General best practice_
 - Each device connected to the internet is given a unique number known as the Internet Protocol Address (IP). This number is allocated by your internet service provider, the company that provides you with your internet. The IP address contains information about the device connected, including its location.
 - Website owners are able to see what IP addresses are visiting their website. This could be a problem for journalists who might not want the website owner to know that they have been looking at information on their site. If a journalist is looking to hide their IP address from a website then they should use a Virtual Private Network (VPN) For more information on VPNs see the section below.
 - When you visit a website you should ensure that the site is encrypted. You can check this by looking for the padlock image in the far left of the browser bar as well as ensuring that the site address says https. When a site is encrypted ISPs and others are unable to see your activity on the page. For example, they can see you are connected to an email provider but they will not be able to read your emails.
-- Encourage journalists to install an ad blocker to protect against malware. This will help protect against being infected with malware. For more information on malware see chapter three. This may not be an option for them if they are working in a newsroom where ad blockers are not permitted.
+- Encourage journalists to install a reputable ad blocker like uBlock Origin to protect against malware. For more information on malware see chapter three. This may not be an option for them if they are working in a newsroom where ad blockers are not permitted.
 - Suggest installing [Privacy Badger](https://privacybadger.org/) to block websites and advertisers from tracking journalists online.
 - Avoid using public computers, including at press events. These computers may be infected with malware or spyware.
 - Journalists should do research on their computers, not on their phones. Not only is it easier to be more aware of possible phishing attempts, if their device becomes infected the attacker will not gain access to personal data that may be stored on their phone.
@@ -58,13 +58,13 @@ _Virtual Private Network (VPNs)_
 - A VPN is a service that lets users connect to the internet by allowing them to change their IP address so that it appears they are accessing the internet from another country. This is useful for journalists who want to avoid having their browsing history tracked by their ISP, for hiding an IP address when visiting websites, or for accessing blocked and restricted pages. A VPN will not work in situations where the government shuts down the internet.
 - A VPN is like any other online service online and can collect a significant amount of data on its users. Review the terms and conditions of each VPN to see what data is being collected, where it is stored, what form it is stored in, and whether that data is shared with governments.
 - In some countries, VPNs are illegal and using one or having one installed on a device can put the journalist at risk. In those countries, governments may have issued government approved VPNs that can be used. These are not secure and will be collecting personal data on the users, including their browsing history.
-- There are a wide-range of VPNs available. When choosing a VPN it is important to consider the following:
-  - Choose a VPN that does not log the user's browsing history. This information could be shared with governments.
+- There are a wide-range of VPNs available. We recommend checking out [this excellent article by Wirecutter](https://www.nytimes.com/wirecutter/reviews/best-vpn-service/) on how to pick the VPN which works best for you. When choosing a VPN it is important to consider the following:
+  - Choose a VPN that does not log the user's browsing history. This information could be shared with governments. Do note, however, that some VPNs have lied about their capabilities or privacy promises.
   - Who owns the VPN company, where is it based, and where are its servers based. This information can be found on the website of the VPN you want to use. For journalists facing threats from a government, it is best to choose a VPN that is not located in their country or in any country that has close relations with their government. This is because the VPN provider could share data with their government.
-  - Free VPNs can often contain malware. Speak with others on the ground to see what VPNs they are using.
+  - Free VPNs can often contain malware, keep extensive logs, or resell your browsing data or bandwidth. Speak with others on the ground or with digital rights organizations such as Access Now to see what VPNs they are using.
   - Does the VPN work in the country you want to use it in or has it already been blocked by the government? Ensure you have a number of VPN options available should one stop working.
-- An ISP will be able to see when a user is connected to a VPN but it will not be able to see what pages the user is visiting. This will be a security issue for journalists working in countries where VPNs are illegal.
-- Using a VPN is a good idea if the journalist does not want the website owner to know that they are visiting their site. For example, if the journalist is carrying out research on multinational companies, including downloading their financial reports.
+- An ISP will be able to see when a user is connected to a VPN but it will not be able to see what pages the user is visiting. This will be a security issue for journalists working in countries where VPNs are illegal or if VPNs are untrustworthy and share data with undemocratic governments.
+- Using a VPN is a good idea if the journalist does not want the website owner to know that they are visiting their site. For example, if the journalist is carrying out research on multinational companies, including downloading their financial reports. While relatively rare, this has [in the past alerted companies](https://web.archive.org/web/20211021091609/https://twitter.com/runasand/status/831266832678010880) to the fact that they are subject to a journalistic investigation.
 
 ## Completing the risk assessment
 
@@ -151,6 +151,13 @@ The following resources may be helpful for teaching this chapter:
 
 [Fortify your browser](https://datadetoxkit.org/en/privacy/browser) by Tactical Tech
 
+[Security and privacy of VPNs running on Windows 10](https://innovation.consumerreports.org/wp-content/uploads/2021/12/VPN-White-Paper.pdf) by Consumer Reports
+
+[Should you use a VPN?](https://www.consumerreports.org/electronics-computers/vpn-services/should-you-use-a-vpn-a5562069524/) by Consumer Reports
+
+[Mullvad, IVPN, and Mozilla VPN Top Consumer Reports’ VPN Testing](https://www.consumerreports.org/electronics-computers/vpn-services/mullvad-ivpn-mozilla-vpn-top-consumer-reports-vpn-testing-a9588707317/) by Consumer Reports
+
+[VPN Testing Reveals Poor Privacy and Security Practices, Hyperbolic Claims](https://www.consumerreports.org/vpn-services/vpn-testing-poor-privacy-security-hyperbolic-claims-a1103787639/) by Consumer Reports
 </div>
 
 ## Activities
