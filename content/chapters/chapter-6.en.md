@@ -44,7 +44,7 @@ _General best practice_
 - Before using an online service it is recommended to carry out some research on it. Check the terms and conditions on the site, review the transparency report of the company, or search on the internet for the following: has a government requested data from that service and has that service handed it over? How is data being stored by the company?, ideally it should be in an encrypted form. Has the company been involved in a data breach? If so, what data was accessed? How much metadata is the company collecting?
 - Where possible, journalists should have two phones; one for work and one for personal use. This helps keep data separate which better protects the journalists and their sources if one phone becomes infected.
 - All landline calls or mobile phone calls are not encrypted and can be intercepted and/or the conversation can be obtained at the level of the company.
-- All text messages (SMS) are not encrypted and can be intercepted. A copy of your SMS messages is kept by your mobile phone provider and can be passed to governments or accessed by people at the company.
+- All text messages (SMS) are unencrypted and can be intercepted. A copy of your SMS messages is kept by your mobile phone provider and can be passed to governments or accessed by people at the company.
 - Some services offer encryption in transmission but the information is not encrypted on the server of the company. This could be a risk for a journalist if they are concerned that a government might subpoena for that data or that the data could be accessed by someone at the company.
 - The most secure form of communication is to use end-to-end encryption by default. This means that the information is automatically encrypted both in transmission and on the server. Some examples include WhatsApp and Signal. Other services are only end-to-end encrypted if the user turns it on, so journalists should ensure that they have activated the encryption.
 
@@ -94,7 +94,7 @@ There is a lot of confusion around the security of WhatsApp. It can be helpful h
 
 **I used to use WhatsApp but I moved to Telegram, was that a good choice?**
 
-This depends on the risks that the journalist faces. If the journalist is using Telegram for public facing work then the risk should be minimal. Telegram is also the only current messaging app that allows users to hide their phone numbers which is helpful if they need to participate in group chats. However, users should be made aware that end to end encryption is not turned on by default. In general, if they are looking to hold sensitive conversations that then they should opt for end-to-end encryption which is turned on automatically, such as WhatsApp or Signal.
+This depends on the risks that the journalist faces. If the journalist is using Telegram for public facing work then the risk should be minimal. Telegram is also the only current messaging app that allows users to hide their phone numbers which is helpful if they need to participate in group chats. However, users should be made aware that end to end encryption is not turned on by default. In general, if they are looking to hold sensitive conversations then they should opt for end-to-end encryption which is turned on automatically, such as WhatsApp or Signal.
 
 **I’m using Signal but nobody else does, why?**
 
@@ -144,6 +144,8 @@ The following resources may be helpful for teaching this chapter:
 [Upgrading WhatsApp security](https://freedom.press/training/upgrading-whatsapp-security/) by Freedom of the Press Foundation
 
 [Locking down Signal](https://freedom.press/training/locking-down-signal/) by Freedom of the Press Foundation
+
+[Communicate privately with Signal](https://securityplanner.consumerreports.org/tool/text-call-privately-with-signal) by Consumer Reports
 
 </div>
 
