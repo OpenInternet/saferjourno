@@ -6,18 +6,17 @@ weight = 1
 toc = false
 +++
 
-## Introduction 
 
 The original SaferJourno was launched in 2014 with the aim of bolstering the digital security capacity of trainers working with journalists around the world. For this new and updated version this aim has not changed, but the content has.
 
 Journalists face a complex array of digital threats. Some of these are old, such as account hacking and malware attacks, but others are new and present significant challenges. This includes the increasing use of sophisticated spyware as well as state-sponsored online smear campaigns designed to undermine a journalist and their reporting. This guide provides trainers with best practice on how to mitigate these risks in a way that is both practical and accessible for the journalist.
 
-### Target audience
+## Target audience
 
 SaferJourno is designed for both experienced digital security trainers who are less familiar with teaching journalists, as well as media trainers who work with journalists but might lack digital security expertise.
 This guide was created with trainers, rather than journalists, in mind, but portions of it can still prove helpful for freelancers and newsrooms. We are also working on a learners’ handout for journalists, which might include security checklists, and which we hope to add to SaferJourno by mid-2024.
 
-### How to use and customize this guide
+## How to use and customize this guide
 
 SaferJourno has a range of activities for both beginner and experienced trainers. Trainers can pick activities which suit their level of expertise and training style. They can also mix and match SaferJourno activities and case studies with their own materials and knowledge, so as to better reflect the needs of the communities they serve and the threats they face.
 
@@ -31,7 +30,7 @@ You can copy and paste or translate parts of SaferJourno to create your own trai
 - Chapter 7 explores online abuse and protecting data. We recommend that every trainer review this chapter. Many journalists, especially those who come from marginalized populations, will benefit immensely from a lesson on how to mitigate the worst effects of online harassment.
 - The last sections of SaferJourno consist of advanced guides on safer travels, identifying forgeries, and protecting sources while working with audio-visual leaks. Those three pieces focus on threats which most journalists will not encounter within their careers. We nonetheless recommend that trainers who work with high-risk journalists and sources familiarize themselves with those sections and implement them in their training, if they are relevant.
 
-### Risk assessments and case studies as a training tool
+## Risk assessments and case studies as a training tool
 
 Understanding and reducing risk is an important part of keeping journalists safe. SaferJourno includes both case studies, linked to in most chapters, and a risk assessment template at the end, both of which we believe to be valuable learning tools.
 
@@ -39,7 +38,7 @@ Threat assessments can be one of the most difficult aspects of journalist securi
 
 The case studies and risk assessment template at the end of this guide can be used as a training tool to help learners think about who their adversaries are, what they are capable of, and what sorts of attacks are realistic or likely. Focusing on the process of assessing risk rather than specific threats ensures that journalists will be able to replicate the process in the future and respond to the ever-changing threat landscapes which may emerge. Real-world case studies (trainers are encouraged to find additional ones from their region!) can help contextualize risks and discussing them can build journalists' risk and security intuition. If time permits, it might also be useful to role-play conversations with colleagues and sources about some of the risks outlined in the case studies and the template: what arguments should a journalist use to persuade others about the seriousness of a threat and that they should take appropriate mitigations? How might you respond as a journalist who has been doxxed? What steps might help protect you and your colleagues in the event of an unexpected office raid?
 
-### Basics of facilitating digital safety training for journalists
+## Basics of facilitating digital safety training for journalists
 
 If you have never run digital security trainings before, your first trainings might be a little overwhelming. We recommend reading through the Security Education Companion’s [Security Education 101](https://www.securityeducationcompanion.org/articles) articles as a good general introduction to teaching digital security.
 
