@@ -8,7 +8,7 @@ toc = true
 
 ## Introduction
 
-Online abuse is increasingly used by governments, and organised online groups as a way to discredit and undermine journalists and media outlets. Harassers comb the internet looking for a journalist’s personal data and use this information to threaten and intimidate them and their families. These attacks are often accompanied by other digital threats, such as hacking of accounts and/or phishing attacks. This chapter walks journalists through the best practice needed in order to better secure their data.
+Online abuse is increasingly used by governments, and organised online groups as a way to discredit and undermine journalists and media outlets. Harassers comb the internet looking for a journalist’s personal data and use this information to threaten and intimidate them and their families. These attacks are often accompanied by other digital threats, such as hacking of accounts, phishing attacks, or doxxing. This chapter walks journalists through the best practice needed in order to better secure their data.
 
 This chapter will cover:
 
@@ -103,6 +103,8 @@ Journalists have a lot of public-facing data on the internet and they often need
 
 Recommend that they set aside a chunk of time each week to review what data is available about them and remove it. They should follow the best practice for searching online for their personal information and removing it. This guidance can be found in the section Teaching digital security for the first time?, found at the beginning of this chapter.
 
+Some data is also being collected and re-sold by data brokers. There also exist some services which contact data brokers on your behalf and ask them to delete information about you. While many of those services are effective, they are also expensive. It's also possible to contact data brokers and do this type of work manually; for a quick guide on how to do so, check out [this page by Yael Grauer](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List).
+
 **Once my data has been taken down is it really gone?**
 
 Explain that once data has been put on the internet it is impossible to guarantee that it has been removed. This is because information is stored in the accounts of others, including family members, held in public databases, and captured via screenshots. Online data is also archived by online archive services, such as the Wayback Machine. It is still important to take down any potentially harmful data to avoid it falling easily into the hands of harassers.
@@ -154,6 +156,8 @@ The following resources may be helpful for teaching this chapter:
 [Removing personal data from the internet](https://cpj.org/2019/09/digital-safety-remove-personal-data-internet/) by the Committee to Protect Journalists
 
 [Protecting against targeted online attacks](https://cpj.org/2020/05/digital-safety-protecting-against-targeted-online-attacks/) by the Committee to Protect Journalists
+
+[Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) by Yael Grauer
 
 </div>
 
