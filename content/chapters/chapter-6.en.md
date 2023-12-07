@@ -278,7 +278,8 @@ _The trainer needs to have a good knowledge of the tools mentioned and any possi
   - Community features on WhatsApp
   - Regularly reviewing what other devices are linked to the account
   - Talk about other features that could affect their safety, such as their profile photo, having their status available for others to see online etc.
-  - Highlight when it may or may not be safe to use some of these features, for example, having disappearing messages turned on may make you look more suspicious
+  - Highlight when it may or may not be safe to use some of these features, for example, having disappearing messages turned on may make you look more suspicious. In other cases, using disappearing messages or deleting data could also lead to legal problems for journalists who are accused of destroying evidence.
+  - Discuss how mechanisms such as disappearing messages do not prevent all kinds of information leaks. A journalist's interlocutor could still take screenshots, photos, or videos of the messages. Someone could likewise look through a device and messenger apps before the disappearing messages timer is up.
 - Wrap up the session by asking the journalists
   - Did they learn anything new?
   - Did they learn anything that confirmed something they already knew?
