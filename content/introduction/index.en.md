@@ -14,13 +14,14 @@ Journalists face a complex array of digital threats. Some of these are old, such
 ## Target audience
 
 SaferJourno is designed for both experienced digital security trainers who are less familiar with teaching journalists, as well as media trainers who work with journalists but might lack digital security expertise.
+
 This guide was created with trainers, rather than journalists, in mind, but portions of it can still prove helpful for freelancers and newsrooms. We are also working on a learners’ handout for journalists, which might include security checklists, and which we hope to add to SaferJourno by mid-2024.
 
 ## How to use and customize this guide
 
 SaferJourno has a range of activities for both beginner and experienced trainers. Trainers can pick activities which suit their level of expertise and training style. They can also mix and match SaferJourno activities and case studies with their own materials and knowledge, so as to better reflect the needs of the communities they serve and the threats they face.
 
-You can copy and paste or translate parts of SaferJourno to create your own training content, as long as you keep to the terms of the license. Among other things, this means when you create modified versions of SaferJourno or organize trainings which incorporate content from SaferJourno, you must credit the source and specify that your materials or training includes SaferJourno material. In addition to that, if you publish such material, you must do so under the same license (CC BY-NC-SA) as the original SaferJourno.
+You can copy and paste or translate parts of SaferJourno to create your own training content, as long as you keep to the terms of the [license](https://creativecommons.org/licenses/by-sa/4.0/). Among other things, this means when you create modified versions of SaferJourno or organize trainings which incorporate content from SaferJourno, you must credit the source and specify that your materials or training includes SaferJourno material. In addition to that, if you publish such material, you must do so under the same license (CC BY-SA 4.0) as SaferJourno.
 
 - All trainers who are new to digital security and risk assessments are encouraged to begin with chapter 1, which focuses on assessing risk.
 - Chapters 2 and 3, which explore account and device security, respectively, will be of relevance to most journalists.
