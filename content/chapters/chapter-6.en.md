@@ -23,14 +23,14 @@ The following can be helpful to keep in mind:
 - Journalists are in contact with a wide range of people on a regular basis using all forms of communication methods in order to do so.
 - There is often little to no separation between work and personal contact details meaning people are able to contact them on their personal accounts and numbers at any time. This leads to an increased risk of harassment and digital surveillance.
 - Many journalists often use their personal social media accounts to contact sources, leading to increased levels of digital harassment.
-- Journalists normally use their personal mobile phone number for work purposes. That number will have been shared widely with people ranging from government officials to criminals. They will not want to change this number as it is one of the main ways people can contact them.
-- There is a lot of resistance from journalists to have two phones, one for work and one for personal use. It’s important to understand whether the journalist needs two numbers or do they need two devices. This will depend on their individual risk assessment.
-- It is best to recommend that their current phone number stays as their work number and they get a new number for personal use.
+- Journalists regularly use their personal mobile phone number for work purposes. That number will have been shared widely with people ranging from government officials to criminals. They will not want to change this number as it is one of the main ways people can contact them.
+- There is a lot of resistance from journalists to have two phones, one for work and one for personal use. It’s important to understand whether the journalist needs two numbers or if they need two devices. This will depend on their individual risk assessment.
+- If journalists get a new number, it's ideal if their current phone number stays as their work number and they get a new number for personal use.
 - Newsrooms often do not have a budget to supply their staff with work phones and if there is an IT department they will generally not help staff secure their personal accounts, including social media, despite the fact they are using those accounts for work purposes.
 - Journalists often do not do a risk assessment before working on a story and this may mean they have not thought through a process for contacting people in a safe way or do not know how to do so.
-- While there has been an increase in journalists using end-to-end encrypted messaging services, they often do not know why they are using them; they have just been told that it is safer to do so. There is a lot of confusion around which of the messaging services is safer and what data they do and do not protect. This can lead journalists to have a false sense of safety where they believe they are more secure than they actually are.
-- If there is no secure way to communicate with a source, the journalist will likely switch to an insecure method such as SMS or a GSM phone call, both of which can be intercepted by authorities. The trainer should advise on this, such as, letting the journalist know they should say as little as possible, they should try and find a more secure method to communicate, if planning to meet in person they should be aware that the conversation may have been intercepted and that there are physical security risks associated with that.
-- In certain cases, having two phones or using certain messaging apps can make the journalist look more suspicious to governments and others. Be guided by the journalist, he or she will likely have a good understanding of the risks they face in the context they are working in.
+- While there has been an increase in journalists using end-to-end encrypted messaging services, they often do not know why they are using them; they have just been told that it is safer to do so. There is a lot of confusion around which of the messaging services is safer and what data they do and do not protect. This can lead journalists to have a false sense of safety where they believe they are more secure than they actually are, or a sense of misplaced anxiety if they overestimate adversaries' abilities to read their messages.
+- If there is no secure way to communicate with a source, the journalist will likely switch to an insecure method such as SMS or a GSM phone call, both of which can be intercepted by authorities. The trainer should advise on this, such as letting the journalist know they should say as little as possible, they should try and find a more secure method to communicate, if planning to meet in person they should be aware that the conversation may have been intercepted and that there are physical security risks associated with that.
+- In certain cases, having two phones or using certain messaging apps can make the journalist look more suspicious to governments and others. Be guided by the journalist, they will likely have a good understanding of the risks they face in the context they are working in.
 
 ## Training digital security for the first time?
 
@@ -38,30 +38,31 @@ This section covers best practice that can be used when teaching the activities 
 
 _General best practice_
 
-- There is no one way to contact someone that is one hundred percent secure; there are only more secure and less secure options. This is because there is always a risk that the person you are contacting may be under some form of surveillance or you yourself may be under surveillance. It may also be that the tool or service you are using to contact them may be collecting data that could be accessed by others, including via a subpoena.
-- Before contacting someone it is important to think about who you are contacting and what you are contacting them about. Important questions to think about include, Is the person I want to contact at high-risk of surveillance? Is the person I want to speak to classed as doing something illegal? Are we going to be discussing a sensitive issue, such as government corruption? If the answer to those questions is yes then you should be opting for a service that encrypts your data, see the section below on encryption.
+- There is no one way to contact someone that is one hundred percent secure; there are only more and less secure options. This is because there is always a risk that the person you are contacting may be under some form of surveillance or you yourself may be under surveillance. It may also be that the tool or service you are using to contact them may be collecting data that could be accessed by others, including via a subpoena.
+- Before contacting someone, it is important to think about who you are contacting and what you are contacting them about. Important questions to think about include, Is the person I want to contact at high risk of surveillance? Is the person I want to speak to classed as doing something illegal? Are we going to be discussing a sensitive issue, such as government corruption? If the answer to those questions is yes then you should definitely be opting for a service that encrypts your data, see the section below on encryption.
 - Journalists should be aware that the online services they use may be collecting metadata on users. Metadata is a set of data that describes other data. For example, the time a call was made, what device the call was made on, who the call was made to. Metadata can give governments and others a substantial amount of information that could be used against a journalist and their source.
-- Before using an online service it is recommended to carry out some research on it. Check the terms and conditions on the site, review the transparency report of the company, or search on the internet for the following: has a government requested data from that service and has that service handed it over? How is data being stored by the company?, ideally it should be in an encrypted form. Has the company been involved in a data breach? If so, what data was accessed? How much metadata is the company collecting?
+- Before using an online service, it is recommended to carry out some research on it. Check the terms and conditions on the site, review the transparency report of the company, read what security trainers and groups like the Freedom of the Press Foundation are writing about it, or search on the internet for the following: has a government requested data from that service and has that service handed it over? How is data being stored by the company?, ideally it should be in an encrypted form. Has the company been involved in a data breach? If so, what data was accessed? How much metadata is the company collecting?
 - Where possible, journalists should have two phones; one for work and one for personal use. This helps keep data separate which better protects the journalists and their sources if one phone becomes infected.
-- All landline calls or mobile phone calls are not encrypted and can be intercepted and/or the conversation can be obtained at the level of the company.
+- All landline calls or mobile phone calls are not encrypted and can be intercepted. It is likely that the telecom company also keeps detailed records of call metadata.
 - All text messages (SMS) are unencrypted and can be intercepted. A copy of your SMS messages is kept by your mobile phone provider and can be passed to governments or accessed by people at the company.
-- Some services offer encryption in transmission but the information is not encrypted on the server of the company. This could be a risk for a journalist if they are concerned that a government might subpoena for that data or that the data could be accessed by someone at the company.
-- The most secure form of communication is to use end-to-end encryption by default. This means that the information is automatically encrypted both in transmission and on the server. Some examples include WhatsApp and Signal. Other services are only end-to-end encrypted if the user turns it on, so journalists should ensure that they have activated the encryption.
+- Some services encrypt messages in transit but the information is not encrypted on the server of the company. This could be a risk for a journalist if they are concerned that a government might subpoena for that data or that the data could be accessed by someone at the company.
+- The most secure form of communication is to use end-to-end encryption by default. This means that the information is automatically encrypted both in transmission and on the server. Some examples include WhatsApp and Signal. Other services (such as Telegram) only enable end-to-end encryption if the user turns it on explicitly, so journalists should ensure that they have activated the encryption.
 
 _Being more secure while using WhatsApp and Signal_
 
-- Using encrypted messaging services is excellent but journalists still need to think about how much data they are carrying within those messaging apps, for example old messages, as well as content that is backing up from the messaging app to their phone. This is especially important if journalists are at risk of arrest and detention and having their devices searched.
+- Using encrypted messaging services is excellent but journalists still need to think about how much data they are carrying within those messaging apps, for example old messages and any archives or files they might have saved from the apps themselves. This is especially important if journalists are at risk of arrest and detention and having their devices searched.
 
-- Work with the journalists to create a plan for backing up content from messaging apps on their phone and deleting it. For example, reviewing their messages weekly and backing up and deleting content and/or chats. Journalists should review their phone regularly to see where content is being backed up, including apps, the cloud, the SIM card.
+- Work with the journalists to create a plan for backing up content from messaging apps on their phone and deleting it. One of the easiest ways of doing so is to use disappearing messages (more below) for most messages, take screenshots of important messages so that they aren't auto-deleted and store them in a safe place, for example in the newsroom. It's also easy to export archives of WhatsApp messages (but unfortunately very difficult to do so on Signal).
 
 - Some messaging apps, such as WhatsApp, allow for end-to-end encrypted backups to the cloud. This will ensure that their content can not be accessed should someone else take control of their phone number and install the app on a new device, and prevents the cloud provider (such as Google Drive or iCloud) from reading the content of those chats, either. Encourage journalists to end-to-end encrypt all of their chat backups or, if this option is not present, disable cloud backups altogether. Remind them to keep the backup password in a safe place, since they cannot access their backups without it.
 
 - There are a number of features that journalists can turn on to secure their messaging apps and the content within them. More information on this can be found in the resource section of this guide. Some examples include:
   - Setting disappearing messages.\
-     This will delete a message from the phone of the sender and the phone of the receiver within a certain timeframe. Journalists may or may not want to turn this on depending on whether they need to keep the content of their message. If they do want to keep it then they should take a screenshot of the message and then delete it from their phone.
+     This will delete a message from the phone of the sender and the phone of the receiver within a certain timeframe. Journalists may or may not want to turn this on depending on whether they need to keep the content of their message. If they do want to keep it then they should take a screenshot of the message and then delete it from their phone. Different apps will count the timeframe for disappearing messages in different ways. If you have set 24 hour auto-deletion in Signal, for example, it will delete the message from the sender's device 24 hours after it was sent, but only remove it from the receiver's device 24 hours after they read it.
   - One-time view only photo and video.\
      This will delete a photo or video after it has been viewed once. Consider whether this is a useful option for journalists who may need to preserve content for evidence or for a story.
-  - Restricting who can add journalists to group chats
+  - Restricting who can add others to group chats\
+      All messengers have group chats, and many of those are used to share sensitive information. Some group chats allow anyone to add new members or to share out an invite link, whereas others require an administrator to approve all new members. Consider doing the latter for sensitive group chats, as it will significantly reduce the chances of someone accidentally or maliciously adding a new member who should not be privy to the sensitive information exchanged therein.
   - Setting a PIN lock on the account.\
      This will stop others being able to access the account unless they have the PIN
   - Setting up a registration lock.\
@@ -71,12 +72,12 @@ _Being more secure while using WhatsApp and Signal_
 
 When speaking about the risk assessment and personal security plan it may be helpful to touch upon the following:
 
-- Help the journalists think through who they want to contact and what are the risks associated with contacting them, how sensitive is the conversation they want to have, who may want to obtain access to that conversation.
+- Help the journalists think through whom they want to contact and what are the risks associated with contacting them, how sensitive is the conversation they want to have, who may want to obtain access to that conversation.
 - Get them thinking about who owns the service they are using, what they are doing with their data, and whether the company passes data to governments. Highlight the importance of reading the company’s transparency reports.
-- Stress the importance of having a process for backing up and deleting content from the messaging apps in their phone. Journalists often do not do this meaning they are carrying a significant amount of data around with them on their phone and this puts them and their sources at risk if either of them are detained. Setting disappearing messages may be useful for certain conversations, but taking screenshots and then deleting the chat from their app might work better if the journalist is looking to preserve evidence of the conversation.
+- Stress the importance of having a process for backing up and deleting content from the messaging apps in their phone. Journalists often do not do this meaning they are carrying a significant amount of data around with them on their phone and this puts them and their sources at risk if either of them are detained. Setting disappearing messages may be useful for certain conversations, but taking screenshots, keeping those in a safe place (so maybe in their newsroom rather than on their phone if there is a risk of detention and device searches) and then deleting the chat from their app might work better if the journalist is looking to preserve evidence of the conversation.
 - Highlight the danger of group chats with many participants in them. Explain that these can be infiltrated by governments and others who will take screenshots of the conversations and/or try to infect devices by posting links containing malware.
 - For those at risk of being infected with spyware, explain that using end-to-end encryption will not protect their communications if the device itself is infected.
-- Remind journalists that end to end protection will not protect them if they or their interlocutors are compelled to unlock their devices—or even if somebody looks over their shoulder while they are writing.
+- Remind journalists that end-to-end encryption will not protect them if they or their interlocutors are compelled to unlock their devices—or even if somebody looks over their shoulder while they are writing.
 
 <div class="faq">
 
@@ -94,7 +95,7 @@ There is a lot of confusion around the security of WhatsApp. It can be helpful h
 
 **I used to use WhatsApp but I moved to Telegram, was that a good choice?**
 
-This depends on the risks that the journalist faces. If the journalist is using Telegram for public facing work then the risk should be minimal. Telegram is also the only current messaging app that allows users to hide their phone numbers which is helpful if they need to participate in group chats. However, users should be made aware that end to end encryption is not turned on by default. In general, if they are looking to hold sensitive conversations then they should opt for end-to-end encryption which is turned on automatically, such as WhatsApp or Signal.
+This depends on the risks that the journalist faces. If the journalist is using Telegram for public facing work then the risk should be minimal. Telegram is also the only current messaging app that allows users to hide their phone numbers which is helpful if they need to participate in group chats. However, users should be made aware that end to end encryption is not turned on by default. In general, if they are looking to hold sensitive conversations then they should opt for end-to-end encryption which is turned on automatically, such as WhatsApp or Signal. Telegram has also been criticised by many security professionals for its communication regarding encryption and its handling of metadata. For those reasons, we generally recommend against using it for sensitive communication, unless there's a strong reason to do so, such as sources only being willing to talk through it, a strong need to hide phone numbers, or nobody in the community using alternative messengers.
 
 **I’m using Signal but nobody else does, why?**
 
@@ -102,7 +103,7 @@ Ascertain who the journalist wants to speak to and what about. Sources that live
 
 **How can we communicate more securely on our team?**
 
-Ask the journalist to complete a risk assessment for their team. This should include who they need to communicate with, whether they need to share documents, and who is interested in obtaining their data. Based on the risk assessment the trainer should guide them towards choosing either one tool or a range of suitable tools for communicating.
+Ask the journalist to complete a risk assessment for their team. This should include whom they need to communicate with, whether they need to share documents, and who is interested in obtaining their data. Based on the risk assessment the trainer should guide them towards choosing either one tool or a range of suitable tools for communicating.
 
 </div>
 
@@ -124,7 +125,7 @@ At the end of the session journalists:
 
 The following templates and tools can be useful for teaching this session:
 
-- Different options for secure communication tools based on the individual needs of the journalists. Guidance on this can be found in the section Training digital security for the first time, found at the beginning of this chapter.
+- Different options for secure communication tools based on the individual needs of the journalists. Guidance on this can be found in the section [Training digital security for the first time](#training-digital-security-for-the-first-time), found at the beginning of this chapter.
 - [Risk assessment template](/digital-risk-assessment-template)
 
 </div>
@@ -134,8 +135,6 @@ The following templates and tools can be useful for teaching this session:
 ## Resources
 
 The following resources may be helpful for teaching this chapter:
-
-[Privacy not included](https://foundation.mozilla.org/en/privacynotincluded/) by Mozilla
 
 [What should I know about encryption?](https://ssd.eff.org/module/what-should-i-know-about-encryption) by the Electronic Frontier Foundation
 
@@ -194,7 +193,7 @@ _Trainer note: be aware that some journalists may not feel comfortable discussin
 
 </div>
 
-_Trainer note: best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter. The trainer needs to have a good knowledge of the tools mentioned and any possible security issues related with them_
+_Trainer note: best practice for this activity can be found in the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section, located at the beginning of this chapter. The trainer needs to have a good knowledge of the tools mentioned and any possible security issues related with them_
 
 ❶ **Step one**
 
@@ -223,22 +222,21 @@ _Trainer note: best practice for this activity can be found in the section, Trai
 - Then give them a brief overview of what encryption means when it comes to communications. You can find resources to help you with this in our resource guide. Talk about:
 
   - Encrypted in transit but not on the server (TLS)
-  - End-to-end encryption
   - End-to-end encryption by default
+  - End-to-end encryption needs to be enabled manually, is not on by default
   - Any security issues arising from these
 
 - Teach that choosing what service to use can also depend on who owns the service, where it is based, where the servers are based, how they store data, and how safe the data they share with that service is. More guidance on this can be found in the beginning of this chapter. It can be helpful to discuss:
   - The importance of researching the service to answer the above questions
   - Does the service use end-to-end encryption
-  - Whether the company passess information to governments and how to check that using transparency reports plus internet searches for news on collaborations between governments and companies
-  - Whether any human right’s defenders or journalists have had their communications obtained by others and how that has happened.
-  - What metadata is and how it can put them at risk
+  - Whether the company passes information to governments and how to check that using transparency reports plus internet searches for news on collaborations between governments and companies
+  - What metadata is and how it can put journalists at risk
 
 ❸ **Step three**
 
-- Now turn the journalist’s attention back to the tools they posted up on the board. Put them into groups and assign them a communication tool to research, for example mobile phone number or Signal.
+- Now turn the journalist’s attention back to the tools they posted up on the board. Put them into groups and assign them a communication tool to research, for example iMessage or Signal.
 - The journalists research the tool using the questions they learned about in step two. Ask them to present their findings to the class.
-- Look at the rest of the tools on the board and walk the journalists through the pros and cons of each one and identify the risk with each one. It can be helpful to have some examples of how communications have been obtained. For example, a case of a government subpoena, information obtained directly from the device etc.
+- Look at the rest of the tools on the board and walk the journalists through the pros and cons of each one and identify the risk with each one. It can be helpful to have some examples of how adversaries obtained the communications of those who used those tools, if such information is available. Did they subpoena the company? Directly obtain the information during a device search?
 
 ❹ **Step four**
 
@@ -258,9 +256,7 @@ _Trainer note: best practice for this activity can be found in the section, Trai
 
 </div>
 
-_Trainer note: best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter._
-
-_The trainer needs to have a good knowledge of the tools mentioned and any possible security issues related to them. The trainer can use the case study at the end of this chapter for this exercise._
+_Trainer note: best practice for this activity can be found in the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section, located at the beginning of this chapter. The trainer needs to have a good knowledge of the tools mentioned and any possible security issues related to them. The trainer can use the case study at the end of this chapter for this exercise._
 
 ❶ **Step one**
 
