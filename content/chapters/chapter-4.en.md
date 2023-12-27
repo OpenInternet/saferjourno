@@ -92,7 +92,7 @@ Most major tech companies have robust security in place that protects users from
 
 **What VPN should I use?**
 
-The trainer should consult the section, Training digital security for the first time?, at the beginning of the chapter for details on VPNs and things to consider when choosing one. It is important for journalists to understand why they need a VPN and what it protects them from before making their choice.
+The trainer should consult the section, [Training digital security for the first time?](#training-digital-security-for-the-first-time), at the beginning of the chapter for details on VPNs and things to consider when choosing one. It is important for journalists to understand why they need a VPN and what it protects them from before making their choice.
 
 **When I delete my information online is it really gone?**
 
@@ -128,7 +128,7 @@ The following templates and tools can be useful for teaching this session:
 - [DuckDuckGo Smarter Encryption](https://spreadprivacy.com/duckduckgo-smarter-encryption/)
 - [Privacy Badger](https://privacybadger.org/)
 - [The Tor browser](https://www.torproject.org/download/) by Tor
-- Guidance on what type of VPN to choose and how to select one or more. See the section, Training digital security for the first time?, for more information.
+- Guidance on what type of VPN to choose and how to select one or more. See the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section, for more information.
 - [Risk assessment template](/digital-risk-assessment-template)
 
 </div>
@@ -160,7 +160,7 @@ The following resources may be helpful for teaching this chapter:
 
 ## Activities
 
-The activities below are designed to accompany this training session on safer online research. Trainers should feel free to use their own activities as well as to adapt the materials in this guide to best suit the needs of the journalists they are training. The number and type of activities selected will depend on the level of knowledge of the trainer as well as the amount of time the trainer has to spend with the participants. For those new to training in digital safety, don’t forget to review the [Training digital security for the first time?](#training-journalists-for-the-first-time) section for best practice guidance.
+The activities below are designed to accompany this training session on safer online research. Trainers should feel free to use their own activities as well as to adapt the materials in this guide to best suit the needs of the journalists they are training. The number and type of activities selected will depend on the level of knowledge of the trainer as well as the amount of time the trainer has to spend with the participants. For those new to training in digital safety, don’t forget to review the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section for best practice guidance.
 
 ### Getting started
 
@@ -209,11 +209,11 @@ Journalists might not be familiar with what online data includes, it can be help
 
 </div>
 
-_Trainer note: best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter._
+_Trainer note: best practice for this activity can be found in the section, [Training digital security for the first time?](#training-digital-security-for-the-first-time), located at the beginning of this chapter._
 
 _The aim of this activity is to give journalists a brief overview of how information moves around the internet so that they can better understand who can access their data. This information will help them with further exercises during the day’s session._
 
-_Journalists would benefit from an explanation of some key vocabulary, including Internet Service Provider (ISP) and Internet Protocol (IP) address.These definitions can be found in the section, Training digital security for the first time?, located at the beginning of this chapter._
+_Journalists would benefit from an explanation of some key vocabulary, including Internet Service Provider (ISP) and Internet Protocol (IP) address.These definitions can be found in the section, [Training digital security for the first time?](#training-digital-security-for-the-first-time), located at the beginning of this chapter._
 
 ❶ **Step one**
 
