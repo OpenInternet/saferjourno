@@ -46,6 +46,7 @@ _General best practice_
 - All landline calls or mobile phone calls are not encrypted and can be intercepted. It is likely that the telecom company also keeps detailed records of call metadata.
 - All text messages (SMS) are unencrypted and can be intercepted. A copy of your SMS messages is kept by your mobile phone provider and can be passed to governments or accessed by people at the company.
 - Some services encrypt messages in transit but the information is not encrypted on the server of the company. This could be a risk for a journalist if they are concerned that a government might subpoena for that data or that the data could be accessed by someone at the company.
+- If an adversary is able to intercept an SMS that is used to register the messenger on a new device, they could take over the whole messenger account for services such as WhatsApp and Signal. This attack was used to take over the account of a [prominent cybersecurity journalist](https://www.theregister.com/2022/08/16/twilio_breach_fallout_signal_user/). This is a serious concern for journalists who face state (since security services can ask telecoms to misdirect SMS to them) and non-state (since many attackers can launch social engineering attacks against telecoms) alike. The easiest way to prevent such attacks is to enable a security feature which [WhatsApp calls two step verification](https://faq.whatsapp.com/1278661612895630) and [Signal calls the PIN and registration lock](https://support.signal.org/hc/en-us/articles/360007059792-Signal-PIN). With that feature enabled, anyone who tries to re-register the account on a new device will need to possess not just the registration SIM but also a an additional password or PIN code.
 - The most secure form of communication is to use end-to-end encryption by default. This means that the information is automatically encrypted both in transmission and on the server. Some examples include WhatsApp and Signal. Other services (such as Telegram) only enable end-to-end encryption if the user turns it on explicitly, so journalists should ensure that they have activated the encryption.
 
 _Being more secure while using WhatsApp and Signal_
@@ -65,7 +66,7 @@ _Being more secure while using WhatsApp and Signal_
       All messengers have group chats, and many of those are used to share sensitive information. Some group chats allow anyone to add new members or to share out an invite link, whereas others require an administrator to approve all new members. Consider doing the latter for sensitive group chats, as it will significantly reduce the chances of someone accidentally or maliciously adding a new member who should not be privy to the sensitive information exchanged therein.
   - Setting a PIN lock on the account.\
      This will stop others being able to access the account unless they have the PIN
-  - Setting up a registration lock.\
+  - Setting up two factor verification or the registration lock.\
      This will stop others being able to register your account on their device without a PIN number.
 
 ## Completing the risk assessment
