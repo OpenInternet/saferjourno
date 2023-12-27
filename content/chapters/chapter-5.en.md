@@ -27,7 +27,7 @@ The following can be helpful to keep in mind:
 - Journalists normally have a process for backing up important documents but may be less likely to be backing up content on their phone.
 - As journalists are normally working to a deadline they may not prioritise time to learn about encryption.
 - Journalists are likely to not have had sufficient training in how to secure materials.
-- Some forms of encryption may be illegal in the country the journalist is working in and/or travelling to.
+- Some forms of encryption may be illegal in the country the journalist is working in or travelling to.
 
 ## Training digital security for the first time?
 
@@ -36,9 +36,9 @@ This section covers best practice that can be used when teaching the activities 
 _General guidance for protecting materials_
 
 - What materials a journalist protects and how they protect them will depend on how sensitive the materials are and who may want to gain access to it. If the threat is a state actor or adversary well-versed in hacking then it is advisable to encrypt information. See below for more information on encryption.
-- In the majority of situations, journalists can continue to collaborate and receive and store materials via the online services they normally use, for example Google Drive or Office365. They should ensure those accounts have two-factor authentication (2FA) turned on, ideally through physical security keys or passkeys, and that they are using long passwords. See chapter two for more details on account security.
-- Journalists should be aware that the online services they use may be collecting metadata on users. Metadata is a set of data that describes other data. For example, the time a photo was taken, the make and model of the device that took the photo, and the location the photo was taken at. Metadata can give governments and others a substantial amount of information that could be used against a journalist and their source.
-- If the threat is a government, then journalists should largely avoid using online services that were founded in, are based in, and or/ have servers in the country linked to that particular government. This is because data may be at greater risk of being accessed by that government. Exceptions can be made for services that are using end-to-end encryption and do not collect metadata on users.
+- In the majority of situations, journalists can continue to collaborate and receive and store materials via the online services they normally use, for example Google Drive or O365. They should ensure those accounts have two-factor authentication (2FA) turned on, ideally through physical security keys or passkeys, and that they are using long passwords. See chapter two for more details on account security.
+- Journalists should be aware that the online services they use may be collecting metadata on users. Metadata is a set of data that describes other data. For example, the time a photo was taken, the make and model of the device that took the photo, and the location the photo was taken at. Metadata can give governments and others a substantial amount of information that could be used against a journalist and their source. At the same time, it can be immensely helpful to journalists who are trying to verify or fact-check content.
+- If the threat is a government, then journalists should largely avoid using online services that were founded in, are based in or have servers in the country linked to that particular government. This is because data may be at greater risk of being accessed by that government. Exceptions can be made for services that are using end-to-end encryption and do not collect metadata on users.
 - Having several copies of the same materials is advisable to better protect against loss of data. For sensitive documents, journalists should think about backing up information to several external hard drives, encrypting the hard drive, and then storing the hard drives in different locations.
 - Prompt journalists to think about how they will protect their materials in advance of a story by doing a digital risk assessment. This will help them better avoid situations where they receive sensitive materials and do not have a plan to protect and store them.
 
@@ -46,8 +46,8 @@ _Encryption_
 
 - Encryption is a secure way of protecting information so that it can not be intercepted and/or accessed by others unless they have the password.
 - There are a number of different services that encrypt data, some are easy to use while others will take practice.
-- Users looking to encrypt external hard drives, USBs or HD cards can use the built-in encryption services offered by Windows PC, known as [Bitlocker](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838#:~:text=Or%2C%20select%20Start%20%3E%20Settings%20%3E,and%20then%20follow%20the%20instructions.), and [Mac](https://support.apple.com/en-gb/guide/disk-utility/dskutl35612/mac), known as FileVault. Bitlocker is only available to users who have Pro editions of Windows, with Device Encryption available to those using Home editions. A third-party software that is useful for encrypting external hardware is [VeraCrypt](https://www.veracrypt.fr/code/VeraCrypt/). Journalists looking to encrypt individual documents to store in the cloud can use [Cryptomator](https://cryptomator.org/).
-- There are different ways to encrypt a computer's internal drive depending on whether it is a Windows PC or a Mac. Turning on encryption for Windows PC involves activating their encryption program called Bitlocker, available for Windows Pro editions. You can read about how to do this [here](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838#:~:text=Or%2C%20select%20Start%20%3E%20Settings%20%3E,and%20then%20follow%20the%20instructions.). Those who use Windows Home editions can enable a feature called Device Encryption instead, though it's only available on selected devices. macOS users can turn on FileVault, the equivalent encryption program for Macs. Read more about encrypting Mac computers [here](https://support.apple.com/en-gb/guide/mac-help/mh11785/mac).
+- Users looking to encrypt external hard drives, USBs or HD cards can use the built-in encryption services offered by Windows, known as [Bitlocker](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838), and [macOS](https://support.apple.com/en-gb/guide/disk-utility/dskutl35612/mac), known as FileVault. Bitlocker is only available to users who have Pro editions of Windows, with Device Encryption available to those using Home editions. [VeraCrypt](https://www.veracrypt.fr/code/VeraCrypt/) is a reputable piece of third-party software that is useful for encrypting both internal and external drives and works on Windows, macOS, and Linux. Journalists looking to encrypt individual documents to store in the cloud can use [Cryptomator](https://cryptomator.org/).
+- There are different ways to encrypt a computer's internal drive depending on whether it is a Windows PC or a Mac. Turning on encryption for Windows PC involves activating their encryption program called Bitlocker, available for Windows Pro editions. You can read about how to do this [here](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838#:~:text=Or%2C%20select%20Start%20%3E%20Settings%20%3E,and%20then%20follow%20the%20instructions.). Those who use Windows Home editions can enable a feature called [Device Encryption](https://support.microsoft.com/en-us/windows/device-encryption-in-windows-ad5dcf4b-dbe0-2331-228f-7925c2a3012d) instead, though it's only available on selected devices. macOS users can turn on FileVault, the equivalent encryption program for Macs. Read more about encrypting Mac computers [here](https://support.apple.com/en-gb/guide/mac-help/mh11785/mac).
 - Laws around encryption are different in each country so it’s important to ensure the journalist is aware of the law of the country they are living in and any countries they are travelling to.
 - Be aware that even though the journalist may have encrypted materials they may be legally requested to decrypt the information by putting in their password if requested to do so by law enforcement.
 
@@ -59,19 +59,21 @@ Below are some common questions that journalists ask about this topic and prepar
 
 **How can I share documents more securely with my team?**
 
-This is a really good question and the type of questions journalists should be asking around securing materials. It can be helpful here to get the journalists thinking about the digital risk associated with the story and to walk through any best practice and tools they could use. In most cases, it is a good idea to just use the same tools you would usually use for collaboration, such as Google Drive or O365. If you are working on a particularly sensitive investigation, it might be necessary to modify or implement a special toolset instead.
+This is a really good question and the type of questions journalists should be asking around securing materials. It can be helpful here to get the journalists thinking about the digital risk associated with the story and to walk through any best practice and tools they could use. In most cases, it is a good idea to just use the same tools you would usually use for collaboration, such as Google Drive or O365. It's important to regularly audit whom the files are being shared with, remove access from people who are no longer in the project or organization, and ensure that everybody in the project uses long, unique passwords, two-factor authentication, and keeps their devices up to date to reduce the risk of their accounts being broken into. If you are working on a particularly sensitive investigation, it might be necessary to modify or implement a special toolset instead.
 
 **If I delete a document from my device could it be recovered?**
 
-Getting the journalist to think about who would be interested in recovering documents from their devices and the tech capacity of that adversary is important here. Explain that documents can be recovered by tech experts even after they have been deleted. If the threat to the journalist comes from a government then they should be encouraged to think of different scenarios for storing documents.
+Getting the journalist to think about who would be interested in recovering documents from their devices and the tech capacity of that adversary is important here. Advanced adversaries might be able to recover documents that were deleted off unencrypted drives, while adversaries with even more sophisticated forensics capabilities could try to recover other types of content as well, though this is time-consuming, expensive, and success is hardly guaranteed. If journalists are very concerned about well-resourced governments accessing files that have been deleted from their devices, they could use a special program which securely deletes content off a drive, do a factory reset of the device (which will reset encryption keys and make the old contents of the drive inaccessible), and possibly physically destroy the drive.
 
 **Is it safer to print out my documents and keep them in my home than store them online?**
 
-Try to understand what the journalist is worried about when they use the word safer. For example, are they concerned about people obtaining the documents or do they have concerns about spyware? Speak with them about their threat model and risk assessment: are they, for example, worried about someone entering their house or office? Are they mostly concerned about foreign or domestic adversaries? Things they need to consider include: are they at risk of detention and/or arrest, is their home or office secure, how does their online provider deal with subpoenas?
+Try to understand what the journalist is worried about when they use the word safer. For example, are they concerned about people obtaining the documents or do they have concerns about spyware? Do they want to show the physical documents to others and are worried that they would take a photo or a screenshot if they received a digital version?
+Speak with them about their threat model and risk assessment: are they worried about someone entering their house or office? Are they mostly concerned about foreign or domestic adversaries? Things they need to consider include: are they at risk of detention and/or arrest, is their home or office secure, how does their online provider deal with subpoenas?
+Even if a journalist prints out documents for safekeeping, those documents were likely processed in other ways: they might have been received via email or a copy thereof might reside on a cloud service. For this reason, we generally recommend against keeping print copies, with the exception of specific threat models, for example showing a document to a source the journalist might not trust and wanting to make sure they do not make a copy thereof.
 
 **How can I secure film footage and other heavy files?**
 
-Journalists working with heavy files face more challenges when it comes to securing their materials. This is because they may be working in locations with poor internet connectivity, making it harder to upload to the cloud or they need to cross borders with sensitive footage. It’s important to get journalists thinking about their own individual risk and to think through options for securing materials. For those in a fixed location, backing up materials to several external encrypted hard drives and storing them in different locations will likely be the best option. Check out the Freedom of the Press Foundation's and Field of Vision's [guide to digital security for filmmakers](https://www.digitalsecurity.film/) if you will be working with a lot of data and big files.
+Journalists working with large files face more challenges when it comes to securing their materials. This is because they may be working in locations with poor internet connectivity, making it harder to upload to the cloud or they need to cross borders with sensitive footage. It’s important to get journalists thinking about their own individual risk and to think through options for securing materials. For those in a fixed location, backing up materials to several external encrypted hard drives and storing them in different locations will likely be the best option. Check out the Freedom of the Press Foundation's and Field of Vision's [guide to digital security for filmmakers](https://www.digitalsecurity.film/) if you will be working with a lot of data and big files.
 
 </div>
 
@@ -91,11 +93,11 @@ At the end of the session journalists:
 
 ## Templates and tools
 
-The following templates and tools can be useful for teaching this session:
+The following tools can be useful for teaching this session:
 
-- [Veracrypt](https://www.veracrypt.fr/code/VeraCrypt/) for encrypting external hard drives, USB sticks, and SD card
+- [Veracrypt](https://www.veracrypt.fr/code/VeraCrypt/) for encrypting external hard drives, USB sticks, and SD cards
 - [Cryptomator](https://cryptomator.org/) for encrypting individual documents
-- Danger Zone for infected documents
+- [Dangerzone](https://dangerzone.rocks/) for turning suspicious files (documents which you suspect could contain malware) into safe PDFs
 - [Template for backing up data](https://docs.google.com/spreadsheets/d/1F8ZYjnKgKa0phb368_LqjeIZMjapAWAnX6hYL5TgXaA/edit#gid=0)
 - [Risk assessment template](/digital-risk-assessment-template)
 
@@ -123,7 +125,7 @@ Guides on protecting your [Windows](https://securityplanner.consumerreports.org/
 
 ## Activities
 
-The activities below are designed to accompany this training session on protecting materials. Trainers should feel free to use their own activities as well as to adapt the materials in this guide to best suit the needs of the journalists they are training. The number and type of activities selected will depend on the level of knowledge of the trainer as well as the amount of time the trainer has to spend with the participants. For those new to training in digital safety, don’t forget to review the section, Training digital security for the first time?, for best practice guidance.
+The activities below are designed to accompany this training session on protecting materials. Trainers should feel free to use their own activities as well as to adapt the materials in this guide to best suit the needs of the journalists they are training. The number and type of activities selected will depend on the level of knowledge of the trainer as well as the amount of time the trainer has to spend with the participants. For those new to training in digital safety, don’t forget to review the section, [Training digital security for the first time?](#training-digital-security-for-the-first-time), for best practice guidance.
 
 ### Getting started
 
@@ -187,7 +189,7 @@ _This activity has been amended from the Level Up chapter how to secure your com
 
 ❷ **Step two**
 
-- Share the [backup template](https://docs.google.com/spreadsheets/d/1F8ZYjnKgKa0phb368_LqjeIZMjapAWAnX6hYL5TgXaA/edit#gid=0) with the group. Explain that they are going to work individually to complete it with some general examples of data that they need to backup. Get them to focus on personal data too, especially content that might be stored on their phones. Note that journalists may already be very familiar with backup data, especially if they work for more established newsrooms.
+- Share the [backup template](https://docs.google.com/spreadsheets/d/1F8ZYjnKgKa0phb368_LqjeIZMjapAWAnX6hYL5TgXaA/edit#gid=0) with the group. Explain that they are going to work individually to complete it with some general examples of data that they need to backup. Get them to focus on personal data too, especially content that might be stored on their phones. Note that journalists may already be very familiar with data backups, especially if they work for more established newsrooms.
 - Facilitate a discussion about the spreadsheet and its content. Questions you might want to touch upon include:
   - Are there any devices new or old that need backing up?
   - Is there any content that you think about backing up but then don’t get around to doing it?
@@ -207,16 +209,16 @@ _Trainer note: it is recommended that you carry out a live demonstration using a
 
 ❶ **Step one**
 
-- Explain that there are several ways to encrypt an external hard drive. Explain that Mac users can use the built in encryption tool called FireVault. Windows PC users, who have professional accounts, can use Windows’ Bitlocker and that there is a third-party service that all can use called FireVault.
+- Explain that there are several ways to encrypt an external hard drive. Explain that Mac users can use the built in encryption tool called FileVault. Windows PC users, who have professional accounts, can use Windows’ Bitlocker and that there is a third-party service that all can use called VeraCrypt.
 
 ❷ **Step two**
 
 - Tell the journalists that in order to encrypt the external hard drive you will need to think of and use a password. Speak about the importance of creating a strong password and use this time as an opportunity to review good password best practice. Highlight that it is better to think of this password in advance so you do not have to think of it when you are encrypting.
-- Explain that you are going to show how to encrypt data to an external hard drive using FireVault:
-  - Download Veracrypt
+- Explain that you are going to show how to encrypt data to an external hard drive using VeraCrypt:
+  - Download VeraCrypt
   - Connect the external hard drive to the computer via the USB port
   - Carry out a backup of the data on the external drive
-  - Follow the steps for encrypting the external hard drive. A detailed guide to this can be found in our resources section.
+  - Encrypt the external hard guide, following for example [this guide](https://freedom.press/training/encryption-toolkit-media-makers/veracrypt-guide/#encrypting-external-storage-devices-on-veracrypt)
 
 ❸ **Step three**
 
@@ -237,7 +239,7 @@ _Trainer note: it is recommended that you carry out a live demonstration using a
 
 </div>
 
-_Trainer note: it is recommended that you carry out a live demonstration using a laptop and projector set up. Best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter. This is a medium level activity and it is recommended that trainers are comfortable using the tool before teaching how to use it._
+_Trainer note: it is recommended that you carry out a live demonstration using a laptop and projector set up. Best practice for this activity can be found in the section, [Training digital security for the first time?](#training-digital-security-for-the-first-time), located at the beginning of this chapter. This is a medium level activity and it is recommended that trainers are comfortable using the tool before teaching how to use it._
 
 ❶ **Step one**
 
@@ -245,11 +247,11 @@ _Trainer note: it is recommended that you carry out a live demonstration using a
 
 ❷ **Step two**
 
-- Tell the journalists you are going to demonstrate to them how to encrypt a file of documents so that they can be stored easily and safely in a normal cloud storage service, such as Google.
+- Tell the journalists you are going to demonstrate to them how to encrypt documents so that they can be stored easily and safely in a normal cloud storage service, such as Google.
 - Tell the journalists that in order to encrypt a folder of documents you will need to think of and use a password. Speak about the importance of creating a strong password and use this time as an opportunity to review good password best practice. Highlight that it is better to think of this password in advance so you do not have to think of it when you are encrypting.
 - Explain that you are going to show them how to encrypt documents using Cryptomator.
   - Download the application
-  - Follow the steps for encrypting a file of documents. A guide to this can be found in our resources section.
+  - Follow the steps for encrypting a file of documents using a guide such as [this one](https://www.jyu.fi/digipalvelut/en/guides/data-security/securing-your-files-with-the-veracrypt-program) [_Note: the URL says that this guide talks about VeraCrypt but, as of September 2023, it provided an introduction to Cryptomator_]
 
 ❸ **Step three**
 
