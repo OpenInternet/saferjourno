@@ -8,26 +8,26 @@ toc = true
 
 ## Introduction
 
-This section contains activities and a case study designed to get journalists thinking about how best to protect their online accounts. This is especially important for media workers as they often use their personal accounts for work leaving them and their information more vulnerable to digital threats, including hacking attempts and targeted phishing campaigns.
+This section contains activities and a case study designed to get journalists thinking about how best to protect their online accounts. Many journalists also use their personal accounts for work leaving them and their information more vulnerable to digital threats, including hacking attempts and targeted phishing campaigns.
 
 This chapter will cover:
 
 - Best practice for managing content in accounts
 - How to create secure passwords and where to store them
-- What is two-factor authentication (2FA) and how to use it
+- What two-factor authentication (2FA) is and how to use it
 - Guidance for better protecting against phishing
 
 ## Training journalists for the first time?
 
 Take a look at our helpful guidance below:
 
-- Journalists are often using their online accounts for both personal and work purposes, especially if they are freelancers. This means they have a lot of sensitive content being stored in their personal accounts. Journalists should be encouraged where possible to separate out their accounts online into work accounts and personal accounts.
-- Journalists are often unaware of where information is being stored in their accounts and also on their devices. Highlight the importance of carrying out an audit of their accounts and regularly backing up and deleting content. Trainers may wish to look at chapter five of this guide for more details on how to do this.
-- Media outlets encourage journalists to use their personal social media for work purposes, including contacting sources. These accounts are more vulnerable to attack as they are public facing and outlets often do not offer journalists help to secure them.
-- Journalists are often having sensitive conversations with sources via social media platforms and/or email. They are often unaware that these communications are being stored by the tech platform and can be subpoenaed at a later date. It is important to tell journalists that even though they delete content, the company is still keeping a copy of that data. If sources are reaching out via social media, journalists should be encouraged to move conversations over to a more secure means of communication, such as Signal or WhatsApp. This will be covered more in the section on secure communications.
-- Media outlets often have out-dated guidance on best practice for passwords and two-factor authentication. It is important to acknowledge this and tell journalists you are teaching them the current best practice which they should use for all their personal accounts.
+- Journalists often use their online accounts for both personal and work purposes, especially if they are freelancers. This means they have a lot of sensitive content stored in their personal accounts. Journalists should be encouraged where possible to separate out their accounts online accounts into work and personal ones.
+- Journalists are often unaware of where information is being stored in their accounts and on their devices. Highlight the importance of carrying out an audit of their accounts and regularly backing up and deleting content. Trainers may wish to look at chapter five of this guide for more details on how to do this.
+- Media outlets sometimes encourage journalists to use their personal social media for work purposes, including contacting sources. These accounts are more vulnerable to attack as they are public facing and outlets often do not offer journalists help to secure them.
+- Journalists often have sensitive conversations with sources via social media platforms and/or email. These communications are being stored by the tech platform and can be subpoenaed at a later date (this means that someone, like a security service, can ask a court to give them access to the content of those accounts, though the company can challenge this in court). It is important to tell journalists that even though they delete content, the company is still keeping a copy of that data. If sources are reaching out via social media, journalists should be encouraged to move conversations over to a more secure means of communication, such as Signal or WhatsApp. This will be covered more in the chapter on secure communications.
+- Media outlets often have out-dated guidance on best practice for passwords and two-factor authentication. This outdated guidance might include recommending that journalists use short passwords with a lot of random-looking characters, or that they change their passwords frequently. It is important to acknowledge this and tell journalists that you are teaching them the current best practice which they should use for all their personal accounts. You can explain that some of this outdated guidance applied at a time when password and computer technology was a little different.
 - Journalists working for media outlets are likely to have questions around how best to share passwords with team members. This is often because more than one person needs access to the outlet’s official social media accounts. They are likely to be currently storing their passwords in a spreadsheet which they share with others.
-- Some journalists are at high risk of target phishing attacks. It is important for the trainer to highlight which governments or online threat actors typically use phishing techniques and share the tactics that they use in the local context. The trainer should provide practical guidance on how best to protect against phishing. Telling journalists not to click on links or documents is not feasible as journalists frequently need to do so for their work.
+- Some journalists are at high risk of targeted phishing attacks, which are skilfully crafted and can be difficult to detect. It is important for the trainer to highlight which governments or online threat actors typically use phishing techniques and share the tactics that they use in the local context. The trainer should provide practical guidance on how best to protect against phishing. Telling journalists not to click on links or documents is not feasible as journalists frequently need to do so for their work.
 - It’s important for journalists to understand their own risk profile when it comes to account security. The trainer should set aside time to complete the risk assessment document on account security.
 
 ## Training digital security for the first time?
@@ -52,8 +52,8 @@ _Two-factor authentication_
 - There are a number of different types of 2FA, including SMS, email, authenticator apps, and security keys. Which one your journalists use depends on the threats that they face.
 - You can add more than one 2FA option to an account. For example, an authenticator app and a security key. This is important because it stops people from being locked out of their accounts should they lose access to one form of their 2FA.
 - If a company offers 2FA it should also offer the option of saving a backup code or backup codes for that account. These are a one-time code that can be used should the journalist be unable to access their form of 2FA.
-- While SMS and email 2FA are suitable for the majority of people they may not be secure for journalists facing threats from governments and those with a high-level of tech capacity. This is because the code could be intercepted or accessed via the tele-communications company.
-- Where possible encourage journalists to use an authenticator app. These are easy to set up and free to use. There are a number of apps available. When choosing which authenticator app to use, look for features, such as the option to save your backup codes to the cloud.
+- While SMS is suitable for the majority of people they may not be secure for journalists facing threats from government actors or other very highly skilled actors. This is because the code could be intercepted or accessed via the tele-communications company. When teaching about 2FA, emphasize that SMS-based 2FA is far better than having no 2FA at all, but that we heavily encourage journalists to take up other forms of 2FA instead.
+- Where possible, encourage journalists to use an authenticator app. These are easy to set up and free to use. There are a number of apps available, and it's easiest to go with a mainstream one like Google Authenticator.
 - Security keys are physical devices that you link to your accounts. To link the key to your account you have to insert the key into your computer or phone, go to the account you want to add the key to and follow the steps to set up 2FA. It is advisable to have more than one key linked to the account in case of loss or theft. Keep one key with you, for example on your keychain, and store the other key somewhere safe. Once set up, when you log into your account you will need your email address, your password and you may be prompted to insert your security key. Security keys are an effective way to prevent phishing attacks. For more details, see the section on phishing below.
 
 _Passwords_
@@ -65,11 +65,11 @@ _Passwords_
 
 _Password managers_
 
-- Password managers are currently the most secure way to protect passwords. A password manager is a service that creates, stores and automatically fills out a password for an account. It can be downloaded as an app, used as a plug- in in a browser, and also accessed via a website.
+- Password managers are currently the most secure way to protect passwords. A password manager is a service that creates, stores and automatically fills out a password for an account. It can be downloaded as an app, used as a plug-in in a browser, and also accessed via a website.
 - There are a number of password managers available. When choosing a password manager, do an online search to see if the company has had any security breaches, check to see if they do discounted accounts for journalists and media outlets, and review any special features they may have, such as a travel mode.
 - Ensure that the password manager is protected by a long and unique password. It may help to think of the password before downloading the password manager.
 - When a journalist adds an account to their password manager they should ensure they generate a new password for it.
-- Password managers help protect against phishing attacks where the attacker creates a fake login page, for example a fake login for Gmail. This is because a password manager will not fill out a password on a fake webpage.
+- Password managers help protect against a type of phishing attack where the attacker creates a fake login page, for example a fake login for Gmail. Those types of attacks will use a fake URL, such as gmaiil\[.\]com. Since a password manager will read a websit's URL and only fill it in if the URL matches that of the real website, it will be able to spot and prevent such an attack.
 
 _Phishing_
 
