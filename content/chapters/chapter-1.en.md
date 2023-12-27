@@ -10,20 +10,16 @@ toc = true
 
 Journalists face a wide range of digital threats because of the work that they do. These threats range from online abuse to hacking to spyware and they have serious consequences both for the journalists themselves as well as for freedom of expression. Even though these challenges are significant, there are steps that journalists can take to protect themselves. The first of those steps is understanding digital risk and how to mitigate it.
 
-This chapter will cover:
-
-- Risks associated with using technology
-- Introducing the risk assessment process.
 
 ## Training journalists for the first time?
 
 Take a look at our helpful guidance below:
 
 - Journalists face a wide array of digital threats because they are often revealing information that others do not want made public and also because journalists are usually public facing and need to have a presence online. This makes them, unfortunately, an easy target for digital attacks.
-- Not all journalists face the same digital risks. What risks they face depend on a series of factors including, what topics they are reporting on, who may wish to target them and the tech capacity of those people, which country they are based in and the tech capacity of that government, how tech-savvy the journalist is, and whether they have already been identified as a person to target.
-- While journalists know that digital security is an important issue they may not have time to dedicate to increasing their security.
-- Journalists may be using outdated digital safety advice giving them a false sense of security about their safety.
-- They are often using their personal devices for work and they will generally have very little separation between their work and personal life both online and off.
+- Not all journalists face the same digital risks. What risks they face depend on a series of factors including what topics they are reporting on, who the people or groups who want to target them are (adversaries) and what their tech knowledge and capacity are, which country the journalists and their adversaries are based in and the tech capacity of that government, how tech-savvy the journalists are, and whether they have already been identified as targets.
+- While journalists know that digital security is an important issue they may not have time to dedicate to it.
+- Journalists may be using outdated digital safety advice.
+- Journalists often use their personal devices for work; they frequently have very little separation between their work and personal life both online and off.
 - A digital risk assessment is a document with questions that helps journalists think about the digital risks they face as well as ways to reduce the risks. Journalists may or may not be familiar with risk assessments as they may have had to complete a physical risk assessment for some stories.
 
 ## Training digital security for the first time?
@@ -31,17 +27,17 @@ Take a look at our helpful guidance below:
 This section covers best practice that can be used when teaching the activities in this chapter. See the resources section in this chapter for further reading.
 
 - Journalists face a wide-range of digital risks. This is because of the nature of their work and because they are often publishing information that others do not want made public.
-- Adversaries will target a journalist in a number of ways and for a number of reasons. Some common threats include;
-  - Taking over accounts to obtain information saved therein or in order to post information that could discredit the journalist.
+- Adversaries will target a journalist in a number of ways and for a number of reasons. Some common threats include:
+  - Taking over accounts to obtain information saved therein or in order to post information that could discredit the journalist
   - Seizing devices or infecting them with spyware
-  - To obtain information contained on those devices, including documents, access to accounts, intercept communications
+  - Obtaining information contained on those devices, including documents, access to accounts, intercept communications
   - Monitoring their internet activity
-  - To gain information on their research and who they are contacting
+  - Gaining information on their research and who they are contacting
   - Intercepting communications
-  - To gain data on who they are speaking to and when
+  - Figuring out who they are speaking to and when
   - Online abuse
-  - To discredit the journalist and try to undermine their reputation, to get them to stop publishing content, or to force them offline.
-- Getting the journalist to understand who may wish to target them and the tech capacity of that adversary is an important part of keeping them safer. For example governments have access to high-levels of tech ability as well as financing to hire others to commit digital threats on their behalf. Non-government adversary can also have plenty of time, determination, or advanced tooling. Research the tech and operational ability of an adversary by carrying out an online search with the name of the attacker plus keywords, such as hacking, spyware, online attacks.
+  - Attempting to discredit the journalist and try to undermine their reputation, to get them to stop publishing content, or to force them offline.
+- Getting the journalist to understand who may wish to target them and the tech capacity of that adversary is an important part of keeping them safer. Governments, for example, have access to high-levels of tech ability as well as financing to hire others to commit digital threats on their behalf. Non-government adversaries can also have plenty of time, determination, or advanced tooling. Research the tech and operational ability of an adversary by carrying out an online search with the name of the attacker plus keywords, such as hacking, spyware, online attacks.
 - Recommend that journalists stay up-to-date with digital security issues by signing up to tech newsletters produced by media outlets in their region. [Security News This Week](https://www.wired.com/tag/security-news-this-week/) is an excellent global newsletter, though it is US-centric at times.
 - A digital risk assessment is a document with questions that helps journalists think about the digital risks they face as well as ways to reduce the risks. At the end of each section of this course, journalists have the option of completing a section of a risk assessment.
 
@@ -62,15 +58,15 @@ Below are some common questions that journalists ask about account security. It 
 
 **What is a digital security risk assessment?**
 
-Explain that it is a document with questions that help the journalist think through risks that they could face as well as steps to take to reduce that risk. Tell them that ideally the risk assessment would be completed with support from an editor and the final copy shared with the editor and/or the team the journalist is working with. Point out that it is important to do a risk assessment for all stories that could include digital risk. This could include stories that involve contacting sensitive sources, receiving sensitive information or may involve digital risks, such as device seizure or hacking of accounts amongst others.
+Explain that it is a document with questions that help the journalist think through risks that they could face as well as steps they could take to reduce that risk. Tell them that ideally the risk assessment would be completed with support from an editor and the final copy shared with the editor and/or the team the journalist is working with. Point out that it is important to do a risk assessment for all stories that could include digital risk. This could include stories that involve contacting sensitive sources, receiving sensitive information or may involve digital risks, such as device seizure or hacking of accounts amongst others.
 
 **Why do I have to complete a risk assessment?**
 
-Completing a risk assessment is the best way of being able to predict risk and then mitigate it. It will give journalists time to carry out any security steps they may need to take in advance of a story. This means, if there is a security issue, the journalist will have already put all the steps in place to ensure they are as safe as possible and they will know what to do if there is an incident.
+Completing a risk assessment is the best way of being able to predict risk and then mitigate it. It will give journalists time and space to carry out any security steps they may need to take in advance of a story. This means, if there is a security issue, the journalist will have already put all the steps in place to ensure they are as safe as possible and they will know what to do if there is an incident.
 
 **Once I have completed the risk assessment what should I do with it?**
 
-Explain that it is important to share that risk assessment with the editor or others in the newsroom who may need access to it. If the risk assessment contains sensitive data then the journalist should consider encrypting the document before sharing it with others via an end-to-end encrypted service, such as WhatsApp. Details on how to do that can be found in chapters five and six of this course.
+Explain that it is important to share that risk assessment with the editor or others in the newsroom who may need access to it. If the risk assessment contains sensitive data then the journalist should restrict its distribution and only share it through encrypted channels, which this guide will cover in more detail in chapters five and six.
 
 </div>
 
@@ -114,7 +110,7 @@ The following resources may be helpful for teaching this chapter:
 
 ## Activities
 
-The activities below are designed to accompany this training session on account security. Trainers should feel free to use their own activities as well as to adapt the materials in this guide to best suit the needs of the journalists they are training. The number and type of activities selected will depend on the level of knowledge of the trainer as well as the amount of time the trainer has to spend with the participants. For those new to training in digital safety, don’t forget to review the section, Training digital security for the first time?, for best practice guidance.
+The activities below are designed to accompany this training session on account security. Trainers should feel free to use their own activities as well as to adapt the materials in this guide to best suit the needs of the journalists they are training. The number and type of activities selected will depend on the level of knowledge of the trainer as well as the amount of time the trainer has to spend with the participants. For those new to training in digital safety, don’t forget to review the [_Training digital security for the first time?_](#training-journalists-for-the-first-time) section for best practice guidance.
 
 ### Getting started
 
