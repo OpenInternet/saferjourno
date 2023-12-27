@@ -100,7 +100,7 @@ What steps will you take in the future to ensure that your devices and the conte
 
 ### For the trainer
 
-This case study is designed to get participants talking about mobile phone security. Iit can be used to consolidate knowledge learned during the module. 
+This case study is designed to get participants talking about mobile phone security. It can be used to consolidate knowledge learned during the module. 
 
 Talking points to consider include:
 
@@ -122,9 +122,9 @@ While in detention, he was interrogated and his phone, laptop, camera and footag
 
 McAllister, an experienced journalist who had previously made award-winning documentaries in Yemen and Iraq, had entered the country undercover at a time when the Syrian government had clamped down on visits from foreign journalists. 
 
-Prior to his detention, McAllister had been in touch with a 25-year old Syrian dissident and computer expert, named “ Kardokh”, who had agreed to help put him in touch with other activists. “Any journalist who was making the effort to show the world what was happening, that was a very important thing to us,” he told the Columbian Journalist Review. 
+Prior to his detention, McAllister had been in touch with a 25-year old Syrian dissident and computer expert, named Kardokh, who had agreed to help put him in touch with other activists. “Any journalist who was making the effort to show the world what was happening, that was a very important thing to us,” he told the Columbian Journalist Review. 
 
-He agreed to be interviewed on camera showing his face as long as McAlllister blurred out his face before publishing. However, he soon became concerned about the lack of digital safety practices carried out by the journalist. He stated that he felt McAllister didn’t understand how aggressive the regime’s surveillance practices were. And while he and other activists took great steps to mask their identities using encryption, the activist saw that McAllister was not. “I started to feel that Sean was careless,” he said. He urged McAlllister to take more care with his communications and to encrypt his footage. “He was using his mobile and SMS without taking any precautions,” he said.  
+He agreed to be interviewed on camera showing his face as long as McAlllister blurred out his face before publishing. However, he soon became concerned about the lack of digital safety practices carried out by the journalist. He stated that he felt McAllister didn’t understand how aggressive the regime’s surveillance practices were. And while he and other activists took great steps to mask their identities using encryption, the activist saw that McAllister was not. “I started to feel that Sean was careless,” he said. He urged McAllister to take more care with his communications and to encrypt his footage. “He was using his mobile and SMS without taking any precautions,” he said.  
 
 After McAllister was arrested, the Syrian activist community panicked. Kardokh immediately turned off his phone and fled, eventually arriving in Lebanon. Others who had spoken to McAllister also left the country and several of those who didn’t were arrested. “I was happy I didn’t put him in contact with more people,” Kardokh stated.
 
@@ -177,7 +177,7 @@ In 2022, hackers broke into the systems of a company called Twilio. Twilio is a 
 
 One of the organisations impacted by the hack was the secure messaging app, Signal, with 1,900 users of the app being targeted. Signal uses SMS for its app in the following way: upon downloading Signal, a user is sent an SMS message with a code that is used to register the account. This meant that the hackers may have been able to register the user’s Signal account on their own devices by requesting and receiving the code, effectively being able to impersonate the user.
 
-Out of the 1,900 accounts, the hackers were only interested in three accounts, one of those was a journalist working for Vice Motherboard, the US news outlet. The hackers attempted to re-register his account on another device and took over his number for 13 hours. 
+Out of the 1,900 accounts, the hackers were only interested in three accounts, one of those was a journalist working for Vice Motherboard, a cybersecurity-focused US news outlet. The hackers attempted to re-register his account on another device and took over his number for 13 hours. 
 
 The attackers were able to gain access to his account because the journalist had not enabled a security feature of Signal called Registration Lock. Once Registration Lock is set up it will ask you to set up a PIN number. This number will be required for all future registrations of an account on new devices.  
 
@@ -227,7 +227,7 @@ A joint investigation by the Kyrgyz independent news outlet, Kloop, Radio Free E
 
 In response to the attack, Kloop spent months investigating these fake accounts, tracing 800 of them, including a number that were harassing journalists, to five groups on the internet which they called “fake farms.”
 
-Dealing with these fake accounts is complicated. Kloop spends time monitoring their social media accounts looking for fake accounts and contacting people whose photos have been stolen and are being used as the face of a fake account. “If I saw a profile that used, for example, a photo of a Mongolian model, I would find that model and say, “Your photo was stolen by a fake \[profile] employed by corrupt Kyrgyz officials. Could you log in from your account and complain?” This way we managed to block several accounts,” Kloop news editor Aidai Irgebayeva told CPJ.
+Dealing with these fake accounts is complicated. Kloop spends time monitoring their social media accounts looking for fake accounts and contacting people whose photos have been stolen and are being used as the face of a fake account. “If I saw a profile that used, for example, a photo of a Mongolian model, I would find that model and say, “Your photo was stolen by a fake \[profile\] employed by corrupt Kyrgyz officials. Could you log in from your account and complain?” This way we managed to block several accounts,” Kloop news editor Aidai Irgebayeva told CPJ.
 The response of targeted journalists to online harassment is mixed: some have reduced their online activity whilst others have learned to evaluate the risks and are continuing to do their work. 
 
 **Source: the Committee to Protect Journalists, 2021** 
