@@ -8,7 +8,7 @@ toc = true
 
 ## Introduction
 
-Communicating with sources is a vital part of a journalist’s job. They are increasingly in contact with others using a range of different platforms and they are often unsure as to how secure their conversations are. This chapter helps journalists to make informed decisions around the tools they use to contact others based on their individual risk profiles.
+Communicating with sources is a vital part of a journalist’s job. They are increasingly in contact with others using a range of different platforms and they are often unsure as to how secure their conversations are. This chapter helps journalists make informed decisions around the tools they use to contact others based on their individual risk profiles.
 
 This chapter will cover:
 
@@ -21,9 +21,9 @@ This chapter will cover:
 The following can be helpful to keep in mind:
 
 - Journalists are in contact with a wide range of people on a regular basis using all forms of communication methods in order to do so.
-- There is little to no separation between work and personal contact details meaning people are able to contact them on their personal accounts and numbers at any time. This leads to an increased risk of harassment and digital surveillance.
-- Fact checkers and reporters covering breaking news are often using their personal social media accounts to contact sources, leading to increased levels of digital harassment.
-- Journalists are normally using their personal mobile phone number for work purposes. That number will have been shared widely with people ranging from government officials to criminals. They will not want to change this number as it is one of the main ways people can contact them.
+- There is often little to no separation between work and personal contact details meaning people are able to contact them on their personal accounts and numbers at any time. This leads to an increased risk of harassment and digital surveillance.
+- Many journalists often use their personal social media accounts to contact sources, leading to increased levels of digital harassment.
+- Journalists normally use their personal mobile phone number for work purposes. That number will have been shared widely with people ranging from government officials to criminals. They will not want to change this number as it is one of the main ways people can contact them.
 - There is a lot of resistance from journalists to have two phones, one for work and one for personal use. It’s important to understand whether the journalist needs two numbers or do they need two devices. This will depend on their individual risk assessment.
 - It is best to recommend that their current phone number stays as their work number and they get a new number for personal use.
 - Newsrooms often do not have a budget to supply their staff with work phones and if there is an IT department they will generally not help staff secure their personal accounts, including social media, despite the fact they are using those accounts for work purposes.
