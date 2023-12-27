@@ -8,7 +8,7 @@ toc = true
 
 ## Introduction
 
-Online abuse is increasingly used by governments, and organised online groups as a way to discredit and undermine journalists and media outlets. Harassers comb the internet looking for a journalist’s personal data and use this information to threaten and intimidate them and their families. These attacks are often accompanied by other digital threats, such as hacking of accounts, phishing attacks, or doxxing. This chapter walks journalists through the best practice needed in order to better secure their data.
+Online abuse is increasingly used by governments, individuals, and organised online groups as a way to discredit and undermine journalists and media outlets. Harassers comb the internet looking for a journalist’s personal data and use this information to threaten and intimidate them and their families. These attacks are often accompanied by other digital threats, such as hacking of accounts, phishing attacks, or doxxing. This chapter walks journalists through the best practice needed in order to better secure their data.
 
 This chapter will cover:
 
@@ -20,13 +20,13 @@ This chapter will cover:
 
 The following can be helpful to keep in mind:
 
-- Journalists need to have an online presence in order to do their job. Help them understand what data is fine to share and what data is best kept private. This includes data that can be used to locate them, contact them via a means they do not want, and data that can be used to verify their identity, such as their identity document.
-- Since the growth of social media, journalists have been encouraged to share a great deal of personal data online as a way to connect with their audience. This data is now being used to harass and intimidate them.
+- Journalists need to have an online presence in order to do their job. This involves negotiating and differentiating between the data about them that they are willing to share with the world, and data that they would rather keep private. Family and relationship details, living locations, and health data might all fall into the latter category.
+- Since the growth of social media, journalists have been encouraged to share a great deal of personal data online as a way to connect with their audience. Some of this data is now being used to harass and intimidate them.
 - Journalists often have very little separation online between their work and their personal life. This makes them more vulnerable to harassment and abuse because people are able to harass them using a range of online platforms as well as via phone and email.
-- Online abuse can also include a range of other digital threats, including account hacking, spear phishing, impersonation, and doxxing amongst others.
-- Women journalists and diverse journalists, for example journalists who are part of the LGBTQI+ community, are disproportionately targeted by online harassment. This abuse will include misogynistic, racist and homophobic messages which often contain threats of physical violence against the journalist and his or her family.
-- Newsrooms are unlikely to have measures in place to protect journalists from online harassment. This includes a lack of IT support for social media accounts as these do not fall under the remit of a work account even though they are being used for work purposes.
-- Online abuse is being weaponized by a range of online actors, including governments, as a way to limit freedom of expression.
+- Online abuse can also include a range of other digital threats, including account hacking, spear phishing, impersonation, and doxxing amongst others. Many of those threats do not need to be successful in order to have a chilling or deterring effect.
+- Women journalists and journalists from marginalized communities, for example LGBTQIA+ journalists, are disproportionately targeted by online harassment. This abuse will include misogynistic, racist and homophobic messages which often contain threats of physical violence against the journalist and his or her family.
+- Newsrooms often lack sufficient measures protect journalists from online harassment. This includes a lack of IT support for social media accounts as these do not fall under the remit of a work account even though they are being used for work purposes.
+- Online abuse is being weaponized by a range of online actors, including governments, as a way of limiting freedom of expression by discouraging journalists from pursing their reporting and trying to force them into quitting public life altogether.
 - The more journalists can do to protect their data in advance of an attack, the safer they will be.
 
 ## Training digital security for the first time?
@@ -36,22 +36,22 @@ This section covers best practice that can be used when teaching the activities 
 _General best practice_
 
 - There are a wide-range of people who attack journalists online these include; state actors and people working for governments who are paid to harass others online, lone harassers, online groups that are well organised and may often work across borders, supporters of a particular subject that has relevance for the country, including topics such as race, gender and women’s health.
-- Online abusers use a wide-range of tactics against journalists. Pen America has a detailed guide to these tactics which you can read here. Some of the most common include;
+- Online abusers use a wide range of tactics against journalists. PEN America [has a detailed guide](https://onlineharassmentfieldmanual.pen.org/) to these tactics which you can read here. Some of the most common ones include;
 
   - Concern trolling\
-    When an abuser appears to support a journalist's work but instead uses the message to make demeaning comments
+    An abuser appears to support a journalist's work but instead uses the message to make demeaning comments
   - Doxing\
-    When personal data, such as home address, is circulated online often with the implication of personal harm
+    Personal data, such as home address, is circulated online often with the implication of personal harm
   - Impersonation\
-    Creating fake accounts in the name of the journalist in order to publish content that could damage their reputation.
+    Abusers create fake accounts in the name of the journalist in order to publish content that could damage their reputation.
 
 - A number of tactics involve other digital threats, such as account hacking and phishing. More information on how to protect against these types of attacks can be found in chapter two.
-- Get journalists to understand what data is best kept offline. This includes data that can be used to locate them, data that can be used to contact them via a means they do not want, and data that can be used to steal their identity. Examples of these types of data include, a journalist’s home address, their personal email address, and their identity number. This data may already be available online. If this is the case, then the journalists should try to remove it. If that is not possible then it is important to highlight that at least they know the data is there and that it could be used to target them.
+- Get journalists to understand what data is best kept offline. This includes data that can be used to locate them, data that can be used to contact them via a means they do not want, and data that can be used to steal their identity. Examples of these types of data include a journalist’s home address, their personal email address, and their identity number. This data may already be available online. If this is the case, then the journalists should try to remove it. If that is not possible then it is important to highlight that at least they know the data is there and that it could be used to target them.
 - Online harassers often get a lot of personal data about a journalist from the social media accounts of the journalist’s family members. It’s important that journalists speak with family members about the risks and that they actively help their family to secure these accounts.
 - Journalists should set calendar reminders to regularly look themselves up online. How often this is will depend on the risk that they face. High-risk individuals may want to look themselves up every month while others may be happy only checking every six months.
 - Get journalists to set [Google alerts](https://support.google.com/websearch/answer/4815696?hl=en) for their name, common misspellings of their name, and other personal data, such as their date of birth. This will send the journalist any data about them that is picked up by the Google search engine.
 
-_Searching for personal data on the internet_
+_Searching for personal data online_
 
 - Use Boolean search techniques, also known as Google Dorking, to get more accurate results. You can read more about that [here](https://support.google.com/websearch/answer/2466433?hl=en). Some useful ones to discuss include:
   - `#` to search for hashtags
@@ -59,16 +59,16 @@ _Searching for personal data on the internet_
   - Cache: to search for cached results
   - PDF: to search for PDFs.
 - Check video and photo content as well as websites. You can carry out an [advanced image search](https://www.google.com/advanced_image_search) to look for a particular photo and its location on the internet.
-- Use all search engines, not just Google. Different search engines throw up different results so it’s important to check them all. If applicable, journalists should check Yandex and Baidu, the Russian and Chinese search engines.
+- Use all search engines, not just Google. Different search engines throw up different results so it’s important to check them all. If applicable, journalists should check Yandex and Baidu, Russian and Chinese search engines.
 - Review personal social media accounts to see what information is available to view publicly. Most major platforms now have a privacy guide which users can follow. Review privacy settings for [Facebook]
   (https://www.facebook.com/help/443357099140264), [Instagram](https://help.instagram.com/196883487377501), [Twitter](https://help.twitter.com/en/safety-and-security), [TikTok](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings).
 
 _Removing or limiting access to data from the internet_
 
 - Once personal data is put on the internet and then deleted it is impossible to guarantee that it has been completely removed from the web. This is because the information is likely to be stored in different places, including the accounts of others, public databases, captured by others using screenshots, and archived in online archive services, such as the Wayback Machine. Despite this, it is still important to delete content where possible because it will make it more difficult for online attackers to obtain the information.
-- If the journalist is in control of the site that the content is on, for example their personal Facebook page, then they can go in and backup the content and then delete or hide it. The information will disappear from the site but won’t disappear immediately from a search engine result.
+- If the journalist is in control of the site that the content is on, for example their personal Facebook page, then they can go in and back up the content and then delete or hide it. The information will disappear from the site but won’t disappear immediately from a search engine result.
 - Common best practice for protecting data on social media accounts includes:
-  - Choosing to use the social media account for either work or personal use
+  - Choosing to use the social media account for either exclusively work or personal use
   - Making non-work related personal media accounts private
   - Using a non-descript photo, such as a plant or animal, as the photo for their social media account
   - Reviewing who follows or who is friends with the account holder and removing people who are unknown or they no longer communicate with
@@ -77,7 +77,7 @@ _Removing or limiting access to data from the internet_
   - Some social media sites give the option to remove the site and their name from showing up in search engine results.
   - Controlling who can see, tag, and download photos and videos
 - Journalists should speak with family and friends about removing or hiding their personal data from their social media accounts.
-- Data is likely to be stored on third-party platforms, these are platforms over which the journalists have no control. Examples of third-party platforms include government databases, a website run by someone they don’t know, and websites run by companies. They may or may not take down personal data depending on laws, terms and conditions of the site, and whether they want to take it down or not. Each site will have their own steps for requesting the removal of data.
+- Data is likely to be stored on third-party platforms over which the journalists have no control. Examples of third-party platforms include government databases, a website run by someone they don’t know, and websites run by companies. They may or may not take down personal data depending on laws, terms and conditions of the site, and whether they want to take it down or not. Each site will have their own steps for requesting the removal of data.
 - Journalists should review internet archive services to see if their personal data is available and request to have it removed.
 - Journalists may wish to blur out their house on Google Maps and Apple Maps. This will stop online abusers being able to use the internet to see what the outside of a journalist’s house looks like.
 
@@ -85,19 +85,19 @@ _Removing or limiting access to data from the internet_
 
 When speaking about the risk assessment and personal security plan it may be helpful to touch upon the following:
 
-- Help journalists think through what groups may target them online and the strategies that these groups use. To do this, the journalist may want to speak to other journalists in their network to see whether they are also experiencing similar attacks. They can also carry out online searches using the name of the adversary and key words such as online attack, online abuse, doxxing amongst others.
-- Journalists should know what data is fine to share online and what data is best kept private. More details on this can be found at the beginning of this chapter.
-- Journalists should speak to family about what data they are happy to share online and what data they would like to keep private. They should work with their family to secure their family members’ account and be aware that if an abuser can not locate the journalist online they may well target their family.
+- Help journalists think through what groups may target them online and the strategies that these groups use. To do this, the journalist may want to speak to other journalists in their network to see whether they are also experiencing similar attacks. They can also carry out online searches using the name of the adversary and key words such as _online attack_, _online abuse_, _doxxing_ amongst others.
+- Journalists should know what data is fine to share online and what data is best kept private.
+- Journalists should speak to family about what data they are happy to share online and what data they would like to keep private. They should work with their family to secure their family members’ account and be aware that if an abuser cannot locate the journalist online they may well target their family.
 
 <div class="faq">
 
 ## Common questions asked
 
-Below are some questions that journalists ask about safer communications. It can be helpful to have answers prepared for these in advance. More detailed guidance is available in the section named Teaching digital security for the first time?
+Below are some questions that journalists ask about safer communications. It can be helpful to have answers prepared for these in advance. More detailed guidance is available in the section named [Training digital security for the first time?](#training-digital-security-for-the-first-time)
 
 **I have so much information online. Where is a good place to start when it comes to removing it?**
 
-Journalists have a lot of public-facing data on the internet and they often need to do so for their career. Explain that it is not about removing everything, but instead they should focus on data that can be used to locate them, such as their home address, information that can be used to contact them via a means they do not want, such as a personal email address, and data that can be used to steal their identity, including their date of birth and their national ID number. They should also take steps to remove details about their family, including photos. Ideally, the only information they should have online is professional contact details, professional photos, and their journalistic work.
+Journalists have a lot of public-facing data on the internet and they often need to do so for their career. Explain that becoming safer does not mean removing everything; instead, they should focus on removing data that can be used to locate them, such as their home address, information that can be used to contact them via a means they do not want, such as a personal email address, and data that can be used to steal their identity, including their date of birth and their national ID number. They should also take steps to remove details about their family, including photos. Ideally, the only information they should have online is professional contact details, professional photos, and their journalistic work.
 
 **How can I remove my data online?**
 
@@ -147,7 +147,7 @@ The following resources may be helpful for teaching this chapter:
 
 [The Chilling: A global study of online violence against women](https://www.icfj.org/sites/default/files/2023-02/ICFJ%20Unesco_TheChilling_OnlineViolence.pdf) by UNESCO and the International Centre for Journalists
 
-[What is online abuse?](https://onlineharassmentfieldmanual.pen.org/what-is-online-abuse/) by Pen America’s Online Harassment Field Manual
+[What is online abuse?](https://onlineharassmentfieldmanual.pen.org/what-is-online-abuse/) by PEN America’s Online Harassment Field Manual
 
 [Refine web searches](https://support.google.com/websearch/answer/2466433?hl=en) by Google
 
@@ -163,7 +163,7 @@ The following resources may be helpful for teaching this chapter:
 
 ## Activities
 
-The activities below are designed to accompany this training session on online abuse. Trainers should feel free to use their own activities as well as to adapt the materials in this guide to best suit the needs of the journalists they are training. The number and type of activities selected will depend on the level of knowledge of the trainer as well as the amount of time the trainer has to spend with the participants. For those new to training in digital safety, don’t forget to review the section, Training digital security for the first time?, for best practice guidance.
+The activities below are designed to accompany this training session on online abuse. Trainers should feel free to use their own activities as well as to adapt the materials in this guide to best suit the needs of the journalists they are training. The number and type of activities selected will depend on the level of knowledge of the trainer as well as the amount of time the trainer has to spend with the participants. For those new to training in digital safety, don’t forget to review the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section for best practice guidance.
 
 ### Getting started
 
@@ -184,7 +184,7 @@ _Best practice for this activity can be found in the section, Training digital s
 ❶ **Step one**
 
 - Show the journalists some case studies of online abuse against journalists in the region and ask them whether they are familiar with them.
-- Out the journalists into small groups and ask them to discuss other cases that they might know of. It may help to get them thinking about the following questions; Are there any similarities between the cases in the way the journalists are attacked? What reasons are there for the attack? Are they able to identify who may be behind the attacks?
+- Put the journalists into small groups and ask them to discuss other cases that they might know of. It may help to get them thinking about the following questions; Are there any similarities between the cases in the way the journalists are attacked? What reasons are there for the attack? Are they able to identify who may be behind the attacks?
 - Facilitate a group feedback session on the questions above.
 
 ❷ **Step two**
@@ -223,7 +223,7 @@ Ask the journalists whether they are familiar with any of these tactics. Ask the
 
 _Trainer note: this session requires journalists to look themselves up online and share some details about what they find. Let the journalists know that they do not have to share information if they do not feel comfortable doing so._
 
-_Best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter._
+_Best practice for this activity can be found in the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section located at the beginning of this chapter._
 
 ❶ **Step one**
 
@@ -236,7 +236,7 @@ _Best practice for this activity can be found in the section, Training digital s
 
 ❸ **Step three**
 
-- Walk the journalists through some best practice for doing more advanced searches. Trainers new to this subject can consult the section Training digital security for the first time?, located at the beginning of this chapter. The trainer may want to touch on the following:
+- Walk the journalists through some best practice for doing more advanced searches. Trainers new to this subject can consult the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section located at the beginning of this chapter. The trainer may want to touch on the following:
   - Using boolean search terms to refine results
   - Using advanced image searches to find a particular image
   - Reviewing internet archive sites
@@ -247,7 +247,7 @@ _Best practice for this activity can be found in the section, Training digital s
 
 - Ask the journalists to now carry out a more advanced search using the techniques described above and using different search engines. Tell them that they will not be able to search for everything today so this should be seen as a more general search that they can use as a starting point for a deeper search later on at home.
 - Ask the journalists to note down any information they would like to remove.
-- Brief discussion with the journalists around any content they found and would like to take down.
+- Hold a brief discussion with the journalists around any content they found and would like to take down.
 
 #### II Protecting online data
 
@@ -267,7 +267,7 @@ _Trainer note: best practice for this activity can be found in the section, Trai
 
 ❷ **Step two**
 
-- Walk the journalists through best practice for removing data. Best practice guidance is available at the beginning of the chapter named Training digital security for the first time? The trainer might want to mention:
+- Walk the journalists through best practice for removing data. Best practice guidance is available at the beginning of the chapter named [Training digital security for the first time?](#training-digital-security-for-the-first-time) The trainer might want to mention:
   - The difference between data stored on a platform they have control over vs a third-party platform
   - How to request the removal of data from a third-party platform
   - Common techniques for removing or hiding content from social media sites
