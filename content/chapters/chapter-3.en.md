@@ -7,7 +7,7 @@ toc: true
 ---
 ## Introduction
 
-Protecting devices and the content on them is an increasingly complicated issue for journalists and newsrooms, especially with the threat of ever-sophisticated spyware being used against reporters. These threats are compounded by the fact that journalists often mix personal and work content on their devices leaving both them and their sources open to attack. This session will provide journalists with the best practice guidance needed to better secure their devices and help them think through what steps they need to take based on their own threat assessment.
+Protecting devices and the content on them is an increasingly complicated issue for journalists and newsrooms, especially with the threat of increasingly sophisticated spyware being used against reporters. This session will provide journalists with the best practice guidance needed to better secure their devices and help them think through what steps they need to take based on their own threat assessment.
 
 This chapter will cover:
 
@@ -23,7 +23,7 @@ The following can be helpful to keep in mind:
 
 **General**
 
-* Journalists more often than not are using their personal devices for work-related content.
+* Journalists often use their personal devices for work-related content.
 * Money is an issue for journalists, especially freelancers, when it comes to buying new devices. Newsrooms are not always able or willing to provide staff with work devices. Smaller newsrooms also lack the expertise on how to manage and secure devices. Newsroom IT often focuses on basic functions, such as setting up email and computers, and can sometimes lack more specialised security experience, especially concerning threats against journalists.
 * Media workers are likely to be using old devices, especially Android phones, which they often will not have updated. Media outlets may be using desktop computers which are using older versions of Microsoft software.
 * The use of pirated software is very common among journalists in certain regions of the world.
@@ -31,14 +31,13 @@ The following can be helpful to keep in mind:
 
 **Mobile phones**
 
-* Journalists will more than likely be using their personal phone for work. The phone number will have been shared with a wide-range of contacts, which may include government officials, the authorities, and people who may be classed as hostile to the journalist.
-* Journalists now do a significant amount of work on their mobile phone, including recording interviews, shooting video, and reviewing documents. In some countries, journalists will only be using a mobile phone for their work and will not have access to a computer.
-* Sources will be reaching out to journalists and journalists will be accessing source data, including documents, normally via their mobile device.
+* Journalists' phone numbers will have been shared with a wide-range of contacts, which may include government officials, the authorities, and people who may be classed as hostile to the journalist.
 * Journalists will have built up their contact list over years and they will not want to stop using their phone number. It is better to suggest that the journalist gets a new personal number and keep their original number for work.
 * Think about whether the journalist needs more than one device or whether they only need an extra number.
 * Be aware that, in some countries, having more than one phone or a SIM/ phone number issued in another country can make the journalist look suspicious.
 * Many countries now have compulsory SIM registration, which means that you need to present a passport or similar document to get a SIM card.
-* Journalists will generally not know how both a mobile phone or a mobile phone provider operate.
+* Journalists now do a significant amount of work on their mobile phone, including recording interviews, shooting video, and reviewing documents. In some countries, journalists will only be using a mobile phone for their work and will not have access to a computer.
+* Sources will be reaching out to journalists and journalists will often be accessing source data, including documents, via their mobile device.
 
 ## Training digital security for the first time?
 
@@ -46,16 +45,15 @@ This section covers best practice that can be used when teaching the activities 
 
 *General best practice*
 
-* A journalist’s computer and mobile phone are a target for others who may want to obtain the information contained on them. This can happen in a number of ways including with malware, they can be seized by the authorities and searched, they can be accessed by others if left unattended, and they can be broken or stolen.
-* Make journalists aware about how to protect their computers and mobile phones as a way to keep both the devices and the data on them safer. Prompt journalists to complete a risk assessment as part of following best practice guidance.
-* It is important to always update the operating systems on devices. This corrects issues with the software and better protects the device from malware. It’s also important to update all apps and browsers too. Journalists should be encouraged to set their devices to carry out updates automatically, this can be turned on in the settings section of their devices.
-* All devices should be protected with a password, PIN, or biometric lock. Which one the journalist uses will depend on their individual risk profile. Having a biometric lock activated on the devices makes it easy for the journalist to gain access to a device but it also makes it easier for others to access the device too. This will help protect against unauthorised access, but be aware that law enforcement may have the technical knowledge to unlock certain makes and models.
+* A journalist’s computer and mobile phone are a target for adversaries who may want to obtain the information contained on them. Adversaries can use many different techniques: they could infect the device with malware, they could get authorities to seize a device, coerce the journalist into giving up the password, and search it, they could try to pick up an unlocked, unattended device and look through it.
+* It is important to always update the operating systems on devices. It’s also important to update all apps and browsers too. All software contains security holes; software updates fix those security holes as soon as they are discovered, so that adversaries cannot use them to break into journalists' devices. Journalists should be encouraged to set their devices to carry out updates automatically, this can be turned on in the settings section of their devices.
+* All devices should be protected with a password, PIN, or biometric lock. Which one the journalist uses will depend on their individual risk profile and jurisdictions. In some places, law enforcement is allowed to ask people to unlock their devices by providing their finger- or faceprint, but is not allowed to ask for passwords. If a journalist uses a PIN or passcode to log into their device, they need to be careful to make sure that it is not captured by high resolution cameras, for example security cameras in elevators. Be aware that law enforcemnet and security agencies may also have the technical knowledge to unlock certain makes and models without needing either a passcode or biometrics, but this type of unlock usually requires significant resources and investment.
 * Avoid leaving devices unattended, for example at conferences, in hotels, or in cafes. This will protect against people installing malware onto the device or accessing data if the screen is left unlocked.
-* Having a process for backing up and removing content from both computers and mobile ensures that if devices are accessed then a minimal amount of content is obtained. You can see more about backing up materials in chapter five.
+* Having a process for backing up and removing content from both computers and mobile ensures that if devices are accessed then a minimal amount of content is obtained. You can read more about backing up materials in chapter five.
 
 *Malware*
 
-* Malware is software that is designed to cause damage to a device and/or to grant unauthorised access.
+* Malware is software that is designed to cause damage to a device or to grant unauthorised access.
 * There are many different types of malware including,
 
   * Viruses, an infection that replicates once on a device destroying data and/or corrupting the operating system
@@ -74,18 +72,17 @@ Devices can be infected by malware through the following:
 
 You can protect against malware by doing the following:
 
-* Follow best practice for clicking on links and/or downloading documents. For more about protecting against phishing take a look at chapter two.
+* Avoid clicking on links which look suspicious (for example, if they were designed to look like a Google Drive link, but have some small misspellings). If you need to open documents from unknown sources, open them in a web-based editor like Google Docs or O365 or use a tool such as [Dangerzone](https://dangerzone.rocks/).
 * Only download programs and apps from legitimate sites and manufacturer approved stores, such as the Google Play Store and the Apple app store.
-* Avoid visiting websites that are not encrypted or where illegal activity may be happening. See chapter four for information on how to best browse the web.
-* Install and turn on an antivirus, for example the one that is included free with all operating systems.
+* Make sure that your operating system's built-in antivirus is turned on (Windows has Windows Defender, while macOS has a host of security mechanisms, including Gatekeeper and XProtect). Alternatively, you can also use a third-party antivirus. Third-party antiviruses can disable most or all of the features of an operating system's built-in antivirus. This is normal behavior.
 
 *Computers*
 
 * It is recommended to secure computers in order to protect the information contained on them, both by setting a good account/ login password and by encrypting the internal drive. If a computer's drive is encrypted then nobody can access the information on it without the password needed to decrypt the content. Be aware that law enforcement may, in some jurisdictions, request that the devices be decrypted, for example by forcing a user to disclose the password.
-* When setting up a computer to encrypt it will require the user to create a password. It is better to think of this password in advance and to ensure that it follows the best practice for creating secure passwords. Information on this is available in chapter two.
-* Backup all data on devices first before encrypting them.
+* When setting up encryption on a computer, you will need to create a password that will be used to encrypt the drive. It is better to think of this password in advance and to ensure that it follows the best practice for creating secure passwords. Information on this is available in chapter two.
+* Backup all data on devices first before encrypting them, in case there are problems during the encryption process and you cannot access your data, you can restore it from backups.
 * There are different ways to encrypt a computer depending on whether it is a Windows PC or a Mac. Turning on encryption for Windows Pro involves activating their encryption program called Bitlocker. You can read about how to do this [here](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838#:~:text=Or%2C%20select%20Start%20%3E%20Settings%20%3E,and%20then%20follow%20the%20instructions.). Users of Windows Home editions can use a feature called [Device Encryption](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838), though it is only supported on some devices as it requires a specific hardware configuration. Mac users can turn on FileVault, the equivalent encryption program for Macs. Read more about encrypting Mac computers [here](https://support.apple.com/en-gb/guide/mac-help/mh11785/mac).
-* Turn on the antivirus program that comes as standard with your computer’s operating system. These programs will scan your computer for viruses and alert you if a virus has been located.
+* You can also encrypt your backup drives, something that is especially important if you are concerned about home or office raids or if you travel with backups. This means that anyone who accesses your backup drive will not be able to read its contents without the password which was used to encrypt them. Time Machine, the default macOS backup program, allows for encrypted backups. It's a little more complicated in Windows. Users of Windows Pro editions can use Bitlocker to encrypt their backup drives, whereas those using Home editions should ideally use [VeraCrypt](https://www.veracrypt.fr/en/Home.html), a reputable third-party tool.
 
 *Mobile phones*
 
@@ -104,42 +101,42 @@ You can protect against malware by doing the following:
      Stands for Global Positioning System. This is a receiver in the phone that connects with satellites. IT can be turned off in the settings section of the phone.
   * SIM and SIM slot\
      Where the SIM card is stored. Some phones have the option for a dual SIM card. Some phones now use an eSIM instead, which consists of a dedicated on-device computer which stores subscriber data.
-* All mobile phone devices have a unique identity number called the Mobile Equipment Identity number, otherwise known as an IMEI (International Mobile Equipment Identity). This number is used by telecommunications companies to identify a device and provide it a service on its network. The IMEI number can also be tracked using software. This can be used by people to locate lost or stolen devices. It can also be used by governments to locate people. This could be a risk for journalists if they are meeting with sensitive sources or are travelling to locations that they would rather others did not know about.
+* All mobile phone devices have a unique identity number called the Mobile Equipment Identity number, otherwise known as an IMEI (International Mobile Equipment Identity). This number is used by telecommunications companies to identify a device and provide it a service on its network. A mobile phone network provider will typically know the physical location of each phone. This can be used by people to locate lost or stolen devices. It can also be used by governments to locate people. This could be a risk for journalists if they are meeting with sensitive sources or are travelling to locations that they would rather others did not know about.
 * All SIM cards also have a unique identity number known as the IMSI number. When the mobile phone card connects to the network it shares this number with the provider. The IMSI contains information about the SIM card, including the country in which it was issued. This information is available to mobile phone providers and makes it possible for them to know your location. This information can be shared with governments. For those living in countries where their ID number is tied to their SIM card this means the government knows which SIM card they are using. This is known as a registered SIM. Unregistered SIM cards are SIM cards that are not tied to your identity.
 * A mobile phone gives away data about a journalist’s location and who they are communicating with. This data is collected by the telecommunications company and can be passed to governments. Telecommunications companies collect other data, including phone call history, the phone numbers of people you contact when making mobile phone calls and SMS messages.If they provide you with internet coverage they may also be obtaining data on your browsing history. This data can be accessed by people at the company and can also be obtained by governments.
-* All iPhones are encrypted by default, as are all Android devices running Android 10 or later. To activate encryption for an Android phone, ensure that the device is charged and plugged in, backup any content on the device first, and then follow the instructions in the settings section of the phone.
+* The disks of all iPhones are encrypted by default, as are all Android devices running Android 10 or later. To activate encryption for an Android phone, ensure that the device is charged and plugged in, backup any content on the device first, and then follow the instructions in the settings section of the phone.
 * As well as the best practice outlined above, in the section on general best practice, it is advised to take the following steps to secure your phone, data and phone number
 
-  * Turn on encryption for your phone
-  * Prevent messaging apps from showing the full message on your home screen. You can adjust this in the settings section of the phone.
-  * Clear your browsing history
-  * Put a PIN lock on your SIM card. You can follow the instructions in the settings section of your phone to do this. By putting a lock on your SIM card you prevent others from gaining control of your number. This is known as [SIM jacking](https://www.wired.com/story/sim-swap-attack-defend-phone/).
-  * As well as putting a PIN lock on your SIM card, you should also put steps in place, a PIN or password, to protect the account you have with your mobile phone provider. To do this, call your provider and request that a security notification be put on your account and that nobody should have access to it without providing the PIN or password.
+  * Make sure your phone has disk encryption enabled (almost every modern phone should have that)
+  * When you receive a notification, your device could show the full content of the message on the screen. Some device configuations require you to unlock the phone with your face- or fingerprint before seeing the full notification, others do not. You can adjust notification visibility in the settings section of the phone.
+  * Many journalists and other at-risk individuals could be targeted by an attack known as [SIM jacking](https://www.wired.com/story/sim-swap-attack-defend-phone/). In order to reduce the chances of this attack, you could call your mobile phone provider and ask them to put into place additional steps, for example a PIN or a password that you need to give them, before they offer a duplicate SIM card.
   * Turning off location tracking for apps and services when such tracking is not absolutely necessary for the app to function. For more information, see the Internews [device location security guide](https://internews.org/resource/device-location-security/), and Consumer Reports' Security Planner pieces on reviewing [Android](https://securityplanner.consumerreports.org/tool/review-android-app-permissions) and [iOS](https://securityplanner.consumerreports.org/tool/review-iphone-app-permissions) permissions.
-  * Setting up devices to remote wipe. Read about how to do this for Apple [here](https://support.apple.com/en-gb/guide/icloud/mmfc0ef36f/icloud) and for Google [here](https://support.google.com/accounts/answer/6160491?hl=en).
+  * Make sure that your devices have a remote wipe capability enabled, which will allow you to delete all the content on them if they are lost, seized, or stolen. Do note that remote wipe will only work if the device is still connected to the internet, and some attackers will therefore remove the SIM card or put the phone in a room with no phone reception to frustrate attempts at wiping it remotely. Read about how to do this for Apple [here](https://support.apple.com/en-gb/guide/icloud/mmfc0ef36f/icloud) and for Google [here](https://support.google.com/accounts/answer/6160491?hl=en).
 
 *Spyware*
 
 * Spyware is a form of malware that is normally used to infect mobile phones in order to obtain information. There are different types of spyware and they vary in how much data they can collect and the way in which they infect the phone.
 * Sophisticated spyware is being increasingly used by governments to surveil journalists and their communications. Some examples of this type of spyware include Pegasus spyware and Predator spyware. You can read more about these types of spyware [here](https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/). Once this spyware is on a device all activity, including calls, email, and other apps linked to the device, can be monitored, recorded, and shared with others.
 * To get spyware on a device, the adversary may target the user using sophisticated spear phishing techniques. You can read more about phishing and spear phishing in chapter two. Increasingly, spyware is being inserted onto a device with the user doing anything. This is known as a zero click attack.
-* If spyware is on a device then all communications can be monitored, this includes any end-to-end encrypted services, such as Signal and WhatsApp. This is because it is the device itself that is compromised and the adversary is obtaining data directly from the phone.
-* Apple devices are able to activate protection against spyware. This is called [Lockdown Mode](https://support.apple.com/en-gb/HT212650) and is available on iOS 16 for phones, computers and iPads. Journalists who are at high risk of being infected by spyware should turn this on for their devices. They should ensure that their family and others close to them also activate Lockdown Mode where possible.
+* If spyware is on a device then all communications can be monitored; this includes any end-to-end encrypted services, such as Signal and WhatsApp. This is because it is the device itself that is compromised and the adversary is obtaining data directly from the phone.
+* Apple devices have a special mode which significantly reduces the probability of spyware infections while limiting certain features. This is called [Lockdown Mode](https://support.apple.com/en-gb/HT212650) and is available on iOS 16 for phones, computers and iPads. Journalists who are at high risk of being infected by spyware should turn this on for their devices. They should ensure that others who are at high risk (possibly their coworkers, family, sources, and others) also activate Lockdown Mode where possible.
 * Other possibilities for protecting against spyware include:
 
-  * Back up data regularly
-  * Carrying out a factory reset of the phone and reinstalling all services. This may erase the spyware from the device.
-  * Consider buying a number of cheap Android phones and using a different one each day, week or month defending on your level of risk. Ensure a factory reset is carried out before starting to use one.
-  * Update the operating system, apps, and browsers regularly.
+  * Make sure that your mobile phone operating system is up to date. This, in addition to Lockdown Mode, is the single most effective step you can take, since spyware exploits software bugs which are fixed in subsequent updates.
+  * Restart your devices regularly. There is some evidence which suggests that many types of spyware are removed after every restart and adversaries need to reinstall it.
 
 ## Completing the risk assessment
 
 When speaking about the risk assessment and personal security plan it may be helpful to touch upon the following:
 
 * When getting journalists to think about device security, the trainer should help them to focus on what content is already on their devices and work with them to think of how they can create a process for backing up and removing information.
-* Encourage the journalists to map out who may be interested in obtaining their devices and/or the content on their devices. This can include others who may already have physical access to the device, for example family members. Good questions to think about include, Who could unintentionally remove or delete content from my device and how can I protect against that? How likely is my device to be stolen or broken when I am out covering an event? Does my government have a history of using spyware and have they used it against journalists in my country? How likely is the government to detain me and take my devices?
- * To mitigate those risks, some journalists will prefer to live stream during events. This, however, could endanger sensitive sources who nonetheless appear in the stream. There is a similar trade-off with uploading a copy of the information to the cloud: while it means that the information remains safe even if devices are destroyed or confiscated, it also opens it up to more data requests by law enforcement and others.
-* Understandably journalists are increasingly worried about being infected by spyware. It can be helpful to get them to think about their own risk profile and whether it fits with being targeted by spyware. For example, are they from a country where the government uses spyware? Talk about the different types of spyware and highlight that more sophisticated spyware is expensive which means it is not being deployed on a massive scale.
+* Encourage the journalists to map out who may be interested in obtaining their devices and/or the content on their devices. This can include others who may already have physical access to the device, for example family members. Good questions to think about include:
+ * Who could unintentionally remove or delete content from my device and how can I protect against that?
+ * How likely is my device to be stolen or broken when I am out covering an event?
+ * Does my government have a history of using spyware and have they used it against journalists in my country?
+ * How likely is the government to detain me and take my devices?
+* To mitigate those risks, some journalists will prefer to live stream during events. This, however, could endanger sensitive sources who appear in the stream. There is a similar trade-off with uploading a copy of the information to the cloud: while it means that the information remains safe even if devices are destroyed or confiscated, it also opens it up to more data requests by law enforcement and others.
+* Understandably, journalists are increasingly worried about being infected by spyware. It can be helpful to get them to think about their own risk profile and whether it fits with being targeted by spyware. For example, are they from a country where the government uses spyware? Talk about the different types of spyware and highlight that more sophisticated spyware is expensive which means it is not being deployed on a massive scale.
 
 <div class="faq">
 
@@ -149,15 +146,15 @@ Below are some common questions that journalists ask about account security. It 
 
 **Do I really need a work phone, it’s such a pain carrying around two devices?!**
 
-The important issue here is for the trainer to get the journalist thinking about what is at risk if they don’t separate out their work and their personal life on their devices. Based on this, journalists can make a judgement call on whether they need a new device or not. Good questions for the trainer to ask include, are your devices at risk of being confiscated or infected with targeted malware, do you have to contact highly sensitive contacts or people who may be breaking the law?
+The important issue here is for the trainer to get the journalist thinking about what is at risk if they don’t separate out their work and their personal life on their devices. Based on this, journalists can make a judgement call on whether they need a new device. Good questions for the trainer to ask include: are your devices at risk of being confiscated or infected with targeted malware, do you have to contact highly sensitive contacts or people who may be breaking the law?
 
 **How much does my mobile phone provider know about me?**
 
-Explain that it is difficult to be one hundred percent sure around how much data a company is collecting. This is because the data they collect is often buried in lengthy terms and conditions set out by the company and they may also be sharing data with other companies without your knowledge. One step that journalists can take is to find out how long mobile phone providers are legally requested to keep data for in their country and also if and how they are sharing that data with governments. To find this out, they can carry out an online search with keywords, such as mobile phone data retention and government subpoena amongst others.
+Explain that it is difficult to be one hundred percent sure about how much data a company is collecting. This is because the data they collect is often buried in lengthy terms and conditions set out by the company and they may also be sharing data with other companies without your knowledge. One step that journalists can take is to find out how long mobile phone providers are legally requested to keep data for in their country and also if and how they are sharing that data with governments. To find this out, they can carry out an online search with keywords such as _mobile phone data retention_ and _government subpoena_ amongst others.
 
 **If I delete content from my devices is there a way to recover it?**
 
-Explain that there is always a way to recover data but this depends on the tech capacity of the people who may gain access to the devices. For example, a government. This is a good opportunity for journalists to assess who may be interested in obtaining their devices and to build this into their work plan for better securing their materials.
+Explain that there is always a way to recover data but this depends on the tech capacity of the people who may gain access to the devices. For example, a government might have the capabilities to do so. This is a good opportunity for journalists to assess who may be interested in obtaining their devices and to build this into their work plan for better securing their materials.
 
 **How can I tell if there is spyware on my device?**
 
@@ -173,7 +170,7 @@ At the end of the session journalists:
 
 * Know what content is on their devices and in accounts linked to their devices and understand how this could put them at risk.
 * Are able to make informed decisions around what best practice to use based on their own risk profile
-* Understand how to encrypt their computer and whether their phone needs encryption turned on or whether it comes with encryption as standard
+* Understand how to encrypt their computer and how to tell that their phone has been encrypted
 * Better understand how mobile phones and mobile phone providers operate
 
 </div>
@@ -219,7 +216,7 @@ The following resources may be helpful for teaching this chapter:
 
 ## Activities
 
-The activities below are designed to accompany this training session on device security. Trainers should feel free to use their own activities as well as to adapt the materials in this guide to best suit the needs of the journalists they are training. The number and type of activities selected will depend on the level of knowledge of the trainer as well as the amount of time the trainer has to spend with the participants. For those new to training in digital safety, don’t forget to review the section, Training digital security for the first time?, for best practice guidance.
+The activities below are designed to accompany this training session on device security. Trainers should feel free to use their own activities as well as to adapt the materials in this guide to best suit the needs of the journalists they are training. The number and type of activities selected will depend on the level of knowledge of the trainer as well as the amount of time the trainer has to spend with the participants. For those new to training in digital safety, don’t forget to review the [Training digital security for the first time?](#training-journalists-for-the-first-time) section for best practice guidance.
 
 ### Getting started
 
@@ -267,8 +264,8 @@ The activities below are designed to accompany this training session on device s
 * Ask the journalists what steps they currently take to protect their devices.
 
   * Using their answers as a starting point go over the general best practice for protecting devices, including:
-  * A brief overview of how people target devices
-  * The importance of avoiding leaving devices unattended, for example in hotel rooms or conferences
+  * A brief overview of how adversaries target devices
+  * The importance of not leaving unlocked devices unattended, for example in hotel rooms or conferences
   * Being mindful of what they plug into their devices, including USB sticks which could contain malware.
   * The importance of updating operating systems, apps and browsers when prompted to do so. Explain that this helps fix vulnerabilities with the code which can be exploited by bad actors.
   * Using an antivirus
@@ -338,14 +335,14 @@ With each of these steps it can be helpful to get journalists thinking about why
 
 </div>
 
-*Trainer note: this exercise is designed for advanced level trainers. Set up the tech in advance of the workshop. You will need a test computer for this activity. Show either FileVault for Mac or BitLocker/Disk Encryption for Windows PC depending on which computers the participants are most likely to be using.*
+*Trainer note: this exercise is designed for advanced level trainers. Set up the tech in advance of the workshop. You will need a test computer for this activity. Show either FileVault for Mac, BitLocker/Disk Encryption for Windows, or VeraCrypt for all operating systems, depending on which computers the participants are most likely to be using.*
 
 *Best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter.*
 
 ❶ **Step one**
 
 * Ask the journalists why they think it is important to encrypt their drive. Find out whether anyone in the room has experience of encrypting their devices and/or what people know about the process of encryption.
-* Explain that there are different ways to encrypt a drive based on whether the user is using Windows (BitLocker works on Pro Editions of Windows, Windows Disk Encryption works on Home editions) or macOS (FileVault is the ideal solution, then).
+* Explain that there are different ways to encrypt a drive based on whether the user is using Windows (BitLocker works on Pro Editions of Windows, Windows Disk Encryption works on Home editions) or macOS (FileVault is the ideal solution, then). VeraCrypt is also great and works on all operating systems.
 
 ❷ **Step two**
 
@@ -465,7 +462,7 @@ With each of these steps it can be helpful to get journalists thinking about why
   * Have you had any similar cases in your region?
   * Why do you think the journalist was targeted?
   * What information do you think they were able to obtain for the journalist’s phone?
-* Ask journalists to take some time to think and write down general content they may have on their phone or in their accounts that they would not want others to find. They do not have to feed this information back to the group if they are uncomfortable doing so. Tell them that the session will later deal with some best practice for better protecting that data.
+* Ask journalists to take some time to think and write down general content they may have on their phone or in their accounts that they would not want others to find. They do not have to feed this information back to the group if they are not comfortable doing so. Tell them that the session will later deal with some best practice for better protecting that data.
 * Give a general overview of spyware. It can be helpful to have slides and illustrations to talk about this.
 
   * Pegasus is one of many types of spyware
@@ -478,7 +475,7 @@ With each of these steps it can be helpful to get journalists thinking about why
   * Get the journalists to think about whether they are at high-risk for spyware, including considering the journalist’s location and use of spyware in that region, stories that they cover, the outlet they work for, how high profile they are.
   * Importance of updating devices to protect against malware
   * Carrying out a factory reset of the device if they are concerned it is infected. They should backup the device first before resetting.
-  * Turning on [Lockdown Mode](https://support.apple.com/en-gb/HT212650) for Apple devices iOS 16
+  * Turning on [Lockdown Mode](https://support.apple.com/en-gb/HT212650) for Apple devices running iOS 16 and above, if the journalist is at high risk of targeted attacks
   * Limiting the amount of content on their phone, including apps. For example avoid linking their work email to their phone
   * Where possible have separate devices for work and personal use
   * Best practice for protecting against phishing attacks. Consult chapter two for more details on this.
