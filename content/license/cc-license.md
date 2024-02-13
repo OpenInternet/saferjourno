@@ -8,11 +8,11 @@ toc = true
 
 The contents of the SaferJourno guide are released under a [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
-Guide written by Ela Stapley and Nikita Mazurov
-Guide edited by Łukasz Król and Ashley Fowler 
-Website designed and developed by [Ura Design](https://ura.design/en/)
+* Guide written by Ela Stapley and Nikita Mazurov
+* Guide edited by Łukasz Król and Ashley Fowler 
+* Website designed and developed by [Ura Design](https://ura.design/en/)
 
-
+------
 
 SaferJourno was a true team effort. We extend our particular thanks to Ela Stapley and Nikita Mazurov who worked together to plan and write this version. We are also immensely grateful to all our reviewers who remained undaunted when we sent them over a hundred pages of text and asked for suggestions, with a particular shout out to Yael Grauer for the incredible thorough read-through and dozens upon dozens of wonderful comments!
  
@@ -24,5 +24,5 @@ This version of SaferJourno would never have happened if not for the first guide
  
 There exists a beautiful world in which thoughts about dinners, meadows, and mountains take priority over dilemmas on how to frame encryption or HTTPS. We thank our families, friends, and pets for reminding us of it!
  
-Ashley Fowler, Senior Manager of Internet Freedom & Resilience, Internews
+Ashley Fowler, Senior Manager of Internet Freedom & Resilience, Internews<br>
 Łukasz Król, Journalist Security Specialist, Internews
