@@ -24,5 +24,6 @@ This version of SaferJourno would never have happened if not for the first guide
  
 There exists a beautiful world in which thoughts about dinners, meadows, and mountains take priority over dilemmas on how to frame encryption or HTTPS. We thank our families, friends, and pets for reminding us of it!
  
-Ashley Fowler, Senior Manager of Internet Freedom & Resilience, Internews<br>
+Ashley Fowler, Senior Manager of Internet Freedom & Resilience, Internews
+
 Łukasz Król, Journalist Security Specialist, Internews
