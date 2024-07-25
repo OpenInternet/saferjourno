@@ -86,7 +86,7 @@ You can protect against malware by doing the following:
 
 *Mobile phones*
 
-* Mobile phones are always connected to services around them in order to receive and transmit information. This includes mobile phone towers, internet connections, and Bluetooth. All of these connections give away data about the mobile phone users, including their location.
+* Mobile phones are always connected to services around them in order to receive and transmit information. This includes mobile phone towers, internet connections, and Bluetooth. All of these connections give away data about the mobile phone users, including their location. For a technical, in depth look at how mobile phones function and how they can reveal and leak out locations, see [this report by Citizen Lab](https://citizenlab.ca/2023/10/finding-you-teleco-vulnerabilities-for-location-disclosure/).
 * What is a mobile phone made up of?
 
   * Antenna\
