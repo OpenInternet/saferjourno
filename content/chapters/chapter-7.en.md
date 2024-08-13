@@ -179,7 +179,7 @@ The activities below are designed to accompany this training session on online a
 
 _Trainer note: the idea of this session is not to get journalists to speak about their own personal cases which may be traumatic for them and others in the room, instead get them to focus on cases of others._
 
-_Best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter. Trainers may also want to consult chapter two on account security for best practices to protect against hacking and phishing which are common tactics used by online abusers._
+_Best practice for this activity can be found in the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section located at the beginning of this chapter. Trainers may also want to consult chapter two on account security for best practices to protect against hacking and phishing which are common tactics used by online abusers._
 
 ❶ **Step one**
 
@@ -191,7 +191,7 @@ _Best practice for this activity can be found in the section, Training digital s
 
 - Tell the journalists they are now going to look at some of the techniques that online abusers use. Knowing how online harassers attack can help journalists better defend against it.
 
-- Introduce journalists to the most common attacks in their region using pre-prepared case studies. You can read more about these types of attacks in the section Training digital security for the first time? Located at the beginning of this chapter. You may want to cover the following:
+- Introduce journalists to the most common attacks in their region using pre-prepared case studies. You can read more about these types of attacks in the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section Located at the beginning of this chapter. You may want to cover the following:
   - Concern trolling
   - Cyber-mob attack
   - Doxing
@@ -259,7 +259,7 @@ _Best practice for this activity can be found in the [Training digital security 
 
 </div>
 
-_Trainer note: best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter._
+_Trainer note: best practice for this activity can be found in the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section, located at the beginning of this chapter._
 
 ❶ **Step one**
 
