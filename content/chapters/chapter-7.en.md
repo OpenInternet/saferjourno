@@ -31,7 +31,7 @@ The following can be helpful to keep in mind:
 
 ## Training digital security for the first time?
 
-This section covers best practice that can be used when teaching the activities in this chapter. See the resources section in this chapter for further reading.
+This section covers best practice that can be used when teaching the activities in this chapter. See the [resources](#resources) section in this chapter for further reading.
 
 _General best practice_
 
@@ -101,7 +101,7 @@ Journalists have a lot of public-facing data on the internet and they often need
 
 **How can I remove my data online?**
 
-Recommend that they set aside a chunk of time each week to review what data is available about them and remove it. They should follow the best practice for searching online for their personal information and removing it. This guidance can be found in the section Teaching digital security for the first time?, found at the beginning of this chapter.
+Recommend that they set aside a chunk of time each week to review what data is available about them and remove it. They should follow the best practice for searching online for their personal information and removing it. This guidance can be found in the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section, found at the beginning of this chapter.
 
 Some data is also being collected and re-sold by data brokers. There also exist some services which contact data brokers on your behalf and ask them to delete information about you. While many of those services are effective, they are also expensive. It's also possible to contact data brokers and do this type of work manually; for a quick guide on how to do so, check out [this page by Yael Grauer](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List).
 
@@ -313,4 +313,4 @@ This case study accompanies the course material and provides journalists with re
 
 Our writeup: [Case study on online abuse and protecting your data](/case-studies#kyrgyz-journalists-on-the-online-fake-farms-that-threaten-to-kill-them)
 
-CPJ's writeup: [Kyrgyz on the online ‘fake farms’ that threaten to kill them](https://cpj.org/2021/03/kyrgyz-journalists-online-fake-farms/)
+CPJ's writeup: [Kyrgyz journalists on the online ‘fake farms’ that threaten to kill them](https://cpj.org/2021/03/kyrgyz-journalists-online-fake-farms/)
