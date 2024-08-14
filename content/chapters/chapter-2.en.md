@@ -32,7 +32,7 @@ Take a look at our helpful guidance below:
 
 ## Training digital security for the first time?
 
-This section covers best practice that can be used when teaching the activities in this chapter. See the resources section in this chapter for further reading.
+This section covers best practice that can be used when teaching the activities in this chapter. See the [resources](#resources) section in this chapter for further reading.
 
 _Gaining access to data_
 
@@ -54,7 +54,7 @@ _Two-factor authentication_
 - If a company offers 2FA it should also offer the option of saving a backup code or backup codes for that account. These are a one-time code that can be used should the journalist be unable to access their form of 2FA.
 - While SMS is suitable for the majority of people they may not be secure for journalists facing threats from government actors or other very highly skilled actors. This is because the code could be intercepted or accessed via the tele-communications company. When teaching about 2FA, emphasize that SMS-based 2FA is far better than having no 2FA at all, but that we heavily encourage journalists to take up other forms of 2FA instead.
 - Where possible, encourage journalists to use an authenticator app. These are easy to set up and free to use. There are a number of apps available, and it's easiest to go with a mainstream one like Google Authenticator.
-- Security keys are physical devices that you link to your accounts. To link the key to your account you have to insert the key into your computer or phone, go to the account you want to add the key to and follow the steps to set up 2FA. It is advisable to have more than one key linked to the account in case of loss or theft. Keep one key with you, for example on your keychain, and store the other key somewhere safe. Once set up, when you log into your account you will need your email address, your password and you may be prompted to insert your security key. Security keys are an effective way to prevent phishing attacks. For more details, see the section on phishing below.
+- Security keys are physical devices that you link to your accounts. To link the key to your account you have to insert the key into your computer or phone, go to the account you want to add the key to and follow the steps to set up 2FA. It is advisable to have more than one key linked to the account in case of loss or theft. Keep one key with you, for example on your keychain, and store the other key somewhere safe. Once set up, when you log into your account you will need your email address, your password and you may be prompted to insert your security key. Security keys are an effective way to prevent phishing attacks. For more details, see the information on phishing below.
 
 _Passwords_
 
@@ -129,8 +129,8 @@ At the end of the session journalists:
 
 The following templates and tools can be useful for teaching this session:
 
-- Different types of 2FA services, including authenticator apps and security keys. See the section, Training digital security for the first time?, for more information.
-- Options for password managers. See the section, Training digital security for the first time?, for more information.
+- Different types of 2FA services, including authenticator apps and security keys. See the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section, for more information.
+- Options for password managers. See the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section, for more information.
 - [Risk assessment template](/digital-risk-assessment-template)
 
 </div>
@@ -159,7 +159,7 @@ The following resources may be helpful for teaching this chapter:
 
 ## Activities
 
-The activities below are designed to accompany this training session on account security. Trainers should feel free to use their own activities as well as to adapt the materials in this guide to best suit the needs of the journalists they are training. The number and type of activities selected will depend on the level of knowledge of the trainer as well as the amount of time the trainer has to spend with the participants. For those new to training in digital safety, don’t forget to review the section, Training digital security for the first time?, for best practice guidance.
+The activities below are designed to accompany this training session on account security. Trainers should feel free to use their own activities as well as to adapt the materials in this guide to best suit the needs of the journalists they are training. The number and type of activities selected will depend on the level of knowledge of the trainer as well as the amount of time the trainer has to spend with the participants. For those new to training in digital safety, don’t forget to review the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section, for best practice guidance.
 
 ### Getting started
 
@@ -207,7 +207,7 @@ Walk journalists through basic best practice for account security. This can incl
 
 </div>
 
-_Trainer note: this activity follows on from the introductory activity at the beginning of this chapter. Some of this activity asks journalists to talk about possible sensitive issues. Remind them that they do not have to talk about their own personal experiences instead they can speak about more general issues. Best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter._
+_Trainer note: this activity follows on from the introductory activity at the beginning of this chapter. Some of this activity asks journalists to talk about possible sensitive issues. Remind them that they do not have to talk about their own personal experiences instead they can speak about more general issues. Best practice for this activity can be found in the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section, located at the beginning of this chapter._
 
 ❶ **Step one**
 

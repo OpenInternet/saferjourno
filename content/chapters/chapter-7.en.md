@@ -101,7 +101,7 @@ Journalists have a lot of public-facing data on the internet and they often need
 
 **How can I remove my data online?**
 
-Recommend that they set aside a chunk of time each week to review what data is available about them and remove it. They should follow the best practice for searching online for their personal information and removing it. This guidance can be found in the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section, found at the beginning of this chapter.
+Recommend that they set aside a chunk of time each week to review what data is available about them and remove it. They should follow the best practice for searching online for their personal information and removing it. This guidance can be found in the [Training journalists for the first time?](#training-journalists-for-the-first-time) section, found at the beginning of this chapter.
 
 Some data is also being collected and re-sold by data brokers. There also exist some services which contact data brokers on your behalf and ask them to delete information about you. While many of those services are effective, they are also expensive. It's also possible to contact data brokers and do this type of work manually; for a quick guide on how to do so, check out [this page by Yael Grauer](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List).
 
@@ -267,7 +267,7 @@ _Trainer note: best practice for this activity can be found in the [Training dig
 
 ❷ **Step two**
 
-- Walk the journalists through best practice for removing data. Best practice guidance is available at the beginning of the chapter named [Training digital security for the first time?](#training-digital-security-for-the-first-time) The trainer might want to mention:
+- Walk the journalists through best practice for removing data. Best practice guidance is available at the beginning of the section named [Training digital security for the first time?](#training-digital-security-for-the-first-time) The trainer might want to mention:
   - The difference between data stored on a platform they have control over vs a third-party platform
   - How to request the removal of data from a third-party platform
   - Common techniques for removing or hiding content from social media sites
