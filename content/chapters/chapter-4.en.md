@@ -30,7 +30,7 @@ The following can be helpful to keep in mind:
 
 ## Training digital security for the first time?
 
-This section covers best practice that can be used when teaching the activities in this chapter. See the resources section in this chapter for further reading.
+This section covers best practice that can be used when teaching the activities in this chapter. See the [resources](#resources) section in this chapter for further reading.
 
 _General best practice_
 

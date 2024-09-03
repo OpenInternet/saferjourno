@@ -31,7 +31,7 @@ The following can be helpful to keep in mind:
 
 ## Training digital security for the first time?
 
-This section covers best practice that can be used when teaching the activities in this chapter. See the resources section in this chapter for further reading.
+This section covers best practice that can be used when teaching the activities in this chapter. See the [resources](#resources) section in this chapter for further reading.
 
 _General guidance for protecting materials_
 
@@ -205,7 +205,7 @@ _This activity has been amended from the Level Up chapter how to secure your com
 
 </div>
 
-_Trainer note: it is recommended that you carry out a live demonstration using a laptop and projector set up. Best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter. This is an advanced level activity and is recommended to be carried out by experienced trainers._
+_Trainer note: it is recommended that you carry out a live demonstration using a laptop and projector set up. Best practice for this activity can be found in the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section, located at the beginning of this chapter. This is an advanced level activity and is recommended to be carried out by experienced trainers._
 
 ❶ **Step one**
 

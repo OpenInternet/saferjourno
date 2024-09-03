@@ -34,7 +34,7 @@ The following can be helpful to keep in mind:
 
 ## Training digital security for the first time?
 
-This section covers best practice that can be used when teaching the activities in this chapter. See the resources section in this chapter for further reading.
+This section covers best practice that can be used when teaching the activities in this chapter. See the [resources](#resources) section in this chapter for further reading.
 
 _General best practice_
 
@@ -151,7 +151,7 @@ The following resources may be helpful for teaching this chapter:
 
 ## Activities
 
-The activities below are designed to accompany this training session on safer communications. Trainers should feel free to use their own activities as well as to adapt the materials in this guide to best suit the needs of the journalists they are training. The number and type of activities selected will depend on the level of knowledge of the trainer as well as the amount of time the trainer has to spend with the participants. For those new to training in digital safety, don’t forget to review the section, Training digital security for the first time?, for best practice guidance.
+The activities below are designed to accompany this training session on safer communications. Trainers should feel free to use their own activities as well as to adapt the materials in this guide to best suit the needs of the journalists they are training. The number and type of activities selected will depend on the level of knowledge of the trainer as well as the amount of time the trainer has to spend with the participants. For those new to training in digital safety, don’t forget to review the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section for best practice guidance.
 
 ### Getting started
 

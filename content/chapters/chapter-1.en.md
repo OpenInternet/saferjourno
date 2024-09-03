@@ -24,7 +24,7 @@ Take a look at our helpful guidance below:
 
 ## Training digital security for the first time?
 
-This section covers best practice that can be used when teaching the activities in this chapter. See the resources section in this chapter for further reading.
+This section covers best practice that can be used when teaching the activities in this chapter. See the [resources](#resources) section in this chapter for further reading.
 
 - Journalists face a wide-range of digital risks. This is because of the nature of their work and because they are often publishing information that others do not want made public.
 - Adversaries will target a journalist in a number of ways and for a number of reasons. Some common threats include:
@@ -110,7 +110,7 @@ The following resources may be helpful for teaching this chapter:
 
 ## Activities
 
-The activities below are designed to accompany this training session on account security. Trainers should feel free to use their own activities as well as to adapt the materials in this guide to best suit the needs of the journalists they are training. The number and type of activities selected will depend on the level of knowledge of the trainer as well as the amount of time the trainer has to spend with the participants. For those new to training in digital safety, don’t forget to review the [_Training digital security for the first time?_](#training-journalists-for-the-first-time) section for best practice guidance.
+The activities below are designed to accompany this training session on account security. Trainers should feel free to use their own activities as well as to adapt the materials in this guide to best suit the needs of the journalists they are training. The number and type of activities selected will depend on the level of knowledge of the trainer as well as the amount of time the trainer has to spend with the participants. For those new to training in digital safety, don’t forget to review the [_Training digital security for the first time?_](#training-digital-security-for-the-first-time) section for best practice guidance.
 
 ### Getting started
 
@@ -152,7 +152,7 @@ The activities below are designed to accompany this training session on account 
 
 </div>
 
-_Trainer note: this activity follows on from the introductory activity at the beginning of this chapter. Some of this activity asks journalists to talk about possible sensitive issues. Remind them that they do not have to talk about their own personal experiences instead they can speak about more general issues. Best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter._
+_Trainer note: this activity follows on from the introductory activity at the beginning of this chapter. Some of this activity asks journalists to talk about possible sensitive issues. Remind them that they do not have to talk about their own personal experiences instead they can speak about more general issues. Best practice for this activity can be found in the [_Training digital security for the first time?_](#training-digital-security-for-the-first-time) section, located at the beginning of this chapter._
 
 ❶ **Step one**
 

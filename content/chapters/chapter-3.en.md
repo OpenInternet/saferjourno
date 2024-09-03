@@ -413,7 +413,7 @@ With each of these steps it can be helpful to get journalists thinking about why
 
 </div>
 
-*Trainer note: best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter.*
+*Trainer note: best practice for this activity can be found in the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section, located at the beginning of this chapter.*
 
 ❶ **Step one**
 
@@ -422,7 +422,7 @@ With each of these steps it can be helpful to get journalists thinking about why
 
 ❷ **Step two**
 
-* Walk the journalists through best practice for protecting their mobile devices. This guidance can be found at the beginning of this chapter in the section, Training digital security for the first time? The trainer may want to speak about the following:
+* Walk the journalists through best practice for protecting their mobile devices. This guidance can be found at the beginning of this chapter in the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section. The trainer may want to speak about the following:
 
   * Encrypting the phone
   * Backing up and removing data from the device
@@ -452,7 +452,7 @@ With each of these steps it can be helpful to get journalists thinking about why
 
 *Trainer note: There is a lot of anxiety around spyware. Try to provide practical steps that journalists can take to protect against it.*
 
-*Best practice for this activity can be found in the section, Training digital security for the first time?, located at the beginning of this chapter. The trainer may want to use local examples of how devices have been infected with sophisticated spyware*
+*Best practice for this activity can be found in the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section, located at the beginning of this chapter. The trainer may want to use local examples of how devices have been infected with sophisticated spyware*
 
 ❶ **Step one**
 
@@ -486,7 +486,7 @@ With each of these steps it can be helpful to get journalists thinking about why
 
 ❷ **Step two**
 
-* Walk the journalists through best practice for protecting their mobile devices. This guidance can be found at the beginning of this chapter in the section, Training digital security for the first time? The trainer may want to speak about the following:
+* Walk the journalists through best practice for protecting their mobile devices. This guidance can be found at the beginning of this chapter in the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section. The trainer may want to speak about the following:
 
   * Encrypting the phone
   * Backing up and removing data from the device
