@@ -16,7 +16,7 @@ buildExpored = false
 canonifyURLs = true
 
 enableRobotsTXT = true
-enableGitInfo   = false
+enableGitInfo   = true
 enableEmoji     = true
 enableMissingTranslationPlaceholders = true
 disableRSS     = false
@@ -62,7 +62,10 @@ chapters = "/:filename/"
   images = ["img/default.png"]
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = "https://github.com/XX/XXX/commit/"
+  gitUrl = "https://github.com/OpenInternet/SaferJourno/commit"
+    # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  githubBranch = "main"
+
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
