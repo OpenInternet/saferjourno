@@ -1,16 +1,11 @@
 <!-- Edit on GitHub code copied from the Infuse (OpenInternet/Infuse) page, which is under the MIT license -->
 
-{{ $baseUrl := .Site.Params.githubRepo }}
 {{ $branch := .Site.Params.githubBranch }}
 {{ $filePath := .File.Path | urlize }}
 {{ $filePath = replace $filePath "%5C" "/" }}
 {{ $filePath = replace $filePath "%5c" "/" }}
-{{ $githubPath := printf "%s/blob/%s/content/%s" $baseUrl $branch $filePath }}
+{{ $githubPath := printf "https://github.com/lukasz-a-krol/saferjourno/tree/main/content/%s" $filePath }}
 
-"{{ $baseurl }}""
-"{{ $branch }}"
-"{{ $filePath }}"
-"{{ $githubPath }}"
 
 <a id="githubEdit" href="{{ $githubPath }}" target="_blank" rel="noopener noreferrer" class="mb-5 me-6 inline-flex items-center text-sm font-semibold text-green-800 underline hover:text-green-900 hover:no-underline sm:mb-0 lg:mb-0 lg:me-0">
     <!--<svg class="me-2 h-5 w-5" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
