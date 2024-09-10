@@ -291,5 +291,3 @@ Owing to the fact that the above list of potential red flags to watch out for is
 Instead of publishing the original recording, simply write about the information in the meeting, using select text quotations, if need be. If it is desirable for an audio-visual component to nonetheless accompany the story, consider recreating the audio by having someone else read a transcript of the meeting, and recreating any visual elements such as slides.
 
 However, keep in mind that if the meeting in question had a sufficiently small attendance, even writing about the meeting may lead to the source being identified. Furthermore, the more meetings a source provides, it may be more likely for investigators to identify them, as the investigators can then compare attendance lists for all of the leaked meetings to identify common attendees across all of the leaked meetings, potentially narrowing the suspect pool.
-
-~﻿Fin~
