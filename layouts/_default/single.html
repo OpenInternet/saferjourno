@@ -18,7 +18,7 @@
         <div class="row justify-content-center">
             <div class="col-xxl-7 col-xl-10 col-lg-10 col-md-12 col-12 {{ if eq .Params.toc true }}pt-0{{ else }}pt-4{{ end }} pt-lg-5 pb-5">
                 <article class="post-content">
-                    {{ partial "github.html" . }}
+                    <!-- {{ partial "github.html" . }} -->
                     <h1>{{ .Title }}</h1>
                     {{ $content := .Content }}
                     {{ $content = replaceRE `(<h[1-6] id=\"(.+)\".*>)(.*)(</h[1-6]>)` `${1}${3}<a class="anchor-tag" href="#${2}"><span class="inline-svg">
