@@ -7,10 +7,10 @@
 {{ $filePath = replace $filePath "%5c" "/" }}
 {{ $githubPath := printf "%s/blob/%s/content/%s" $baseUrl $branch $filePath }}
 
-{{ $baseurl }}
-{{ $branch }}
-{{ $filePath }}
-{{ $githubPath }}
+"{{ $baseurl }}""
+"{{ $branch }}"
+"{{ $filePath }}"
+"{{ $githubPath }}"
 
 <a id="githubEdit" href="{{ $githubPath }}" target="_blank" rel="noopener noreferrer" class="mb-5 me-6 inline-flex items-center text-sm font-semibold text-green-800 underline hover:text-green-900 hover:no-underline sm:mb-0 lg:mb-0 lg:me-0">
     <!--<svg class="me-2 h-5 w-5" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
