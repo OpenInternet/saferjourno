@@ -922,16 +922,24 @@ figcaption {
 .githubEdit {
   display: flex;
   align-items: center;
-  text-decoration: none;
-  color: #000000;
   font-weight: 500;
+  padding-bottom: 20px;
 }
 
+.githubEdit a {
+  color: #000000;
+  text-decoration: none;
+  }
 .githubEdit svg {
-  margin-right: 10px;
   width: 15px;
   height: 15px;
   }
+
+.githubEdit_text {
+  padding-left: 20px;
+}
+
+
 
 .screen-reader-text:focus {
   border-radius: 0.25rem;
