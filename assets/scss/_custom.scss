@@ -921,22 +921,23 @@ figcaption {
 // Edit on GitHub link
 
 #githubEdit {
-  display: inline;
+  display: inline-flex;
   font-weight: 500;
+  align-items: center;
 }
 
 a#githubEdit {
   color: #000000;
-  text-decoration: none;
+  text-decoration: underline;
   }
 
 #githubEdit svg {
-  width: 15px;
-  height: 15px;
+  height: 16px;
   }
 
 #githubEdit p {
   padding-left: 20px;
+  margin-top: revert;
 }
 
 
