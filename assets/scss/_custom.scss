@@ -208,6 +208,7 @@ h6 {
 h1 {
   color: var(--h1);
   font-weight: 800;
+  padding-top: 1rem;
 }
 
 h2 {
@@ -919,24 +920,23 @@ figcaption {
 
 // Edit on GitHub link
 
-.githubEdit {
+#githubEdit {
   display: flex;
-  align-items: center;
+  align-items: inline;
   font-weight: 500;
-  padding-bottom: 20px;
 }
 
-.githubEdit a {
+#githubEdit a {
   color: #000000;
   text-decoration: none;
   }
 
-.githubEdit svg {
+#githubEdit svg {
   width: 15px;
   height: 15px;
   }
 
-.githubEdit p {
+#githubEdit p {
   padding-left: 20px;
 }
 
