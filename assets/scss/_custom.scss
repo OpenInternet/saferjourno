@@ -917,6 +917,22 @@ figcaption {
   word-wrap: normal !important;
 }
 
+// Edit on GitHub link
+
+.githubEdit {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #000000;
+  font-weight: 500;
+}
+
+.githubEdit svg {
+  margin-right: 10px;
+  width: 15px;
+  height: 15px;
+  }
+
 .screen-reader-text:focus {
   border-radius: 0.25rem;
   box-shadow: 0 0 0.125rem 0.125rem rgba(0, 0, 0, 0.6);
