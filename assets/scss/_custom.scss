@@ -208,6 +208,7 @@ h6 {
 h1 {
   color: var(--h1);
   font-weight: 800;
+  padding-top: 1rem;
 }
 
 h2 {
@@ -916,6 +917,30 @@ figcaption {
   width: 1px;
   word-wrap: normal !important;
 }
+
+// Edit on GitHub link
+
+#githubEdit {
+  display: inline-flex;
+  font-weight: 500;
+  align-items: center;
+}
+
+a#githubEdit {
+  color: #000000;
+  text-decoration: underline;
+  }
+
+#githubEdit svg {
+  height: 16px;
+  }
+
+#githubEdit p {
+  padding-left: 20px;
+  margin-top: revert;
+}
+
+
 
 .screen-reader-text:focus {
   border-radius: 0.25rem;
