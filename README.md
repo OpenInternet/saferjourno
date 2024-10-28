@@ -2,7 +2,7 @@
 
 
 SaferJourno is a project by [Internews](https://internews.org/)! 
-The [SaferJourno website](https://saferjourno.org) is built using the [Hugo](https://gohugo.io) Static Site Generator, including the use of [NetlifyCMS](https://decapcms.org/) to manage the content and localization.
+The [SaferJourno website](https://saferjourno.org) is built using the [Hugo](https://gohugo.io) Static Site Generator, running on GitHub Pages.
 
 The contents of the SaferJourno guide are released under a [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
