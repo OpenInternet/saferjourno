@@ -203,7 +203,7 @@ After reading this case study, can you think of any areas where you need to incr
 
 This case study is designed to get participants talking about source security and materials. It can be used to consolidate knowledge learned during the module. Readers will need to be made familiar with what two-factor authentication is before starting the activity. Trainers looking for more information on account security can look at chapter two of this guide.
 
-Learners who read this case study might express concerns that Signal is insecure or that accounts are frequently taken over. Trainers should emphasize that a similar attack could happen against any messenger that verifies users and new devices via SMS (most messengers do so) and that it can easily be prevented through Registration Lock. We continue to recommend Signal as the default, unless journalists have very good reasons for using other tools.
+Learners who read this case study might express concerns that Signal is insecure or that accounts are frequently taken over. Trainers should emphasize that a similar attack could happen against any messenger that verifies users and new devices via SMS (most messengers do so) and that it can easily be prevented through Registration Lock. We continue to recommend Signal as a great and relatively ubiquitous secure messenger, unless journalists have very good reasons for using other tools.
 
 Talking points to consider include:
 
