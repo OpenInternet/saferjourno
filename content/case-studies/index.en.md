@@ -58,7 +58,7 @@ Trainers looking to learn more about the case can read this report by [Human Rig
 
 - - -
 
-## Reporters phone confiscated on Pentagon trip to Europe
+## Reporter’s phone confiscated on Pentagon trip to Europe
 
 Read the following case study and discuss the questions below. 
 
