@@ -26,4 +26,4 @@ There exists a beautiful world in which thoughts about dinners, meadows, and mou
  
 Ashley Fowler, Senior Manager of Internet Freedom & Resilience, Internews
 
-Łukasz Król, Journalist Security Specialist, Internews
+Łukasz Król, Senior Journalist Security Specialist, Internews
