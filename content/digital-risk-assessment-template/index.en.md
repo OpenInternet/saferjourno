@@ -83,7 +83,7 @@ __Steps to reduce risk__
 - [ ] I have a plan for backing up my content in more than one place
 - [ ] I have researched and chosen a method for backing up, deleting and storing content 
 - [ ] I know how to encrypt single documents
-- [ ] I know how to encrypt USB sticks, HD cards, external hard drives amongst others
+- [ ] I know how to encrypt USB sticks, SD cards, external hard drives amongst others
 - [ ] I have created a plan with my team around how we will all store materials more securely 
 - [ ] I know what steps to take should our material be accessed by someone
 
