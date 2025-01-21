@@ -60,8 +60,7 @@ _Searching for personal data online_
   - PDF: to search for PDFs.
 - Check video and photo content as well as websites. You can carry out an [advanced image search](https://www.google.com/advanced_image_search) to look for a particular photo and its location on the internet.
 - Use all search engines, not just Google. Different search engines throw up different results so it’s important to check them all. If applicable, journalists should check Yandex and Baidu, Russian and Chinese search engines.
-- Review personal social media accounts to see what information is available to view publicly. Most major platforms now have a privacy guide which users can follow. Review privacy settings for [Facebook]
-  (https://www.facebook.com/help/443357099140264), [Instagram](https://help.instagram.com/196883487377501), [Twitter](https://help.twitter.com/en/safety-and-security), [TikTok](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings).
+- Review personal social media accounts to see what information is available to view publicly. Most major platforms now have a privacy guide which users can follow. Review privacy settings for [Facebook](https://www.facebook.com/help/443357099140264), [Instagram](https://help.instagram.com/196883487377501), [Twitter](https://help.twitter.com/en/safety-and-security), [TikTok](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings).
 
 _Removing or limiting access to data from the internet_
 
