@@ -141,7 +141,7 @@ The following templates and tools can be useful for teaching this session:
 
 The following resources may be helpful for teaching this chapter:
 
-[Create and maintain strong passwords](https://securityinabox.org/en/passwords/passwords-and-2fa/) by Security in a Box
+[Create and maintain strong passwords](https://securityinabox.org/en/passwords/passwords/) and [Use Two-Factor Authentication](https://securityinabox.org/en/passwords/2fa/) by Security in a Box
 
 [Using password managers to stay safe online](https://ssd.eff.org/module/animated-overview-using-password-managers-stay-safe-online) by the Electronic Frontier Foundation
 
