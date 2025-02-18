@@ -89,18 +89,12 @@ You can protect against malware by doing the following:
 * Mobile phones are always connected to services around them in order to receive and transmit information. This includes mobile phone towers, internet connections, and Bluetooth. All of these connections give away data about the mobile phone users, including their location. For a technical, in depth look at how mobile phones function and how they can reveal and leak out locations, see [this report by Citizen Lab](https://citizenlab.ca/2023/10/finding-you-teleco-vulnerabilities-for-location-disclosure/).
 * What is a mobile phone made up of?
 
-  * Antenna\
-     Permits communication between the phone and the network
-  * Battery\
-     Powers the device and is no longer removable
-  * Baseband microprocessor\
-    Manages the communications of the phone, including commands from the user to the phone and from the phone to the mobile network
-  * Bluetooth\
-     A wireless technology that uses radio frequency to share data over a limited distance. It can be used on a phone to share documents and other data as well as to connect to other services offering Bluetooth
-  * GPS\
-     Stands for Global Positioning System. This is a receiver in the phone that connects with satellites. IT can be turned off in the settings section of the phone.
-  * SIM and SIM slot\
-     Where the SIM card is stored. Some phones have the option for a dual SIM card. Some phones now use an eSIM instead, which consists of a dedicated on-device computer which stores subscriber data.
+  * **Antenna**: Permits communication between the phone and the network
+  * **Battery**: Powers the device and is no longer removable
+  * **Baseband microprocessor**: Manages the communications of the phone, including commands from the user to the phone and from the phone to the mobile network
+  * **Bluetooth**: A wireless technology that uses radio frequency to share data over a limited distance. It can be used on a phone to share documents and other data as well as to connect to other services offering Bluetooth
+  * **GPS**: Stands for Global Positioning System. This is a receiver in the phone that connects with satellites. IT can be turned off in the settings section of the phone.
+  * **SIM and SIM slot**: Where the SIM card is stored. Some phones have the option for a dual SIM card. Some phones now use an eSIM instead, which consists of a dedicated on-device computer which stores subscriber data.
 * All mobile phone devices have a unique identity number called the Mobile Equipment Identity number, otherwise known as an IMEI (International Mobile Equipment Identity). This number is used by telecommunications companies to identify a device and provide it a service on its network. A mobile phone network provider will typically know the physical location of each phone. This can be used by people to locate lost or stolen devices. It can also be used by governments to locate people. This could be a risk for journalists if they are meeting with sensitive sources or are travelling to locations that they would rather others did not know about.
 * All SIM cards also have a unique identity number known as the IMSI number. When the mobile phone card connects to the network it shares this number with the provider. The IMSI contains information about the SIM card, including the country in which it was issued. This information is available to mobile phone providers and makes it possible for them to know your location. This information can be shared with governments. For those living in countries where their ID number is tied to their SIM card this means the government knows which SIM card they are using. This is known as a registered SIM. Unregistered SIM cards are SIM cards that are not tied to your identity.
 * A mobile phone gives away data about a journalist’s location and who they are communicating with. This data is collected by the telecommunications company and can be passed to governments. Telecommunications companies collect other data, including phone call history, the phone numbers of people you contact when making mobile phone calls and SMS messages.If they provide you with internet coverage they may also be obtaining data on your browsing history. This data can be accessed by people at the company and can also be obtained by governments.
