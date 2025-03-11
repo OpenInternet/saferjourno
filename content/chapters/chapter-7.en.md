@@ -78,7 +78,7 @@ _Removing or limiting access to data from the internet_
 - Journalists should speak with family and friends about removing or hiding their personal data from their social media accounts.
 - Data is likely to be stored on third-party platforms over which the journalists have no control. Examples of third-party platforms include government databases, a website run by someone they don’t know, and websites run by companies. They may or may not take down personal data depending on laws, terms and conditions of the site, and whether they want to take it down or not. Each site will have their own steps for requesting the removal of data.
 - Journalists should review internet archive services to see if their personal data is available and request to have it removed.
-- Journalists may wish to blur out their house on Google Maps and Apple Maps. This will stop online abusers being able to use the internet to see what the outside of a journalist’s house looks like.
+- Journalists may wish to blur out their house on [Google Maps](https://support.google.com/maps/answer/15439776?hl=en) and [Apple Maps](https://maps.apple.com/imagecollection/). This will stop online abusers being able to use the internet to see what the outside of a journalist’s house looks like.
 
 ## Completing the risk assessment
 
