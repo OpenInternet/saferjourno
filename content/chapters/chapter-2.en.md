@@ -81,7 +81,7 @@ _Phishing_
 
 _App or OAuth phishing_
 
-- We often connect apps to our accounts. Those could include extensions for calendars, contact management, or scheduling, or even connecting our Google Drive to WhatsApp for easy backups. Since those apps rely on and expand your account's capabilities, they often request permission to save, read, or change data therein. Unfortunately, [some adversaries will create fake apps](https://cofense.com/blog/oauth-phishing-alert-fake-adobe-drive-x-app-abusing-microsoft-login) that look like real ones but in reality steal data from your account.
+- We often connect other apps or services to our accounts. Those could include extensions for calendars, contact management, or scheduling, or even connecting our Google Drive to WhatsApp for easy backups. Since those apps rely on and expand your account's capabilities, they often request permission to save, read, or change data therein. Unfortunately, [some adversaries will create fake apps](https://cofense.com/blog/oauth-phishing-alert-fake-adobe-drive-x-app-abusing-microsoft-login) that look like real ones but in reality steal data from your account.
 - For this reason, we strongly discourage journalists from linking any apps to their work accounts. The only exception are services which use the service to log in (for example, log in with Google/Microsoft/GitHub) but do not access any data. If journalists need to link apps that require data access to their accounts, for example for managing certain calendar appointments or backing up chats, we recommend linking them to an account which does not contain sensitive or work-related information.
 
 

@@ -64,7 +64,7 @@ _Searching for personal data online_
 
 _Removing or limiting access to data from the internet_
 
-- Once personal data is put on the internet and then deleted it is impossible to guarantee that it has been completely removed from the web. This is because the information is likely to be stored in different places, including the accounts of others, public databases, captured by others using screenshots, and archived in online archive services, such as the Wayback Machine. Despite this, it is still important to delete content where possible because it will make it more difficult for online attackers to obtain the information.
+- Once personal data is put on the internet and then deleted it is impossible to guarantee that it has been completely removed from the web. This is because the information is likely to be stored in different places, including the accounts of others, public databases, captured by others using screenshots, and archived in online archive services, such as the [Wayback Machine](https://web.archive.org/). Despite this, it is still important to delete content where possible because it will make it more difficult for online attackers to obtain the information.
 - If the journalist is in control of the site that the content is on, for example their personal Facebook page, then they can go in and back up the content and then delete or hide it. The information will disappear from the site but won’t disappear immediately from a search engine result.
 - Common best practice for protecting data on social media accounts includes:
   - Choosing to use the social media account for either exclusively work or personal use
@@ -78,7 +78,7 @@ _Removing or limiting access to data from the internet_
 - Journalists should speak with family and friends about removing or hiding their personal data from their social media accounts.
 - Data is likely to be stored on third-party platforms over which the journalists have no control. Examples of third-party platforms include government databases, a website run by someone they don’t know, and websites run by companies. They may or may not take down personal data depending on laws, terms and conditions of the site, and whether they want to take it down or not. Each site will have their own steps for requesting the removal of data.
 - Journalists should review internet archive services to see if their personal data is available and request to have it removed.
-- Journalists may wish to blur out their house on Google Maps and Apple Maps. This will stop online abusers being able to use the internet to see what the outside of a journalist’s house looks like.
+- Journalists may wish to blur out their house on [Google Maps](https://support.google.com/maps/answer/15439776?hl=en) and [Apple Maps](https://maps.apple.com/imagecollection/). This will stop online abusers being able to use the internet to see what the outside of a journalist’s house looks like.
 
 ## Completing the risk assessment
 
@@ -106,7 +106,7 @@ Some data is also being collected and re-sold by data brokers. There also exist 
 
 **Once my data has been taken down is it really gone?**
 
-Explain that once data has been put on the internet it is impossible to guarantee that it has been removed. This is because information is stored in the accounts of others, including family members, held in public databases, and captured via screenshots. Online data is also archived by online archive services, such as the Wayback Machine. It is still important to take down any potentially harmful data to avoid it falling easily into the hands of harassers.
+Explain that once data has been put on the internet it is impossible to guarantee that it has been removed. This is because information is stored in the accounts of others, including family members, held in public databases, and captured via screenshots. Online data is also archived by online archive services, such as the [Wayback Machine](https://web.archive.org/). It is still important to take down any potentially harmful data to avoid it falling easily into the hands of harassers.
 
 **How long is this going to take, I’m really busy and don’t have a lot of time?!**
 
