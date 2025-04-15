@@ -15,7 +15,7 @@ This chapter will cover:
 - Thinking about individual risk when it comes to securing materials
 - Best practice for backing up and storing data
 - The basics of encryption
-- Encrypting documents, USBs, HD cards, and external hard drives
+- Encrypting documents, USBs, HD cards, and external drives
 
 ## Training journalists for the first time?
 
@@ -39,14 +39,14 @@ _General guidance for protecting materials_
 - In the majority of situations, journalists can continue to collaborate and receive and store materials via the online services they normally use, for example Google Drive or O365. They should ensure those accounts have two-factor authentication (2FA) turned on, ideally through physical security keys or passkeys, and that they are using long passwords. See chapter two for more details on account security.
 - Journalists should be aware that the online services they use may be collecting metadata on users. Metadata is a set of data that describes other data. For example, the time a photo was taken, the make and model of the device that took the photo, and the location the photo was taken at. Metadata can give governments and others a substantial amount of information that could be used against a journalist and their source. At the same time, it can be immensely helpful to journalists who are trying to verify or fact-check content.
 - If the threat is a government, then journalists should largely avoid using online services that were founded in, are based in or have servers in the country linked to that particular government. This is because data may be at greater risk of being accessed by that government. Exceptions can be made for services that are using end-to-end encryption and do not collect metadata on users.
-- Having several copies of the same materials is advisable to better protect against loss of data. For sensitive documents, journalists should think about backing up information to several external hard drives, encrypting the hard drive, and then storing the hard drives in different locations.
+- Having several copies of the same materials is advisable to better protect against loss of data. For sensitive documents, journalists should think about backing up information to several external  drives, encrypting the contents of those drives, and then storing them in different locations.
 - Prompt journalists to think about how they will protect their materials in advance of a story by doing a digital risk assessment. This will help them better avoid situations where they receive sensitive materials and do not have a plan to protect and store them.
 
 _Encryption_
 
 - Encryption is a secure way of protecting information so that it can not be intercepted and/or accessed by others unless they have the password.
 - There are a number of different services that encrypt data, some are easy to use while others will take practice.
-- Users looking to encrypt external hard drives, USBs or HD cards can use the built-in encryption services offered by Windows, known as [Bitlocker](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838), and [macOS](https://support.apple.com/en-gb/guide/disk-utility/dskutl35612/mac), known as FileVault. Bitlocker is only available to users who have Pro editions of Windows, with Device Encryption available to those using Home editions. [VeraCrypt](https://www.veracrypt.fr/code/VeraCrypt/) is a reputable piece of third-party software that is useful for encrypting both internal and external drives and works on Windows, macOS, and Linux. Journalists looking to encrypt individual documents to store in the cloud can use [Cryptomator](https://cryptomator.org/).
+- Users looking to encrypt external drives, USBs or HD cards can use the built-in encryption services offered by Windows, known as [Bitlocker](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838), and [macOS](https://support.apple.com/en-gb/guide/disk-utility/dskutl35612/mac), known as FileVault. Bitlocker is only available to users who have Pro editions of Windows, with Device Encryption available to those using Home editions. [VeraCrypt](https://www.veracrypt.fr/code/VeraCrypt/) is a reputable piece of third-party software that is useful for encrypting both internal and external drives and works on Windows, macOS, and Linux. Journalists looking to encrypt individual documents to store in the cloud can use [Cryptomator](https://cryptomator.org/).
 - There are different ways to encrypt a computer's internal drive depending on whether it is a Windows PC or a Mac. Turning on encryption for Windows PC involves activating their encryption program called Bitlocker, available for Windows Pro editions. You can read about how to do this [here](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838#:~:text=Or%2C%20select%20Start%20%3E%20Settings%20%3E,and%20then%20follow%20the%20instructions.). Those who use Windows Home editions can enable a feature called [Device Encryption](https://support.microsoft.com/en-us/windows/device-encryption-in-windows-ad5dcf4b-dbe0-2331-228f-7925c2a3012d) instead, though it's only available on selected devices. macOS users can turn on FileVault, the equivalent encryption program for Macs. Read more about encrypting Mac computers [here](https://support.apple.com/en-gb/guide/mac-help/mh11785/mac).
 - Laws around encryption are different in each country so it’s important to ensure the journalist is aware of the law of the country they are living in and any countries they are travelling to.
 - Be aware that even though the journalist may have encrypted materials they may be legally requested to decrypt the information by putting in their password if requested to do so by law enforcement.
@@ -73,7 +73,7 @@ Even if a journalist prints out documents for safekeeping, those documents were 
 
 **How can I secure film footage and other heavy files?**
 
-Journalists working with large files face more challenges when it comes to securing their materials. This is because they may be working in locations with poor internet connectivity, making it harder to upload to the cloud or they need to cross borders with sensitive footage. It’s important to get journalists thinking about their own individual risk and to think through options for securing materials. For those in a fixed location, backing up materials to several external encrypted hard drives and storing them in different locations will likely be the best option. Check out the Freedom of the Press Foundation's and Field of Vision's [guide to digital security for filmmakers](https://www.digitalsecurity.film/) if you will be working with a lot of data and big files.
+Journalists working with large files face more challenges when it comes to securing their materials. This is because they may be working in locations with poor internet connectivity, making it harder to upload to the cloud or they need to cross borders with sensitive footage. It’s important to get journalists thinking about their own individual risk and to think through options for securing materials. For those in a fixed location, backing up materials to several external encrypted drives and storing them in different locations will likely be the best option. Check out the Freedom of the Press Foundation's and Field of Vision's [guide to digital security for filmmakers](https://www.digitalsecurity.film/) if you will be working with a lot of data and big files.
 
 </div>
 
@@ -84,7 +84,7 @@ Journalists working with large files face more challenges when it comes to secur
 At the end of the session journalists:
 
 - Are able to make informed decisions around what steps they need to take to secure materials based on their own risk profile and the risk profile of particular stories.
-- Know about different types of tools they can use to secure their materials, including services to encrypt documents, USBs, HD cards, and external hard drives.
+- Know about different types of tools they can use to secure their materials, including services to encrypt documents, USBs, HD cards, and external drives.
 - Have a plan for backing up and storing their data.
 
 </div>
@@ -95,7 +95,7 @@ At the end of the session journalists:
 
 The following tools can be useful for teaching this session:
 
-- [Veracrypt](https://www.veracrypt.fr/code/VeraCrypt/) for encrypting external hard drives, USB sticks, and SD cards
+- [Veracrypt](https://www.veracrypt.fr/code/VeraCrypt/) for encrypting external drives, USB sticks, and SD cards
 - [Cryptomator](https://cryptomator.org/) for encrypting individual documents
 - [Dangerzone](https://dangerzone.rocks/) for turning suspicious files (documents which you suspect could contain malware) into safe PDFs
 - [Template for backing up data](https://docs.google.com/spreadsheets/d/1F8ZYjnKgKa0phb368_LqjeIZMjapAWAnX6hYL5TgXaA/edit#gid=0)
@@ -185,7 +185,7 @@ _This activity has been amended from the Level Up chapter how to secure your com
 - Ask participants how often do they backup their files? Share examples of best practices related to data backup, such as:
   - Keeping the backup in a safe place that is separate from their computer
   - Backing up their information on a frequent, regular basis
-  - Possibly encrypting the hard drive or storage media where data will be stored.
+  - Possibly encrypting the drive or storage media where data will be stored.
 
 ❷ **Step two**
 
@@ -195,13 +195,13 @@ _This activity has been amended from the Level Up chapter how to secure your com
   - Is there any content that you think about backing up but then don’t get around to doing it?
   - Is there anything particularly sensitive that you should back up?
 
-#### II Encrypting an external hard drive
+#### II Encrypting an external drive
 
 <div class="table">
 
 | Learning outcomes                                                                                                                                                                                                         | Time       | Difficulty level | Resources                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------- | -------------------------------------------------------------------- |
-| Journalists discuss options for backing up data and are able to choose a suitable option for themselves based on their risk profile<br>Journalists learn how to backup and encrypt information to an external hard drive. | 60 minutes | Advanced         | Whiteboard, flip chart, pens,PPT slides, laptop and projector set up |
+| Journalists discuss options for backing up data and are able to choose a suitable option for themselves based on their risk profile<br>Journalists learn how to backup and encrypt information to an external drive. | 60 minutes | Advanced         | Whiteboard, flip chart, pens,PPT slides, laptop and projector set up |
 
 </div>
 
@@ -209,21 +209,21 @@ _Trainer note: it is recommended that you carry out a live demonstration using a
 
 ❶ **Step one**
 
-- Explain that there are several ways to encrypt an external hard drive. Explain that Mac users can use the built in encryption tool called FileVault. Windows PC users, who have professional accounts, can use Windows’ Bitlocker and that there is a third-party service that all can use called VeraCrypt.
+- Explain that there are several ways to encrypt an external drive. Explain that Mac users can use the built in encryption tool called FileVault. Windows PC users, who have professional accounts, can use Windows’ Bitlocker and that there is a third-party service that all can use called VeraCrypt.
 
 ❷ **Step two**
 
-- Tell the journalists that in order to encrypt the external hard drive you will need to think of and use a password. Speak about the importance of creating a strong password and use this time as an opportunity to review good password best practice. Highlight that it is better to think of this password in advance so you do not have to think of it when you are encrypting.
-- Explain that you are going to show how to encrypt data to an external hard drive using VeraCrypt:
+- Tell the journalists that in order to encrypt the external drive you will need to think of and use a password. Speak about the importance of creating a strong password and use this time as an opportunity to review good password best practice. Highlight that it is better to think of this password in advance so you do not have to think of it when you are encrypting.
+- Explain that you are going to show how to encrypt data to an external drive using VeraCrypt:
   - Download VeraCrypt
-  - Connect the external hard drive to the computer via the USB port
+  - Connect the external drive to the computer via the USB port
   - Carry out a backup of the data on the external drive
-  - Encrypt the external hard guide, following for example [this guide](https://freedom.press/training/encryption-toolkit-media-makers/veracrypt-guide/#encrypting-external-storage-devices-on-veracrypt)
+  - Encrypt the external guide, following for example [this guide](https://freedom.press/training/encryption-toolkit-media-makers/veracrypt-guide/#encrypting-external-storage-devices-on-veracrypt)
 
 ❸ **Step three**
 
 - Answer any questions that the journalists may have
-- Speak about the importance of having more than one backup. Journalists may wish to have several encrypted external hard drives as well as a backup to the cloud. How many backups they create and where they store them will depend on their risk profile. Further information on this can be found at the beginning of this chapter.
+- Speak about the importance of having more than one backup. Journalists may wish to have several encrypted external drives as well as a backup to the cloud. How many backups they create and where they store them will depend on their risk profile. Further information on this can be found at the beginning of this chapter.
 - Speak with the journalists about situations where even though information is encrypted people could still obtain access. Help them think of way to better protect information if they face situations like the ones listed below:
   - Being asked by law enforcement to unlock encrypted devices and the legal risks that arise if you refuse to do so.
   - Being physically threatened to open your devices.
