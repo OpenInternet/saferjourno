@@ -27,7 +27,7 @@ The following can be helpful to keep in mind:
 - Journalists normally have a process for backing up important documents but may be less likely to be backing up content on their phone.
 - As journalists are normally working to a deadline they may not prioritise time to learn about encryption.
 - Journalists are likely to not have had sufficient training in how to secure materials.
-- Some forms of encryption may be illegal in the country the journalist is working in or travelling to.
+- Some forms of encryption may be illegal in the country the journalist is working in or travelling to. Law enforcement or courts in some countries could also force people to hand over passwords or decryption keys.
 
 ## Training digital security for the first time?
 
@@ -64,7 +64,7 @@ This is a really good question and the type of questions journalists should be a
 
 **If I delete a document from my device could it be recovered?**
 
-Getting the journalist to think about who would be interested in recovering documents from their devices and the tech capacity of that adversary is important here. Advanced adversaries might be able to recover documents that were deleted off unencrypted drives, while adversaries with even more sophisticated forensics capabilities could try to recover other types of content as well, though this is time-consuming, expensive, and success is hardly guaranteed. If journalists are very concerned about well-resourced governments accessing files that have been deleted from their devices, they could use a special program which securely deletes content off a drive, do a factory reset of the device (which will reset encryption keys and make the old contents of the drive inaccessible), and possibly physically destroy the drive.
+Get the journalist to think about who would be interested in recovering documents from their devices and the tech capacity of that adversary. Advanced adversaries might be able to recover documents that were deleted off unencrypted drives, while adversaries with even more sophisticated forensics capabilities could try to recover other types of content as well, though this is time-consuming, expensive, and success is hardly guaranteed. If journalists are very concerned about well-resourced governments accessing files that have been deleted from their devices, they could use a special program which securely deletes content off a drive, do a factory reset of the device (which will reset encryption keys and make the old contents of the drive inaccessible), and possibly physically destroy the drive.
 
 **Is it safer to print out my documents and keep them in my home than store them online?**
 
