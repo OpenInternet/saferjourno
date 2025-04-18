@@ -90,11 +90,11 @@ Below are some questions that journalists ask about safer communications. It can
 
 **Which messaging app is the safest?**
 
-To answer this question, the journalist will need to think about who they want to speak with, what they are speaking about, and who is interested in obtaining that data. Explain that there is no such thing as one secure communication method instead each case is different based on the individual risk of the journalist and the source.
+To answer this question, the journalist will need to think about who they want to speak with, what they are speaking about, and who is interested in obtaining that data. Explain that there is no such thing as one secure communication method; each case is different based on the individual risk of the journalist and the source.
 
 **How safe is WhatsApp?**
 
-There is a lot of confusion around the security of WhatsApp. It can be helpful here to tell the journalist that the encryption for WhatsApp was created by Signal so the issue is not the encryption but the metadata. At the same time, WhatsApp is so common in most communities that few will look suspicious in using it or having it installed on their devices, while Signal is less common and its presence could arouse suspicion in some circles. Have the journalist walk through a risk assessment to consider whether WhatsApp is the most secure option for them.
+There is a lot of confusion around the security of WhatsApp. It can be helpful here to tell the journalist that the encryption for WhatsApp was created by Signal so the issue is not the encryption but the metadata, with Meta, WhatsApp's parent company, [able to see who is messaging whom and when](https://www.techradar.com/computing/cyber-security/whatsapp-encryption-isnt-the-problem-metadata-is). A court or law enforcement could also potentially ask Meta to hand over this data. At the same time, WhatsApp is so common in most communities that few will look suspicious in using it or having it installed on their devices, while Signal is less common and its presence could arouse suspicion in some circles. Have the journalist walk through a risk assessment to consider whether WhatsApp is the most secure option for them.
 
 **I used to use WhatsApp but I moved to Telegram, was that a good choice?**
 
@@ -102,7 +102,7 @@ This depends on the risks that the journalist faces. If the journalist is using 
 
 **I’m using Signal but nobody else does, why?**
 
-Ascertain who the journalist wants to speak to and what about. Sources that live in rural areas and have poor internet bandwidth, people who are not familiar with technology, and sources who are very busy may not download and use Signal. Explain that for the majority of people using WhatsApp is a secure and convenient form of communication unless they are concerned about a US government subpoena for their data.
+Ascertain who the journalist wants to speak to and what about. Sources that live in rural areas and have poor internet bandwidth, people who are not familiar with technology, and sources who are very busy may not download and use Signal. Explain that for the majority of people using WhatsApp is a secure and convenient form of communication unless they are concerned about a government asking Meta for the metadata it keeps.
 
 **How can we communicate more securely on our team?**
 
