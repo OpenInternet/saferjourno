@@ -98,7 +98,7 @@ Below are some questions that journalists ask about safer communications. It can
 
 **I have so much information online. Where is a good place to start when it comes to removing it?**
 
-Journalists have a lot of public-facing data on the internet and they often need to do so for their career. Explain that becoming safer does not mean removing everything; instead, they should focus on removing data that can be used to locate them, such as their home address, information that can be used to contact them via a means they do not want, such as a personal email address, and data that can be used to steal their identity, including their date of birth and their national ID number. They should also take steps to remove details about their family, including photos. Ideally, the only information they should have online is professional contact details, professional photos, and their journalistic work.
+Journalists have a lot of public-facing data on the internet and they often need to do so for their career. Explain that becoming safer does not mean removing everything; instead, they should focus on removing data that can be used to locate them, such as their home address or photos of their neighbourhood, information that can be used to contact them via a means they do not want, such as a personal email address, and data that can be used to steal their identity, including their date of birth and their national ID number. They should also take steps to remove details about their family, including photos. Ideally, the only public information they should have online is professional contact details, professional photos, and their journalistic work.
 
 **How can I remove my data online?**
 
