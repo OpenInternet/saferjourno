@@ -15,7 +15,7 @@ This chapter will cover:
 - Thinking about individual risk when it comes to securing materials
 - Best practice for backing up and storing data
 - The basics of encryption
-- Encrypting documents, USBs, HD cards, and external drives
+- Encrypting documents, USBs, SD cards, and external drives
 
 ## Training journalists for the first time?
 
@@ -47,7 +47,7 @@ _Encryption_
 
 - Encryption is a secure way of protecting information so that it can not be intercepted and/or accessed by others unless they have the password.
 - There are a number of different services that encrypt data, some are easy to use while others will take practice.
-- Users looking to encrypt external drives, USBs or HD cards can use the built-in encryption services offered by Windows, known as [Bitlocker](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838), and [macOS](https://support.apple.com/en-gb/guide/disk-utility/dskutl35612/mac), known as FileVault. Bitlocker is only available to users who have Pro editions of Windows, with Device Encryption available to those using Home editions. [VeraCrypt](https://www.veracrypt.fr/code/VeraCrypt/) is a reputable piece of third-party software that is useful for encrypting both internal and external drives and works on Windows, macOS, and Linux. Journalists looking to encrypt individual documents to store in the cloud can use [Cryptomator](https://cryptomator.org/).
+- Users looking to encrypt external drives, USBs or SD cards can use the built-in encryption services offered by Windows, known as [Bitlocker](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838), and [macOS](https://support.apple.com/en-gb/guide/disk-utility/dskutl35612/mac), known as FileVault. Bitlocker is only available to users who have Pro editions of Windows, with Device Encryption available to those using Home editions. [VeraCrypt](https://www.veracrypt.fr/code/VeraCrypt/) is a reputable piece of third-party software that is useful for encrypting both internal and external drives and works on Windows, macOS, and Linux. Journalists looking to encrypt individual documents to store in the cloud can use [Cryptomator](https://cryptomator.org/).
 - There are different ways to encrypt a computer's internal drive depending on whether it is a Windows PC or a Mac. Turning on encryption for Windows PC involves activating their encryption program called Bitlocker, available for Windows Pro editions. You can read about how to do this [here](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838#:~:text=Or%2C%20select%20Start%20%3E%20Settings%20%3E,and%20then%20follow%20the%20instructions.). Those who use Windows Home editions can enable a feature called [Device Encryption](https://support.microsoft.com/en-us/windows/device-encryption-in-windows-ad5dcf4b-dbe0-2331-228f-7925c2a3012d) instead, though it's only available on selected devices. macOS users can turn on FileVault, the equivalent encryption program for Macs. Read more about encrypting Mac computers [here](https://support.apple.com/en-gb/guide/mac-help/mh11785/mac).
 - Laws around encryption are different in each country so it’s important to ensure the journalist is aware of the law of the country they are living in and any countries they are travelling to.
 - Be aware that even though the journalist may have encrypted materials they may be legally requested to decrypt the information by putting in their password if requested to do so by law enforcement.
@@ -85,7 +85,7 @@ Journalists working with large files face more challenges when it comes to secur
 At the end of the session journalists:
 
 - Are able to make informed decisions around what steps they need to take to secure materials based on their own risk profile and the risk profile of particular stories.
-- Know about different types of tools they can use to secure their materials, including services to encrypt documents, USBs, HD cards, and external drives.
+- Know about different types of tools they can use to secure their materials, including services to encrypt documents, USBs, SD cards, and external drives.
 - Have a plan for backing up and storing their data.
 
 </div>
