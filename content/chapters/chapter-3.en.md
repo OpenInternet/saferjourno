@@ -74,7 +74,7 @@ You can protect against malware by doing the following:
 
 * Avoid clicking on links which look suspicious (for example, if they were designed to look like a Google Drive link, but have some small misspellings). If you need to open documents from unknown sources, open them in a web-based editor like Google Docs or O365 or use a tool such as [Dangerzone](https://dangerzone.rocks/).
 * Only download programs and apps from legitimate sites and manufacturer approved stores, such as the Google Play Store and the Apple app store.
-* Make sure that your operating system's built-in antivirus is turned on (Windows has Windows Defender, while macOS has a host of security mechanisms, including Gatekeeper and XProtect). Alternatively, you can also use a third-party antivirus. Third-party antiviruses can disable most or all of the features of an operating system's built-in antivirus. This is normal behavior.
+* Make sure that your operating system's built-in antivirus is turned on (Windows has Windows Defender, while macOS has a host of security mechanisms, including Gatekeeper and XProtect).
 
 *Computers*
 
