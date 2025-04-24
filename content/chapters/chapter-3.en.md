@@ -79,9 +79,11 @@ You can protect against malware by doing the following:
 *Computers*
 
 * It is recommended to secure computers in order to protect the information contained on them, both by setting a good account/ login password and by encrypting the internal drive. If a computer's drive is encrypted then nobody can access the information on it without the password needed to decrypt the content. Be aware that law enforcement may, in some jurisdictions, request that the devices be decrypted, for example by forcing a user to disclose the password.
-* Modern macOS machines and most Windows 11 machines will have disk encryption turned on by default. 
+* Modern macOS machines and most Windows 11 machines will have disk encryption turned on by default.
+
  * If you have an older macOS machine, without a T2 chip, you can enable encryption by following the directions outlined [here](https://support.apple.com/en-gb/guide/mac-help/mh11785/mac).
  * To see if your Windows machine is encrypted, check out [this guide](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838).
+
 * If you need to manually enable encryption, then back up all data on devices first before encrypting them. That way, if there are problems during the encryption process and you cannot access your data, you can restore it from backups.
 * You can also encrypt your backup drives, something that is especially important if you are concerned about home or office raids or if you travel with backups. This means that anyone who accesses your backup drive will not be able to read its contents without the password which was used to encrypt them. Time Machine, the default macOS backup program, allows for encrypted backups. It's a little more complicated in Windows. Users of Windows Pro editions can use Bitlocker to encrypt their backup drives, whereas those using Home editions should ideally use [VeraCrypt](https://www.veracrypt.fr/en/Home.html), a reputable third-party tool.
 
@@ -106,7 +108,7 @@ You can protect against malware by doing the following:
   * When you receive a notification, your device could show the full content of the message on the screen. Some device configuations require you to unlock the phone with your face- or fingerprint before seeing the full notification, others do not. You can adjust notification visibility in the settings section of the phone.
   * Many journalists and other at-risk individuals could be targeted by an attack known as [SIM jacking](https://www.wired.com/story/sim-swap-attack-defend-phone/). In order to reduce the chances of this attack, you could call your mobile phone provider and ask them to put into place additional steps, for example a PIN or a password that you need to give them, before they offer a duplicate SIM card.
   * Turning off location tracking for apps and services when such tracking is not absolutely necessary for the app to function. For more information, see the Internews [device location security guide](https://internews.org/resource/device-location-security/), and Consumer Reports' Security Planner pieces on reviewing [Android](https://securityplanner.consumerreports.org/tool/review-android-app-permissions) and [iOS](https://securityplanner.consumerreports.org/tool/review-iphone-app-permissions) permissions.
-  * Make sure that your devices have a remote wipe capability enabled, which will allow you to delete all the content on them if they are lost, seized, or stolen. Do note that remote wipe will only work if the device is still connected to the internet, and some attackers will therefore remove the SIM card or put the phone in a room with no phone reception to frustrate attempts at wiping it remotely. Read about how to do this for Apple [here](https://support.apple.com/en-gb/guide/icloud/mmfc0ef36f/icloud) and for Google [here](https://support.google.com/accounts/answer/6160491?hl=en).
+  * Make sure that your devices have a remote wipe capability enabled, which will allow you to delete all the content on them if they are lost, seized, or stolen. Do note that remote wipe will only work if the device is still connected to the internet, and some attackers will therefore enable airplane mode or put the phone in a room with no phone reception to frustrate attempts at wiping it remotely. Read about how to enable remote wipe for Apple [here](https://support.apple.com/en-gb/guide/icloud/mmfc0ef36f/icloud) and for Google [here](https://support.google.com/accounts/answer/6160491?hl=en).
 
 *Spyware*
 
@@ -115,10 +117,7 @@ You can protect against malware by doing the following:
 * To get spyware on a device, the adversary may target the user using sophisticated spear phishing techniques. You can read more about phishing and spear phishing in chapter two. Increasingly, spyware is being inserted onto a device with the user doing anything. This is known as a zero click attack.
 * If spyware is on a device then all communications can be monitored; this includes any end-to-end encrypted services, such as Signal and WhatsApp. This is because it is the device itself that is compromised and the adversary is obtaining data directly from the phone.
 * Apple devices have a special mode which significantly reduces the probability of spyware infections while limiting certain features. This is called [Lockdown Mode](https://support.apple.com/en-gb/HT212650) and is available on iOS 16 and above for phones, watches, computers and iPads. Journalists who are at high risk of being infected by spyware should turn this on for their devices. They should ensure that others who are at high risk (possibly their coworkers, family, sources, and others) also activate Lockdown Mode where possible.
-* Other possibilities for protecting against spyware include:
-
-  * Make sure that your mobile phone operating system is up to date. This, in addition to Lockdown Mode, is the single most effective step you can take, since spyware exploits software bugs which are fixed in subsequent updates.
-  * Restart your devices regularly. There is some evidence which suggests that many types of spyware are removed after every restart and adversaries need to reinstall it.
+* Make sure that your mobile phone operating system is up to date. This, in addition to Lockdown Mode, is the single most effective step you can take, since spyware exploits software bugs which are fixed in subsequent updates.
 
 ## Completing the risk assessment
 
