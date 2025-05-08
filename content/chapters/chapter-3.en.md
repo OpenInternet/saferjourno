@@ -79,10 +79,7 @@ You can protect against malware by doing the following:
 *Computers*
 
 * It is recommended to secure computers in order to protect the information contained on them, both by setting a good account/ login password and by encrypting the internal drive. If a computer's drive is encrypted then nobody can access the information on it without the password needed to decrypt the content. Be aware that law enforcement may, in some jurisdictions, request that the devices be decrypted, for example by forcing a user to disclose the password.
-* Modern macOS machines and most Windows 11 machines will have disk encryption turned on by default.
-
- * If you have an older macOS machine, without a T2 chip, you can enable encryption by following the directions outlined [here](https://support.apple.com/en-gb/guide/mac-help/mh11785/mac).
- * To see if your Windows machine is encrypted, check out [this guide](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838).
+* Modern macOS machines (models released in 2018 or after) and most Windows 11 machines will have disk encryption turned on by default. To see if your Windows machine is encrypted, check out [this guide](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838).
 
 * If you need to manually enable encryption, then back up all data on devices first before encrypting them. That way, if there are problems during the encryption process and you cannot access your data, you can restore it from backups.
 * You can also encrypt your backup drives, something that is especially important if you are concerned about home or office raids or if you travel with backups. This means that anyone who accesses your backup drive will not be able to read its contents without the password which was used to encrypt them. Time Machine, the default macOS backup program, allows for encrypted backups. It's a little more complicated in Windows. Users of Windows Pro editions can use Bitlocker to encrypt their backup drives, whereas those using Home editions should ideally use [VeraCrypt](https://www.veracrypt.fr/en/Home.html), a reputable third-party tool.
