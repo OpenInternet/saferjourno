@@ -146,15 +146,9 @@ The following resources may be helpful for teaching this chapter:
 
 [Choosing the VPN that’s right for you](https://ssd.eff.org/module/choosing-vpn-thats-right-you) by the Electronic Frontier Foundation
 
-[Using the internet more securely](https://cpj.org/2019/07/digital-safety-kit-journalists/#Secure) by the Committee to Protect Journalists
-
 [Fortify your browser](https://datadetoxkit.org/en/privacy/browser) by Tactical Tech
 
-[Security and privacy of VPNs running on Windows 10](https://innovation.consumerreports.org/wp-content/uploads/2021/12/VPN-White-Paper.pdf) by Consumer Reports
-
 [Should you use a VPN?](https://www.consumerreports.org/electronics-computers/vpn-services/should-you-use-a-vpn-a5562069524/) by Consumer Reports
-
-[Mullvad, IVPN, and Mozilla VPN Top Consumer Reports’ VPN Testing](https://www.consumerreports.org/electronics-computers/vpn-services/mullvad-ivpn-mozilla-vpn-top-consumer-reports-vpn-testing-a9588707317/) by Consumer Reports
 
 [VPN Testing Reveals Poor Privacy and Security Practices, Hyperbolic Claims](https://www.consumerreports.org/vpn-services/vpn-testing-poor-privacy-security-hyperbolic-claims-a1103787639/) by Consumer Reports
 </div>
