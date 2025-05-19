@@ -66,4 +66,4 @@ Don’t forget that risk tolerance varies significantly among journalists. Those
 
 ## Date of last revision/ update
 
-We plan to regularly read through and revise SaferJourno to make sure that it conforms to current knowledge about technology, threats, and security. We completed the most recent round of revisions in **December 2023**.
+We plan to regularly read through and revise SaferJourno to make sure that it conforms to current knowledge about technology, threats, and security. We completed the most recent round of revisions in **May 2025**.

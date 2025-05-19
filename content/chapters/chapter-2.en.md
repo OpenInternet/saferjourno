@@ -129,6 +129,7 @@ At the end of the session journalists:
 - Know what makes a strong password and are confident about being able to create one
 - Know what 2FA is and know the steps needed to set it up on their accounts
 - Learn about different types of tools and services that can help them to protect their accounts, including different forms of 2FA, and password managers
+- Understand how physical security keys, passkeys, and password managers can all help mitigate phishing
 
 </div>
 
