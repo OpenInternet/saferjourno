@@ -63,7 +63,3 @@ While conducting your training, keep the following in mind as well:
 - Talk to participants about moments when they felt that they were really heard. Ask what you could do to reproduce this in your engagements.
 
 Don’t forget that risk tolerance varies significantly among journalists. Those who come from marginalized communities or who have caretaking duties might have completely different security concerns and threat models. Many journalists feel a deep duty of care towards their sources: you might be most persuasive as a trainer if you frame some of the security steps below as protecting journalists, their sources, and their wider networks (including family and friends).
-
-## Date of last revision/ update
-
-We plan to regularly read through and revise SaferJourno to make sure that it conforms to current knowledge about technology, threats, and security. We completed the most recent round of revisions in **May 2025**.
