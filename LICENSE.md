@@ -1,4 +1,4 @@
-Copyright (c) 2023 Internews and others
+Copyright (c) 2025 Internews and others
 
 ### Code
 _The code running this page is released under an MIT license, copied below:_
