@@ -107,7 +107,8 @@ Explain that little and often is key here. Journalists should prioritize the acc
 
 **What happens if I turn on 2FA but lose my phone or security key?**
 
-This is a very common question. Explain that you can add more than one type of 2FA to the account to protect against this. All services offering 2FA should also have the option to save backup codes which will allow the journalist to enter the account should they lose access to their phone or key. If they are using an authenticator app most of these now give the option to save the backup codes online. If the journalist is using a security key then they will need two, one as a backup which should be linked to the accounts and then stored somewhere safe.
+This is a very common question. Explain that you can add more than one type of 2FA to the account to protect against this. Most services offering 2FA should also have the option to save backup codes which will allow the journalist to enter the account should they lose access to their phone or key. (Some services with very heavy anti-phishing protections, such as Google's Advanced Protection Program, might not offer this option).
+We typically recommend that journalists who use physical security keys purchase—and register—at least two. They can keep one security key on themselves, and another one in a safe location, such as a home or office. Alternatively, journalists can also save a passkey on their phone or password manager as another form of phishing-resistant 2FA.
 
 **What happens if someone hacks the company that provides me with my password manager?**
 
