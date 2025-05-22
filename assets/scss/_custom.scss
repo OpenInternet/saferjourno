@@ -224,6 +224,17 @@ h4 {
   color: var(--h4);
 }
 
+//Last updated header, different from h3 so that it doesn't create a link
+.lastupdated {
+  color: var(--h3);
+  font-feature-settings: "ss01" 1, "ss03" 1, "zero" 1, "cv02" 1, "cv11" 1;
+  font-weight: 600;
+  font-size: 14pt;
+  letter-spacing: -0.025em;
+  padding-top: 1rem;
+}
+
+
 // SVG
 .inline-svg {
   display: inline-flex;
