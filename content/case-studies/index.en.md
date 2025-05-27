@@ -179,6 +179,8 @@ Out of the 1,900 accounts, the hackers were only interested in three accounts, o
 
 The attackers were able to gain access to his account because the journalist had not enabled a security feature of Signal called Registration Lock. Once Registration Lock is set up it will ask you to set up a PIN number. This number will be required for all future registrations of an account on new devices.  
 
+(While Signal allows you to hide your phone number, it will only conceal the number from people you are communicating with. Even if your number is hidden from other users, it is still vulnerable to this type of attack. Registration Lock is the only solid mitigation for it.)
+
 **Source: Vice Motherboard, 2022**
 
 <div class="faq">
