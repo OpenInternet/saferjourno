@@ -38,12 +38,11 @@ Complete the checklist to secure your accounts.
 
 - [ ] I have created long (15 characters or more) and unique passwords for my accounts
 - [ ] I have created and follow a plan for creating and storing my passwords securely
-- [ ] I have turned on two-factor authentication for my accounts
+- [ ] I have turned on two-factor authentication for my accounts, ideally with physical security keys or passkeys
 - [ ] I have accessed and saved the backup codes for those accounts
+- [ ] If I'm using a password manager, I've enabled auto-fill in my web browser to combat phishing threats
 - [ ] I have reviewed the content of my most important accounts and removed anything I would not feel comfortable with others accessing.
 - [ ] I have taken steps to separate out my work and personal accounts online
-- [ ] I have now secured all my online accounts using the steps above
-- [ ] I am aware of the steps I need to take to better protect against phishing 
 
 ## Device security
 
@@ -112,6 +111,6 @@ __Steps to reduce risk__
 - [ ] I have carried out an advanced search for my data online
 - [ ] I have taken steps to remove as much personal data as I am able
 - [ ] I have set up Google alerts for my personal data, including my name
-- [ ] I have secured my accounts by turning on two-factor authentication and by creating long unique passwords  
+- [ ] I have secured my accounts by turning on two-factor authentication (ideally through physical security keys) and by creating long unique passwords  
 - [ ] I have spoken to family and friends about what data I am happy to share online
 - [ ] I have worked with family members to secure their accounts
