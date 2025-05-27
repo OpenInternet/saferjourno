@@ -17,8 +17,6 @@ The message contained a link which, once clicked, directed them to a login page 
 
 Attackers gained access to targets’ email, cloud storage drives, calendars, and contacts. On one account, hackers also performed a Google Takeout, an action that involves exporting all details of the account’s activity, including web searches and location data. 
 
-Those who had been targeted did not realize that their accounts had been compromised as Google does not display security warnings in the user’s inbox or send push notifications to the email app. 
-
 **Source: Human Rights Watch, 2022**
 
 <div class="faq">
