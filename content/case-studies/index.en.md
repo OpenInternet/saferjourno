@@ -165,7 +165,7 @@ Talking points to consider include:
 * Ways to protect materials, such as film footage, while on a reporting trip and the complications that can arise from that.
 * Working in areas with poor internet connectivity and electricity blackouts
 
-Trainers looking to learn more about the case can read about it in the [Columbia Journalism Review](https://archives.cjr.org/feature/the_spy_who_came_in_from_the_c.php?page=all).
+Trainers looking to learn more about the case can read about it in the [Columbia Journalism Review](https://web.archive.org/web/20220306075808/https://archives.cjr.org/feature/the_spy_who_came_in_from_the_c.php). (_The original CJR piece is no longer available online, so we have linked to an archived version_)
 
 - - -
 
