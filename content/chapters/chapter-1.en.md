@@ -43,8 +43,7 @@ This section covers best practice that can be used when teaching the activities 
 
 When speaking about the risk assessment and personal security plan it may be helpful to touch upon the following:
 
-- Get the journalists to focus on the types of digital risks they may face based on where they live and the type of stories that they cover. Encourage them to think of, research online for, or speak to other journalists in their region or covering the same beat and find out the risks they face. Have any journalists reported hacking attempts on their accounts? Have they faced legal requests for their data? Is online abuse prevalent and who is behind it? Having answers to these questions will help journalists to better gauge their own risk.
-- Ask them to think about any previous digital threats they may have faced. For example, have they noticed that someone has tried to hack their accounts? Are they receiving malicious calls or messages?
+- Get the journalists to focus on the types of digital risks they may face based on where they live and the type of stories that they cover. Encourage them to think of, research online for, or speak to other journalists in their region or covering the same beat and find out the risks they face. Have any journalists reported hacking attempts on their accounts? Have any received notifications on their accounts that an advanced adversary wants to break in? Have they faced legal requests for their data? Is online abuse prevalent and who is behind it? Having answers to these questions will help journalists to better gauge their own risk.
 - Get them to think about particular stories or beats that could be riskier than others. For example, are they covering a story where sources may cause them harm or are doing something illegal? Are they receiving sensitive materials? Do they have to contact people to talk about an issue that could be considered sensitive?
 - Ask them to think about how visible they are online. Do they share a lot of data about themselves? Are they public-facing, for example do they host a show or write opinion pieces? How at risk are they from doing this work?
 
@@ -56,7 +55,7 @@ Below are some common questions that journalists ask about account security. It 
 
 **What is a digital security risk assessment?**
 
-Explain that it is a document with questions that help the journalist think through risks that they could face as well as steps they could take to reduce that risk. Tell them that ideally the risk assessment would be completed with support from an editor and the final copy shared with the editor and/or the team the journalist is working with. Point out that it is important to do a risk assessment for all stories that could include digital risk. This could include stories that involve contacting sensitive sources, receiving sensitive information or may involve digital risks, such as device seizure or hacking of accounts amongst others.
+Explain that it is a document with questions that help the journalist think through risks that they could face as well as steps they could take to reduce that risk. Tell them that ideally the risk assessment would be completed with support from an editor and the final copy shared with the editor and/or the team the journalist is working with. Point out that it is important to do a risk assessment for all stories that could include digital risk. This could include stories that involve contacting sensitive sources, receiving sensitive information or which could attract the attention of powerful adversaries who might want to launch abuse campaigns or try to break into journalists' accounts.
 
 **Why do I have to complete a risk assessment?**
 
