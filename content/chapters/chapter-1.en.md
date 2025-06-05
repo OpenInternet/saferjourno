@@ -26,20 +26,18 @@ Take a look at our helpful guidance below:
 
 This section covers best practice that can be used when teaching the activities in this chapter. See the [resources](#resources) section in this chapter for further reading.
 
-- Journalists face a wide-range of digital risks. This is because of the nature of their work and because they are often publishing information that others do not want made public.
+- Journalists face a wide range of digital risks. This is because of the nature of their work and because they are often publishing information that others do not want made public.
 - Adversaries will target a journalist in a number of ways and for a number of reasons. Some common threats include:
-  - Taking over accounts to obtain information saved therein or in order to post information that could discredit the journalist
-  - Seizing devices or infecting them with spyware
-  - Obtaining information contained on those devices, including documents, access to accounts, intercept communications
-  - Monitoring their internet activity
+  - Taking over accounts to obtain information saved therein or post information that could discredit the journalist
+  - Seizing devices or infecting them with spyware to obtain the information saved therein
+  - Monitoring their internet activity, including what they browse and when
   - Gaining information on their research and who they are contacting
   - Intercepting communications
-  - Figuring out who they are speaking to and when
-  - Online abuse
+  - Online abuse, aiming to discourage them from the profession as a whole
   - Attempting to discredit the journalist and try to undermine their reputation, to get them to stop publishing content, or to force them offline.
-- Getting the journalist to understand who may wish to target them and the tech capacity of that adversary is an important part of keeping them safer. Governments, for example, have access to high levels of tech ability as well as the financial capacity to hire others to commit digital threats on their behalf. Non-government adversaries can also have plenty of time, determination, or advanced tooling. Research the tech and operational ability of an adversary by carrying out an online search with the name of the attacker plus keywords, such as hacking, spyware, online attacks.
+- Getting the journalist to understand who may wish to target them and the tech capacity of that adversary is an important part of keeping them safer. Governments, for example, have access to high levels of tech ability as well as the financial capacity to hire others to commit digital threats on their behalf. Non-government adversaries can also have plenty of time, determination, or advanced tooling. Sometimes, government and non-government adversaries will work hand-in-hand. Research the tech and operational ability of an adversary by carrying out an online search with the name of the attacker plus keywords, such as hacking, spyware, online attacks. It's also useful to look at various ATPs (advanced persistent threats) which operate at this moment, see which ones target journalists, and what techniques they use.
 - Recommend that journalists stay up-to-date with digital security issues by signing up to tech newsletters produced by media outlets in their region. [Security News This Week](https://www.wired.com/tag/security-news-this-week/) is an excellent global newsletter, though US-centric at times.
-- A digital risk assessment is a document with questions that helps journalists think about the digital risks they face as well as ways to reduce the risks. At the end of each section of this course, journalists have the option of completing a section of a risk assessment.
+- A digital risk assessment is a document with questions that helps journalists think about the digital risks they face as well as ways to reduce the risks. At the end of each section of this guide, journalists have the option of completing a section of a risk assessment.
 
 ## Completing the risk assessment
 
