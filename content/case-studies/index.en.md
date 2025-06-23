@@ -9,7 +9,7 @@ toc: true
 
 Read the following case study and discuss the questions listed below:
 
-Hackers linked to the Iranian government targeted journalists and others working on issues related to the Middle East, with a sophisticated and ongoing social engineering campaign using WhatsApp messages. 
+Attackers linked to the Iranian government [targeted](https://www.hrw.org/news/2022/12/05/iran-state-backed-hacking-activists-journalists-politicians) journalists and others working on issues related to the Middle East, with a sophisticated and ongoing social engineering campaign using WhatsApp messages. 
 
 Those targeted received a message via WhatsApp claiming to be from a think-tank based in Lebanon inviting them to attend a conference. The message was designed in the style of previous messages sent from this think tank and used the identity of a former employee. 
 
@@ -60,7 +60,7 @@ Trainers looking to learn more about the case can read this report by [Human Rig
 
 Read the following case study and discuss the questions below. 
 
-A new and previously unknown U.S government policy led to a reporter’s phone being confiscated while on a flight with the U.S Department of Defense. The new law prohibited the use of electronic devices by non U.S citizens travelling with government officials who had “top secret” security clearance.   
+A new and previously unknown U.S government policy led to a reporter’s phone [being confiscated](https://pressfreedomtracker.us/all-incidents/reuters-reporters-phone-confiscated-on-pentagon-trip-to-europe/) while on a flight with the U.S Department of Defense. The new law prohibited the use of electronic devices by non U.S citizens travelling with government officials who had “top secret” security clearance.   
 
 Idrees Ali, an accredited Reuters foreign correspondent, was not allowed to use any electronic devices, including his laptop and phone, after boarding a plane to Oslo, Norway, on May 22, because he is not a U.S. citizen. 
 
@@ -115,7 +115,7 @@ Trainers looking to learn more about the case can read about it on the [U.S Pres
 
 Read the following case study and discuss the questions below. 
 
-Documentary filmmaker, Sean McAllister, was detained for five days by Syrian security officers in Syria while shooting a documentary for the UK broadcaster Channel 4 in 2012. 
+Documentary filmmaker, Sean McAllister, [was detained](https://www.cjr.org/feature/the_spy_who_came_in_from_the_c.php) for five days by Syrian security officers in Syria while shooting a documentary for the UK broadcaster Channel 4 in 2012. 
 While in detention, he was interrogated and his phone, laptop, camera and footage were confiscated and not returned putting at risk the activists he had been in contact with for his film. 
 
 McAllister, an experienced journalist who had previously made award-winning documentaries in Yemen and Iraq, had entered the country undercover at a time when the Syrian government had clamped down on visits from foreign journalists. 
@@ -171,11 +171,11 @@ Trainers looking to learn more about the case can read about it in the [Columbia
 
 Read the following case study and discuss the questions below. 
 
-In 2022, hackers broke into the systems of a company called Twilio. Twilio is a company that provides other companies and organisations on the internet with the technology to send text messages to their users. By hacking into the systems of Twilio, the attackers were able to read people’s text messages, and concerningly, had the ability to try and access people’s accounts if they had set up two-factor authentication using SMS. 
+In 2022, [attackers broke](https://www.vice.com/en/article/qjkvxv/how-a-third-party-sms-service-was-used-to-take-over-signal-accounts) into the systems of a company called Twilio. Twilio is a company that provides other companies and organisations on the internet with the technology to send text messages to their users. By breaking into the systems of Twilio, the attackers were able to read people’s text messages, and concerningly, had the ability to try and access people’s accounts if they had set up two-factor authentication using SMS. 
 
-One of the organisations impacted by the hack was the secure messaging app, Signal, with 1,900 users of the app being targeted. Signal uses SMS for its app in the following way: upon downloading Signal, a user is sent an SMS message with a code that is used to register the account. This meant that the hackers may have been able to register the user’s Signal account on their own devices by requesting and receiving the code, effectively being able to impersonate the user.
+One of the organisations impacted by the break-in was the secure messaging app, Signal, with 1,900 users of the app being targeted. Signal uses SMS for its app in the following way: upon downloading Signal, a user is sent an SMS message with a code that is used to register the account. This meant that the hackers may have been able to register the user’s Signal account on their own devices by requesting and receiving the code, effectively being able to impersonate the user.
 
-Out of the 1,900 accounts, the hackers were only interested in three accounts, one of those was a journalist working for Vice Motherboard, a cybersecurity-focused US news outlet. The hackers attempted to re-register his account on another device and took over his number for 13 hours. 
+Out of the 1,900 accounts, the attackers were only interested in three accounts, one of those was a journalist working for Vice Motherboard, a cybersecurity-focused US news outlet. They attempted to re-register his account on another device and took over his number for 13 hours. 
 
 The attackers were able to gain access to his account because the journalist had not enabled a security feature of Signal called Registration Lock. Once Registration Lock is set up it will ask you to set up a PIN number. This number will be required for all future registrations of an account on new devices.  
 
@@ -219,7 +219,7 @@ Trainers looking to learn more about the case can read about it in the article p
 
 Read the following case study and discuss the questions below. 
 
-Journalists and media outlets that are outwardly critical of Kyrgyzstan’s politicians, power holders and businessmen are experiencing increased online harassment and orchestrated attacks by, what appear to be, a domestic industry of trolls and fake social media accounts, run by governments and government supporters, according to a report by the Committee to Protect Journalists (CPJ). 
+Journalists and media outlets that are outwardly critical of Kyrgyzstan’s politicians, power holders and businessmen [are experiencing](https://cpj.org/2021/03/kyrgyz-journalists-online-fake-farms/) increased online harassment and orchestrated attacks by, what appear to be, a domestic industry of trolls and fake social media accounts, run by governments and government supporters, according to a report by the Committee to Protect Journalists (CPJ). 
 
 Journalists are targeted by so-called fakes, social network accounts created under false names using stock or stolen photographs. These accounts routinely appear in the comments sections of critical and investigative publications to discredit and abuse journalists, including sending them death threats, and their associated media agencies. 
 
