@@ -114,7 +114,8 @@ You can protect against malware by doing the following:
 * To get spyware on a device, the adversary may target the user using sophisticated spear phishing techniques. You can read more about phishing and spear phishing in chapter two. Increasingly, spyware is being inserted onto a device with the user doing anything. This is known as a zero click attack.
 * If spyware is on a device then all communications can be monitored; this includes any end-to-end encrypted services, such as Signal and WhatsApp. This is because it is the device itself that is compromised and the adversary is obtaining data directly from the phone.
 * Apple devices have a special mode which significantly reduces the probability of spyware infections while limiting certain features. This is called [Lockdown Mode](https://support.apple.com/en-gb/HT212650) and is available on iOS 16 and above for phones, watches, computers and iPads. Journalists who are at high risk of being infected by spyware should turn this on for their devices. They should ensure that others who are at high risk (possibly their coworkers, family, sources, and others) also activate Lockdown Mode where possible.
-* Make sure that your mobile phone operating system is up to date. This, in addition to Lockdown Mode, is the single most effective step you can take, since spyware exploits software bugs which are fixed in subsequent updates.
+* Devices which run Android 16 also have a new set of high-security features called [Advanced Protection](https://security.googleblog.com/2025/05/advanced-protection-mobile-devices.html). Journalists who are at high risk of spyware or advanced cyberattacks should turn this on for their devices, and encourage others are high risk (coworkers, family, sources, and others) to do the same.
+* Make sure that your mobile phone operating system is up to date. This, in addition to iOS Lockdown Mode and Android Advanced Protection, is the single most effective step you can take, since spyware exploits software bugs which are fixed in subsequent updates.
 
 ## Completing the risk assessment
 
@@ -204,6 +205,8 @@ The following resources may be helpful for teaching this chapter:
 [Journalists targets of Pegasus spyware](https://cpj.org/2019/11/cpj-safety-advisory-journalist-targets-of-pegasus/) by the Committee to Protect Journalists
 
 [About Lockdown Mode](https://support.apple.com/en-gb/HT212650) by Apple
+
+[Advanced Protection: Google’s Strongest Security for Mobile Devices](https://security.googleblog.com/2025/05/advanced-protection-mobile-devices.html) by Google
 
 </div>
 
@@ -469,6 +472,7 @@ With each of these steps it can be helpful to get journalists thinking about why
   * Importance of updating devices to protect against malware
   * Carrying out a factory reset of the device if they are concerned it is infected. They should backup the device first before resetting.
   * Turning on [Lockdown Mode](https://support.apple.com/en-gb/HT212650) for Apple devices running iOS 16 and above, if the journalist is at high risk of targeted attacks
+  * Turning on [Advanced Protection](https://security.googleblog.com/2025/05/advanced-protection-mobile-devices.html) for Android devices running Android 16 and above, if the journalist is at high risk of targeted attacks
   * Limiting the amount of content on their phone, including apps. For example avoid linking their work email to their phone
   * Where possible have separate devices for work and personal use
   * Best practice for protecting against phishing attacks. Consult chapter two for more details on this.
