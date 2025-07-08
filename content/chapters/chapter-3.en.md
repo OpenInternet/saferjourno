@@ -264,7 +264,7 @@ The activities below are designed to accompany this training session on device s
   * The importance of not leaving unlocked devices unattended, for example in hotel rooms or conferences
   * Being mindful of what they plug into their devices, including USB sticks which could contain malware.
   * The importance of updating operating systems, apps and browsers when prompted to do so. Explain that this helps fix vulnerabilities with the code which can be exploited by bad actors.
-  * Using an antivirus
+  * Using the built-in antivirus features in their operating system, or a third-party antivirus
   * Securing devices with passwords, pin locks, and biometrics. It can be helpful to discuss the pros and cons of these options based on the journalist’s own risk profile.
   * A brief look at phishing and malware. Detailed guidance on protecting against phishing is included in chapter two.
   * The importance of encrypting devices. Explain that this chapter will cover how to encrypt computers
