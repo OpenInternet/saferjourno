@@ -273,9 +273,9 @@ _Trainer note: best practice for this activity can be found in the [Training dig
   - Two-step verification
   - Registration locks
   - Security code notifications
-  - Backups
-  - Limiting who can add you to group chats
-  - Community features on WhatsApp
+  - Encrypted backups
+  - Limiting who can add you to group chats ([on WhatsApp](https://faq.whatsapp.com/1131457590844955/))
+  - The ability to hide your phone number ([on Signal](https://support.signal.org/hc/en-us/articles/6712070553754-Phone-Number-Privacy-and-Usernames))
   - Regularly reviewing what other devices are linked to the account
   - Talk about other features that could affect their safety, such as their profile photo, having their status available for others to see online etc.
   - Highlight when it may or may not be safe to use some of these features, for example, having disappearing messages turned on may make you look more suspicious. In other cases, using disappearing messages or deleting data could also lead to legal problems for journalists who are accused of destroying evidence.
