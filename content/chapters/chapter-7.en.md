@@ -8,7 +8,7 @@ toc = true
 
 ## Introduction
 
-Online abuse is increasingly used by governments, individuals, and organised online groups as a way to discredit and undermine journalists and media outlets. Harassers comb the internet looking for a journalist’s personal data and use this information to threaten and intimidate them and their families. These attacks are often accompanied by other digital threats, such as hacking of accounts, phishing attacks, or doxxing. This chapter walks journalists through the best practice needed in order to better secure their data.
+Governments, individuals, and organised online groups increasingly use online abuse to discredit and undermine journalists and media outlets. Harassers comb the internet looking for a journalist’s personal data and use this information to threaten and intimidate them and their families. These attacks are often accompanied by other digital threats, such as hacking of accounts, phishing attacks, or doxxing.
 
 This chapter will cover:
 
