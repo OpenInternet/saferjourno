@@ -117,7 +117,7 @@ Stress that password managers are currently the most secure way to protect passw
 
 **My threat is a government and I’m at high-risk of surveillance and/or detention. What should I do to better secure my accounts?**
 
-More information would be needed here in order to better advise the journalist. He or she should have an individual consultation to work out the best way to secure their accounts. It’s important to highlight that even though they are using passwords and 2FA they may still be physically asked to unlock their accounts. It may also be wise for them not to use a password manager if they are at risk of people accessing their devices.
+More information would be needed here in order to better advise the journalist. They should have an individual consultation to work out the best way to secure their accounts. It’s important to highlight that even though they are using passwords and 2FA they may still be physically asked to unlock their accounts. It may also be wise for them not to use a password manager if they are at risk of people accessing their devices.
 
 </div>
 
