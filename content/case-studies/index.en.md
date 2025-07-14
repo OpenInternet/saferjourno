@@ -5,15 +5,15 @@ layout: single
 weight: 9
 toc: true
 ---
-## Iranian-backed hacking group, Charming Kitten, targets journalists via WhatsApp messages
+## Iranian-backed hacking group, Charming Kitten, targets journalists via WhatsApp messages, phishing
 
 Read the following case study and discuss the questions listed below:
 
-Attackers linked to the Iranian government [targeted](https://www.hrw.org/news/2022/12/05/iran-state-backed-hacking-activists-journalists-politicians) journalists and others working on issues related to the Middle East, with a sophisticated and ongoing social engineering campaign using WhatsApp messages. 
+Attackers linked to the Iranian government [targeted](https://www.hrw.org/news/2022/12/05/iran-state-backed-hacking-activists-journalists-politicians) journalists and others working on issues related to the Middle East, with a sophisticated and ongoing phishing campaign using WhatsApp messages. 
 
 Those targeted received a message via WhatsApp claiming to be from a think-tank based in Lebanon inviting them to attend a conference. The message was designed in the style of previous messages sent from this think tank and used the identity of a former employee. 
 
-The message contained a link which, once clicked, directed them to a login page that looked like the login page for an email account. In the case of one US-based journalist, hackers gained access to the journalist’s email after they filled out their email details on the fake page. 
+The message contained a link which, once clicked, directed them to a login page that looked like the login page for an email account. In the case of one US-based journalist, hackers gained access to the journalist’s email after they filled out their email details on the fake page. The phishing kit used by the attackers also allowed them to capture app-based two-factor authentication codes which were submitted by users. (Do note that phishing kits are currently unable to obtain codes sent by phishing-resistant forms of two-factor authentication, such as physical security keys or passkeys. That's why we strongly recommend that all at-risk users only use physical security keys or passkeys for two-factor authentication on sensitive accounts.)
 
 Attackers gained access to targets’ email, cloud storage drives, calendars, and contacts. On one account, hackers also performed a Google Takeout, an action that involves exporting all details of the account’s activity, including web searches and location data. 
 
