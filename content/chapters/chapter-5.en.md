@@ -24,9 +24,9 @@ The following can be helpful to keep in mind:
 - Journalists will be receiving documents and files through email, social media platforms, and messaging apps.
 - The identity of the person sending the information may not always be known to the journalist.
 - Journalists are sharing documents with others regularly and may not be aware of the most secure way to do that. They often speak with sources on platforms favoured by the source. Getting sources to switch to more secure methods of communication is difficult.
-- Journalists normally have a process for backing up important documents but may be less likely to be backing up content on their phone.
-- As journalists are normally working to a deadline they may not prioritise time to learn about encryption.
-- Journalists are likely to not have had sufficient training in how to secure materials.
+- Journalists normally have a process for backing up important documents but may not always be aware of whether and how the data on their phone is backed up (are there automatic cloud backups? What apps are included?)
+- As journalists are normally working to a deadline they may not prioritise time to learn about encryption. The more encryption can happen by default or with easy, built-in system tools, the better.
+- Journalists often lack sufficient training in how to secure materials.
 - Some forms of encryption may be illegal in the country the journalist is working in or travelling to. Law enforcement or courts in some countries could also force people to hand over passwords or decryption keys.
 
 ## Training digital security for the first time?
