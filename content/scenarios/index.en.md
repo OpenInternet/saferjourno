@@ -18,13 +18,9 @@ This scenario covers both device security and secure materials, however, It is p
 
 **The scenario**
 
-You are a reporter working for a local newspaper. You are incredibly busy at work because it is an election period. You are working long hours and filing more articles than normal. Your local politician is standing for re-election and you are being sent to cover her speech later on today. Her election rallies are quite hostile places for journalists as she uses a lot of anti-media rhetoric in her speeches. The crowd will not be friendly to journalists and neither will the law enforcement agencies who will be there to police it. You will be carrying your personal phone and a notebook. You are not sure what content is on your phone and you are short on time. You were previously involved in investigating the politician around issues of corruption.
+You are a reporter working for a local newspaper. You are incredibly busy at work because it is an election period. You are working long hours and filing more articles than normal. Your local politician is standing for re-election and you are being sent to cover her speech later on today. Her election rallies are quite hostile places for journalists as she uses a lot of anti-media rhetoric in her speeches. The crowd will not be friendly to journalists and neither will the law enforcement agencies who will be there to police it. You will be carrying your personal phone and a notebook, and are planning to both take notes and make recordings. You are not sure what content is on your phone and you are short on time. You were previously involved in investigating the politician around issues of corruption.
 
 - What steps will you take to secure your phone and/or materials?
-
-You are an editor of a local newspaper that has not shied away from reporting on hard-hitting issues in your state, including uncovering corruption that implicates the local politician and law enforcement. Journalists at your outlet often receive online threats by her supporters and a number of your reporters have been attacked or arrested while covering the election. You have several legal threats against the outlet and you are increasingly concerned for the safety of your journalists. You are sending an experienced reporter to cover an election rally today.
-
-- What guidance will you give your journalist to protect her phone and/or the content on it?
 
 ---
 
@@ -34,13 +30,13 @@ You are an editor of a local newspaper that has not shied away from reporting on
 
 **For the trainer**
 
-This scenario covers both online abuse and account security, however, It is possible to use this scenario to teach only one of these topics. Detailed best practice guidance on these topics can be found in chapter seven and chapter two of the guide and can be used to teach this section.
+This scenario covers both online abuse. Detailed best practice guidance on these topics can be found in chapter seven of the guide and can be used to teach this section.
 
 **The scenario**
 
 You work as a fact checker for a relatively new fact checking news outlet in a country where press freedom has increased over the past few years. Nevertheless, every time you publish an article you have noticed that you have started to get a significant amount of online abuse. This is especially bad when the article is about local politics in your region. You have started to become more concerned because, as well as threats against you, your personal email address has been circulated online and you have been getting abusive emails. You now want to take steps to better protect yourself.
 
-Discuss what steps you can take to be more secure.
+- Discuss what steps you can take to be more secure.
 
 ---
 
@@ -50,13 +46,13 @@ Discuss what steps you can take to be more secure.
 
 **For the trainer**
 
-This exercise is designed to get journalists thinking of best practice when it comes to communicating more securely with others and sharing sensitive resources. Before carrying out this scenario you may want to consult chapter six and chapter five of this guide.
+This exercise is designed to get journalists thinking of best practice when it comes to communicating more securely with others and sharing sensitive resources. Before carrying out this scenario you may want to consult chapters five and six of this guide.
 
 **The scenario**
 
 You are the director of a regional investigative journalist network. You have a small office with five staff based in the capital city of a country that has a certain degree of press freedom but the government is increasingly more hostile towards journalists. Your team is in contact with a number of sensitive sources and you are also receiving documents via a number of different means, including WhatsApp. You are concerned that your team could be at risk of digital surveillance as well as being arrested and detained.
 
-What steps should you and your team take to both communicate safely and secure your materials?
+- What steps should you and your team take to both communicate safely and secure your materials?
 
 ---
 
@@ -70,9 +66,9 @@ This scenario looks at risks facing journalists from state-sponsored attackers. 
 
 **The scenario**
 
-You are a foreign-news editor on a national media outlet. You have a team of four journalists covering international news. Two members of your team are reporting on a number of countries where the government and/or supporters of those governments have a history of hacking accounts and harassing journalists online. All team members need to visit the websites of these particular governments to obtain data and download documents. You are planning on publishing a story next month that is critical of one of these governments.
+You are a foreign-news editor on a national media outlet. You have a team of four journalists covering international news. Two members of your team are reporting on a number of countries where the government and/or supporters of those governments have a history of breaking into accounts and harassing journalists online. All team members need to visit the websites of these particular governments to obtain data and download documents. You are planning on publishing a story next month that is critical of one of these governments.
 
-What steps do you need to take to ensure that you and your staff are as secure as possible?
+- What steps do you need to take to ensure that you and your staff are as secure as possible?
 
 ---
 

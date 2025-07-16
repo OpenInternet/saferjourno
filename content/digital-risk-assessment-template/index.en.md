@@ -36,8 +36,8 @@ __Steps to reduce risk__
 
 Complete the checklist to secure your accounts.
 
-- [ ] I have created long (15 characters or more) and unique passwords for my accounts
-- [ ] I have created and follow a plan for creating and storing my passwords securely
+- [ ] I have created long (15 characters or more) and unique passwords for my accounts, or asked my password manager to generate new ones for me. Alternatively, all my main accounts are protected by passkeys
+- [ ] I have created and follow a plan for creating and storing my passwords or passkeys securely
 - [ ] I have turned on two-factor authentication for my accounts, ideally with physical security keys or passkeys
 - [ ] I have accessed and saved the backup codes for those accounts
 - [ ] If I'm using a password manager, I've enabled auto-fill in my web browser to combat phishing threats
@@ -52,11 +52,13 @@ Do you know what content is on your devices and have you taken steps to remove a
 
 Do you know who may want to gain access to your devices? For example, law enforcement, protestors at an event? Have you taken steps to secure your devices and the content on them?
 
-Do you know how to encrypt your devices and have you researched the law around encryption in your country?
+Do you always keep the software on your devices up to date? How often do you check if updates are available?
+
+Do you know how to encrypt your devices and have you researched the law around encryption in the country you're in? Do you know which of your devices are encrypted by default, and in which ones you need to manually enable encryption?
 
 Are you crossing borders, at risk of arrest, detention or having your devices seized? What steps do you need to take to secure your devices and information ahead of travel?
 
-Have you researched whether you are at high-risk of having spyware inserted on your devices? What steps are you taking to protect your devices?
+Have you researched whether you are at high risk of having spyware inserted on your devices? If so, have you enabled iOS/macOS Lockdown Mode or Android Advanced Protection?
 
 ## Safer online research
 
@@ -68,7 +70,7 @@ Do you know who may be interested in obtaining your online data and what their t
 
 Is there a risk the government could subpoena a company for your online information? If so, what steps will you take to preemptively protect that data?
 
-What steps do you now need to take to protect your online browsing, including use of VPNS if needed.
+What steps do you now need to take to protect your online browsing, including use of VPNs if needed.
 
 ## Protecting materials
 
@@ -90,7 +92,7 @@ __Steps to reduce risk__
 
 What concerns do you have when it comes to securely communicating with others? Detail them below.
 
-Do you need to protect your phone number from the source? Have you looked into obtaining Google Voice and other such services?
+Do you need to protect your phone number from the source? Have you looked into Signal's phone number privacy and similar services?
 
 Do you know who may want to target you for data linked to your communications? Have you researched how they obtain that information, for example, subpoena, digital surveillance, physical surveillance? Make notes below.
 
@@ -110,7 +112,7 @@ __Steps to reduce risk__
 
 - [ ] I have carried out an advanced search for my data online
 - [ ] I have taken steps to remove as much personal data as I am able
-- [ ] I have set up Google alerts for my personal data, including my name
-- [ ] I have secured my accounts by turning on two-factor authentication (ideally through physical security keys) and by creating long unique passwords  
+- [ ] I have set up Google (or other) alerts for my personal data, including my name
+- [ ] I have secured my accounts by turning on two-factor authentication (ideally through physical security keys) and by creating long unique passwords or using passkeys
 - [ ] I have spoken to family and friends about what data I am happy to share online
 - [ ] I have worked with family members to secure their accounts

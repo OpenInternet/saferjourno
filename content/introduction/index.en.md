@@ -15,7 +15,7 @@ Journalists face a complex array of digital threats. Some of these are old, such
 
 SaferJourno is designed for both experienced digital security trainers who are less familiar with teaching journalists, as well as media trainers who work with journalists but might lack digital security expertise.
 
-This guide was created with trainers, rather than journalists, in mind, but portions of it can still prove helpful for freelancers and newsrooms. We are also working on a learners’ handout for journalists, which might include security checklists, and which we hope to add to SaferJourno by late 2024.
+This guide was created with trainers, rather than journalists, in mind, but portions of it can still prove helpful for freelancers and newsrooms.
 
 ## How to use and customize this guide
 
