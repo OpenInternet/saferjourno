@@ -18,13 +18,9 @@ This scenario covers both device security and secure materials, however, It is p
 
 **The scenario**
 
-You are a reporter working for a local newspaper. You are incredibly busy at work because it is an election period. You are working long hours and filing more articles than normal. Your local politician is standing for re-election and you are being sent to cover her speech later on today. Her election rallies are quite hostile places for journalists as she uses a lot of anti-media rhetoric in her speeches. The crowd will not be friendly to journalists and neither will the law enforcement agencies who will be there to police it. You will be carrying your personal phone and a notebook. You are not sure what content is on your phone and you are short on time. You were previously involved in investigating the politician around issues of corruption.
+You are a reporter working for a local newspaper. You are incredibly busy at work because it is an election period. You are working long hours and filing more articles than normal. Your local politician is standing for re-election and you are being sent to cover her speech later on today. Her election rallies are quite hostile places for journalists as she uses a lot of anti-media rhetoric in her speeches. The crowd will not be friendly to journalists and neither will the law enforcement agencies who will be there to police it. You will be carrying your personal phone and a notebook, and are planning to both take notes and make recordings. You are not sure what content is on your phone and you are short on time. You were previously involved in investigating the politician around issues of corruption.
 
 - What steps will you take to secure your phone and/or materials?
-
-You are an editor of a local newspaper that has not shied away from reporting on hard-hitting issues in your state, including uncovering corruption that implicates the local politician and law enforcement. Journalists at your outlet often receive online threats by her supporters and a number of your reporters have been attacked or arrested while covering the election. You have several legal threats against the outlet and you are increasingly concerned for the safety of your journalists. You are sending an experienced reporter to cover an election rally today.
-
-- What guidance will you give your journalist to protect her phone and/or the content on it?
 
 ---
 
