@@ -8,7 +8,7 @@ toc = true
 
 ## Introduction
 
-Governments, individuals, and organised online groups increasingly use online abuse to discredit and undermine journalists and media outlets. Harassers comb the internet looking for a journalist’s personal data and use this information to threaten and intimidate them and their families. These attacks are often accompanied by other digital threats, such as hacking of accounts, phishing attacks, or doxxing.
+Governments, individuals, and organised online groups increasingly use online abuse to discredit and undermine journalists and media outlets. Harassers comb the internet looking for a journalist’s personal data and use this information to threaten and intimidate them and their families. These attacks are often accompanied by other digital threats, such as hacking of accounts, phishing attacks, or doxing.
 
 This chapter will cover:
 
@@ -23,7 +23,7 @@ The following can be helpful to keep in mind:
 - Journalists need to have an online presence in order to do their job. This involves negotiating and differentiating between the data about them that they are willing to share with the world, and data that they would rather keep private. Family and relationship details, living locations, and health data might all fall into the latter category.
 - Since the growth of social media, journalists have been encouraged to share a great deal of personal data online as a way to connect with their audience. Some of this data is now being used to harass and intimidate them.
 - Journalists often have very little separation online between their work and their personal life. This makes them more vulnerable to harassment and abuse because people are able to harass them using a range of online platforms as well as via phone and email.
-- Online abuse can also include a range of other digital threats, including account hacking, spear phishing, impersonation, and doxxing amongst others. Many of those threats do not need to be successful in order to have a chilling or deterring effect.
+- Online abuse can also include a range of other digital threats, including account hacking, spear phishing, impersonation, and doxing amongst others. Many of those threats do not need to be successful in order to have a chilling or deterring effect.
 - Women journalists and journalists from marginalized communities, for example LGBTQIA+ journalists, are disproportionately targeted by online harassment. This abuse will include misogynistic, racist and homophobic messages which often contain threats of physical violence against the journalist and his or her family.
 - Newsrooms often lack sufficient measures protect journalists from online harassment. This includes a lack of IT support for social media accounts as these do not fall under the remit of a work account even though they are being used for work purposes.
 - Online abuse is being weaponized by a range of online actors, including governments, as a way of limiting freedom of expression by discouraging journalists from pursing their reporting and trying to force them into quitting public life altogether.
@@ -35,7 +35,7 @@ This section covers best practice that can be used when teaching the activities 
 
 _General best practice_
 
-- There are a wide-range of people who attack journalists online these include; state actors and people working for governments who are paid to harass others online, lone harassers, online groups that are well organised and may often work across borders, supporters of a particular subject that has relevance for the country, including topics such as race, gender and women’s health.
+- There are a wide range of people who attack journalists online. These include; state actors and people working for governments who are paid to harass others online, lone harassers, online groups that are well organised and may often work across borders, supporters of a particular subject that has relevance for the country, including topics such as race, gender and women’s health.
 - Online abusers use a wide range of tactics against journalists. PEN America [has a detailed guide](https://onlineharassmentfieldmanual.pen.org/) to these tactics which you can read here. Some of the most common ones include;
 
   - Concern trolling\
@@ -86,7 +86,7 @@ _Removing or limiting access to data from the internet_
 
 When speaking about the risk assessment and personal security plan it may be helpful to touch upon the following:
 
-- Help journalists think through what groups may target them online and the strategies that these groups use. To do this, the journalist may want to speak to other journalists in their network to see whether they are also experiencing similar attacks. They can also carry out online searches using the name of the adversary and key words such as _online attack_, _online abuse_, _doxxing_ amongst others.
+- Help journalists think through what groups may target them online and the strategies that these groups use. To do this, the journalist may want to speak to other journalists in their network to see whether they are also experiencing similar attacks. They can also carry out online searches using the name of the adversary and key words such as _online attack_, _online abuse_, _doxing_ amongst others.
 - Journalists should know what data is fine to share online and what data is best kept private.
 - Journalists should speak to family about what data they are happy to share online and what data they would like to keep private. They should work with their family to secure their family members’ account and be aware that if an abuser cannot locate the journalist online they may well target their family.
 
