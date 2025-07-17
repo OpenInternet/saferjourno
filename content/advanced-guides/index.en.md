@@ -20,7 +20,7 @@ It’s up to you to decide which digital security measures to implement while tr
 
 One of the main concerns we have when travelling on assignment is that someone could stop you and search your devices. As such, it's important to minimise the amount of sensitive data you carry on you. The best way to do so is through using separate travel devices. It's best to have a separate phone and laptop with you prior to travel and, if you're using external cameras and voice recorders, to also buy new, empty memory cards.
 
-If you are reusing burner devices which have previously been used by you or someone else, make sure you wipe or factory reset the devices prior to use. You can readily find instructions for how to do so for various models of hardware. Resetting the device helps ensure that there is no easily-recoverable past data on the device. 
+If the travel device has already been used, make sure you first wipe or factory reset it. You can readily find instructions for how to do so for various models of hardware. Resetting the device helps ensure that there is no easily-recoverable past data on the device. 
 
 You can also buy privacy screens for the devices, which make it harder for someone next to you see the contents of your screen. Keep the privacy screens on your devices at all times, including when in seemingly private spaces such as hotel rooms, which may be subject to surveillance. 
 

@@ -34,7 +34,7 @@ This scenario covers both online abuse. Detailed best practice guidance on these
 
 **The scenario**
 
-You work as a fact checker for a relatively new fact checking news outlet in a country where press freedom has increased over the past few years. Nevertheless, every time you publish an article you have noticed that you have started to get a significant amount of online abuse. This is especially bad when the article is about local politics in your region. You have started to become more concerned because, as well as threats against you, your personal email address has been circulated online and you have been getting abusive emails. You now want to take steps to better protect yourself.
+You work as a fact checker for a relatively new fact-checking news outlet in a country where press freedom has increased over the past few years. Nevertheless, every time you publish an article you have noticed that you have started to get a significant amount of online abuse. This is especially bad when the article is about local politics in your region. You have started to become more concerned because, as well as threats against you, your personal email address has been circulated online and you have been getting abusive emails. You now want to take steps to better protect yourself.
 
 - Discuss what steps you can take to be more secure.
 
@@ -50,7 +50,7 @@ This exercise is designed to get journalists thinking of best practice when it c
 
 **The scenario**
 
-You are the director of a regional investigative journalist network. You have a small office with five staff based in the capital city of a country that has a certain degree of press freedom but the government is increasingly more hostile towards journalists. Your team is in contact with a number of sensitive sources and you are also receiving documents via a number of different means, including WhatsApp. You are concerned that your team could be at risk of digital surveillance as well as being arrested and detained.
+You are the director of a regional investigative journalist network, which coordinates with journalists and outlets based in several different countries. You have a small office with five staff based in the capital city of a country that has a certain degree of press freedom but the government is increasingly more hostile towards journalists. Your team is in contact with a number of sensitive sources and you are also receiving documents via a number of different means, including WhatsApp. You are concerned that your team could be at risk of digital surveillance as well as being arrested and detained.
 
 - What steps should you and your team take to both communicate safely and secure your materials?
 
