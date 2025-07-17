@@ -194,7 +194,7 @@ _This activity has been amended from the Level Up chapter how to secure your com
 
 ❷ **Step two**
 
-- Share the [backup template](https://docs.google.com/spreadsheets/d/1F8ZYjnKgKa0phb368_LqjeIZMjapAWAnX6hYL5TgXaA/edit#gid=0) with the group. Explain that they are going to work individually to complete it with some general examples of data that they need to backup. Get them to focus on personal data too, especially content that might be stored on their phones. Note that journalists may already be very familiar with data backups, especially if they work for more established newsrooms.
+- Share the [backup template](https://docs.google.com/spreadsheets/d/1F8ZYjnKgKa0phb368_LqjeIZMjapAWAnX6hYL5TgXaA/edit#gid=0) with the group. Explain that they are going to work individually to complete it with some general examples of data that they need to back up. Get them to focus on personal data too, especially content that might be stored on their phones. Note that journalists may already be very familiar with data backups, especially if they work for more established newsrooms.
 - Facilitate a discussion about the spreadsheet and its content. Questions you might want to touch upon include:
   - Are there any devices new or old that need backing up?
   - Is there any content that you think about backing up but then don’t get around to doing it?
@@ -218,7 +218,7 @@ _Trainer note: it is recommended that you carry out a live demonstration using a
 
 ❷ **Step two**
 
-- Tell the journalists that in order to encrypt the external drive you will need to think of and use a password. Speak about the importance of creating a strong password and use this time as an opportunity to review good password best practice. Highlight that it is better to think of this password in advance so you do not have to think of it when you are encrypting.
+- Tell the journalists that in order to encrypt the external drive you will need to think of and use a password. Speak about the importance of creating a strong password and use this time as an opportunity to review good password best practice. Highlight that it is better to think of this password in advance so you do not have to think of it when you are encrypting. Remind them that it is impossible to decrypt external drives without a password or (depending on what encryption software you use) recovery code. As such, it's crucial that they remember the password or keep it in a safe place.
 - Explain that you are going to show how to encrypt data to an external drive using VeraCrypt:
   - Download VeraCrypt
   - Connect the external drive to the computer via the USB port
@@ -232,7 +232,7 @@ _Trainer note: it is recommended that you carry out a live demonstration using a
 - Speak with the journalists about situations where even though information is encrypted people could still obtain access. Help them think of way to better protect information if they face situations like the ones listed below:
   - Being asked by law enforcement to unlock encrypted devices and the legal risks that arise if you refuse to do so.
   - Being physically threatened to open your devices.
-  - Discuss with your participants for how long files need to be stored securely. Do you need to keep their contents and existence hidden just before publication, or after publication as well? And what should you data retention policies be and when should those files be deleted? It might be useful to discuss those matters with media lawyers as well.
+- Discuss with your participants for how long files need to be stored securely. Do you need to keep their contents and existence hidden just before publication, or after publication as well? And what should you data retention policies be and when should those files be deleted? It might be useful to discuss those matters with media lawyers as well.
 
 #### III Encrypting a document
 

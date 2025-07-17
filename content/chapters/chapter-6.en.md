@@ -109,7 +109,7 @@ Ascertain who the journalist wants to speak to and what about. Sources that have
 
 **How can we communicate more securely on our team?**
 
-Ask the journalist to complete a risk assessment for their team. This should include whom they need to communicate with, whether they need to share documents, and who is interested in obtaining their data. Based on the risk assessment the trainer should guide them towards choosing either one tool or a range of suitable tools for communicating.
+Ask the journalist to complete a risk assessment for their team. This should include whom they need to communicate with, whether they need to share documents, and who is interested in obtaining their data. Based on the risk assessment the trainer should guide them towards choosing either one tool or a range of suitable tools for communicating. Many teams will prefer to use a user-friendly cloud-based platform for general day-to-day communication, and groupchats on Signal for discussing more sensitive topics.
 
 </div>
 
