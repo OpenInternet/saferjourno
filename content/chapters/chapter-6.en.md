@@ -105,7 +105,7 @@ For those reasons, we generally recommend against using it for sensitive communi
 
 **I’m using Signal but nobody else does, why?**
 
-Ascertain who the journalist wants to speak to and what about. Sources that live in rural areas and have poor internet bandwidth, people who are not familiar with technology, and sources who are very busy may not download and use Signal. Explain that for the majority of people using WhatsApp is a secure and convenient form of communication unless they are concerned about a government asking Meta for the metadata it keeps.
+Ascertain who the journalist wants to speak to and what about. Sources that have poor internet bandwidth, little storage space, out-of-date devices, people who are not familiar with technology, and sources who are very busy may not download and use Signal. Explain that for the majority of people using WhatsApp is a secure and convenient form of communication unless they are concerned about a government asking Meta for the metadata it keeps.
 
 **How can we communicate more securely on our team?**
 
