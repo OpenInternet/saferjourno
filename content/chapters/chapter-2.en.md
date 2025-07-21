@@ -42,12 +42,12 @@ _Gaining access to data_
 _Managing content in accounts_
 
 - Having sensitive and personal data sitting in accounts can put journalists and sources at risk if those accounts are hacked or if someone gains physical access to them.
-- Encourage journalists to backup and remove data that they no longer need in all their accounts, including email, social media platforms and cloud accounts. They should be encouraged to remove both personal and work items, such as personal direct messages, photos, sensitive work documents, and more.
+- Encourage journalists to back up and remove data that they no longer need in all their accounts, including email, social media platforms and cloud accounts. They should be encouraged to remove both personal and work items, such as personal direct messages, photos, sensitive work documents, and more.
 - Even though data is deleted from the personal accounts, a copy of that data may still sit on the server of the company and can be subpoenaed by a government.
 
 _Phishing_
 
-- A phishing attack is used to obtain someone's personal data, such as account login details or financial information. A message is sent to a user encouraging them to click on a link. While pretending to be legitimate, this link can lead to a fake login page which will capture login credentials or contain malware that once downloaded onto a device and run can obtain sensitive data or lock the user out of their computer. Some phishing attacks target many people with the same link. Others can be highly targeted.
+- A phishing attack is used to obtain someone's personal data, such as account login details or financial information. A message is sent to a user encouraging them to click on a link. While pretending to be legitimate, this link can lead to a fake login page which will capture login credentials or contain malware that once downloaded onto a device and run can obtain sensitive data or lock the user out of their computer. Some phishing attacks target many people with the same link. Others can customise text and links so they are different for every targeted person.
 - A spear phishing attack is an attack directed at an individual or small group of people. The adversary will normally spend time studying the person or people and collecting personal data on them. This information will then be included in a message sent to the targeted person along with a malicious link. Spear phishing attacks can be very difficult to spot because they have been designed with the target in mind. These types of attacks are commonly used by governments sophisticated attackers with a lot of time and patience.
 
 _Two-factor authentication (2FA)_
