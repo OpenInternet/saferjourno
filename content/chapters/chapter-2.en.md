@@ -36,7 +36,7 @@ This section covers best practice that can be used when teaching the activities 
 
 _Gaining access to data_
 
-- There are a number of ways that people can obtain data from online accounts. This includes breaking into the account by guessing the password, putting malware on a device that allows someone to access information, physically taking a device and looking at the data, and a legal request from a government to a company for data.
+- There are a number of ways that people can obtain data from online accounts. This includes breaking into the account by guessing the password, launching a successful phishing attack, putting malware on a device that allows someone to access information, physically taking a device and looking at the data, and a legal request from a government to a company for data.
 - To best protect data from legal requests and data breaches, journalists should ensure that their data is being kept in an encrypted form on the server of the company they are using. They can do an online search for the name of the company using the keyword encryption to find out how their data is being stored. This can be followed up by looking at the terms and conditions for each company to see how information is kept.
 
 _Managing content in accounts_
