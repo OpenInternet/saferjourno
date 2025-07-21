@@ -66,7 +66,7 @@ _Being more secure while using WhatsApp and Signal_
   - One-time view only photo and video.\
      This will delete a photo or video after it has been viewed once. Don't forget that someone could still take a photo of their screen while they view a one-time photo or video (or disappearing messages); they are not perfect security measures.
   - Restricting who can add others to group chats\
-      All messengers have group chats, and many of those are used to share sensitive information. Some group chats allow anyone to add new members or to share out an invite link, whereas others require an administrator to approve all new members. Consider doing the latter for sensitive group chats, as it will significantly reduce the chances of someone accidentally or maliciously adding a new member who should not have access to the sensitive information exchanged therein.
+      All messengers have group chats, and many of those are used to share sensitive information. Some group chats allow anyone to add new members or to share out an invite link, whereas others require an administrator to approve all new members. Consider requiring the administrator to approve new members of sensitive group chats. This will significantly reduce the chances of someone accidentally or maliciously adding a new member who should not have access to the sensitive information exchanged therein.
   - Setting up two factor verification or the registration lock.\
      This will stop others being able to register your account on their device without a PIN number or password. It's very important to enable this as, without it, anyone who intercepts the registration SMS or breaks into a telecom or SMS provider could take over your account.
 
