@@ -252,11 +252,11 @@ _Trainer note: it is recommended that you carry out a live demonstration using a
 
 ❷ **Step two**
 
-- Tell the journalists you are going to demonstrate to them how to encrypt documents so that they can be stored easily and safely in a normal cloud storage service, such as Google.
-- Tell the journalists that in order to encrypt a folder of documents you will need to think of and use a password. Speak about the importance of creating a strong password and use this time as an opportunity to review good password best practice. Highlight that it is better to think of this password in advance so you do not have to think of it when you are encrypting.
+- Tell the journalists you are going to demonstrate to them how to encrypt documents so that they can be stored easily and safely in a normal cloud storage service, such as Google. Explain what sort of threats this can protect you from (nobody who can somehow access your cloud account will be able to open those documents without a password, including attackers who break into the account and Google itself)
+- Tell the journalists that in order to encrypt a folder of documents you will need to think of and use a password. Speak about the importance of creating a strong password, and recommend using your password manager to generate a good one.
 - Explain that you are going to show them how to encrypt documents using Cryptomator.
   - Download the application
-  - Follow the steps for encrypting a file of documents using a guide such as [this one](https://www.jyu.fi/digipalvelut/en/guides/data-security/securing-your-files-with-the-veracrypt-program) [_Note: the URL says that this guide talks about VeraCrypt but, as of September 2023, it provided an introduction to Cryptomator_]
+  - Follow the steps for encrypting documents using a guide such as [this one](https://www.uni-mannheim.de/en/information-security/information-material/instructions-for-cryptomator/)
 
 ❸ **Step three**
 
