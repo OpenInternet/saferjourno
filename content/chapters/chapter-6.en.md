@@ -67,10 +67,8 @@ _Being more secure while using WhatsApp and Signal_
      This will delete a photo or video after it has been viewed once. Don't forget that someone could still take a photo of their screen while they view a one-time photo or video (or disappearing messages); they are not perfect security measures.
   - Restricting who can add others to group chats\
       All messengers have group chats, and many of those are used to share sensitive information. Some group chats allow anyone to add new members or to share out an invite link, whereas others require an administrator to approve all new members. Consider doing the latter for sensitive group chats, as it will significantly reduce the chances of someone accidentally or maliciously adding a new member who should not have access to the sensitive information exchanged therein.
-  - Setting a PIN lock on the account.\
-     This will stop others being able to access the account unless they have the PIN
   - Setting up two factor verification or the registration lock.\
-     This will stop others being able to register your account on their device without a PIN number.
+     This will stop others being able to register your account on their device without a PIN number or password. It's very important to enable this as, without it, anyone who intercepts the registration SMS or breaks into a telecom or SMS provider could take over your account.
 
 ## Completing the risk assessment
 
@@ -206,8 +204,8 @@ _Trainer note: best practice for this activity can be found in the [Training dig
 - Put the class into small groups and hand out a pack of post-it notes per group.
 - Ask them to write down, one on each post-it note, the names of different services they use to communicate with others. Give them an example to get started, for example, iMessage. Encourage them to think of other platforms they may use in the office, such as Slack.
 - Write up on the board the following headings:
-  - I trust this service with my communications
-  - I do not trust this service with my communications
+  - I trust this service with my sensitive communications
+  - I do not trust this service with my sensitive communications
   - I am not sure about this service
 - Invite the class to discuss the services they have chosen and then invite them to place their post-it notes in the column they feel best represents their view. For example, WhatsApp might go in the heading “I am not sure about this service.”
 - Ask the class to circulate and look at the post-it notes and to group them. For example, four out of five of the groups in the class placed WhatsApp in the category “I am not sure about this service”. These post-it notes should be placed together.
