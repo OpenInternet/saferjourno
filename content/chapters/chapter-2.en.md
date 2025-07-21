@@ -48,7 +48,7 @@ _Managing content in accounts_
 _Phishing_
 
 - A phishing attack is used to obtain someone's personal data, such as account login details or financial information. A message is sent to a user encouraging them to click on a link. While pretending to be legitimate, this link can lead to a fake login page which will capture login credentials or contain malware that once downloaded onto a device and run can obtain sensitive data or lock the user out of their computer. Some phishing attacks target many people with the same link. Others can be highly targeted.
-- A spear phishing attack is an attack directed at an individual or small group of people. The adversary will normally spend time studying the person or people and collecting personal data on them. This information will then be included in a message sent to the targeted person along with a malicious link. Spear phishing attacks can be very difficult to spot because they have been designed with the target in mind. These types of attacks are commonly used by governments and online hacking groups to target journalists.
+- A spear phishing attack is an attack directed at an individual or small group of people. The adversary will normally spend time studying the person or people and collecting personal data on them. This information will then be included in a message sent to the targeted person along with a malicious link. Spear phishing attacks can be very difficult to spot because they have been designed with the target in mind. These types of attacks are commonly used by governments sophisticated attackers with a lot of time and patience.
 
 _Two-factor authentication (2FA)_
 
