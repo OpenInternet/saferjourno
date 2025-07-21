@@ -73,7 +73,7 @@ _Removing or limiting access to data from the internet_
   - Using a non-descript photo, such as a plant or animal, as the photo for their social media account
   - Reviewing who follows or who is friends with the account holder and removing people who are unknown or they no longer communicate with
   - Hiding friends or followers from being viewed publicly
-  - Removing photos taken in private locations, such as around your neighbourhood or on confidential trips. Assume that anyone can figure out the photo's location based on its background
+  - Removing photos taken in private locations, such as around your neighbourhood or on confidential trips. Assume that anyone can figure out a photo's location based on its background
   - Deleting old messages and posts or restricting who can view them
   - Some social media sites give the option to remove the site and their name from showing up in search engine results.
   - Controlling who can see, tag, and download photos and videos
