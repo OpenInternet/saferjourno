@@ -294,4 +294,4 @@ These case studies accompany the course material and provide journalists with re
 
 Our writeup: [Case study on protecting materials](/case-studies#activists-put-at-risk-after-documentary-film-makers-devices-seized-by-syrian-security-agents)
 
-CJR's writeup: [Activists put at risk after documentary filmmaker’s devices seized by Syrian security agents](https://archives.cjr.org/feature/the_spy_who_came_in_from_the_c.php?page=all)
+CJR's writeup: [Activists put at risk after documentary filmmaker’s devices seized by Syrian security agents](https://www.cjr.org/feature/the_spy_who_came_in_from_the_c.php)
