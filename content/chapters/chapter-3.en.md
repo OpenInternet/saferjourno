@@ -187,7 +187,7 @@ The following templates and tools can be useful for teaching this session:
 
 The following resources may be helpful for teaching this chapter:
 
-[How phone companies use our personal data](https://www.europeandatajournalism.eu/cp_data_news/How-phone-companies-use-our-personal-data/#:~:text=The%20collected%20data%20can%20reveal,data%2C%20behavioural%20data%2C%20etc.) by the European Data Journalism Network
+[How phone companies use our personal data](https://www.europeandatajournalism.eu/cp_data_news/How-phone-companies-use-our-personal-data/) by the European Data Journalism Network
 
 [Twelve million phones, one dataset, zero privacy](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) by the New York Times
 

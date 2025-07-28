@@ -142,7 +142,7 @@ The following resources may be helpful for teaching this chapter:
 
 [What should I know about encryption?](https://ssd.eff.org/module/what-should-i-know-about-encryption) by the Electronic Frontier Foundation
 
-[How to use Signal for Android](https://ssd.eff.org/module/how-use-signal-android) by the Electronic Frontier Foundation
+[How to use Signal](https://ssd.eff.org/module/how-to-use-signal) by the Electronic Frontier Foundation
 
 [Upgrading WhatsApp security](https://freedom.press/training/upgrading-whatsapp-security/) by Freedom of the Press Foundation
 
