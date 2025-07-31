@@ -37,7 +37,7 @@ Complete the checklist to secure your accounts.
 - [ ] I have created long (15 characters or more) and unique passwords for my accounts, or asked my password manager to generate new ones for me. Alternatively, all my main accounts are protected by passkeys
 - [ ] I have created and follow a plan for creating and storing my passwords or passkeys securely, for example by letting my password manager store and generate them
 - [ ] I have turned on two-factor authentication for my accounts, ideally with physical security keys or passkeys
-- [ ] I have created backup forms of two-factor authentication (such as additional physical security keys or backup codes), or work with a system administrator in my newsroom who could help reset my accounts if I lose access to my two-factor authentication codes
+- [ ] I have created backup forms of two-factor authentication (such as additional physical security keys or backup codes), or work with a system administrator in my newsroom who could help reset my accounts if I lose access to my second factor
 - [ ] If I'm using a password manager, I've enabled auto-fill in my web browser to combat phishing threats
 - [ ] I have reviewed the content of my most important accounts and removed anything I would not feel comfortable with others accessing
 - [ ] I have taken steps to separate out my work and personal accounts online
