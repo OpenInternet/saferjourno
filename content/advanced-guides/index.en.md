@@ -58,11 +58,11 @@ When communicating with sensitive sources, use an encrypted messaging app with d
 
 ### Storing Information
 
-DSo not store any sensitive information, especially that which could compromise sensitive sources, on your travel devices, especially not while you are actively traveling through checkpoints and points of entry. Instead, you can keep it on a cloud account that you only log in to at places such as hotels.
+Do not store any sensitive information, especially that which could compromise sensitive sources, on your travel devices, especially not while you are actively traveling through checkpoints and points of entry. Instead, you can keep it on a cloud account that you only log in to at places such as hotels.
 
-Many password managers have a 'travel mode'. That allows you to only keep essential passwords and passkeys you need for travel in your app, and hide others. If your password manager doesn’t offer a travel mode, you can just save essential passwords and passkeys in a different password manager and temporarily uninstall your primary one, which keeps all the sensitive logins (just make sure you have a good method of regaining access to your primary password manager once back from travels.)
+Some password managers have a 'travel mode'. That allows you to only keep essential passwords and passkeys you need for travel in your app, and hide others. If your password manager doesn’t offer a travel mode, you can just save essential passwords and passkeys in a different password manager and temporarily uninstall your primary one, which keeps all the sensitive logins (just make sure you have a good method of regaining access to your primary password manager once back from travels or in a safe location.)
 
-If storing your devices unattended (for instance, if you are leaving them in your hotel room), place the devices into tamper bags, which are one-time-use bags you can generally order online which show immediately apparent signs of tampering if they have been opened. If upon returning to your devices you find evidence that the tamper bags have been tampered with, assume that the devices are no longer safe, and do not use them for sensitive communications.
+If storing your devices unattended (for instance, if you are leaving them in your hotel room), you can place the devices into tamper bags. They are one-time-use bags which show immediately apparent signs of tampering if they have been opened. If upon returning to your devices you find evidence that the tamper bags have been tampered with, assume that the devices are no longer safe, and do not use them for sensitive communications.
 
 ### Border Control Protocol
 
