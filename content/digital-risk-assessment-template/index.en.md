@@ -2,7 +2,7 @@
 type = "report"
 title = "Digital Risk Assessment Template"
 layout = "single"
-weight = 11
+weight = 13
 toc = true
 +++
 
