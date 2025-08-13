@@ -11,7 +11,9 @@ toc = false
 
 ## Introduction
 
-Journalists are starting to use AI (artificial intelligence) and LLMs (large language models) in their work. They could be using them for research, audio transcription, translation, and many other things. AI tools are new, and many of them are not yet ready to deal with highly sensitive information such as source names or confidential research.
+Journalists are starting to use AI in their work. They could be using them for research, audio transcription, translation, and many other things. AI tools are new, and many of them are not yet ready to deal with highly sensitive information such as source names or confidential research.
+
+(There are several different AI technologies, the most prominent of which are large language models (LLM), which power tools such as chatbots. For the sake of simplicity, we will just use the term "AI" here and only distinguish between different technologies if necessary for purposes of clarity.)
 
 This chapter will cover:
 
@@ -34,8 +36,7 @@ The following can be helpful to keep in mind:
 * When an AI system processes your data, for example to answer a query or transcribe spoken audio, it could do so either on your device or in a cloud. This is a bit like word processing: you could use an application that just saves to your desktop, or cloud-based one.
 * On-device AIs do all of the processing on your mobile or desktop device, and typically do not send queries back to the provider. One easy way to tell if an AI is on-device is to check if it fully works when the device it's on is disconnected from the internet.
 * On-device AIs offer the best privacy guarantees, though they could still reveal logs or other details if someone, such as an abusive partner or security officer conducting a search, looks through the device.
-* It's often possible to use an on-device LLM to process highly sensitive data, though this might require some initial set up.
-    * If this is of interest to you, reach out to a digital security trainer or IT person who could help set up such a system.
+* You could potentially use on-device AI to process sensitive data, for example to summarize confidential documents or auto-transcribe conversations with key sources. This will require some setup and significant guardrails to make sure that the data never leaves your device. **If this is of interest to you, reach out to a digital security trainer or IT person who could help set up such a system.**
 
 * Cloud-based AIs process data on a company's servers. This data will be used, stored, and shared in accordance with that company’s privacy policy–that’s why it’s important to read and regularly review those policies. Cloud-based AIs are often more capable than on-device AIs, since they can rely on more data and computing power.
 * Some manufacturers are building hybrid AI systems. Those might rely on on-device capabilities for some tasks and cloud capabilities for others. A well-designed hybrid AI should warn and ask the user for permission prior to uploading any of their data to the cloud.
@@ -45,8 +46,8 @@ The following can be helpful to keep in mind:
 
 * Some cloud-based AI tools and chatbots will keep logs of conversations and data you share with them. Such logs could be stored by the AI provider, used as training data for future AI systems, and sometimes be read by human reviewers.
 * If the organization stores, processes, or otherwise uses logs, then there's a chance that any sensitive data you type into AI tools or chatbots could leak out one day, especially if those logs have then been used for training data. It’s therefore important to read your AI provider’s privacy policy to understand how they manage your data.
-    * AIs are quite new, and research on potential data leaks is still ongoing. There's a worry that, if your prompts are being used to train future AI models, that an attacker could try to retrieve those prompts with cleverly crafted queries, for example by asking what sorts of questions or topics a journalist researching corruption in a specific country should consider. Similarly, attackers could potentially creaft scripts or queries which retrieve specific phone numbers, email addresses, passport numbers, names, and other valuable information stored in training data.
-    * 
+    * AIs are quite new, and research on potential data leaks is still ongoing. There's a worry that, if your prompts are being used to train future AI models, that an attacker could try to retrieve those prompts with cleverly crafted queries, for example by asking what sorts of questions or topics a journalist researching corruption in a specific country should consider. Similarly, attackers could potentially craft scripts or queries which retrieve specific phone numbers, email addresses, passport numbers, names, and other valuable information stored in training data.
+
 * For examples of AI privacy and data access policies, check out those of [Google Workspace Gemini](https://support.google.com/a/answer/15706919?) or of [Microsoft 365 Copilot](https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-privacy). Check which tier or version of the software you are using. Many providers will have a separate enterprise or business tier which offers additional protection, such as not using your data for AI training.
 * Free or basic paid tiers might not have all of those protections, which could potentially allow others to access your chat logs or histories. All depends on which provider you're using.
 * If you have AI chatbot conversations, and are using an enterprise or business tier of the AI software, you can often adopt the same security mindset as with documents stored on a cloud-based platform such as Google Docs or O365. You can use it for somewhat sensitive work and research but never use it for confidential information such as source names, or for cases in which the AI provider (or the country they are based in) is explicitly part of your threat model.
@@ -61,7 +62,7 @@ The following can be helpful to keep in mind:
 
 ### Hallucinations and AI poisoning
 
-* AIs that rely on LLM technology (which includes all current chatbots) frequently *hallucinate*: they can make up facts, incorrectly summarize websites, and reference non-existing resources. Always check their output to make sure it’s accurate.
+* AIs such as chatbots frequently *hallucinate*: they can make up facts, incorrectly summarize websites, and reference non-existing resources. Always check their output to make sure it’s accurate.
 * There are no easy rules for verifying AI outputs or figuring out when exactly they hallucinate. We recommend thoroughly reading through their responses and fact-checking them independently. Asking an AI to fact-check or confirm its previous statement is _not_ a reliable method for verifying its output.
 * Remember that AIs do not reason; they use statistical models to output information which they consider to be the best response to a query. Every model works differently. Take some time to figure out how to best tweak your prompts and become productive with it.
 * Disinformation actors can also [generate large amounts of disinformation content](https://www.atlanticcouncil.org/blogs/new-atlanticist/exposing-pravda-how-pro-kremlin-forces-are-poisoning-ai-models-and-rewriting-wikipedia/) in the hope that it is picked up and quoted by chatbots and other AI systems (this practice is often called AI poisoning). Such attacks are likely to increase in frequency, which makes it even more important that we take steps to critically read and verify any AI outputs.  
