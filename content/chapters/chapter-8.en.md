@@ -2,7 +2,7 @@
 type = "report"
 title = "BETA NOT FOR PRODUCTION Chapter 8: Using AI securely"
 layout = "single"
-weight = 8
+weight = 9
 toc = false
 +++
 
