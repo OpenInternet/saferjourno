@@ -11,13 +11,13 @@ toc = false
 
 ## Introduction
 
-Journalists are starting to use AI in their work. They could be using them for research, audio transcription, translation, and many other things. AI tools are new, and many of them are not yet ready to deal with highly sensitive information such as source names or confidential research.
+Journalists are starting to use AI in their work, including for tasks such as research, audio transcription, and translation. AI tools are new, and many of them are not yet ready to deal with highly sensitive information such as source names or confidential research topics.
 
-(There are several different AI technologies, the most prominent of which are large language models (LLM), which power tools such as chatbots. For the sake of simplicity, we will just use the term "AI" here and only distinguish between different technologies if necessary for purposes of clarity.)
+_There are several different AI technologies, the most prominent of which are large language models (LLM), which power tools such as chatbots. For the sake of simplicity, we will just use the term "AI" here and only distinguish between different technologies if necessary for purposes of clarity._
 
 This chapter will cover:
 
-* The differences between on-device and cloud-based AI
+* Key differences between on-device and cloud-based AI
 * AI logs, enterprise AIs, and histories
 * AI hallucinations and AI poisoning
 
@@ -26,7 +26,7 @@ This chapter will cover:
 The following can be helpful to keep in mind:
 
 * Journalists will often use individual or free tiers of online services, including AIs, for their work. It is rare for them to be purchasing enterprise versions of such services.
-* Attitudes towards AI might radically differ among newsrooms and journalists. While some might willingly integrate it into their workflows and try to use it to boost their productivity, others might be reluctant to use generative AI over copyright, environmental, and other concerns.
+* Attitudes towards AI radically differ among newsrooms and journalists. Some willingly integrate it into their workflows, others might be reluctant to use generative AI over copyright, environmental, and other concerns.
 * Many AI tools, such as chatbots, continue to develop quickly and change their functionality and settings regularly. Journalists will rarely have time to keep up with such developments, and might rely more on security professionals, whom they'll expect to be researching such changes.
 
 ## Training AI security for the first time?
@@ -69,17 +69,18 @@ The following can be helpful to keep in mind:
 
 ## Completing the risk assessment and deciding what to use AI for
 
-Your AI risk assessment should include a list of all of the AI tools you are using and their providers. "AI" can be difficult to define, as it's often more of a marketing term than a technical one. You should definitely consider tools used for translation, transcription, proofreading and grammar correction, and any chatbots you use.
+Your AI risk assessment should include a list of all of the AI tools you are using and their providers. "AI" can be difficult to define, as it's often more of a marketing term than a technical one. You should definitely consider tools used for translation, transcription, audio-captioning of video calls, proofreading and grammar correction, as well as any chatbots you use.
 
 For each of those tools, spend a moment to research the following:
 
 * Who is the manufacturer or provider of that tool? What is their track record in terms of privacy and security?
 * Does the tool run on-device or in the cloud?
 * Which version or tier of the tool are you using? Are you using a free tier, a business tier, or an enterprise tier?
+* What task are you using the tool for? Are you transcribing a roundtable open to the public or summarizing a blog post you wrote? Or are you using it for non-public or sensitive data?
 * What are the privacy policies of the tool and tier you are using? Does the tool, at the tier at which you're using it, share conversation logs or other data with the provider? Is such data reviewed by humans or used for training?
 
 If the tool you are using shares conversation logs or other data with the provider, then only use it for very basic research or tasks. Use it with the assumption that, if your queries were leaked or accessed by others, they would not reveal any meaningful information about your investigation or sources.
 
 If the tool you are using is cloud-based but does not share logs or other data with the provider, then it's typically safe to use for medium-sensitive non-public work. Data could potentially leak out if someone were to break into the AI provider's systems, which happens incredibly rarely, or if a court or other authority compelled this provider to share your data.
 
-If you want to use AI for very sensitive data, for example for help with transcribing a conversation with a source or summarizing confidential confidential documents, avoid cloud-based solutions. Only use on-device, offline tools. It might be worth consulting with some digital security or IT professionals who could help you with setting up such tools.
+If you want to use AI for very sensitive data, for example transcribing a conversation with a source or summarizing confidential confidential documents, avoid cloud-based solutions. Only use on-device, offline tools. It might be worth consulting with some digital security or IT professionals who could help you with setting up such tools.
