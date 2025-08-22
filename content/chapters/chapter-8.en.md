@@ -13,11 +13,11 @@ toc = false
 
 Journalists are starting to use AI in their work, including for tasks such as research, audio transcription, and translation. AI tools are new, and many of them are not yet ready to deal with highly sensitive information such as source names or confidential research topics.
 
-_There are several different AI technologies, the most prominent of which are large language models (LLM), which power tools such as chatbots. For the sake of simplicity, we will just use the term "AI" here and only distinguish between different technologies if necessary for purposes of clarity._
+_There are several different AI technologies, the most prominent of which are large language models (LLM), which power tools such as chatbots. For the purpose of simplicity, we will just use the term "AI" here and only distinguish between different technologies if necessary for clarity._
 
 This chapter will cover:
 
-* Key differences between on-device and cloud-based AI
+* Differences between on-device and cloud-based AI
 * AI logs, enterprise AIs, and histories
 * AI hallucinations and AI poisoning
 
@@ -27,16 +27,16 @@ The following can be helpful to keep in mind:
 
 * Journalists will often use individual or free tiers of online services, including AIs, for their work. It is rare for them to be purchasing enterprise versions of such services.
 * Attitudes towards AI radically differ among newsrooms and journalists. Some willingly integrate it into their workflows, others might be reluctant to use generative AI over copyright, environmental, and other concerns.
-* Many AI tools, such as chatbots, continue to develop quickly and change their functionality and settings regularly. Journalists will rarely have time to keep up with such developments, and might rely more on security professionals, whom they'll expect to be researching such changes.
+* Many AI tools, such as chatbots, continue to develop quickly and change their functionality and settings regularly. Journalists will rarely have time to keep up with such developments, and might rely on security and IT professionals, expecting that they spent more time researching such changes.
 
 ## Training AI security for the first time?
 
 ### Distinguishing between on-device and cloud-based AI
 
-* When an AI system processes your data, for example to answer a query or transcribe spoken audio, it could do so either on your device or in a cloud. This is a bit like word processing: you could use an application that just saves to your desktop, or cloud-based one.
-* On-device AIs do all of the processing on your mobile or desktop device, and typically do not send queries back to the provider. One easy way to tell if an AI is on-device is to check if it fully works when the device it's on is disconnected from the internet.
+* When an AI system processes your data, for example to answer a query or transcribe spoken audio, it could do so either on your device or in a cloud. This similar to word processing: you could use an application that just saves to your desktop, or cloud-based one.
+* On-device AIs do all of the processing on your mobile or desktop device, and typically do not send queries back to the provider. One easy way to tell if an AI is on-device is to check if it fully works when the device it's on is disconnected from the internet. You still need to check the on-device AIs privacy policy to make sure that it never shares samples of your queries or data with others.
 * On-device AIs offer the best privacy guarantees, though they could still reveal logs or other details if someone, such as an abusive partner or security officer conducting a search, looks through the device.
-* You could potentially use on-device AI to process sensitive data, for example to summarize confidential documents or auto-transcribe conversations with key sources. This will require some setup and significant guardrails to make sure that the data never leaves your device. **If this is of interest to you, reach out to a digital security trainer or IT person who could help set up such a system.**
+* You could potentially use on-device AI to process sensitive data, for example to summarize confidential documents or auto-transcribe conversations with key sources. This will require some setup and guardrails to make sure that the data never leaves your device. **If this is of interest to you, reach out to a digital security trainer or IT person who could help set up such a system.**
 
 * Cloud-based AIs process data on a company's servers. This data will be used, stored, and shared in accordance with that company’s privacy policy–that’s why it’s important to read and regularly review those policies. Cloud-based AIs are often more capable than on-device AIs, since they can rely on more data and computing power.
 * Some manufacturers are building hybrid AI systems. Those might rely on on-device capabilities for some tasks and cloud capabilities for others. A well-designed hybrid AI should warn and ask the user for permission prior to uploading any of their data to the cloud.
@@ -46,11 +46,11 @@ The following can be helpful to keep in mind:
 
 * Some cloud-based AI tools and chatbots will keep logs of conversations and data you share with them. Such logs could be stored by the AI provider, used as training data for future AI systems, and sometimes be read by human reviewers.
 * If the organization stores, processes, or otherwise uses logs, then there's a chance that any sensitive data you type into AI tools or chatbots could leak out one day, especially if those logs have then been used for training data. It’s therefore important to read your AI provider’s privacy policy to understand how they manage your data.
-    * AIs are quite new, and research on potential data leaks is still ongoing. There's a worry that, if your prompts are being used to train future AI models, that an attacker could try to retrieve those prompts with cleverly crafted queries, for example by asking what sorts of questions or topics a journalist researching corruption in a specific country should consider. Similarly, attackers could potentially craft scripts or queries which retrieve specific phone numbers, email addresses, passport numbers, names, and other valuable information stored in training data.
+    * AIs are quite new, and research on potential data leaks is still ongoing. If your prompts are being used to train future AI models, we worry that an attacker could try to retrieve those prompts with cleverly crafted queries, for example by asking what sorts of questions or topics a journalist researching corruption in a specific country should consider. Similarly, attackers could craft scripts or queries which retrieve specific phone numbers, email addresses, passport numbers, names, and other valuable information stored in training data.
 
 * For examples of AI privacy and data access policies, check out those of [Google Workspace Gemini](https://support.google.com/a/answer/15706919?) or of [Microsoft 365 Copilot](https://learn.microsoft.com/en-us/copilot/microsoft-365/microsoft-365-copilot-privacy). Check which tier or version of the software you are using. Many providers will have a separate enterprise or business tier which offers additional protection, such as not using your data for AI training.
 * Free or basic paid tiers might not have all of those protections, which could potentially allow others to access your chat logs or histories. All depends on which provider you're using.
-* If you use AI chatbots, and are using an enterprise or business tier of the AI software, you can often adopt the same security mindset as with documents stored on a cloud-based platform such as Google Docs or O365. You can use it for somewhat sensitive work and research but never use it for confidential information such as source names, or for cases in which the AI provider (or the country they are based in) is explicitly part of your threat model.
+* If you use an enterprise or business tier of the AI software, you can often adopt the same security mindset as with documents stored on a cloud-based platform such as Google Docs or O365. You can use it for somewhat sensitive work and research but never use it for confidential information such as source names, or for cases in which the AI provider (or the country they are based in) is explicitly part of your threat model.
 
 * We strongly recommend that newsrooms use a single AI provider (or, if that’s not possible, as few providers as possible), that they subscribe to the enterprise rather than free tier, and that they require all journalists to use that provider for work-related matters.
 * It takes effort to keep track of different providers’ security settings and configurations, pay for professional packages, and check policies to ensure that those do not keep, share, or publish logs. The fewer there are, the easier the task becomes. A newsroom’s system administrator might also be able to configure your work-issued AI systems to align with your privacy, security, and jurisdictional needs.
@@ -59,6 +59,17 @@ The following can be helpful to keep in mind:
 
 * Many AI systems offer the possibility of saving chat histories, including prompts and replies. This could be helpful, but might also expose additional information if anyone ever received access to the account or if it was shared between several people. Browse through the features of the chatbot(s) you’re using and learn how to enable, disable, and delete history.
 * If your threat model includes potential seizure, theft, or any other unauthorized acquisition of any device that can access AI chat history, also consider deleting any chatbot history frequently, or at least every time the device can be compromised, like in risky border crossings or during field coverage in sensitive contexts.
+
+### Accidentally sharing AI outputs with unauthorized parties
+
+* It's relatively easy to accidentally share AI outputs with unauthorized parties. At one point, OpenAI's sharing settings [allowed search engines to index](https://techcrunch.com/2025/07/31/your-public-chatgpt-queries-are-getting-indexed-by-google-and-other-search-engines/) chatbot queries and outputs.
+* There has also been plenty of anecdotal evidence on [how AI notetakers](https://newsletter.threatprompt.com/p/the-meeting-never-ended-ai-transcript) would record sensitive conversations that took place after the main part of a meeting and sent the transcripts to everybody who attended, including those who had left earlier on. Some AI notetakers are not fully transparent about whom they share data with or where they store it.
+
+* Some good practices you could adopt in your newsroom:
+    * Do not use AI notetakers for sensitive conversations (unless there is a clear accessibility reason to do so)
+    * If you need to have a sensitive conversation, first hang up and then do a smaller call with just the people who need to be part of the conversation. Make sure that there are no AI notetakers on that second call
+    * Use the AI notetakers that come with your online meeting platform, rather than a third party one. This reduces the amount of places where your meeting data is stored, and makes it easier to audit and manage
+    * If you're using a chatbot's sharing function to send its outputs to others, make sure to carefully study the sharing settings and figure out whom exactly you're sharing with
 
 ### Hallucinations and AI poisoning
 
