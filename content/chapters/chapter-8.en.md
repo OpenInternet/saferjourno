@@ -88,6 +88,7 @@ For each of those tools, spend a moment to research the following:
 * Does the tool run on-device or in the cloud?
 * Which version or tier of the tool are you using? Are you using a free tier, a business tier, or an enterprise tier?
 * What task are you using the tool for? Are you transcribing a roundtable open to the public or summarizing a blog post you wrote? Or are you using it for non-public or sensitive data?
+* How do you turn a tool such as a meeting notetaker off if you need to discuss a sensitive topic? How do you check it's been disabled?
 * What are the privacy policies of the tool and tier you are using? Does the tool, at the tier at which you're using it, share conversation logs or other data with the provider? Is such data reviewed by humans or used for training?
 
 If the tool you are using shares conversation logs or other data with the provider, then only use it for very basic research or tasks. Use it with the assumption that, if your queries were leaked or accessed by others, they would not reveal any meaningful information about your investigation or sources.
