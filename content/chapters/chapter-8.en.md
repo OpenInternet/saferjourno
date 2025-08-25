@@ -64,6 +64,7 @@ The following can be helpful to keep in mind:
 
 * It's relatively easy to accidentally share AI outputs with those who shouldn't have access to them. At one point, OpenAI's sharing settings [allowed search engines to index](https://techcrunch.com/2025/07/31/your-public-chatgpt-queries-are-getting-indexed-by-google-and-other-search-engines/) chatbot queries and outputs.
 * There has also been plenty of anecdotal evidence on [how AI notetakers](https://newsletter.threatprompt.com/p/the-meeting-never-ended-ai-transcript) would record sensitive conversations that took place after the main part of a meeting and sent the transcripts to everybody who attended, including those who had left earlier on. Some AI notetakers are not fully transparent about whom they share data with or where they store it.
+* AI notetakers can also hallucinate or make mistakes in their outputs. They could [inaccurately summarize](https://www.huffpost.com/entry/ai-notetaker-meetings-privacy_l_683dda81e4b0cceca4075fc6)  the meeting or people's statements. Similarly, not all notetaking programs inform people that the meeting is being recorded and summarized, which could lead to issues surrounding consent and even possible legal problems. As such, it's important to be very explicit when you do use an AI notetaker, and then read through and check its outputs.
 
 * Some good practices you could adopt in your newsroom:
     * Do not use AI notetakers for sensitive conversations (unless there is a clear accessibility reason to do so)
