@@ -20,7 +20,7 @@ Thanks go to the Protecting Global Rights through Sustainable Solutions (PROGRES
  
 Writing and editing is one thing. Sharing it with the world is quite another endeavour. We would like to thank Elio Qoshi, Anxelo Lushka, and the whole team at [Ura Design](https://ura.design/en/) for designing and building this guide's new website!
  
-This version of SaferJourno would never have happened if not for the first guide which launched a decade ago and quickly became the journalism digital safety guide. Our thanks go to Manisha Aryal and Dylan Jones, the authors of the original SaferJourno, as well as all who contributed and provided feedback for it.
+This version of SaferJourno builds upon the first guide, released over a decade ago. Our thanks go to Manisha Aryal and Dylan Jones, the authors of the original SaferJourno, as well as all who contributed and provided feedback for it.
  
 There exists a beautiful world in which thoughts about dinners, meadows, and mountains take priority over dilemmas on how to frame encryption or HTTPS. We thank our families, friends, and pets for reminding us of it!
  
