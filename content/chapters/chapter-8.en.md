@@ -98,5 +98,19 @@ If the tool you are using is cloud-based but does not share logs or other data w
 
 If you want to use AI for very sensitive data, for example transcribing a conversation with a source or summarizing confidential confidential documents, avoid cloud-based solutions. Only use on-device, offline tools. It's worth consulting with digital security or IT professionals who could help you with setting up such tools.
 
+<div class="resources">
+
+## Resources
+
+The following resources may be helpful for teaching this chapter:
+
+[How secure are journalists’ favorite transcription tools?](https://freedom.press/digisec/blog/how-secure-are-journalists-favorite-transcription-tools/) by Dr Martin Shelton and Yael Grauer, Freedom of the Press Foundation
+
+[Meta fixes bug that leaked AI chats](https://freedom.press/digisec/blog/meta-fixes-bug-that-leaked-ai-chats/) by Dr Martin Shelton, Freedom of the Press Foundation
+
+[Women journalists learn to use AI chatbots safely despite security risks](https://smex.org/women-journalists-learn-to-use-ai-chatbots-safely-despite-security-risks/) by Afnan Abu Yahya, SMEX
+
+</div>
+
 
 _This chapter was inspired by the incredible work done by Harlo Holmes and the Freedom of the Press Foundation, and we are grateful for their advice and contributions to the field_
