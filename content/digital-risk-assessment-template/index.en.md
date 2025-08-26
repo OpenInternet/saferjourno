@@ -2,7 +2,7 @@
 type = "report"
 title = "Digital Risk Assessment Template"
 layout = "single"
-weight = 11
+weight = 13
 toc = true
 +++
 
@@ -103,3 +103,11 @@ __Steps to reduce risk__
 - [ ] I have set up Google (or other) alerts for my personal data, including my name
 - [ ] I have spoken to family and friends about what data I am happy to share online
 - [ ] I have worked with family members or others close to me to secure their accounts
+
+## AI security
+
+Have you made a list of what AI tools you and your contributors are using, and whether they are on-device, cloud-based, or hybrid?
+
+What steps have you taken to make sure that sensitive data is not shared with cloud-based or hybrid AI platforms?
+
+Do you have a policy on tools such as AI notetakers (for example to only use the notetaker that comes with your video chat software, to avoid using it for sensitive chats, and to always check outputs)? Have you spoken to people you work with about that policy?
