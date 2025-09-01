@@ -64,7 +64,7 @@ The following can be helpful to keep in mind:
 ### Accidentally sharing AI outputs with others
 
 * It's relatively easy to accidentally share AI outputs with those who shouldn't have access to them. At one point, OpenAI's sharing settings [allowed search engines to index](https://techcrunch.com/2025/07/31/your-public-chatgpt-queries-are-getting-indexed-by-google-and-other-search-engines/) chatbot queries and outputs.
-* There has also been plenty of anecdotal evidence on [how AI notetakers](https://newsletter.threatprompt.com/p/the-meeting-never-ended-ai-transcript) would record sensitive conversations that took place after the main part of a meeting and sent the transcripts to everybody who attended, including those who had left earlier on. Some AI notetakers are not fully transparent about whom they share data with or where they store it.
+* There has also been plenty of anecdotal evidence on [how AI notetakers](https://newsletter.threatprompt.com/p/the-meeting-never-ended-ai-transcript) would record sensitive conversations that took place after the main part of a meeting and sent the transcripts to everybody who attended, including those who left earlier on. Some AI notetakers are not fully transparent about whom they share data with or where they store it.
 * AI notetakers can also hallucinate or make mistakes in their outputs. They could [inaccurately summarize](https://www.huffpost.com/entry/ai-notetaker-meetings-privacy_l_683dda81e4b0cceca4075fc6)  the meeting or people's statements. Similarly, not all notetaking programs inform people that the meeting is being recorded and summarized, which could lead to issues surrounding consent and even possible legal problems. As such, it's important to be very explicit when you do use an AI notetaker, and then read through and check its outputs.
 
 * Some good practices you could adopt in your newsroom:
@@ -78,6 +78,7 @@ The following can be helpful to keep in mind:
 * LLM-based AIs such as chatbots frequently *hallucinate*: they can make up facts, incorrectly summarize websites, and reference non-existing resources. Always check their output to make sure it’s accurate.
 * There are no easy rules for verifying AI outputs or figuring out when exactly they hallucinate. We recommend thoroughly reading through their responses and fact-checking them independently. Asking an AI to fact-check or confirm its previous statement is _not_ a reliable method for verifying its output.
 * Remember that AIs do not reason; they use statistical models to output information which they consider to be the best response to a query. Every model works differently. Take some time to figure out how to best tweak your prompts and become productive with it.
+* AIs that classify content, such as emails or messages, can also misrepresent them. A beta version of Apple Intelligence [would misclassify phishing emails](https://lifehacker.com/tech/apple-intelligence-thinks-phishing-emails-are-priority-messages) as high-priority action items.
 * Disinformation actors can also [generate large amounts of false content](https://www.atlanticcouncil.org/blogs/new-atlanticist/exposing-pravda-how-pro-kremlin-forces-are-poisoning-ai-models-and-rewriting-wikipedia/) in the hope that it is picked up and quoted by chatbots and other AI systems (this practice is often called AI poisoning). Such attacks are likely to increase in frequency, which makes it even more important that we take steps to critically read and verify any AI outputs.  
 
 ## Completing the risk assessment and deciding what to use AI for
@@ -98,6 +99,7 @@ If the tool you are using shares conversation logs or other data with the provid
 If the tool you are using is cloud-based but does not share logs or other data with the provider, then it's typically safe to use for medium-sensitive non-public work. Data could potentially leak out if someone were to break into the AI provider's systems, which happens incredibly rarely, or if a court or other authority compelled this provider to share your data.
 
 If you want to use AI for very sensitive data, for example transcribing a conversation with a source or summarizing confidential confidential documents, avoid cloud-based solutions. Only use on-device, offline tools. It's worth consulting with digital security or IT professionals who could help you with setting up such tools.
+
 
 <div class="resources">
 
