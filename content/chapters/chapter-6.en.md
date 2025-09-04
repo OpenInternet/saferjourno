@@ -174,7 +174,7 @@ _Trainer note: be aware that some journalists may not feel comfortable discussin
 
 - Write up the following statements on the board and ask the journalists to work in small groups to discuss them.
 
-  - I use my personal mobile number for work
+  - I use my personal mobile number or Signal account for work
   - I know what a risk assessment is and I complete one before working on a story
   - I have been in contact with people who could cause me either physical or digital harm
   - I worry about the government obtaining information about who I speak to and the content of those conversations
