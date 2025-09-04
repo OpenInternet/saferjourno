@@ -938,7 +938,7 @@ figcaption {
 }
 
 a#githubEdit {
-  color: #000000;
+  color: var(--text-color);
   text-decoration: underline;
   }
 
