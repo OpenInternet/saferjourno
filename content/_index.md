@@ -8,4 +8,4 @@ SaferJourno is the flagship journalist security guide developed and maintained b
 
 <p class = "lastupdated">Last updated</p>
 
-We plan to regularly read through and revise SaferJourno to make sure that it conforms to current knowledge about technology, threats, and security. We completed the most recent round of revisions in **August 2025**.
+We plan to regularly read through and revise SaferJourno to make sure that it conforms to current knowledge about technology, threats, and security. We completed the most recent round of revisions in **September 2025**.
