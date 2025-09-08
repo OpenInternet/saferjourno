@@ -14,7 +14,7 @@ The following scenarios are designed to accompany the course and can be used to 
 
 **For the trainer**
 
-This scenario covers both device security and secure materials, however, It is possible to use this scenario to teach only one of these topics. Detailed best practice guidance on these topics can be found in chapter three and chapter five of the guide and can be used to teach this section.
+This scenario covers both [chapter three](/chapter-3) on device security and [chapter five](/chapter-5) on protecting materials. It is possible to use this scenario to teach only one of these topics. Detailed best practice guidance on these topics can be found in chapter three and chapter five of the guide and can be used to teach this section.
 
 **The scenario**
 
@@ -30,7 +30,7 @@ You are a reporter working for a local newspaper. You are incredibly busy at wor
 
 **For the trainer**
 
-This scenario covers both online abuse. Detailed best practice guidance on these topics can be found in chapter seven of the guide and can be used to teach this section.
+This scenario covers online abuse, though learners should also have a good understanding of account security. Detailed best practice guidance on these topics can be found in [chapters seven](/chapter-7) and [two](/chapter-2) of the guide and can be used to teach this section.
 
 **The scenario**
 
@@ -46,7 +46,7 @@ You work as a fact checker for a relatively new fact-checking news outlet in a c
 
 **For the trainer**
 
-This exercise is designed to get journalists thinking of best practice when it comes to communicating more securely with others and sharing sensitive resources. Before carrying out this scenario you may want to consult chapters five and six of this guide.
+This exercise is designed to get journalists thinking of best practice when it comes to communicating more securely with others and sharing sensitive resources. Before carrying out this scenario you may want to consult [chapters five](/chapter-5) and [six](/chapter-6) of this guide.
 
 **The scenario**
 
@@ -62,7 +62,7 @@ You are the director of a regional investigative journalist network, which coord
 
 **For the trainer**
 
-This scenario looks at risks facing journalists from state-sponsored attackers. Consult chapters two, four and seven of this guide for more detailed information on these topics.
+This scenario looks at risks facing journalists from state-sponsored attackers. Consult chapters [two](/chapter-2), [four](/chapter-4) and [seven](/chapter-7) of this guide for more detailed information on these topics.
 
 **The scenario**
 
