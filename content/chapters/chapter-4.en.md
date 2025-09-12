@@ -126,8 +126,7 @@ At the end of the session journalists:
 
 The following templates and tools can be useful for teaching this session:
 
-- Annual transparency reports published by tech companies, such as Facebook, Google, and Twitter.
-- [DuckDuckGo Smarter Encryption](https://spreadprivacy.com/duckduckgo-smarter-encryption/)
+- Annual transparency reports published by tech companies, such as Facebook, Google, and X.
 - [Privacy Badger](https://privacybadger.org/)
 - [The Tor browser](https://www.torproject.org/download/) by Tor
 - Guidance on what type of VPN to choose and how to select one or more. See the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section, for more information.
