@@ -191,8 +191,6 @@ The following resources may be helpful for teaching this chapter:
 
 [Twelve million phones, one dataset, zero privacy](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) by the New York Times
 
-[How to encrypt your computer (and why you should)](https://mashable.com/article/how-to-encrypt-computer-windows-mac) by Mashable
-
 [What to do if your phone is seized by the police](https://freedom.press/training/mobile-security-for-activists-and-journalists/) by Freedom of the Press Foundation
 
 [Physical and digital security: arrest and detention](https://cpj.org/2021/02/physical-and-digital-safety-arrest-and-detention/) by the Committee to Protect Journalists
@@ -200,8 +198,6 @@ The following resources may be helpful for teaching this chapter:
 [Control your smartphone data](https://datadetoxkit.org/en/privacy/essentials) by Tactical Tech
 
 [The Pegasus archives](https://citizenlab.ca/tag/pegasus/) by Citizen Lab
-
-[Journalists targets of Pegasus spyware](https://cpj.org/2019/11/cpj-safety-advisory-journalist-targets-of-pegasus/) by the Committee to Protect Journalists
 
 [About Lockdown Mode](https://support.apple.com/en-gb/HT212650) by Apple
 
