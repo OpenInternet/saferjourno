@@ -118,10 +118,6 @@ The following resources may be helpful for teaching this chapter:
 
 [Key concepts in encryption](https://ssd.eff.org/module/key-concepts-encryption) by the Electronic Frontier Foundation
 
-[How to encrypt an external hard drive](https://proprivacy.com/guides/encrypt-external-hard-drive) by ProPrivacy
-
-[Cryptomator tutorial](https://www.youtube.com/watch?v=g9A0zihHZ14) by Cryptomator
-
 [Dangerzone lets you open attachments safely](https://www.wired.com/story/dangerzone-open-email-attachments-safely/) by Wired
 
 Guides on protecting your [Windows](https://securityplanner.consumerreports.org/tool/encrypt-your-windows-pc), [macOS](https://securityplanner.consumerreports.org/tool/encrypt-your-mac), [iOS](https://securityplanner.consumerreports.org/tool/encrypt-your-iphone), and [Android](https://securityplanner.consumerreports.org/tool/encrypt-your-android-phone) devices with encryption by Consumer Reports

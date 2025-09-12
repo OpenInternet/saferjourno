@@ -126,8 +126,7 @@ At the end of the session journalists:
 
 The following templates and tools can be useful for teaching this session:
 
-- Annual transparency reports published by tech companies, such as Facebook, Google, and Twitter.
-- [DuckDuckGo Smarter Encryption](https://spreadprivacy.com/duckduckgo-smarter-encryption/)
+- Annual transparency reports published by tech companies, such as Facebook, Google, and X.
 - [Privacy Badger](https://privacybadger.org/)
 - [The Tor browser](https://www.torproject.org/download/) by Tor
 - Guidance on what type of VPN to choose and how to select one or more. See the [Training digital security for the first time?](#training-digital-security-for-the-first-time) section, for more information.
@@ -144,8 +143,6 @@ The following resources may be helpful for teaching this chapter:
 [The best VPN service](https://www.nytimes.com/wirecutter/reviews/best-vpn-service/) by NYT Wirecutter
 
 [Choosing the VPN that’s right for you](https://ssd.eff.org/module/choosing-vpn-thats-right-you) by the Electronic Frontier Foundation
-
-[Fortify your browser](https://datadetoxkit.org/en/privacy/browser) by Tactical Tech
 
 [Should you use a VPN?](https://www.consumerreports.org/electronics-computers/vpn-services/should-you-use-a-vpn-a5562069524/) by Consumer Reports
 
