@@ -20,10 +20,10 @@ This chapter will cover:
 
 The following can be helpful to keep in mind:
 
-- Journalists need to have an online presence in order to do their job. This involves negotiating and differentiating between the data about them that they are willing to share with the world, and data that they would rather keep private. Family and relationship details, living locations, and health data might all fall into the latter category.
+- Journalists typically need to have an online presence in order to do their job. This involves picking the data about them that they are willing to share with the world, and data that they would rather keep private. Family and relationship details, living locations, and health data might all fall into the second category.
 - Since the growth of social media, journalists have been encouraged to share a great deal of personal data online as a way to connect with their audience. Some of this data is now being used to harass and intimidate them.
 - Journalists often have very little separation online between their work and their personal life. This makes them more vulnerable to harassment and abuse because people are able to harass them using a range of online platforms as well as via phone and email.
-- Online abuse can also include a range of other digital threats, including account hacking, spear phishing, impersonation, and doxing amongst others. Many of those threats do not need to be successful in order to have a chilling or deterring effect.
+- Online abuse can also include a range of other digital threats, including account hacking, spear phishing, impersonation, and doxing among others. Many of those threats do not need to be successful in order to have a chilling or deterring effect.
 - Women journalists and journalists from marginalized communities, for example LGBTQIA+ journalists, are disproportionately targeted by online harassment. This abuse will include misogynistic, racist and homophobic messages which often contain threats of physical violence against the journalist and his or her family.
 - Newsrooms often lack sufficient measures protect journalists from online harassment. This includes a lack of IT support for social media accounts as these do not fall under the remit of a work account even though they are being used for work purposes.
 - Online abuse is being weaponized by a range of online actors, including governments, as a way of limiting freedom of expression by discouraging journalists from pursing their reporting and trying to force them into quitting public life altogether.
