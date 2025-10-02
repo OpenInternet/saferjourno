@@ -175,7 +175,7 @@ At the end of the session journalists:
 The following templates and tools can be useful for teaching this session:
 
 * Encryption services, such as Bitlocker and Filevault. More detailed information on this can be found at the beginning of this chapter.
-* Apple [Lockdown Mode](https://support.apple.com/en-gb/HT212650) for protecting against spyware
+* Apple [Lockdown Mode](https://support.apple.com/en-gb/HT212650) and Android [Advanced Protection](https://support.google.com/android/answer/16339980?hl=en) (not to be confused with the Google account Advanced Protection program) protecting against spyware
 * [Scenarios](/scenarios) for helping journalists secure their phone
 * [Risk assessment template](/digital-risk-assessment-template)
 
@@ -202,6 +202,8 @@ The following resources may be helpful for teaching this chapter:
 [About Lockdown Mode](https://support.apple.com/en-gb/HT212650) by Apple
 
 [Advanced Protection: Google’s Strongest Security for Mobile Devices](https://security.googleblog.com/2025/05/advanced-protection-mobile-devices.html) by Google
+
+[Improve Device Security with Advanced Protection](https://support.google.com/android/answer/16339980?hl=en)
 
 </div>
 
@@ -467,7 +469,7 @@ With each of these steps it can be helpful to get journalists thinking about why
   * Importance of updating devices to protect against malware
   * Carrying out a factory reset of the device if they are concerned it is infected. They should backup the device first before resetting.
   * Turning on [Lockdown Mode](https://support.apple.com/en-gb/HT212650) for Apple devices running iOS 16 and above, if the journalist is at high risk of targeted attacks
-  * Turning on [Advanced Protection](https://security.googleblog.com/2025/05/advanced-protection-mobile-devices.html) for Android devices running Android 16 and above, if the journalist is at high risk of targeted attacks
+  * Turning on [Advanced Protection](https://security.googleblog.com/2025/05/advanced-protection-mobile-devices.html), [(alternate link)](https://support.google.com/android/answer/16339980?hl=en) for Android devices running Android 16 and above, if the journalist is at high risk of targeted attacks
   * Limiting the amount of content on their phone, including apps. For example avoid linking their work email to their phone
   * Where possible have separate devices for work and personal use
   * Best practice for protecting against phishing attacks. Consult chapter two for more details on this.
