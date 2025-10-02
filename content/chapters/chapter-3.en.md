@@ -175,7 +175,7 @@ At the end of the session journalists:
 The following templates and tools can be useful for teaching this session:
 
 * Encryption services, such as Bitlocker and Filevault. More detailed information on this can be found at the beginning of this chapter.
-* Apple [Lockdown Mode](https://support.apple.com/en-gb/HT212650) and Android [Advanced Protection](https://support.google.com/android/answer/16339980?hl=en) (not to be confused with the Google account Advanced Protection program) protecting against spyware
+* Apple [Lockdown Mode](https://support.apple.com/en-gb/HT212650) and Android [Advanced Protection](https://support.google.com/android/answer/16339980?hl=en) (not to be confused with Google's other [Advanced Protection Program](https://landing.google.com/advancedprotection/), which focuses on account security) protecting against spyware
 * [Scenarios](/scenarios) for helping journalists secure their phone
 * [Risk assessment template](/digital-risk-assessment-template)
 
