@@ -6,7 +6,7 @@ weight = 1
 toc = true
 +++
 
-
+<br><br>
 The original SaferJourno was launched in 2014 with the aim of bolstering the digital security capacity of trainers working with journalists around the world. For this new and updated version this aim has not changed, but the content has.
 
 Journalists face a complex array of digital threats. Some of these are old, such as account hacking and malware attacks, but others are new and present significant challenges. This includes the increasing use of sophisticated spyware as well as state-sponsored online smear campaigns designed to undermine a journalist and their reporting. This guide provides trainers with best practice on how to mitigate these risks in a way that is both practical and accessible for the journalist.
