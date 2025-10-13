@@ -2,7 +2,7 @@ baseURL = "/"
 title = "SaferJourno"
 
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 archetypeDir = "archetypes"
 contentDir   = "content"
