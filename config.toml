@@ -2,7 +2,7 @@ baseURL = "/"
 title = "SaferJourno"
 
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 disableDefaultLanguageRedirect = true
 # if we make the above "true", then we could also try disableDefaultLanguageRedirect
 
