@@ -3,7 +3,7 @@ title = "SaferJourno"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
-disableDefaultLanguageRedirect = false
+disableDefaultLanguageRedirect = true
 # if we make the above "true", then we could also try disableDefaultLanguageRedirect
 
 archetypeDir = "archetypes"
