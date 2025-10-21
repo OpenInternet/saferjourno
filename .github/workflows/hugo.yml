@@ -43,6 +43,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: recursive
+          fetch-depth: 0 #required so that it fetches full history for GitInfo and that the last modified date on the pages works
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
