@@ -4,6 +4,8 @@ title: Advanced Guides
 layout: single
 weight: 12
 toc: true
+aliases:
+- /en/advanced-guides
 ---
 
 ## Safe Travels: Digital Security When Traveling on Assignment

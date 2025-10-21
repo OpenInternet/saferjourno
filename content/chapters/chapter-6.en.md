@@ -4,6 +4,7 @@ title = "Chapter 6: Safer communications"
 layout = "single"
 weight = 7
 toc = true
+aliases = ["/en/chapter-6"]
 +++
 
 ## Introduction

@@ -4,6 +4,7 @@ title = "Chapter 8: Using AI securely"
 layout = "single"
 weight = 9
 toc = false
+aliases = ["/en/chapter-8"]
 +++
 
 

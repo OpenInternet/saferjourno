@@ -4,6 +4,7 @@ title = "Chapter 4: Safer online research"
 layout = "single"
 weight = 5
 toc = true
+aliases = ["/en/chapter-4"]
 +++
 
 ## Introduction

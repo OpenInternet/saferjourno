@@ -4,6 +4,7 @@ title = "Chapter 5: Protecting materials"
 layout = "single"
 weight = 6
 toc = true
+aliases = ["/en/chapter-5"]
 +++
 
 ## Introduction

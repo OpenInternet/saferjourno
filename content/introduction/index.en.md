@@ -4,6 +4,7 @@ title = "Introduction"
 layout = "single"
 weight = 1
 toc = true
+aliases = ["/en/digital-risk-assessment-template"]
 +++
 
 <br><br>

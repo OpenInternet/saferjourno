@@ -2,6 +2,9 @@
 type: report
 title: About SaferJourno
 layout: single
+aliases:
+- /en
+lastmod: 2025-10-08T00:10:00-12:00
 ---
 
 

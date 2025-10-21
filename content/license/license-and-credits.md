@@ -4,7 +4,13 @@ title = "License and Credits"
 layout = "single"
 weight = 14
 toc = true
+aliases = ["/en/license/license-and-credits"]
 +++
+
+
+
+
+
 
 The contents of the SaferJourno guide are released under a [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 

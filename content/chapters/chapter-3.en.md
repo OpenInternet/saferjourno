@@ -4,6 +4,8 @@ title: "Chapter 3: Device security"
 layout: single
 weight: 4
 toc: true
+aliases:
+- /en/chapter-3
 ---
 ## Introduction
 
