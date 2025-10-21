@@ -153,6 +153,8 @@ The following resources may be helpful for teaching this chapter:
 [Should you use a VPN?](https://www.consumerreports.org/electronics-computers/vpn-services/should-you-use-a-vpn-a5562069524/) by Consumer Reports
 
 [VPN Testing Reveals Poor Privacy and Security Practices, Hyperbolic Claims](https://www.consumerreports.org/vpn-services/vpn-testing-poor-privacy-security-hyperbolic-claims-a1103787639/) by Consumer Reports
+
+[Satellite Communication Threats](https://satellitesafety.openinternetproject.org/), by Jon Camfield and the Open Internet project, is an invaluable resource for journalists and others who might need to use satellite internet as part of their work
 </div>
 
 ## Activities
