@@ -1,7 +1,7 @@
 +++
 type = "report"
 title = "License and Credits"
-layout = "single"
+layout = "single-intro-outro"
 weight = 14
 toc = true
 aliases = ["/en/license/license-and-credits"]
