@@ -6,9 +6,7 @@ The [SaferJourno website](https://saferjourno.org) is built using the [Hugo](htt
 
 The contents of the SaferJourno guide are released under a [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
-* Guide written by Ela Stapley and Nikita Mazurov
-* Guide edited by Łukasz Król and Ashley Fowler 
-* Website designed and developed by [Ura Design](https://ura.design/en/)
+[Full credits](https://saferjourno.org/license/license-and-credits/)
 
 
 ## Some notes for future maintainers
