@@ -65,13 +65,13 @@ _Being more secure while using WhatsApp and Signal_
   - Remind the journalist that encrypted cloud backups are only an optional feature; they do not need to enable them if they do not want to or don't feel comfortable managing another backup password.
 
 - There are a number of features that journalists can turn on to secure their messaging apps and the content within them. More information on this can be found in the resource section of this guide. Some examples include:
-  - Setting disappearing messages.\
+  - **Setting disappearing messages.**\
      This will delete a message from the phone of the sender and the phone of the receiver within a certain timeframe. Journalists may or may not want to turn this on depending on whether they need to keep the content of their message. If they do want to keep it then they should take a screenshot of the message and then delete it from their phone. Different apps will count the timeframe for disappearing messages in different ways. If you have set 24 hour auto-deletion in Signal, for example, it will delete the message from the sender's device 24 hours after it was sent, but only remove it from the receiver's device 24 hours after they read it.
-  - One-time view only photo and video.\
+  - **One-time view only photo and video.**\
      This will delete a photo or video after it has been viewed once. Don't forget that someone could still take a photo of their screen while they view a one-time photo or video (or disappearing messages); they are not perfect security measures.
-  - Restricting who can add others to group chats\
+  - **Restricting who can add others to group chats.**\
       All messengers have group chats, and many of those are used to share sensitive information. Some group chats allow anyone to add new members or to share out an invite link, whereas others require an administrator to approve all new members. Consider requiring the administrator to approve new members of sensitive group chats. This will significantly reduce the chances of someone accidentally or maliciously adding a new member who should not have access to the sensitive information exchanged therein.
-  - Setting up two factor verification or the registration lock.\
+  - **Setting up two factor verification or the registration lock.**\
      This will stop others being able to register your account on their device without a PIN number or password. It's very important to enable this as, without it, anyone who intercepts the registration SMS or breaks into a telecom or SMS provider could take over your account.
 
 ## Completing the risk assessment
