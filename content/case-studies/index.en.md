@@ -4,6 +4,8 @@ title: Case Studies
 layout: single
 weight: 10
 toc: true
+aliases:
+- /en/case-studies
 ---
 ## Iranian-backed hacking group, Charming Kitten, targets journalists via WhatsApp messages, phishing
 

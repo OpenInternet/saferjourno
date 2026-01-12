@@ -4,6 +4,8 @@ title: "Chapter 3: Device security"
 layout: single
 weight: 4
 toc: true
+aliases:
+- /en/chapter-3
 ---
 ## Introduction
 
@@ -36,7 +38,7 @@ The following can be helpful to keep in mind:
 * Think about whether the journalist needs more than one device or whether they only need an extra number.
 * Be aware that, in some countries, having more than one phone or a SIM/ phone number issued in another country can make the journalist look suspicious.
 * Many countries now have compulsory SIM registration, which means that you need to present a passport or similar document to get a SIM card. This means that authorities could easily tie a phone number back to its legal owner.
-* Journalists now do a significant amount of work on their mobile phone, including recording interviews, shooting video, and reviewing documents. In some countries, journalists will only be using a mobile phone for their work and will not have access to a computer.
+* Journalists now do a significant amount of work on their smartphones, including recording interviews, shooting video, and reviewing documents. In some countries, journalists will only be using a smartphone for their work and will not have access to a computer.
 * Sources will be reaching out to journalists and journalists will often be accessing source data, including documents, via their mobile device.
 
 ## Training digital security for the first time?
@@ -152,6 +154,10 @@ Explain that there is always a way to recover data but this depends on the tech 
 **How can I tell if there is spyware on my device?**
 
 The trainer should first focus on getting the journalist to consider whether they are at high risk of having spyware on their devices. Good questions to ask include, whether they live in a country where the government has a history of using spyware, are they covering stories that put them more at risk of spyware, have they or anyone they know been targeted. Explain that there are different types of spyware and the only way to be sure if a device has been infected is to send it off to be forensically analysed. Trainers could research ahead of the class whether there are any threat labs—or organisations which can forensically analyse devices for non-profits—within their region.
+
+**Given the risk of spyware, should I just use a feature phone (like a Nokia 3310) for sensitive calls?**
+
+Feature phones are not susceptible to much modern spyware, but they should not be used for any confidential or sensitive communications. Calls and texts sent from such phones are not encrypted and it would be relatively easy for a telecommunications company or government to listen in to them. Instead of a feature phone, recommend a smartphone from a reputable company, make sure the device receives regular software updates and that it can run encrypted messengers such as Signal and WhatsApp.
 
 </div>
 

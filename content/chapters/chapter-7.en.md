@@ -4,6 +4,7 @@ title = "Chapter 7: Online abuse and protecting your data"
 layout = "single"
 weight = 8
 toc = true
+aliases = ["/en/chapter-7"]
 +++
 
 ## Introduction
