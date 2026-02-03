@@ -1,7 +1,7 @@
 +++
 
 type = "report"
-title = "Chapter 1: Understanding and evaluating digital risk"
+title = "Capítulo 1: Entendiendo y evaluando el reisgo digital"
 layout = "single"
 weight = 2
 toc = true

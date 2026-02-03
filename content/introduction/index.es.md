@@ -1,7 +1,7 @@
 +++
 
 type = "report"
-title = "Introduction"
+title = "Introducción"
 layout = "single"
 weight = 1
 toc = true
