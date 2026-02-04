@@ -3,6 +3,7 @@ title = "SaferJourno"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
+disableDefaultLanguageRedirect = true
 
 archetypeDir = "archetypes"
 contentDir   = "content"
@@ -86,3 +87,12 @@ chapters = "/:contentbasename/"
   [languages.en]
     languageName = "English"
     weight    = 1
+      [languages.en.params]
+        languageName = "English"
+        direction = "ltr"
+  [languages.es]
+    languageName = "Spanish"
+    weight    = 2
+        [languages.es.params]
+        languageName = "Spanish"
+        direction = "ltr"

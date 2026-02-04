@@ -32,3 +32,6 @@ other = "Home"
 
 [notFound]
 other = "Oops, page not found…"
+
+[lastModified]
+other = "Latest update: "

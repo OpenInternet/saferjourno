@@ -4,9 +4,10 @@ title = "Introduction"
 layout = "single"
 weight = 1
 toc = true
+aliases = ["/en/digital-risk-assessment-template"]
 +++
 
-
+<br><br>
 The original SaferJourno was launched in 2014 with the aim of bolstering the digital security capacity of trainers working with journalists around the world. For this new and updated version this aim has not changed, but the content has.
 
 Journalists face a complex array of digital threats. Some of these are old, such as account hacking and malware attacks, but others are new and present significant challenges. This includes the increasing use of sophisticated spyware as well as state-sponsored online smear campaigns designed to undermine a journalist and their reporting. This guide provides trainers with best practice on how to mitigate these risks in a way that is both practical and accessible for the journalist.
@@ -62,4 +63,4 @@ While conducting your training, keep the following in mind as well:
 - Use [personas](https://usable.tools/blog/2019-09-13-usable-personas/), or talk about others’ experiences to allow participants to speak about security without revealing too much about themselves.
 - Talk to participants about moments when they felt that they were really heard. Ask what you could do to reproduce this in your engagements.
 
-Don’t forget that risk tolerance varies significantly among journalists. Those who come from marginalized communities or who have caretaking duties might have completely different security concerns and threat models. Many journalists feel a deep duty of care towards their sources: you might be most persuasive as a trainer if you frame some of the security steps below as protecting journalists, their sources, and their wider networks (including family and friends).
+Don’t forget that risk tolerance varies significantly among journalists. Those who come from marginalized communities or who have caretaking duties might have completely different security concerns and threat models. Many journalists feel a deep duty of care towards their sources: you'll likely be even more persuasive as a trainer if you don't just frame security as protecting journalists themselves but also supporting and reassuring their sources and wider networks (including family and friends).

@@ -4,6 +4,7 @@ title = "Chapter 2: Account security"
 layout = "single"
 weight = 3
 toc = true
+aliases = ["/en/chapter-2"]
 +++
 
 ## Introduction

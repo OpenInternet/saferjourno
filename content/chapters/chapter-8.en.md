@@ -4,8 +4,10 @@ title = "Chapter 8: Using AI securely"
 layout = "single"
 weight = 9
 toc = false
+aliases = ["/en/chapter-8"]
 +++
 
+<br><br>
 
 **This is our newest chapter and we're looking for feedback! If you see something we could improve, please let us know or submit a pull request**
 
