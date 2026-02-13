@@ -1,7 +1,7 @@
 +++
 
 type = "report"
-title = "Chapter 7: Online abuse and protecting your data"
+title = "Capítulo 7: Abuso en línea y protección de sus datos"
 layout = "single"
 weight = 8
 toc = true

@@ -1,7 +1,7 @@
 +++
 
 type = "report"
-title = "Chapter 6: Safer communications"
+title = "Capítulo 6: Comunicaciones más seguras"
 layout = "single"
 weight = 7
 toc = true

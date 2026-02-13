@@ -1,7 +1,7 @@
 +++
 
 type = "report"
-title = "Digital Risk Assessment Template"
+title = "Plantilla de evaluación de riesgos digitales"
 layout = "single"
 weight = 13
 toc = true

@@ -1,7 +1,7 @@
 +++
 
 type = "report"
-title = "Scenarios"
+title = "Escenarios"
 layout = "single"
 weight = 11
 toc = true

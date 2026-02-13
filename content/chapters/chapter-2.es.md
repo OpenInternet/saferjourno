@@ -1,7 +1,7 @@
 +++
 
 type = "report"
-title = "Chapter 2: Account security"
+title = "Capítulo 2: Seguridad de la cuenta"
 layout = "single"
 weight = 3
 toc = true

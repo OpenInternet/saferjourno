@@ -1,7 +1,7 @@
 +++
 
 type = "report"
-title = "Chapter 8: Using AI securely"
+title = "Capítulo 8: Uso seguro de la IA"
 layout = "single"
 weight = 9
 toc = false

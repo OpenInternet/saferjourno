@@ -1,7 +1,7 @@
 +++
 
 type = "report"
-title = "License and Credits"
+title = "Licencia y créditos"
 layout = "single"
 weight = 14
 toc = true

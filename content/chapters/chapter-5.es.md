@@ -1,7 +1,7 @@
 +++
 
 type = "report"
-title = "Chapter 5: Protecting materials"
+title = "Capítulo 5: Protección de materiales"
 layout = "single"
 weight = 6
 toc = true

@@ -1,7 +1,7 @@
 +++
 
 type = "report"
-title = "Chapter 4: Safer online research"
+title = "Capítulo 4: Investigación en línea más segura"
 layout = "single"
 weight = 5
 toc = true
