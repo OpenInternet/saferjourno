@@ -1,7 +1,7 @@
 +++
 
 type = "report"
-title = "Capítulo 1: Entendiendo y evaluando el reisgo digital"
+title = "Capítulo 1: Comprensión y evaluación el riesgo digital"
 layout = "single"
 weight = 2
 toc = true
@@ -12,7 +12,7 @@ toc = true
 Los periodistas se enfrentan a una amplia gama de amenazas digitales debido al trabajo que realizan. Estas amenazas van desde el abuso en línea a el robo de cuentas, pasando por los programas espía, y tienen graves consecuencias tanto para los propios periodistas como para la libertad de expresión. Aunque estos retos son importantes, hay medidas que los periodistas pueden tomar para protegerse. La primera es comprender el riesgo digital y cómo mitigarlo.
 
 
-## ¿Primera formación de periodistas?
+## ¿Estás capacitando a periodistas por primera vez?
 
 Echa un vistazo a nuestra útil guía:
 
@@ -23,7 +23,7 @@ Echa un vistazo a nuestra útil guía:
 - Los periodistas utilizan a menudo sus dispositivos personales para trabajar; con frecuencia tienen muy poca separación entre su trabajo y su vida personal, tanto en línea como fuera de ella.
 - Una evaluación de riesgos digitales es un documento con preguntas que ayuda a los periodistas a reflexionar sobre los riesgos digitales a los que se enfrentan, así como sobre las formas de reducirlos. Los periodistas pueden o no estar familiarizados con las evaluaciones de riesgos, ya que pueden haber tenido que completar una evaluación de riesgos físicos para algunas historias.
 
-## ¿Primera formación en seguridad digital?
+## ¿Estás impartiendo una formación en seguridad digital por primera vez?
 
 Esta sección cubre las mejores prácticas que pueden utilizarse al enseñar las actividades de este capítulo. Para más información, consulte la sección [recursos](#recursos) de este capítulo.
 
@@ -65,9 +65,9 @@ Completar una evaluación de riesgos es la mejor manera de poder predecir el rie
 
 Explica que es importante compartir la evaluación de riesgos con el redactor jefe u otras personas de la redacción que puedan necesitar acceder a ella. Si la evaluación de riesgos contiene datos sensibles, el periodista debe restringir su distribución y compartirla únicamente a través de canales encriptados, que se tratarán con más detalle en los capítulos 5 y 6 de esta guía.
 
-</div> <div>
+</div>
 
-<div class="resultados">
+<div class="outcomes">
 
 ## Resultados del aprendizaje
 
@@ -77,9 +77,9 @@ Al final de la sesión los periodistas:
 - Comprenderán mejor las amenazas digitales a las que se enfrentan en función de su propio perfil de riesgo.
 - Entenderán qué es una evaluación de riesgos y cómo realizarla.
 
-</div> <div>
+</div>
 
-<div class="herramientas">
+<div class="tools">
 
 ## Plantillas y herramientas
 
@@ -107,9 +107,10 @@ Los siguientes recursos pueden ser útiles para la enseñanza de este capítulo:
 
 ## Actividades
 
-Las siguientes actividades están diseñadas para acompañar esta sesión de formación sobre la seguridad de las cuentas. Los formadores deben sentirse libres de utilizar sus propias actividades, así como de adaptar los materiales de esta guía para que se ajusten mejor a las necesidades de los periodistas a los que están formando. El número y el tipo de actividades seleccionadas dependerán del nivel de conocimientos del formador, así como del tiempo que tenga para dedicar a los participantes. Para quienes se inicien en la formación sobre seguridad digital, no olviden consultar la sección [_¿Formación sobre seguridad digital por primera vez?_](#formación-seguridad-digital-por-primera-vez) para obtener orientación sobre las mejores prácticas.
+Las siguientes actividades están diseñadas para acompañar esta sesión de formación sobre la seguridad de las cuentas. Los formadores deben sentirse libres de utilizar sus propias actividades, así como de adaptar los materiales de esta guía para que se ajusten mejor a las necesidades de los periodistas a los que están formando. El número y el tipo de actividades seleccionadas dependerán del nivel de conocimientos del formador, así como del tiempo que tenga para dedicar a los participantes. Para quienes se inicien en la formación sobre seguridad digital, no olvides consultar la sección [_¿Estás impartiendo formación en seguridad digital por primera vez?_](#estás-impartiendo-formación-en-seguridad-digital-por-primera-vez)
+ para obtener orientación sobre las mejores prácticas.
 
-### Para empezar
+### Primeros Pasos
 
 #### Tú y la tecnología
 
@@ -192,21 +193,21 @@ _Nota para el formador: este ejercicio requiere que los formadores comprendan bi
   - Utilizar Signal
   - Utilizar una VPN
 
-Señale que no es importante que los periodistas sepan todavía cómo realizar todos estos pasos de seguridad, ya que los aprenderán a lo largo del curso.
+Señala que no es importante que los periodistas sepan todavía cómo realizar todos estos pasos de seguridad, ya que los aprenderán a lo largo del curso.
 
 ❷ **Segundo paso**
 
-- Pregunte al periodista si ha oído hablar de la evaluación del riesgo digital y para qué sirve. Si es necesario, haz una breve reseña utilizando la guía de este capítulo.
-- Comparta la plantilla de evaluación de riesgos con los periodistas y pídales que la revisen. Responde a sus preguntas.
+- Pregunta al periodista si ha oído hablar de la evaluación del riesgo digital y para qué sirve. Si es necesario, haz una breve reseña utilizando la guía de este capítulo.
+- Comparte la plantilla de evaluación de riesgos con los periodistas y pídales que la revisen. Responde a sus preguntas.
 
 ❸ **Paso tres**
 
-- Diga a los periodistas que van a trabajar solos para completar su sección del título de la evaluación de riesgos pensando en el riesgo digital general.
+- Dile a los periodistas que van a trabajar solos para completar su sección del título de la evaluación de riesgos pensando en el riesgo digital general.
 - Los periodistas deben trabajar para responder a las preguntas y dar pasos concretos para mitigar el riesgo.
 - En caso de que tengan preguntas, dudas o parezca que necesitan ayuda adicional, se les debe proporcionar apoyo.
 
 ❹ **Paso cuatro**
 
-- Ayude a los periodistas a reflexionar sobre el proceso formulando las siguientes preguntas:
+- Ayuda a los periodistas a reflexionar sobre el proceso formulando las siguientes preguntas:
   - ¿Qué información has aprendido en la sesión de hoy que te ha ayudado a tomar decisiones más informadas en torno a este tema?
   - Qué más crees que necesitas aprender?

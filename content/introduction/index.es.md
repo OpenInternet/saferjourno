@@ -7,11 +7,12 @@ weight = 1
 toc = true
 +++
 
+<br><br>
 SaferJourno original se lanzó en 2014 con el objetivo de reforzar la capacidad de seguridad digital de los formadores que trabajan con periodistas de todo el mundo. En esta nueva versión actualizada, el objetivo no ha cambiado, pero sí el contenido.
 
 Los periodistas se enfrentan a una compleja gama de amenazas digitales. Algunas son antiguas, como el robo de cuentas y los ataques de malware, pero otras son nuevas y plantean retos importantes. Entre ellas, el creciente uso de sofisticados programas espía y las campañas de difamación en línea patrocinadas por el Estado y diseñadas para afectar a los periodistas y sus reportajes. Esta guía ofrece a los formadores las mejores prácticas para mitigar estos riesgos de forma práctica y accesible para el periodista.
 
-## Destinatarios
+## Público objetivo
 
 SaferJourno está pensado tanto para formadores experimentados en seguridad digital que estén menos familiarizados con la enseñanza a periodistas, como para formadores de medios de comunicación que trabajen con periodistas pero carezcan de experiencia en seguridad digital.
 
@@ -44,12 +45,12 @@ Los casos prácticos y la plantilla de evaluación de riesgos que figuran al fin
 Si nunca has impartido cursos de formación sobre seguridad digital, puede que los primeros te resulten un poco abrumadores. Te recomendamos que leas los artículos del Security Education Companion [Security Education 101](https://www.securityeducationcompanion.org/articles) como una buena introducción general a la enseñanza de la seguridad digital.
 
 LevelUp, otro recurso para formadores, contiene algunos artículos excelentes sobre cómo impartir una buena formación en seguridad digital:
-- Be a Better Trainer](https://level-up.cc/you-the-trainer/be-a-better-trainer/): examina algunos errores comunes que cometen los formadores en seguridad digital y ofrece algunos consejos para evitarlos.
-- Reglas de oro para una formación eficaz](https://level-up.cc/you-the-trainer/golden-rules-of-effective-training/): muestra tres grandes reglas que todos los formadores en seguridad digital deberían tener en cuenta para crear un entorno de formación seguro y eficaz.
-- Cómo gestionar las sorpresas durante la formación](https://level-up.cc/you-the-trainer/how-to-handle-surprises-during-training/): anota algunas de las cosas que pueden salir mal durante la formación y la mejor manera de abordarlas.
-- Funciones y responsabilidades de un formador en seguridad digital](https://level-up.cc/you-the-trainer/roles-and-responsibilities-of-a-digital-security-trainer/): profundiza en lo que significa impartir una formación responsable en seguridad digital que capacite a las personas en lugar de desmotivarlos.
-- Setting Expectations For Participants, Organizers, and Yourself](https://level-up.cc/you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/): orienta a los formadores sobre cómo pueden gestionar las expectativas, incluye algunas preguntas clave para hacerse antes de la formación.
-- Psychosocial Underpinnings of Security Training](https://level-up.cc/before-an-event/psychosocial-underpinnings-of-security-training/): una serie de artículos sobre cómo tratar temas como la ansiedad, el trauma y la presión durante la formación.
+- [Be a Better Trainer](https://level-up.cc/you-the-trainer/be-a-better-trainer/): examina algunos errores comunes que cometen los formadores en seguridad digital y ofrece algunos consejos para evitarlos.
+- [Reglas de oro para una formación eficaz](https://level-up.cc/you-the-trainer/golden-rules-of-effective-training/): muestra tres grandes reglas que todos los formadores en seguridad digital deberían tener en cuenta para crear un entorno de formación seguro y eficaz.
+- [Cómo gestionar las sorpresas durante la formación](https://level-up.cc/you-the-trainer/how-to-handle-surprises-during-training/): anota algunas de las cosas que pueden salir mal durante la formación y la mejor manera de abordarlas.
+- [Funciones y responsabilidades de un formador en seguridad digital](https://level-up.cc/you-the-trainer/roles-and-responsibilities-of-a-digital-security-trainer/): profundiza en lo que significa impartir una formación responsable en seguridad digital que capacite a las personas en lugar de desmotivarlos.
+- [Setting Expectations For Participants, Organizers, and Yourself](https://level-up.cc/you-the-trainer/setting-expectations-for-participants-organizers-and-yourself/): orienta a los formadores sobre cómo pueden gestionar las expectativas, incluye algunas preguntas clave para hacerse antes de la formación.
+- [Psychosocial Underpinnings of Security Training](https://level-up.cc/before-an-event/psychosocial-underpinnings-of-security-training/): una serie de artículos sobre cómo tratar temas como la ansiedad, el trauma y la presión durante la formación.
 
 
 Al impartir la formación, ten en cuenta también lo siguiente:
