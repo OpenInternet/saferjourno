@@ -23,13 +23,13 @@ En este capítulo se abordan los siguientes temas:
 Echa un vistazo a nuestra útil guía:
 
 - Los periodistas suelen utilizar sus cuentas en Internet tanto para fines personales como laborales, sobre todo si son autónomos. Esto significa que tienen mucho contenido sensible almacenado en sus cuentas personales. Hay que animar a los periodistas a que, en la medida de lo posible, separen sus cuentas online en personales y de trabajo.
-- A menudo, los periodistas desconocen dónde se almacena la información en sus cuentas y dispositivos. Destaque la importancia de llevar a cabo una auditoría de sus cuentas y de hacer copias de seguridad y borrar contenidos con regularidad. Los formadores pueden consultar el capítulo cinco de esta guía para más detalles sobre cómo hacerlo.
+- A menudo, los periodistas desconocen dónde se almacena la información en sus cuentas y dispositivos. Destaca la importancia de llevar a cabo una auditoría de sus cuentas y de hacer copias de seguridad y borrar contenidos con regularidad. Los formadores pueden consultar el capítulo cinco de esta guía para más detalles sobre cómo hacerlo.
 - Los medios de comunicación a veces animan a los periodistas a utilizar sus redes sociales personales para fines laborales, incluido el contacto con fuentes. Los medios no suelen ofrecer a los periodistas ayuda para asegurarlas.
 - Aunque es poco frecuente, un tribunal o un gobierno puede pedir a una empresa o a un servicio en línea que entregue los datos que tiene sobre una persona usuaria. Si esto ocurre, es posible que la empresa tenga que compartir datos como el contenido de documentos, mensajes y fotos. Algunas empresas ofrecen cifrado de extremo a extremo, en el que ellas mismas no conocen ni pueden acceder al contenido almacenado en la nube. Este tipo de cifrado protegerá a los periodistas de las solicitudes de datos gubernamentales, pero también significará que las personas usuarias no podrán acceder a los datos si olvidan o pierden sus contraseñas y mecanismos de recuperación. Incluso si una empresa ofrece cifrado de extremo a extremo para los datos almacenados, normalmente seguirá recopilando cierto grado de metadatos (cuándo se conectó el periodista por última vez, qué direcciones de correo electrónico utilizó, cuánto ha almacenado en su cuenta), y puede que tenga que compartirlos con las autoridades.
 - Los medios de comunicación suelen tener directrices obsoletas sobre las mejores prácticas en materia de contraseñas y autenticación de dos factores. Estas directrices obsoletas pueden incluir la recomendación de que los periodistas utilicen contraseñas cortas con muchos caracteres aleatorios, o que cambien sus contraseñas con frecuencia. Algunos medios de comunicación tampoco promueven el autorelleno de los gestores de contraseñas o las claves de seguridad físicas como contramedidas contra el phishing. Es importante reconocerlo y decir a los periodistas que les estás enseñando las mejores prácticas actuales, que deberían utilizar para todas sus cuentas personales. Véase [aquí](https://www.ncsc.gov.uk/blog-post/problems-forcing-regular-password-expiry) por qué el Centro Nacional de Ciberseguridad del Reino Unido recomienda ahora no cambiar regularmente las contraseñas.
-- Es probable que los periodistas que trabajan para medios de comunicación tengan dudas sobre la mejor forma de compartir contraseñas con los miembros del equipo. A menudo, esto se debe a que más de una persona necesita acceder a las cuentas oficiales del medio en las redes sociales o a otras cuentas conjuntas. La mejor práctica es tener un gestor de contraseñas corporativo/de equipo con credenciales para cuentas compartidas almacenadas en bóvedas compartidas. Sin embargo, algunas redacciones utilizan soluciones menos seguras, como almacenar las credenciales en una hoja de cálculo compartida.
-- Algunos periodistas corren un alto riesgo de sufrir ataques selectivos de phishing, hábilmente elaborados y difíciles de detectar. Es importante que el formador destaque qué gobiernos o actores de amenazas en línea suelen utilizar técnicas de phishing y comparta las tácticas que emplean en el contexto local. El formador debe proporcionar orientación práctica sobre la mejor manera de protegerse contra el phishing. Decir a los periodistas que no hagan clic en enlaces o documentos no es factible, ya que a menudo necesitan hacerlo por su trabajo.
-- Es importante que los periodistas conozcan su propio perfil de riesgo en lo que respecta a la seguridad de sus cuentas. El formador debe reservar tiempo para completar el documento de evaluación de riesgos sobre la seguridad de las cuentas.
+- Es probable que los periodistas que trabajan para medios de comunicación tengan dudas sobre la mejor forma de compartir contraseñas con los miembros del equipo. A menudo, esto se debe a que más de una persona necesita acceder a las cuentas oficiales del medio en las redes sociales o a otras cuentas conjuntas. La mejor práctica es tener un gestor de contraseñas corporativo/de equipo con credenciales para cuentas compartidas almacenadas en gestores de contraseñas compartidos. Sin embargo, algunas redacciones utilizan soluciones menos seguras, como almacenar las credenciales en una hoja de cálculo compartida.
+- Algunos periodistas corren un alto riesgo de sufrir ataques selectivos de phishing, hábilmente elaborados y difíciles de detectar. Es importante que la persona formadora destaque qué gobiernos o actores de amenazas en línea suelen utilizar técnicas de phishing y comparta las tácticas que emplean en el contexto local. La persona formadora debe proporcionar orientación práctica sobre la mejor manera de protegerse contra el phishing. Decir a los periodistas que no hagan clic en enlaces o documentos no es factible, ya que a menudo necesitan hacerlo por su trabajo.
+- Es importante que los periodistas conozcan su propio perfil de riesgo en lo que respecta a la seguridad de sus cuentas. La persona formadora debe reservar tiempo para completar el documento de evaluación de riesgos sobre la seguridad de las cuentas.
 
 ## ¿Estás impartiendo una formación en seguridad digital por primera vez?
 
@@ -38,11 +38,11 @@ Esta sección cubre las mejores prácticas que se pueden utilizar al enseñar la
 _Obtener acceso a los datos_
 
 - Hay varias formas de obtener datos de cuentas en línea. Esto incluye entrar en la cuenta adivinando la contraseña, lanzar un ataque de phishing con éxito, poner malware en un dispositivo que permita a alguien acceder a la información, coger físicamente un dispositivo y mirar los datos, y una petición legal de un gobierno a una empresa para obtener datos.
-- Para proteger mejor los datos frente a las peticiones legales y las filtraciones de datos, los periLas listas deben comprobar si los servicios en la nube que utilizan ofrecen cifrado estándar o de extremo a extremo. El cifrado estándar significa que la propia conexión a la nube está cifrada (por lo que nadie que husmee en la conexión puede interceptar los datos), pero la empresa podría seguir accediendo a los datos si se ve comprometida o si se lo piden las fuerzas de seguridad. Si los datos están cifrados de extremo a extremo, la empresa que opera los centros de datos no tiene acceso a la clave de descifrado. Esto significa que la empresa no puede entregar estos datos en respuesta a una petición de las fuerzas de seguridad (aunque podría compartir metadatos), pero tampoco podrá restaurarlos si la persona usuaria olvida su contraseña. Los periodistas pueden buscar en Internet el nombre de la empresa y la palabra "cifrado de extremo a extremo" para averiguar cómo se almacenan sus datos. También pueden consultar las condiciones de cada empresa para saber cómo se guarda la información. Algunas empresas, como Apple con su servicio iCloud, ofrecen cifrado de extremo a extremo como opción adicional.
+- Para proteger mejor los datos frente a las peticiones legales y las filtraciones de datos, los periodistas deben comprobar si los servicios en la nube que utilizan ofrecen cifrado estándar o de extremo a extremo. El cifrado estándar significa que la propia conexión a la nube está cifrada (por lo que nadie que husmee en la conexión puede interceptar los datos), pero la empresa podría seguir accediendo a los datos si se ve comprometida o si se lo piden las fuerzas de seguridad. Si los datos están cifrados de extremo a extremo, la empresa que opera los centros de datos no tiene acceso a la clave de descifrado. Esto significa que la empresa no puede entregar estos datos en respuesta a una petición de las fuerzas de seguridad (aunque podría compartir metadatos), pero tampoco podrá restaurarlos si la persona usuaria olvida su contraseña. Los periodistas pueden buscar en Internet el nombre de la empresa y la palabra "cifrado de extremo a extremo" para averiguar cómo se almacenan sus datos. También pueden consultar las condiciones de cada empresa para saber cómo se guarda la información. Algunas empresas, como Apple con su servicio iCloud, ofrecen cifrado de extremo a extremo como opción adicional.
 
 _Gestión de contenidos en las cuentas_
 
-- Tener datos sensibles y personales en cuentas puede poner en riesgo a periodistas y fuentes si esas cuentas son hackeadas o si alguien consigue acceso físico a ellas.
+- Tener datos sensibles y personales en cuentas puede poner en riesgo a periodistas y fuentes si esas cuentas son vulneradas o si alguien consigue acceso físico a ellas.
 - Anima a los periodistas a eliminar los datos que ya no necesiten de todas sus cuentas, incluidas las de correo electrónico, plataformas de redes sociales y cuentas en la nube. Hay que animarles a eliminar tanto los elementos personales como los de trabajo, como mensajes directos personales, fotos, documentos de trabajo confidenciales, etc.
 - Aunque se eliminen los datos de las cuentas personales, una copia de esos datos puede seguir estando en el servidor de la empresa y puede ser citada por un gobierno.
 
@@ -58,7 +58,7 @@ _Autenticación de dos factores (2FA)_
 - Existen varios tipos de 2FA: SMS, correo electrónico, aplicaciones de autenticación y llaves de seguridad físicas.
 - Puedes añadir más de una opción 2FA a una cuenta. Por ejemplo, varias claves de seguridad físicas y claves de acceso o una aplicación de autenticación y una clave de seguridad física. Esto es importante porque evita que las personas queden bloqueadas en sus cuentas si pierden el acceso a una de las formas de 2FA. Muchos servicios también ofrecen códigos de copia de seguridad, que pueden descargarse, imprimirse y guardarse en un lugar seguro. Pueden utilizarse para restablecer el acceso a las cuentas en caso de que las personas usuarias pierdan todas las demás formas de 2FA (por ejemplo, debido a un robo).
 - Muchos sitios ofrecen la opción de hacer 2FA a través de códigos SMS. Los códigos SMS podrían ser interceptados o se podría acceder a ellos a través de la compañía de telecomunicaciones (y hubo al menos un caso en el que una empresa que enviaba códigos SMS en nombre de plataformas tecnológicas estaba [vinculada a la industria de la vigilancia](https://www.lighthousereports.com/investigation/two-factor-insecurity/)). Cuando enseñes la 2FA, haz hincapié en que la 2FA basada en SMS es mucho mejor que no tener 2FA, pero anima a los periodistas a que utilicen otras formas de 2FA.
-- Es crucial que el formador entienda que algunas formas de 2FA son vulnerables al phishing y otras no. Un atacante hábil podría crear un sitio web falso que le pida a la persona su usuario, contraseña y los códigos de 2FA. Ese atacante podría entonces utilizar instantáneamente este código para acceder a la página web real, haciéndose pasar por el periodista. **Este ataque no funcionará contra llaves de seguridad físicas ni contra passkeys; esto las convierte en la forma más segura de autenticación de dos factores.** No es posible que una página web falsa reenvíe la señal de una clave de seguridad física o de una passkey y la utilice para acceder al servicio real. Por este motivo, recomendamos encarecidamente a todos los periodistas que las utilicen para la autenticación de doble factor.
+- Es crucial que la persona formadora entienda que algunas formas de 2FA son vulnerables al phishing y otras no. Un atacante hábil podría crear un sitio web falso que le pida a la persona su usuario, contraseña y los códigos de 2FA. Ese atacante podría entonces utilizar instantáneamente este código para acceder a la página web real, haciéndose pasar por el periodista. **Este ataque no funcionará contra llaves de seguridad físicas ni contra passkeys; esto las convierte en la forma más segura de autenticación de dos factores.** No es posible que una página web falsa reenvíe la señal de una clave de seguridad física o de una passkey y la utilice para acceder al servicio real. Por este motivo, recomendamos encarecidamente a todos los periodistas que las utilicen para la autenticación de doble factor.
 - Las llaves de seguridad se parecen un poco a las unidades flash; normalmente se conectan al puerto USB. Para vincular la llave a tu cuenta tienes que insertar la llave en tu ordenador o teléfono, ir a la cuenta a la que quieres añadir la llave y seguir los pasos para configurar 2FA. Vincula más de una clave a tu cuenta en caso de pérdida o robo. Lleva una de ellas contigo, por ejemplo en tu llavero, y guarda la otra en un lugar seguro.
 - Las claves o passkeys pueden guardarse en un dispositivo o en un lugar como un gestor de contraseñas. También ofrecen autenticación a prueba de suplantación de identidad, y no pueden ser interceptadas por un atacante del mismo modo que un token basado en una aplicación. En algunos lugares se utilizan en lugar de una contraseña, en otros como segundo factor además de la contraseña. Las passkeys son nuevas, y las empresas están trabajando en herramientas que puedan ayudar a hacer copias de seguridad y transferir passkeys entre gestores de contraseñas. Para una introducción más amplia, consulte [esta hoja informativa](https://github.com/OpenInternet/Infosec-infosheets/blob/main/Infosheet%20passkeys%20passwordless.md).
 - Los atacantes sofisticados pueden llevar a cabo un _ataque de degradación_ contra la autenticación de dos factores. En este tipo de ataque, un sitio web malicioso falso podría pedir a una persona usuaria que envíe una forma de autenticación de dos factores que sea vulnerable al phishing (como un código de aplicación), incluso si esa persona también ha registrado una autenticación resistente al phishing (como una clave de seguridad física o passkey) con el servicio legítimo. La forma más sencilla de mitigar este tipo de ataques es exigir a todas las personas usuarias que utilicen únicamente la autenticación de dos factores resistente al phishing y desactivar todas las demás formas. Algunas personas usuarias también necesitarán tener formas de respaldo de autenticación de dos factores, en caso de que pierdan sus claves de seguridad físicas o los dispositivos donde guardaron sus passkeys. Si ese es el caso, se debe advertir a las personas usuarias sobre la posibilidad de ataques de degradación y alentarlas a usar siempre llaves físicas o passkeys, a menos que no puedan acceder a ellas.
@@ -78,7 +78,7 @@ _Contraseñas_
 - La forma más fácil y segura de utilizar contraseñas es dejar que tu gestor de contraseñas genere una contraseña nueva, única y larga para cada cuenta. De esta forma, nunca más tendrás que pensar en generar contraseñas.
 - Hay dos tipos de contraseñas: las que están formadas por una mezcla de números, símbolos y letras, y las que están formadas por una colección aleatoria de palabras (las llamadas frases de contraseña). Ambos tipos de contraseña son válidos. A la gente le suele resultar más fácil recordar las frases de contraseña, por lo que puede ser una opción mejor si el periodista no puede utilizar un gestor de contraseñas.
 - **No utilices datos personales**, como la fecha de nacimiento o el nombre de la mascota, al crear una contraseña. Esta información puede obtenerse fácilmente en Internet y utilizarse para adivinar la contraseña.
-- **No reutilices contraseñas.** Utiliza una contraseña diferente para cada cuenta en línea. Datos personalesa, como direcciones de correo electrónico y contraseñas, pueden ser robados si un atacante irrumpe en la base de datos de un servicio en línea. Estos datos se venden luego en línea a otros, como delincuentes y gobiernos. Si se vulnera una contraseña y la has utilizado en más de una cuenta, las demás son vulnerables. La contraseña de tu servicio de correo electrónico es especialmente importante: si un atacante la vulnera, no sólo podrá leer tus mensajes y enviarlos en tu nombre, sino también restablecer las contraseñas de todas tus demás cuentas.
+- **No reutilices contraseñas.** Utiliza una contraseña diferente para cada cuenta en línea. Datos personales, como direcciones de correo electrónico y contraseñas, pueden ser robados si un atacante irrumpe en la base de datos de un servicio en línea. Estos datos se venden luego en línea a otros, como delincuentes y gobiernos. Si se vulnera una contraseña y la has utilizado en más de una cuenta, las demás son vulnerables. La contraseña de tu servicio de correo electrónico es especialmente importante: si un atacante la vulnera, no sólo podrá leer tus mensajes y enviarlos en tu nombre, sino también restablecer las contraseñas de todas tus demás cuentas.
 
 _Phishing mediante aplicaciones u OAuth_
 
@@ -91,36 +91,36 @@ _Phishing mediante aplicaciones u OAuth_
 
 Al hablar sobre la evaluación de riesgos y el plan de seguridad personal, puede ser útil abordar lo siguiente:
 
-- Animar a los periodistas a pensar en quién podría querer atacar sus cuentas y en la capacidad tecnológica de quienes les amenazan. Para conocer esa capacidad tecnológica, el periodista debe buscar información sobre eladversario en Internet junto con palabras clave, como hacking, robo de identidad, phishing y spyware. Si la amenaza es un gobierno, el periodista también debe comprobar si se están aprobando nuevas leyes que les permitan un acceso más fácil a los datos. Al realziar la búsqueda deben utilizar palabras clave, como ley de medios y comunicaciones o leyes antiterroristas. También hay que animarles a que consulten los informes anuales de transparencia que publican las grandes empresas tecnológicas para comprobar si cumplen con las peticiones de datos de los gobiernos.
+- Animar a los periodistas a pensar en quién podría querer atacar sus cuentas y en la capacidad tecnológica de quienes les amenazan. Para conocer esa capacidad tecnológica, el periodista debe buscar información sobre el adversario en Internet junto con palabras clave, como hacking, robo de identidad, phishing y spyware. Si la amenaza es un gobierno, el periodista también debe comprobar si se están aprobando nuevas leyes que les permitan un acceso más fácil a los datos. Al realizar la búsqueda deben utilizar palabras clave, como ley de medios y comunicaciones o leyes antiterroristas. También hay que animarles a que consulten los informes anuales de transparencia que publican las grandes empresas tecnológicas para comprobar si cumplen con las peticiones de datos de los gobiernos.
 - Animar a los periodistas a investigar los servicios en línea que utilizan o quieren utilizar. Pídeles que investiguen quién es el propietario de esos servicios, cómo almacenan sus datos, dónde se almacenan y si comparten datos con terceros. Destaque que lo mejor es utilizar servicios que compartan la menor cantidad posible de datos con otros.
 - A los periodistas de alto riesgo, ya sea porque ya se enfrentan a ataques o porque es probable que sean blanco de sofisticados intentos de ataques digitales o phishing, se les debe animar a tomar medidas inmediatas para asegurar sus cuentas.
-- Es probable que los periodistas duden a la hora de gestionar el contenido de sus cuentas y separar sus datos de trabajo de los personales por el tiempo que les llevará y los recursos necesarios, como fondos para dispositivos adicionales. Puede ser útil que el formador hable con los periodistas sobre las cuentas y averigüe cuáles son las más importantes para asegurarlas primero. Esto puede incluir cuentas con grandes cantidades de datos personales o sensibles.
+- Es probable que los periodistas duden a la hora de gestionar el contenido de sus cuentas y separar sus datos de trabajo de los personales por el tiempo que les llevará y los recursos necesarios, como fondos para dispositivos adicionales. Puede ser útil que la persona formadora hable con los periodistas sobre las cuentas y averigüe cuáles son las más importantes para asegurarlas primero. Esto puede incluir cuentas con grandes cantidades de datos personales o sensibles.
 - Algunos periodistas, como los que viajan o trabajan habitualmente en regiones sensibles, corren el riesgo de ser detenidos, obligados a desbloquear sus dispositivos y de que las autoridades los registren. Si esto supone un riesgo, habla con los periodistas sobre la información que guardan en sus dispositivos (incluidos los gestores de contraseñas que puedan tener) y qué medidas podrían tomar para reducir la cantidad de información en riesgo. Esas medidas podrían incluir la asignación de seudónimos a los contactos clave de su libreta de direcciones y el uso de mensajes que desaparecen. En los capítulos 3 y 6 profundizaremos un poco más en este tema.
 
 <div class="faq">
 
 ## Preguntas frecuentes
 
-A continuación figuran algunas preguntas habituales que hacen los periodistas sobre la seguridad de las cuentas. Puede ser útil tener las respuestas preparadas de antemano.
+A continuación hay algunas preguntas habituales que hacen los periodistas sobre la seguridad de las cuentas. Puede ser útil tener las respuestas preparadas de antemano.
 
-**¿Cómo puedo gestionar todo el contenido de mis cuentas, es tanto?**
+**¿Cómo puedo gestionar todo el contenido de mis cuentas?**
 
-Explique que poco y often es clave aquí. Los periodistas deben dar prioridad a las cuentas que consideren más importantes o vulnerables y empezar a hacer copias de seguridad y eliminar contenidos. A menudo es más fácil reservar entre 10 y 15 minutos de forma regular para eliminar contenido que intentar hacerlo todo de una vez.
+Explica que _poco_ y _frecuente_ es clave aquí. Los periodistas deben dar prioridad a las cuentas que consideren más importantes o vulnerables y empezar a hacer copias de seguridad y eliminar contenidos. A menudo es más fácil reservar entre 10 y 15 minutos de forma regular para eliminar contenido que intentar hacerlo todo de una vez.
 
-**¿Qué ocurre si activo el 2FA pero pierdo el teléfono o la clave de seguridad?
+**¿Qué ocurre si activo el 2FA pero pierdo el teléfono o la clave de seguridad?**
 
-Es una pregunta muy frecuente. Explique que puede añadir más de un tipo de 2FA a la cuenta para protegerse contra esto. La mayoría de los servicios que ofrecen 2FA también deberían tener la opción de guardar códigos de copia de seguridad que permitirán al periodista entrar en la cuenta en caso de que pierda el acceso a su teléfono o llave. (Algunos servicios con fuertes protecciones antiphishing, como el Programa de Protección Avanzada de Google, pueden no ofrecer esta opción).
-Solemos recomendar a los periodistas que utilizan claves de seguridad físicas que compren -y registren- al menos dos. Pueden tener una llave de seguridad encima y otra en un lugar seguro, como su casa u oficina. Como alternativa, los periodistas también pueden guardar una clave en su teléfono o gestor de contraseñas como otra forma de 2FA resistente al phishing.
+Es una pregunta muy frecuente. Explica que se puede añadir más de un tipo de 2FA a la cuenta para protegerse contra esto. La mayoría de los servicios que ofrecen 2FA también deberían tener la opción de guardar códigos de copia de seguridad que permitirán al periodista entrar en la cuenta en caso de que pierda el acceso a su teléfono o llave. (Algunos servicios con fuertes protecciones antiphishing, como el Programa de Protección Avanzada de Google, pueden no ofrecer esta opción).
+Solemos recomendar a los periodistas que utilizan llaves de seguridad físicas que compren -y registren- al menos dos. Pueden tener una llave de seguridad encima y otra en un lugar seguro, como su casa u oficina. Como alternativa, los periodistas también pueden guardar una passkey en su teléfono o gestor de contraseñas como otra forma de 2FA resistente al phishing.
 
-**¿Qué ocurre si alguien se cuela en mi gestor de contraseñas?
+**¿Qué ocurre si alguien accede a mi gestor de contraseñas?**
 
-Haz hincapié en que los gestores de contraseñas son actualmente la forma más segura de proteger las contraseñas para la mayoría de la gente. Explica que estas empresas guardan los datos en sus servidores de forma encriptada, lo que significa que incluso si son atacados, los atacantes no deberían ser capaces de obtener esos datos. Lo importante es que los periodistas aseguren su propia cuenta del gestor de contraseñas utilizando 2FA y una contraseña larga que no se haya utilizado en ninguna otra cuenta. Explica que los atacantes acceden en gran medida a las cuentas porque la gente reutiliza las contraseñas o utiliza contraseñas cortas que son fáciles de adivinar. Añade que los gestores de contraseñas, gracias al autorrelleno, también pueden ayudar a detener los ataques de suplantación de identidad al negarse a rellenar la contraseña en un sitio web con un dominio distinto de aquel en el que se registraron las credenciales. Por último, es una buena práctica utilizar una aplicación separada o claves físicas para 2FA: de esta forma, incluso si un atacante consiguiera comprometer de alguna manera un gestor de contraseñas, no podría iniciar sesión en tu nombre sin obtener también de alguna manera esos segundos factores.
+Haz hincapié en que los gestores de contraseñas son actualmente la forma más segura de proteger las contraseñas para la mayoría de la gente. Explica que estas empresas guardan los datos cifrados en sus servidores, lo que significa que incluso si son atacados, los atacantes no deberían ser capaces de obtener esos datos. Lo importante es que los periodistas aseguren su propia cuenta del gestor de contraseñas utilizando 2FA y una contraseña larga que no se haya utilizado en ninguna otra cuenta. Explica que los atacantes acceden en gran medida a las cuentas porque la gente reutiliza las contraseñas o utiliza contraseñas cortas que son fáciles de adivinar. Añade que los gestores de contraseñas, gracias al autorrelleno, también pueden ayudar a detener los ataques de suplantación de identidad al negarse a rellenar la contraseña en un sitio web con un dominio distinto de aquel en el que se registraron las credenciales de acceso. Por último, es una buena práctica utilizar una aplicación separada o claves físicas para 2FA: de esta forma, incluso si un atacante consiguiera comprometer de alguna manera un gestor de contraseñas, no podría iniciar sesión en tu nombre sin obtener también de alguna manera esos segundos factores.
 
-**Mi amenaza es un gobierno y corro un alto riesgo de vigilancia y/o detención. ¿Qué debo hacer para proteger mejor mis cuentas?
+**Mi amenaza es un gobierno y corro un alto riesgo de vigilancia y/o detención. ¿Qué debo hacer para proteger mejor mis cuentas?**
 
 Aquí se necesitaría más información para asesorar mejor al periodista. Deberían tener una consulta individual para encontrar la mejor manera de proteger sus cuentas. Es importante destacar que, aunque utilicen contraseñas y 2FA, es posible que se les pida físicamente que desbloqueen sus cuentas. También puede ser aconsejable que no utilicen un gestor de contraseñas si corren el riesgo de que alguien acceda a sus dispositivos.
 
-</div> <div>
+</div>
 
 <div class="outcomes">
 
@@ -130,49 +130,49 @@ Al final de la sesión los periodistas:
 
 - Comprenderán las amenazas a las que se enfrentan sus cuentas y serán más conscientes de que su trabajo puede suponer un mayor riesgo de sufrir determinados ataques.
 - Sabrán en qué consiste una contraseña segura y confiarán en poder crear una.
-- Sepan qué es 2FA y conozcan los pasos necesarios para configurarlo en sus cuentas.
-- Conocer los distintos tipos de herramientas y servicios que pueden ayudarles a proteger sus cuentas, incluidas las distintas formas de 2FA y los gestores de contraseñas.
-- Entender cómo las claves de seguridad físicas, las claves de acceso y los gestores de contraseñas pueden ayudar a mitigar el phishing.
+- Aprenderán qué es 2FA y conocerán los pasos necesarios para configurarlo en sus cuentas.
+- Conocerán los distintos tipos de herramientas y servicios que pueden ayudarles a proteger sus cuentas, incluidas las distintas formas de 2FA y los gestores de contraseñas.
+- Entenderán cómo las llaves de seguridad físicas, las claves de acceso o passkeys y los gestores de contraseñas pueden ayudar a mitigar el phishing.
 
-</div> <div>
+</div>
 
-<div class="herramientas">
+<div class="tools">
 
 ## Plantillas y herramientas
 
 Las siguientes plantillas y herramientas pueden ser útiles para impartir esta sesión:
 
-- Diferentes tipos de servicios 2FA, incluyendo aplicaciones autenticadoras y claves de seguridad. Para más información, consulta la sección [¿Entrenar seguridad digital por primera vez?](#training-digital-security-for-the-first-time).
-- Opciones para gestores de contraseñas. Para más información, consulta la sección [¿Formación en seguridad digital por primera vez?
-- Plantilla de evaluación de riesgos](/plantilla-evaluación-de-riesgos-digitales)
+- Diferentes tipos de servicios 2FA, incluyendo aplicaciones autenticadoras y claves de seguridad. Para más información, consulta la sección [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez).
+- Opciones para gestores de contraseñas. Para más información, consulta la sección [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez)
+- [Plantilla de evaluación de riesgos](/digital-risk-assessment-template)
 
 </div>
 
-<div class="recursos">
+<div class="resources">
 
 ## Recursos
 
 Los siguientes recursos pueden ser útiles para la enseñanza de este capítulo:
 
-[Using password managers to stay safe online](https://ssd.eff.org/module/animated-overview-using-password-managers-stay-safe-online) de la Electronic Frontier Foundation
+[Uso de gestores de contraseñas para estar seguro en línea](https://ssd.eff.org/es/module/visi%C3%B3n-animada-uso-de-gestores-de-contrase%C3%B1as-para-estar-seguro-en-l%C3%ADnea) de la Electronic Frontier Foundation
 
 [Prevención del phishing e higiene del correo electrónico](https://freedom.press/training/email-security-tips/), de la Freedom of the Press Foundation.
 
-[Using physical security keys to secure accounts against phishing](https://cpj.org/2019/01/digital-safety-using-security-keys-to-secure-accou/) del Comité para la Protección de los Periodistas (Committee to Protect Journalists)
+[Seguridad digital: cómo utilizar llaves de seguridad para proteger las cuentas contra ataques de phishing](https://cpj.org/es/2019/01/seguridad-digital-como-utilizar-llaves-de-segurida/) del Comité para la Protección de los Periodistas (Committee to Protect Journalists)
 
-[Utilizar una clave de seguridad](https://securityplanner.consumerreports.org/tool/use-a-security-key-for-strongest-mfa) de Consumer Reports Security Planner
+[Utilizar una llave de seguridad](https://securityplanner.consumerreports.org/es/tool/use-a-security-key-for-strongest-mfa) de Consumer Reports Security Planner
 
-[Configurar la autenticación multifactor](https://securityplanner.consumerreports.org/tool/set-up-multifactor-authentication-mfa) de Consumer Reports Security Planner
+[Configurar la autenticación multifactor](https://securityplanner.consumerreports.org/es/tool/set-up-multifactor-authentication-mfa) de Consumer Reports Security Planner
 
-[Obtener una gestión de contraseñasr](https://securityplanner.consumerreports.org/tool/get-a-password-manager) de Consumer Reports Security Planner
+[Consigue un administrador de contraseñas](https://securityplanner.consumerreports.org/es/tool/get-a-password-manager) de Consumer Reports Security Planner
 
-[¿Debería utilizar claves de acceso en lugar de contraseñas?](https://www.consumerreports.org/electronics/digital-security/should-you-use-passkeys-instead-of-passwords-a1201817243/) por Consumer Reports Security Planner
+[¿Debería utilizar llaves de acceso en lugar de contraseñas?](https://www.consumerreports.org/electronics/digital-security/should-you-use-passkeys-instead-of-passwords-a1201817243/) por Consumer Reports Security Planner
 
 </div>
 
 ## Actividades
 
-Las siguientes actividades están diseñadas para acompañar esta sesión de formación sobre la seguridad de las cuentas. Los formadores deben sentirse libres de utilizar sus propias actividades, así como de adaptar los materiales de esta guía para que se ajusten mejor a las necesidades de los periodistas a los que están formando. El número y el tipo de actividades seleccionadas dependerán del nivel de conocimientos del formador, así como del tiempo de que disponga para dedicar a los participantes. Para quienes se inicien en la formación en seguridad digital, no olviden consultar la sección [¿Formación en seguridad digital por primera vez?](#formación-seguridad-digital-por-primera-vez), para obtener orientación sobre las mejores prácticas.
+Las siguientes actividades están diseñadas para acompañar esta sesión de formación sobre la seguridad de las cuentas. Los formadores deben sentirse libres de utilizar sus propias actividades, así como de adaptar los materiales de esta guía para que se ajusten mejor a las necesidades de los periodistas a los que están formando. El número y el tipo de actividades seleccionadas dependerán del nivel de conocimientos de la persona formadora, así como del tiempo de que disponga para dedicar a los participantes. Para quienes se inicien en la formación en seguridad digital, no olviden consultar la sección [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez), para obtener orientación sobre las mejores prácticas.
 
 ### Cómo empezar
 
@@ -180,11 +180,11 @@ Las siguientes actividades están diseñadas para acompañar esta sesión de for
 
 <div class="table">
 
-| Resultados del aprendizaje Tiempo Nivel de dificultad Recursos
-| ------------------------------------------------------------------------------------------------------------------------ | ---------- | ---------------- | ----------------------------------------------- |
-| Los periodistas son más conscientes de los contenidos almacenados en sus cuentas y de cómo pueden ponerles en peligro a ellos y a otros. | 45 minutos Pizarra o rotafolio, rotuladores, diapositivas PPT.
+| Resultados del aprendizaje                                                                 | Tiempo       | Nivel de dificultad | Recursos                                                |
+|--------------------------------------------------------------------------------------------|-------------|--------------------|--------------------------------------------------------|
+| Los periodistas son más conscientes de los contenidos almacenados en sus cuentas y de cómo pueden ponerles en peligro a ellos y a otros. | 45 minutos | —                  | Pizarra o rotafolio, rotuladores, diapositivas PPT.   |
 
-</div> <div>
+</div>
 
 ❶ **Primer paso**
 
@@ -193,10 +193,10 @@ Las siguientes actividades están diseñadas para acompañar esta sesión de for
 
 ❷ **Segundo paso**
 
-- Facilita un debate sobre lo que aprendieron los periodistas al realizar esta actividad. Formule las siguientes preguntas
-- Qué aprendieron al hacer esta actividad?
-- ¿Aprendieron algo sorprendente?
-- ¿Qué información está en peligro en sus cuentas? ¿Qué medidas crees que puedes tomar para protegerla?
+- Facilita un debate sobre lo que aprendieron los periodistas al realizar esta actividad. Formula las siguientes preguntas
+- Qué aprendiste al realizar esta actividad?
+- ¿Aprendiste algo que te haya sorprendido?
+- ¿Qué información está en riesgo en sus cuentas? ¿Qué medidas crees que puedes tomar para protegerla?
 
 ❸ **Paso tres**
 
@@ -208,83 +208,82 @@ Guíe a los periodistas a través de las mejores prácticas básicas para la seg
 - Realizar una búsqueda en línea de sus datos buscando su nombre en todos los motores de búsqueda. Los periodistas deben revisar fotos y vídeos, así como los resultados de la web. Consultar el capítulo siete para más detalles sobre cómo
 - Comprobar si sus cuentas están registradas en otros dispositivos. Los periodistas pueden comprobarlo en la sección de ajustes bajo actividad de la cuenta o comprobación de seguridad. Si ven un dispositivo que no reconocen vinculado a su cuenta, deben hacer una captura de pantalla de la información por si necesitan mostrar estos datos a alguien más, como un editor. A continuación, deben eliminar el dispositivo vinculado y cambiar su contraseña.
 
-### Knowledge building
+### Construcción de conocimientos
 
 #### I Riesgo y tecnología
 
 <div class="table">
 
-| Resultados del aprendizaje Tiempo Nivel de dificultad Recursos
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------- | ------------------------ |
-| Los periodistas empiezan a pensar en los riesgos que conlleva el uso de la tecnología tanto en su vida personal como en su entorno laboral y cómo su trabajo aumenta ese riesgo.<br> Los participantes profundizan en cómo otras personas de su red pueden aumentar o disminuir su riesgo | 45 minutos | Medio | Pizarra o rotafolio, bolígrafos |
+| Resultados del aprendizaje | Tiempo       | Nivel de dificultad | Recursos                              |
+|---------------------------|-------------|--------------------|----------------------------------------|
+| Los periodistas empiezan a pensar en los riesgos que conlleva el uso de la tecnología tanto en su vida personal como en su entorno laboral y cómo su trabajo aumenta ese riesgo.<br><br>Los participantes profundizan en cómo otras personas de su red pueden aumentar o disminuir su riesgo. | 45 minutos | Medio | Pizarra o rotafolio, bolígrafos |
 
-</div> <div>
+</div>
 
-Nota para el formador: esta actividad es la continuación de la actividad introductoria del principio de este capítulo. En parte de esta actividad se pide a los periodistas que hablen de posibles temas delicados. Recuérdeles que no tienen que hablar de sus propias experiencias personales, sino que pueden hablar de temas más generales. Las mejores prácticas para esta actividad se pueden encontrar en la sección [¿Formación en seguridad digital por primera vez?g-seguridad-digital-por-primera-vez), situada al principio de este capítulo._
+_Nota para la persona formadora: esta actividad es la continuación de la actividad introductoria del principio de este capítulo. En parte de esta actividad se pide a los periodistas que hablen de posibles temas delicados. Recuérdeles que no tienen que hablar de sus propias experiencias personales, sino que pueden hablar de temas más generales. Las mejores prácticas para esta actividad se pueden encontrar en la sección [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez), situada al principio de este capítulo._
 
 ❶ **Primer paso**
 
-- Pide a los periodistas que revisen su trabajo previo en torno al uso de la tecnología del ejercicio anterior. Pídales que piensen en los posibles riesgos que podrían enfrentar por el uso de la tecnología. Por ejemplo, ¿les preocupa que pirateen sus cuentas? ¿Les preocupan los datos que las aplicaciones y los servicios recopilan sobre ellos? ¿Les gustaría saber más sobre cómo proteger documentos confidenciales?
+- Pide a los periodistas que revisen su trabajo previo en torno al uso de la tecnología del ejercicio anterior. Pídeles que piensen en los posibles riesgos que podrían enfrentar por el uso de la tecnología. Por ejemplo, ¿les preocupa los accesos no autorizados sus cuentas? ¿Les preocupan los datos que las aplicaciones y los servicios recopilan sobre ellos? ¿Les gustaría saber más sobre cómo proteger documentos confidenciales?
 
 ❷ **Segundo paso**
 
-- Escribe lo siguiente: ¿Qué quieres proteger? De quién lo vas a proteger? Cómo lo vas a proteger? ¿Qué pasa si no lo proteges?
+- Escribe lo siguiente: ¿Qué quieres proteger? ¿De quién lo vas a proteger? ¿Cómo lo vas a proteger? ¿Qué pasa si no lo proteges?
 - Pide a los periodistas que analicen las preguntas y piensen a qué amenazas podrían enfrentarse. Pídeles que escriban las respuestas a las preguntas.
 - Ayúdales a pensar en los tipos de datos que podrían ser más vulnerables, por ejemplo, datos financieros, documentos confidenciales que les entregan las fuentes.
-- Piensa en quién puede ser su objetivo. Por ejemplo, ¿les preocupa que los delincuentes puedan robar su identidad? ¿Les preocupa que los gobiernos obtengan sus datos? ¿Podrían verse amenazados por grupos en línea que intenten robar su información?
-- Dígales que es posible que aún no sepan cómo protegerse y que éstas serán habilidades que adquirirán durante la sesión de formación.
+- Piensa en quién puede ser su objetivo. Por ejemplo, ¿les preocupa que les puedan robar su identidad? ¿Les preocupa que los gobiernos obtengan sus datos? ¿Podrían verse amenazados por grupos en línea que intenten robar su información?
+- Diles que es posible que aún no sepan cómo protegerse y que éstas serán habilidades que adquirirán durante la sesión de formación.
 - Anímales a pensar en el peor de los casos y en lo que ocurriría si alguien consiguiera acceder a sus datos. Explícales que pensar en lo que podría ocurrir les ayudará a planificar mejor su protección.
 - Anima a los participantes a pensar en los riesgos que se producen cuando su vida personal se solapa con su profesión. Por ejemplo, utilizar el mismo teléfono para el trabajo y las comunicaciones personales.
 
 ❸ **Paso tres**
 
-- Facilite un debate en clase sobre esta cuestión sacando a relucir temas y amenazas comunes.
+- Facilite un debate en la sesión sobre esta cuestión sacando a relucir temas y amenazas comunes.
 
 #### II Presentación de la evaluación de riesgos
 
 <div class="table">
 
-| Resultados del aprendizaje Tiempo Nivel de dificultad Recursos
-| ----------------------------------------------------------------- | ---------- | ---------------- | ------------------------------------------------------ |
-| Introducción a la evaluación y mitigación de riesgos 45 minutos Medio Pizarra, rotafolio, bolígrafos, documento de evaluación de riesgos
+| Resultados del aprendizaje                                   | Tiempo       | Nivel de dificultad | Recursos                                                              |
+|--------------------------------------------------------------|-------------|--------------------|-----------------------------------------------------------------------|
+| Introducción a la evaluación y mitigación de riesgos         | 45 minutos  | Medio              | Pizarra, rotafolio, bolígrafos, documento de evaluación de riesgos   |
 
-</div> <div>
+</div>
 
-Nota para el formador: este ejercicio requiere que los formadores comprendan bien qué medidas pueden tomar los periodistas para protegerse en línea. Las mejores prácticas al respecto se encuentran al principio de cada capítulo de esta guía._
+_Nota para la persona formadora: este ejercicio requiere que los formadores comprendan bien qué medidas pueden tomar los periodistas para protegerse en línea. Las mejores prácticas al respecto se encuentran al principio de cada capítulo de esta guía._
 
 ❶ **Primer paso**
 
-- Pregunta a los periodistas qué hacen actualmente para protegerse en términos de seguridad digital. Facilite un debate en clase y señale las respuestas comunes. Algunas respuestas frecuentes podrían ser:
+- Pregunta a los periodistas qué hacen actualmente para protegerse en términos de seguridad digital. Facilita un debate en la sesión y señale las respuestas comunes. Algunas respuestas frecuentes podrían incluir:
   - Utilizar contraseñas seguras
   - Activar la autenticación de dos factores
   - Utilizar Signal
   - Utilizar una VPN
 
-Señala que no es importante que los periodistas sepan todavía cómo realizar todos estos pasos de seguridad, ya que los aprenderán a lo largo del curso.
+Señala que no es importante que los periodistas sepan todavía cómo realizar todos estos pasos de seguridad, ya que los aprenderán a lo largo del entrenamiento.
 
 ❷ **Segundo paso**
 
-- Pregunte al periodista si ha oído hablar de la evaluación de riesgos digitales y para qué sirve. Si es necesario, haz una breve reseña utilizando la guía de este capítulo.
-- Comparta la plantilla de evaluación de riesgos con los periodistas y pídales que la revisen. Responde a sus preguntas.
+- Pregunta al periodista si ha oído hablar de la evaluación de riesgos digitales y para qué sirve. Si es necesario, haz una breve reseña utilizando la guía de este capítulo.
+- Comparte la plantilla de evaluación de riesgos con los periodistas y pídeles que la revisen. Responde a sus preguntas.
 
 ❸ **Paso tres**
 
-- Diga a los periodistas que van a trabajar solos para completar su sección del título de la evaluación de riesgos pensando en el riesgo digital general.
+- Dile a los periodistas que van a trabajar solos para completar su  evaluación de riesgos pensando en el riesgo digital general.
 - Los periodistas deben trabajar para responder a las preguntas y dar pasos concretos para mitigar el riesgo.
 - En caso de que tengan preguntas, dudas o parezca que necesitan ayuda adicional, se les debe proporcionar apoyo.
 
 ❹ **Paso cuatro**
 
-Ayude a los periodistas a reflexionar sobre el proceso haciendo las siguientes preguntas:
+Ayuda a los periodistas a reflexionar sobre el proceso haciendo las siguientes preguntas:
 
 - ¿Qué información has aprendido en la sesión de hoy que te ha ayudado a tomar decisiones más informadas en torno a este tema?
-- Qué más crees que necesitas aprender?
+- ¿Qué más crees que necesitas aprender?
 
-## Estudio de caso
+## Caso de Estudio
 
-Este estudio de caso acompaña al material del curso y ofrece a los periodistas ejemplos reales de amenazas digitales contra trabajadores de los medios de comunicación. Puede utilizarse para promover el debate en torno a los distintos tipos de riesgos, así como para enseñar a los periodistas los pasos necesarios para protegerse mejor a sí mismos y a los demás.
+Este caso de estudio acompaña al material del entrenamiento y ofrece a los periodistas ejemplos reales de amenazas digitales contra trabajadores de los medios de comunicación. Puede utilizarse para promover el debate en torno a los distintos tipos de riesgos, así como para enseñar a los periodistas los pasos necesarios para protegerse mejor a sí mismos y a los demás.
 
 Nuestro artículo: [Estudio de caso sobre seguridad de cuentas](/case-studies#iranian-backed-hacking-group-charming-kitten-targets-journalists-via-whatsapp-messages)
 
-Informe de HRW: [Irán: Hacking de activistas, periodistas y políticos respaldado por el Estado.
-(https://www.hrw.org/news/2022/12/05/iran-state-backed-hacking-activists-journalists-politicians)
+Informe de HRW: [Irán: Hacking de activistas, periodistas y políticos respaldado por el Estado](https://www.hrw.org/news/2022/12/05/iran-state-backed-hacking-activists-journalists-politicians).

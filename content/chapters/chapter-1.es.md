@@ -1,7 +1,7 @@
 +++
 
 type = "report"
-title = "Capítulo 1: Comprensión y evaluación el riesgo digital"
+title = "Capítulo 1: Comprensión y evaluación del riesgo digital"
 layout = "single"
 weight = 2
 toc = true
@@ -24,6 +24,7 @@ Echa un vistazo a nuestra útil guía:
 - Una evaluación de riesgos digitales es un documento con preguntas que ayuda a los periodistas a reflexionar sobre los riesgos digitales a los que se enfrentan, así como sobre las formas de reducirlos. Los periodistas pueden o no estar familiarizados con las evaluaciones de riesgos, ya que pueden haber tenido que completar una evaluación de riesgos físicos para algunas historias.
 
 ## ¿Estás impartiendo una formación en seguridad digital por primera vez?
+
 
 Esta sección cubre las mejores prácticas que pueden utilizarse al enseñar las actividades de este capítulo. Para más información, consulte la sección [recursos](#recursos) de este capítulo.
 
@@ -187,7 +188,7 @@ _Nota para el formador: este ejercicio requiere que los formadores comprendan bi
 
 ❶ **Primer paso**
 
-- Pregunta a los periodistas qué hacen actualmente para protegerse en términos de seguridad digital. Facilita un espacio de discución y señala las respuestas comunes. Algunas respuestas frecuentes podrían ser:
+- Pregunta a los periodistas qué hacen actualmente para protegerse en términos de seguridad digital. Facilita un espacio de discusión y señala las respuestas comunes. Algunas respuestas frecuentes podrían ser:
   - Utilizar contraseñas seguras
   - Activar la autenticación de dos factores
   - Utilizar Signal
