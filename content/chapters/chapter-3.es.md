@@ -1,7 +1,7 @@
 ---
 
 type: report
-title: "Chapter 3: Device security"
+title: "Capítulo 3: Seguridad del dispositivo"
 layout: single
 weight: 4
 toc: true

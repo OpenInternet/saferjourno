@@ -1,7 +1,7 @@
 ---
 
 type: report
-title: Case Studies
+title: Estudios de caso
 layout: single
 weight: 10
 toc: true

@@ -28,7 +28,7 @@ other = "Table of Contents"
 other = "Posts"
 
 [home]
-other = "Home"
+other = "Inicio"
 
 [notFound]
 other = "Oops, page not found…"
