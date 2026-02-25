@@ -168,6 +168,7 @@ The following resources may be helpful for teaching this chapter:
 
 [Should you use passkeys instead of passwords?](https://www.consumerreports.org/electronics/digital-security/should-you-use-passkeys-instead-of-passwords-a1201817243/) by Consumer Reports Security Planner
 
+[A complete guide to Encryption](https://proton.me/learn/encryption) by Proton
 </div>
 
 ## Activities
