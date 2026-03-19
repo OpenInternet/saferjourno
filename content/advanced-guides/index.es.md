@@ -1,62 +1,60 @@
 ---
-
 type: report
 title: Guías Avanzadas
 layout: single
 weight: 12
 toc: true
-translation-review-pending: true
 ---
 
-## Viajes seguros: Seguridad digital cuando se viaja en comisión de servicio
+## Viajes seguros: Seguridad digital cuando se viaja por trabajo
 
 ### Introducción
 
-Cada viaje es único y plantea diferentes problemas de seguridad debido a la diversidad de amenazas específicas que pueden surgir en función de factores como la naturaleza de la misión, el destino y la ruta que se tome. Dicho esto, existen no obstante consideraciones básicas de seguridad digital que suelen aplicarse a la mayoría de los viajes.
+Cada viaje es único y plantea diferentes problemas de seguridad debido a la diversidad de amenazas específicas que pueden surgir en función de factores como el motivo del viaje, el destino y la ruta que se tome. Dicho esto, existen consideraciones básicas de seguridad digital que suelen aplicarse a la mayoría de los viajes.
 
-Depende de ti decidir qué medidas de seguridad digital aplicar mientras viajas. El objetivo principal es proteger no sólo a la redacción o a uno mismo, sino también a las fuentes, que suelen ser las más vulnerables cuando los periodistas no siguen las recomendaciones de seguridad digital.
+Depende de ti decidir qué medidas de seguridad digital aplicar mientras viaja. El objetivo principal es proteger no sólo a ti o al medio u organización donde trabaja, sino también a las fuentes, que suelen ser las más vulnerables cuando los periodistas no siguen las recomendaciones de seguridad digital.
 
 ### Dispositivos y cuentas de viaje
 
 #### Dispositivos de viaje
 
-Una de las principales preocupaciones cuando se viaja por motivos de trabajo es que alguien pueda pararte y registrar tus dispositivos. Por eso, es importante minimizar la cantidad de datos confidenciales que llevas encima. La mejor forma de hacerlo es utilizando dispositivos de viaje independientes. Lo mejor es llevar un teléfono y un portátil distintos antes del viaje y, si utilizas cámaras externas y grabadoras de voz, comprar también tarjetas de memoria nuevas y vacías.
+Una de las principales preocupaciones cuando se viaja por motivos de trabajo es que alguien pueda detenerte y registrar tus dispositivos. Por eso, es importante minimizar la cantidad de información sensible que llevas encima. La mejor forma de hacerlo es utilizando dispositivos de viaje independientes. Lo mejor es llevar un teléfono y una laptop distintos antes del viaje y, si utilizas cámaras externas y grabadoras de voz, comprar también tarjetas de memoria nuevas y vacías.
 
 Si el dispositivo de viaje ya se ha utilizado, asegúrate primero de borrarlo o restablecerlo de fábrica. Puedes encontrar fácilmente instrucciones sobre cómo hacerlo para distintos modelos de hardware. Restablecer el dispositivo ayuda a garantizar que no haya datos anteriores fácilmente recuperables en el dispositivo.
 
 También puedes comprar pantallas de privacidad para los dispositivos, que dificultan que alguien a tu lado vea el contenido de tu pantalla. Mantén las pantallas de privacidad en tus dispositivos en todo momento, incluso cuando te encuentres en espacios aparentemente privados, como habitaciones de hotel, que pueden estar sujetas a vigilancia.
 
-Aunque pueda parecer exagerado pasar por la molestia de adquirir, configurar y llevar dispositivos de viaje en viajes aparentemente rutinarios a destinos que puede considerar relativamente seguros, tenga en cuenta que cada vez que viaja, está poniendo potencialmente en peligro sus fuentes confidenciales. Incluso viajes aparentemente sencillos pueden dar lugar a la confiscación de sus dispositivos y a su detención si no facilita las contraseñas de los mismos. Por ejemplo, [cuando un empleado de una editorial francesa](https://www.theguardian.com/books/2023/apr/20/chilling-arrest-of-french-publisher-by-uk-counter-terrorism-police-condemned-ernest-moret) viajó de Francia a Inglaterra, fue interrogado durante seis horas y posteriormente detenido por no facilitar las credenciales de acceso a sus dispositivos incautados.
+Aunque pueda parecer exagerado pasar por la molestia de adquirir, configurar y llevar dispositivos de viaje en viajes aparentemente rutinarios a destinos que puede considerar relativamente seguros, ten en cuenta que cada vez que viajas, estás poniendo potencialmente en peligro a tus fuentes confidenciales. Incluso viajes aparentemente sencillos pueden dar lugar a la confiscación de sus dispositivos y a su detención si no facilita las contraseñas de los mismos. Por ejemplo, [cuando un empleado de una editorial francesa](https://www.theguardian.com/books/2023/apr/20/chilling-arrest-of-french-publisher-by-uk-counter-terrorism-police-condemned-ernest-moret) viajó de Francia a Inglaterra, fue interrogado durante seis horas y posteriormente detenido por no facilitar las credenciales de acceso a sus dispositivos confiscados.
 
 Puede que no todo el mundo pueda conseguir dispositivos de viaje independientes: pueden ser caros o difíciles de obtener. Si no puedes conseguir dispositivos separados para viajar, al menos deberías eliminar la información sensible (como los nombres de las fuentes y los chats con ellas) antes de viajar. Aunque las probabilidades de que te registren durante la mayoría de los viajes son bajas, debes estar preparado para esa posibilidad.
 
 #### Tarjetas SIM y redes móviles
 
-Es casi seguro que utilizarás tu teléfono móvil durante un viaje. No olvide que, debido a la forma en que funcionan los teléfonos móviles y las torres de telefonía, las redes de telefonía pueden averiguar fácilmente la ubicación de cada móvil que esté conectado a ellas. Si no quieres que una red de telefonía móvil te rastree mientras estás en un lugar determinado, apaga el teléfono o ponlo en modo avión. (Pero no olvides que tu ubicación podría seguir siendo rastreada por otros medios, como las cámaras de CCTV).
+Es casi seguro que utilizarás tu teléfono móvil durante un viaje. No olvides que, debido a la forma en que funcionan los teléfonos y las torres de telefonía, las redes de telefonía pueden averiguar fácilmente la ubicación de cada teléfono que esté conectado a ellas. Si no quieres que una red de telefonía móvil te rastree mientras estás en un lugar determinado, apaga el teléfono o ponlo en modo avión. (Pero no olvides que tu ubicación podría seguir siendo rastreada por otros medios, como las cámaras de CCTV).
 
 En algunos países es obligatorio registrar la tarjeta SIM, y tendrás que presentar tu pasaporte u otro documento de identidad al comprarla. Investiga si es posible comprar una tarjeta SIM anónima en el país al que viajas. Si lo es, considere la posibilidad de hacerlo. Aunque las redes de telefonía móvil podrán averiguar tu ubicación (y podrían llegar a averiguar que eres tú basándose en tus movimientos, en qué hoteles y cafeterías te alojas, etc.), no podrán rastrearla inmediatamente hasta tu identidad.
 
 #### Cuentas de viaje
 
-Al igual que no deberías viajar con tus dispositivos personales o de trabajo habituales ni con tu tarjeta SIM habitual, tampoco deberías hacerlo con tus cuentas habituales. En otras palabras, asegúrate de que tu portátil y tu teléfono de viaje no están conectados a tu correo electrónico personal o laboral habitual, a tu almacenamiento en la nube o a cualquier otra cuenta.
+Al igual que no deberías viajar con tus dispositivos personales o de trabajo habituales ni con tu tarjeta SIM habitual, tampoco deberías hacerlo con tus cuentas habituales. En otras palabras, asegúrate de que tu laptop y tu teléfono de viaje no están conectados a tu correo electrónico personal o laboral habitual, a tu almacenamiento en la nube o a cualquier otra cuenta.
 
-Si necesitas comprobar tus cuentas de trabajo o personales durante el viaje, hazlo sólo cuando hayas llegado al lugar donde te alojas (como el hotel) en tu destino. No compruebe sus cuentas habituales mientras se encuentre o se aproxime a un lugar donde podrían registrarle, como un aeropuerto o una estación de tren. No olvide que el uso de una VPN también puede atraer un escrutinio adicional en algunos lugares; investigue hasta qué punto están aceptadas y si existen leyes que prohíban su uso.
+Si necesitas comprobar tus cuentas de trabajo o personales durante el viaje, hazlo sólo cuando hayas llegado al lugar donde te alojas (como el hotel) en tu destino. No accedas a tus cuentas habituales mientras te encuentres o te aproximes a un lugar donde podrían revisar tus dispositivos, como un aeropuerto o una estación de tren. No olvide que el uso de una VPN también puede atraer un escrutinio adicional en algunos lugares; investigue hasta qué punto están aceptadas y si existen leyes que prohíban su uso.
 
 ### Aplicaciones
 
 Antes de tu viaje, debes investigar qué aplicaciones pueden no funcionar en tu destino. Algunas aplicaciones pueden estar bloqueadas por medios técnicos (por ejemplo,si el país que visita interfiere con el acceso a Internet de la aplicación), mientras que otras pueden bloquearse por medios legales (por ejemplo, si la aplicación está prohibida en el país al que viaja).
 
-No instales ninguna aplicación potencialmente sensible en tus dispositivos de viaje mientras pasas por los controles de seguridad o puertos de entrada; si estas aplicaciones son esenciales para tu viaje, instálalas sólo cuando hayas llegado a tu destino, hayas pasado los controles de seguridad y hayas abandonado el puerto de entrada.
+No instales ninguna aplicación potencialmente sensible en tus dispositivos de viaje mientras pasas por los controles de seguridad o puertos de entrada; si estas aplicaciones son esenciales para tu viaje, instálalas sólo cuando hayas llegado a tu destino, hayas pasado los controles de seguridad y hayas abandonado el punto de entrada al país.
 
 ### Contactos
 
-Los contactos que almacenes en tus dispositivos de viaje deben ser mínimos, incluyendo sólo los contactos esenciales para tu viaje (no copies toda tu libreta de direcciones o base de datos de contactos a tus dispositivos de viaje).
+Los contactos que almacenes en tus dispositivos de viaje deben ser mínimos, incluyendo sólo los contactos esenciales para tu viaje (no copies toda tu agenda o base de datos de contactos a tus dispositivos de viaje).
 
-Entre tus contactos debe figurar una persona de contacto en tu redacción (a menos que hayas memorizado su número de teléfono) con la que tendrás que ponerte en contacto a intervalos regulares para comunicar que estás bien. Hable con su redacción y sus editores antes del viaje para establecer un procedimiento de control que funcione bien para todos, y decida qué hacer si no se presenta a un control. Si no te presentas al cabo de un tiempo determinado (por ejemplo, cuatro horas después de avisar a tu contacto de que te acercas a un puesto de control), tu contacto debe iniciar un protocolo acordado que normalmente incluye ponerse en contacto con la embajada de tu país de origen (si tu país tiene presencia en tu destino) o con un abogado.
+Entre tus contactos debe figurar una persona de contacto en tu medio u organización (a menos que hayas memorizado su número de teléfono) con la que tendrás que ponerte en contacto a intervalos regulares para comunicar que estás bien. Antes del viaje, habla con tu medio y sus editores para definir un procedimiento de control que funcione bien para todos, y decidan qué hacer si no te reportas. Si no te presentas al cabo de un tiempo determinado (por ejemplo, cuatro horas después de avisar a tu contacto de que te acercas a un punto de control), tu contacto debe iniciar un protocolo acordado que normalmente incluye ponerse en contacto con la embajada de tu país de origen (si tu país tiene presencia en tu destino) o con un abogado.
 
-Si necesita almacenar la información de contacto de fuentes sensibles, esta información de contacto no debe estar en sus dispositivos durante su viaje, y sólo debe abrirse cuando haya llegado a su residencia temporal (por ejemplo, su hotel) en su destino. Una vez en su residencia temporal, si necesita almacenar los datos de contacto de fuentes sensibles localmente en su dispositivo, asegúrese de utilizar seudónimos no reveladores, no sus nombres reales.
+Si necesitas almacenar la información de contacto de fuentes sensibles, esta información de contacto no debe estar en sus dispositivos durante su viaje, y sólo debe abrirse cuando haya llegado a tu residencia temporal (por ejemplo, su hotel) en tu destino. Una vez en tu residencia temporal, si necesitas almacenar los datos de contacto de fuentes sensibles localmente en su dispositivo, asegúrate de utilizar seudónimos no reveladores, no sus nombres reales.
 
-Cuando se comunique con fuentes sensibles, utilice una aplicación de mensajería cifrada que permita la desaparición de mensajes siempre que sea posible.
+Cuando te comuniques con fuentes sensibles, utiliza una aplicación de mensajería cifrada que permita la desaparición de mensajes siempre que sea posible.
 
 ### Almacenamiento de información
 
@@ -64,13 +62,13 @@ No almacenes ninguna información sensible, especialmente aquella que pueda comp
 
 Algunos gestores de contraseñas tienen un "modo viaje". Eso te permite mantener en la aplicación sólo las contraseñas y claves esenciales que necesitas para viajar, y ocultar las demás. Si tu gestor de contraseñas no ofrece un modo de viaje, puedes simplemente guardar las contraseñas y claves esenciales en un gestor de contraseñas diferente y desinstalar temporalmente el principal, que conserva todos los inicios de sesión confidenciales (sólo asegúrate de tener un buen método para recuperar el acceso a tu gestor de contraseñas principal una vez de vuelta de los viajes o en un lugar seguro).
 
-Si guardas tus dispositivos sin vigilancia (por ejemplo, si los dejas en la habitación del hotel), puedes colocarlos en bolsas de seguridad. Se trata de bolsas de un solo uso que muestran inmediatamente signos evidentes de manipulación si han sido abiertas. Si al volver a sus dispositivos encuentra pruebas de que las bolsas han sido manipuladas, asuma que los dispositivos ya no son seguros y no los utilice para comunicaciones sensibles.
+Si guardas tus dispositivos sin vigilancia (por ejemplo, si los dejas en la habitación del hotel), puedes colocarlos en bolsas de seguridad. Se trata de bolsas de un solo uso que muestran inmediatamente signos evidentes de manipulación si han sido abiertas. Si al regresar a tus dispositivos encuentras pruebas de que las bolsas han sido manipuladas, asume que los dispositivos ya no son seguros y no los utilices para comunicaciones sensibles.
 
 ### Protocolo de control de fronteras
 
-Al cruzar una frontera o interactuar de otro modo con un control de seguridad, puede experimentar una serie de técnicas de registro e interrogatorio, dependiendo tanto de su región de destino como de su punto de partida.
+Al cruzar una frontera o interactuar de otro modo con un control de seguridad, puedes experimentar una serie de técnicas de registro e interrogatorio, dependiendo tanto de su región de destino como de su punto de partida.
 
-Es posible que le quiten sus dispositivos en un puesto de control. Si pierde de vista sus dispositivos o alguien se los quita (aunque sea temporalmente), es posible que alguien haya intentado instalar malware en ellos. En la medida de lo posible, esos dispositivos deberán ser sustituidos. También puedes ponerte en contacto con un laboratorio local de amenazas o una comunidad de seguridad digital y pedirles que analicen esos dispositivos.
+Es posible que te quiten tus dispositivos en un puesto de control. Si pierdes de vista sus dispositivos o alguien se los quita (aunque sea temporalmente), es posible que alguien haya intentado instalar malware en ellos. En la medida de lo posible, esos dispositivos deberán ser sustituidos. También puedes ponerte en contacto con un laboratorio local de amenazas o una comunidad de seguridad digital y pedirles que analicen esos dispositivos.
 
 Lo mejor es mantener los dispositivos apagados al cruzar fronteras o en otros lugares sensibles. Esto se debe a que, en ocasiones, las autoridades pueden utilizar herramientas para desbloquearlos por la fuerza, y es mucho menos probable que dichas herramientas funcionen cuando el dispositivo está apagado. En otras ocasiones, las autoridades pueden pedirte u obligarte a desbloquear tu dispositivo y amenazarte con arrestarte si no lo haces. Esa es una de las principales razones por las que pedimos a los periodistas que utilicen dispositivos de viaje independientes cuando realicen viajes de alto riesgo.
 
@@ -80,38 +78,38 @@ Todas las precauciones que hemos descrito no sólo se aplican a la entrada en el
 
 Si has realizado trabajos audiovisuales sensibles como sonserva las entrevistas y grabaciones de audio o vídeo o las fotos tomadas, sube estos materiales a una nube de confianza al menos a diario y asegúrate de que se borran de tu dispositivo local.
 
-### Lista de comprobación
+### Checklist
 
-A continuación se presenta una lista de comprobación resumida de los controles básicos de seguridad digital que deben realizarse antes de viajar en misión.
+A continuación se presenta una lista de verificación resumida de los controles básicos de seguridad digital que deben realizarse antes de viajar.
 
 - [ ] Dejar los dispositivos personales/de trabajo en casa y obtener dispositivos de viaje, como:
-  - [ ] Ordenador portátil
+  - [ ] Laptop
     - [ ] Pantalla de privacidad
   - [ ] Teléfono
     - [ ] Pantalla de privacidad
   - [ ] Cámara (o nueva tarjeta de memoria)
   - [ ] Grabadora de voz (o nueva tarjeta de memoria)
-- [ ] Configure cuentas de viaje para cualquier servicio (como la tienda de aplicaciones) al que pueda ser necesario acceder durante el viaje.
-- Compruebe si las aplicaciones esenciales funcionan en la región y tenga preseleccionadas las opciones de aplicaciones de reserva.
-- [ ] Asegúrese de que los contactos confidenciales no se almacenan en los dispositivos durante el viaje.
-- Cuando se comunique con fuentes confidenciales, utilice una aplicación de mensajería encriptada que permita la desaparición de mensajes.
-- [ ] Configure el almacenamiento en la nube para guardar toda la información confidencial.
-  - [ ] Realice cargas nocturnas de cualquier información sensible generada en la región (por ejemplo, entrevistas a fuentes) y elimínela de los dispositivos de viaje.
-- Si deja los dispositivos desatendidos, guárdelos en bolsas de seguridad. Si se rompen las bolsas de seguridad, asuma que los dispositivos están en peligro cuando se devuelvan y obtenga dispositivos nuevos cuando sea seguro hacerlo.
+- [ ] Configurar cuentas de viaje para cualquier servicio (como la tienda de aplicaciones) al que pueda ser necesario acceder durante el viaje.
+- Comprobar si las aplicaciones esenciales funcionan en la región y tener un respaldo de aplicaciones de reserva.
+- [ ] Asegúrate de que los contactos confidenciales no se almacenan en los dispositivos durante el viaje.
+- Cuando te comuniques con fuentes confidenciales, utiliza una aplicación de mensajería cifrada que permita la desaparición de mensajes.
+- [ ] Configurar el almacenamiento en la nube para guardar toda la información confidencial o sensible.
+  - [ ] Realizar respaldos nocturnos de cualquier información sensible generada en la región (por ejemplo, entrevistas a fuentes) y elimínala de los dispositivos de viaje.
+- Si dejas los dispositivos sin supervisión, guárdalos en bolsas de seguridad. Si las bolsas estan dañadas, asume que los dispositivos fueron comprometidos y consigue dispositivos nuevos cuando sea seguro hacerlo.
 - Al cruzar un puesto de control fronterizo:
-  - [ ] Si pierde de vista los dispositivos, asuma que están en peligro cuando los devuelva y obtenga dispositivos nuevos.
-  - [ ] Si se lo piden, facilite las contraseñas de los dispositivos y cuentas de viaje (habiéndose asegurado de que no se puede ver información sensible).
-- [ ] Siga este protocolo no sólo para el viaje de ida, sino también para el de vuelta.
+  - [ ] Si pierdes de vista los dispositivos, asume que están en peligro cuando los devuelvan y obtenga dispositivos nuevos.
+  - [ ] Si te lo piden, facilita las contraseñas de los dispositivos y cuentas de viaje (habiéndose asegurado de que no se puede ver información sensible).
+- [ ] Sigue este protocolo no sólo para el viaje de ida, sino también para el de vuelta.
 
 ## Identificación de falsificaciones de documentos digitales
 
 ### Introducción
 
-A lo largo de su carrera periodística, puede encontrarse con documentos que necesite autentificar. Por ejemplo, una mañana se despierta y descubre que una fuente anónima le ha enviado un documento altamente confidencial en el que se detallan irregularidades del Gobierno. El documento podría dar lugar a una gran revelación, si es auténtico.
+A lo largo de tu carrera periodística, puedes encontrarte con documentos que necesites autentificar. Por ejemplo, una mañana despiertas y descubres que una fuente anónima te ha enviado un documento altamente confidencial en el que se detallan irregularidades del Gobierno. El documento podría dar lugar a una gran revelación, si es auténtico.
 
 Ahora, sin embargo, te encuentras en una situación delicada, ya que las técnicas habituales de verificación y corroboración pueden poner en peligro a tu fuente. Por ejemplo, si muestras o simplemente mencionas el documento a la agencia gubernamental de la que supuestamente procede para intentar que comenten su autenticidad, la agencia podría identificar fácilmente tu fuente comprobando los registros de acceso y determinando quién ha accedido al documento en cuestión. Del mismo modo, no sería seguro ponerse en contacto con otra fuente potencial para intentar corroborar el documento, ya que la otra persona podría igualmente, intencionadamente o no, comprometer la identidad de su fuente.
 
-Por suerte, existen algunas medidas tecnológicas pasivas de autenticación que puede adoptar para actuar con la diligencia debida y determinar si el documento muestra signos reveladores de una posible falsificación. No obstante, es importante tener en cuenta que las señales de alarma que se indican a continuación no son en sí mismas indicadores definitivos de falsificación, sino que sólo apuntan a la posibilidad de que algo vaya mal, y puede haber varias explicaciones alternativas plausibles para las aparentes discrepancias señaladas. En otras palabras, es prudente evitar sacar conclusiones precipitadas sobre la autenticidad de un documento.
+Por suerte, existen algunas medidas tecnológicas pasivas de autenticación que puede adoptar para actuar con el cuidado debido y determinar si el documento muestra signos reveladores de una posible falsificación. No obstante, es importante tener en cuenta que las señales de alarma que se indican a continuación no son en sí mismas indicadores definitivos de falsificación, sino que sólo apuntan a la posibilidad de que algo vaya mal, y puede haber varias explicaciones alternativas plausibles para las aparentes discrepancias señaladas. En otras palabras, es prudente evitar sacar conclusiones precipitadas sobre la autenticidad de un documento.
 
 ### Análisis de metadatos
 
@@ -162,11 +160,11 @@ Diseño de página : UnaColumna
 Número de páginas : 1
 ```
 
-Ahora que ya tiene los metadatos del archivo, puede empezar con la autenticación. Lo que está buscando es cualquier inconsistencia en los metadatos que puedan servir como señales de alerta de que el archivo podría ser una falsificación.
+Ahora que ya tienes los metadatos del archivo, puedes empezar con la autenticación. Lo que estás buscando es cualquier inconsistencia en los metadatos que puedan servir como señales de alerta de que el archivo podría ser una falsificación.
 
 #### Fechas
 
-La salida de metadatos para nuestro archivo de muestra produjo una variedad de fechas. Los tres primeros campos de fecha - `Fecha/hora de modificación del archivo, fecha/hora de acceso al archivo, fecha/hora de creación del archivo` - son las fechas en las que se modificó, accedió y creó su copia del archivo, respectivamente. Si descargó la copia del archivo usted mismo (por ejemplo, de un archivo adjunto de correo electrónico), las fechas serán específicas de la copia concreta del archivo que descargó. Por ejemplo, si descarga el archivo una vez hoy y otra vez al día siguiente, estas tres fechas serán diferentes para la nueva copia del archivo que descargó, reflejando los datos y la hora en que descargó esta nueva copia. Por lo tanto, estos tres campos de fecha tienen una utilidad limitada cuando se intenta autenticar un documento. Estos campos sólo son útiles si estás analizando una copia del documento que no has descargado o copiado tú mismo, por ejemplo, si estás viendo los metadatos de los archivos que la fuente te dio en una memoria USB.
+La salida de metadatos para nuestro archivo de ejemplo produjo una variedad de fechas. Los tres primeros campos de fecha - `Fecha/hora de modificación del archivo, fecha/hora de acceso al archivo, fecha/hora de creación del archivo` - son las fechas en las que se modificó, accedió y creó su copia del archivo, respectivamente. Si descargaste la copia del archivo usted mismo (por ejemplo, de un archivo adjunto de correo electrónico), las fechas serán específicas de la copia concreta del archivo que descargó. Por ejemplo, si descargas el archivo una vez hoy y otra vez al día siguiente, estas tres fechas serán diferentes para la nueva copia del archivo que descargó, reflejando los datos y la hora en que descargó esta nueva copia. Por lo tanto, estos tres campos de fecha tienen una utilidad limitada cuando se intenta autenticar un documento. Estos campos sólo son útiles si estás analizando una copia del documento que no has descargado o copiado tú mismo, por ejemplo, si estás viendo los metadatos de los archivos que la fuente te dio en una memoria USB.
 
 Los otros cuatro campos de fecha de los metadatos - `Fecha de creación, Fecha de modificación, Fuente modificada, Fecha de metadatos` - son campos de metadatos estáticos que no cambiarán al descargar una nueva copia del mismo documento, a diferencia de los tres campos de datos anteriores, ya que las fechas de estos campos son creadas por el software PDF utilizado para crear o editar el documento. Incluso si descargara una nueva copia del mismo archivo, estos campos de metadatos seguirán siendo los mismos. Al ser estáticos, estos cuatro campos suelen ser más útiles para realizar un análisis del documento.
 
