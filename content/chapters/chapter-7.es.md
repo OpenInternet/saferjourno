@@ -175,7 +175,7 @@ Las siguientes actividades están diseñadas para acompañar esta sesión de for
 
 | Resultados del aprendizaje | Tiempo | Nivel de dificultad | Recursos |
 |---|---|---|---|
-| Los periodistas discuten experiencias de abuso en línea contra periodistas en su región y los grupos que los atacan en línea.<br>Los participantes son capaces de ver que otros tienen experiencias similares a las suyas.<br>Los periodistas aprenden algunas de las técnicas que utilizan los abusadores en línea. | 60 minutos | Medio | Pizarra blanca o rotafolio, bolígrafos de pizarra, estudios de casos locales de ataques en línea contra periodistas, comprensión de las diferentes estrategias que utilizan los acosadores en la región. |
+| Los periodistas discuten experiencias de abuso en línea contra periodistas en su región y los grupos que los atacan en línea.<br>Los participantes pueden ver que otras personas tienen experiencias similares a las suyas.<br>Los periodistas aprenden algunas de las técnicas que utilizan los abusadores en línea | 60 minutos | Medio | Pizarra blanca o rotafolio, rotuladores de pizarra, estudios de caso locales de ataques en línea contra periodistas, comprensión de las diferentes estrategias que utilizan los acosadores en la región |
 
 </div>
 
@@ -217,9 +217,9 @@ Pregunta a los periodistas si conocen alguna de estas tácticas. Haz las siguien
 
 <div class="table">
 
-| Resultados del aprendizaje | Tiempo | Nivel de dificultad | Recursos |
-|---|---|---|---|
-| Los periodistas averiguan qué datos están disponibles sobre ellos en línea y dónde se encuentran | 60 minutos | Medio | Pizarra blanca o rotafolio, bolígrafos de pizarra, conexión a internet, los participantes necesitarán sus dispositivos personales para realizar búsquedas en línea |
+| Resultados del aprendizaje                                                                                           | Tiempo       | Nivel de dificultad | Recursos                                                                                                                          |
+|----------------------------------------------------------------------------------------------------------------------|--------------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Los periodistas averiguan qué datos están disponibles sobre ellos en línea y dónde se encuentran                    | 60 minutos   | Medio               | Pizarra blanca o rotafolio, rotuladores de pizarra, conexión a internet, los participantes necesitarán sus dispositivos personales |
 
 </div>
 
@@ -255,9 +255,9 @@ _La mejor práctica para esta actividad se puede encontrar en la sección [¿Est
 
 <div class="table">
 
-| Resultados del aprendizaje | Tiempo | Nivel de dificultad | Recursos |
-|---|---|---|---|
-| Los periodistas aprenden las medidas que pueden tomar para proteger mejor sus datos en línea, incluida la eliminación y ocultación de los mismos | 60 minutos | Medio | Pizarra blanca o rotafolio, rotuladores de pizarra, presentación (PPT) creada por la persona formadora, ejemplos prácticos |
+| Resultados del aprendizaje                                                                                                         | Tiempo       | Nivel de dificultad | Recursos                                                                                                                                              |
+|------------------------------------------------------------------------------------------------------------------------------------|--------------|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Los periodistas aprenden las medidas que pueden tomar para proteger mejor sus datos en línea, incluida la eliminación y ocultación de los mismos | 60 minutos   | Medio               | Pizarra blanca o rotafolio, rotuladores de pizarra, presentación (PPT) creada por la persona formadora, ejemplos de protección de datos en línea |
 
 </div>
 
