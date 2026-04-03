@@ -7,13 +7,13 @@ weight = 11
 toc = true
 +++
 
-Los siguientes escenarios están diseñados para acompañar el curso y pueden utilizarse para ayudar a los participantes a consolidar su aprendizaje. Estas actividades funcionan bien en grupo, animando a los periodistas a compartir ideas y buenas prácticas. Los formadores pueden adaptar el material a su gusto.
+Los siguientes escenarios están diseñados para acompañar el curso y pueden utilizarse para ayudar a los participantes a consolidar su aprendizaje. Estas actividades funcionan bien en grupo, animando a los periodistas a compartir ideas y buenas prácticas. Las personas formadoras pueden adaptar el material a su gusto.
 
 ## Escenario I
 
 ### Proteger teléfonos móviles y material sensible
 
-**Para el formador**
+**Para la persona formadora**
 
 Este escenario abarca tanto el [capítulo tres](/chapter-3) sobre seguridad de los dispositivos como el [capítulo cinco](/chapter-5) sobre protección de materiales. Es posible utilizar este escenario para enseñar sólo uno de estos temas. En los capítulos 3 y 5 de la guía se ofrecen orientaciones detalladas sobre las mejores prácticas en relación con estos temas, que pueden utilizarse para enseñar esta sección.
 
@@ -29,7 +29,7 @@ Eres periodista y trabajas para un periódico local. Está increíblemente ocupa
 
 ### Abuso en línea, protección de datos y seguridad de cuentas
 
-**Para el formador**
+**Para la persona formadora**
 
 Este escenario cubre el abuso en línea, aunque los alumnos también deben tener un buen conocimiento de la seguridad de las cuentas. En los [capítulos siete](/chapter-7) y [dos](/chapter-2) de la guía se ofrecen orientaciones detalladas sobre las mejores prácticas en estos temas, que pueden utilizarse para enseñar esta sección.
 
@@ -45,7 +45,7 @@ Trabajas como verificador de hechos en un medio de comunicación relativamente n
 
 ### Comunicaciones seguras y almacenamiento más seguro
 
-**Para el formador**
+**Para la persona formadora**
 
 Este ejercicio está diseñado para que los periodistas reflexionen sobre las mejores prácticas a la hora de comunicarse de forma más segura con los demás y compartir recursos sensibles. Antes de llevar a cabo este escenario, puede consultar los [capítulos cinco](/chapter-5) y [seis](/chapter-6) de esta guía.
 
@@ -61,7 +61,7 @@ Eres el director de una red regional de periodistas de investigación, que se co
 
 ### Investigación en línea más segura, seguridad de las cuentas, abuso en línea
 
-**Para el formador**
+**Para la persona formadora**
 
 Este escenario examina los riesgos a los que se enfrentan los periodistas por parte de atacantes patrocinados por el Estado. Consulte los capítulos [dos](/chapter-2), [cuatro](/chapter-4) y [siete](/chapter-7) de esta guía para obtener información más detallada sobre estos temas.
 
@@ -77,7 +77,7 @@ Eres redactor de noticias extranjeras en un medio de comunicación nacional. Tie
 
 ### Riesgo digital general
 
-**Para el formador**
+**Para la persona formadora**
 
 Este escenario cubre los riesgos digitales generales a los que puede enfrentarse un periodista. Anima a los periodistas a pensar en la evaluación de riesgos, así como en otros temas tratados en los capítulos dos a siete de esta guía.
 
