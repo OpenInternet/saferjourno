@@ -260,7 +260,7 @@ _Nota para la persona formadora: las mejores prácticas para esta actividad pued
 
 | Resultados del aprendizaje                                                                                  | Tiempo     | Nivel de dificultad | Recursos                                                                                                                                         |
 |-------------------------------------------------------------------------------------------------------------|------------|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| Los periodistas aprenden a tomar medidas para proteger mejor sus aplicaciones de mensajería                 | 60 minutos | Avanzado            | Pizarra blanca o rotafolio, rotuladores de pizarra, estudio de caso de este capítulo, diapositivas PPT creadas por la persona formadora |
+| Los periodistas aprenden a tomar medidas para proteger mejor sus aplicaciones de mensajería                 | 60 minutos | Avanzado            | Pizarra blanca o rotafolio, rotuladores de pizarra, caso de estudio de este capítulo, diapositivas PPT creadas por la persona formadora |
 
 </div>
 
@@ -318,6 +318,6 @@ Esta sección debe ayudar a los periodistas a comprender mejor los riesgos a los
 
 Este caso de estudio acompaña al material del curso y ofrece a los periodistas ejemplos reales de amenazas digitales contra los trabajadores de los medios de comunicación. Los casos prácticos pueden utilizarse para promover el debate sobre los distintos tipos de riesgos, así como para enseñar a los periodistas los pasos necesarios para protegerse mejor a sí mismos y a los demás.
 
-Nuestro artículo: [Caso de estudio sobre comunicaciones más seguras](/case-studies#how-a-third-party-sms-service-was-used-to-take-over-signal-accounts)
+Nuestro artículo: [Caso de estudio sobre comunicaciones más seguras](/case-studies#sms-signal)
 
 Artículo de VICE: [Cómo se utilizó un servicio de SMS de terceros para tomar el control de cuentas de Signal](https://www.vice.com/en/article/qjkvxv/how-a-third-party-sms-service-was-used-to-take-over-signal-accounts)

@@ -153,7 +153,7 @@ Explica que siempre hay una forma de recuperar los datos, pero depende de la cap
 
 **¿Cómo puedo saber si hay spyware en mi dispositivo?**
 
-La persona formadora debe centrarse, en primer lugar, en hacer que el periodista considere si corre un alto riesgo de tener programas espía en sus dispositivos. Una buena pregunta es si viven en un país en el que el gobierno tiene antecedentes de uso de programas espía, si cubren noticias que les exponen a un mayor riesgo de ser víctimas de programas espía o si ellos o alguien que conocen ha sido atacado. Explica que existen distintos tipos de programas espía y que la única forma de saber con certeza si un dispositivo ha sido infectado es enviarlo a un análisis forense. Los formadores pueden investigar antes de la clase si en su región hay laboratorios de amenazas u organizaciones que puedan realizar análisis forenses de dispositivos para organizaciones sin ánimo de lucro.
+La persona formadora debe centrarse, en primer lugar, en hacer que el periodista considere si corre un alto riesgo de tener programas espía en sus dispositivos. Una buena pregunta es si viven en un país en el que el gobierno tiene antecedentes de uso de programas espía, si cubren noticias que les exponen a un mayor riesgo de ser víctimas de programas espía o si ellos o alguien que conocen ha sido atacado. Explica que existen distintos tipos de programas espía y que la única forma de saber con certeza si un dispositivo ha sido infectado es enviarlo a un análisis forense. Las personas formadoras pueden investigar antes de la clase si en su región hay laboratorios de amenazas u organizaciones que puedan realizar análisis forenses de dispositivos para organizaciones sin ánimo de lucro.
 
 **Dado el riesgo de spyware, ¿debería usar simplemente un teléfono básico (como un Nokia 3310) para llamadas sensibles?**
 
@@ -252,7 +252,7 @@ Las siguientes actividades están diseñadas para acompañar esta sesión de for
 
 | Resultados del aprendizaje | Tiempo | Nivel de dificultad | Recursos |
 |----------------------------|--------|---------------------|----------|
-| Los periodistas entienden lo básico sobre cómo proteger sus dispositivos | 30–45 minutos | Medio | Pizarra blanca o rotafolios, bolígrafos de pizarra, diapositivas de PowerPoint preparadas por la persona formadora, incluyendo estudios de casos que muestren el contexto local |
+| Los periodistas entienden lo básico sobre cómo proteger sus dispositivos | 30–45 minutos | Medio | Pizarra blanca o rotafolios, bolígrafos de pizarra, diapositivas de PowerPoint preparadas por la persona formadora, incluyendo casos de estudio que muestren el contexto local |
 
 </div>
 
@@ -287,7 +287,7 @@ Con cada uno de estos pasos puede ser útil que los periodistas piensen por qué
 
 | Resultados del aprendizaje | Tiempo | Nivel de dificultad | Recursos |
 |----------------------------|--------|---------------------|----------|
-| Los periodistas entienden cómo el malware puede infectar los dispositivos y qué medidas pueden tomar para protegerse contra él. | 60 minutos | Medio | Pizarra blanca o rotafolios, bolígrafos de pizarra, diapositivas de PowerPoint preparadas por la persona formadora, incluyendo estudios de casos de contextos locales |
+| Los periodistas entienden cómo el malware puede infectar los dispositivos y qué medidas pueden tomar para protegerse contra él. | 60 minutos | Medio | Pizarra blanca o rotafolios, bolígrafos de pizarra, diapositivas de PowerPoint preparadas por la persona formadora, incluyendo casos de estudio de contextos locales |
 
 </div>
 
@@ -334,7 +334,7 @@ Con cada uno de estos pasos puede ser útil que los periodistas piensen por qué
 
 </div> <div>
 
-*Nota para la persona formadora: este ejercicio está diseñado para formadores de nivel avanzado. Prepare la tecnología antes del taller. Necesitará un computadora de prueba para esta actividad. Muestra FileVault para Mac, BitLocker/Cifrado de disco para Windows o VeraCrypt para todos los sistemas operativos, en función de las computadoras que vayan a utilizar los participantes.*
+*Nota para la persona formadora: este ejercicio está diseñado para personas formadoras de nivel avanzado. Prepare la tecnología antes del taller. Necesitará un computadora de prueba para esta actividad. Muestra FileVault para Mac, BitLocker/Cifrado de disco para Windows o VeraCrypt para todos los sistemas operativos, en función de las computadoras que vayan a utilizar los participantes.*
 
 *La mejor práctica para esta actividad se puede encontrar en la sección Formación en seguridad digital por primera vez, al principio de este capítulo.*
 
@@ -445,7 +445,7 @@ Con cada uno de estos pasos puede ser útil que los periodistas piensen por qué
 
 | Resultados del aprendizaje | Tiempo | Nivel de dificultad | Recursos |
 |----------------------------|--------|---------------------|----------|
-| Los periodistas son capaces de tomar decisiones informadas sobre las mejores prácticas para protegerse mejor contra el spyware.<br>Los periodistas son capaces de evaluar mejor si están en riesgo de ser blanco de spyware | 60 minutos | Medio | Pizarra blanca o rotafolios, bolígrafos de pizarra, diapositivas PPT creadas por la persona formadora, un estudio de caso de un periodista blanco de spyware en la región |
+| Los periodistas son capaces de tomar decisiones informadas sobre las mejores prácticas para protegerse mejor contra el spyware.<br>Los periodistas son capaces de evaluar mejor si están en riesgo de ser blanco de spyware | 60 minutos | Medio | Pizarra blanca o rotafolios, bolígrafos de pizarra, diapositivas PPT creadas por la persona formadora, un caso de estudio de un periodista blanco de spyware en la región |
 
 </div>
 
@@ -520,6 +520,6 @@ Con cada uno de estos pasos puede ser útil que los periodistas piensen por qué
 
 Este caso de estudio acompaña al material del curso y ofrece a los periodistas ejemplos reales de amenazas digitales contra los trabajadores de los medios de comunicación. Los casos de estudio pueden utilizarse para promover el debate entorno a distintos tipos de riesgos, así como para enseñar a los periodistas los pasos necesarios para protegerse mejor a sí mismos y a los demás.
 
-Nuestro artículo: [Confiscación del teléfono de un periodista en un viaje del Pentágono a Europa](/case-studies#reporters-phone-confiscated-on-pentagon-trip-to-europe)
+Nuestro artículo: [Confiscación del teléfono de un periodista en un viaje del Pentágono a Europa](/case-studies#telefono-confiscado)
 
 Informe de US Press Freedom Tracker: [El teléfono de un reportero de Reuters confiscado en un viaje del Pentágono a Europa](https://pressfreedomtracker.us/all-incidents/reuters-reporters-phone-confiscated-on-pentagon-trip-to-europe/)

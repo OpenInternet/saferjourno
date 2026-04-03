@@ -24,7 +24,7 @@ En este capítulo se abordan los siguientes temas:
 Puede ser útil tener en cuenta lo siguiente:
 
 - Una vez que los periodistas tienen una idea para un reportaje, empiezan a investigar en Internet y, a menudo, no han establecido prácticas de seguridad digital. Los periodistas no siempre realizarán un análisis de riesgos antes de comenzar la investigación de una historia.
-- A menudo, los periodistas no tienen claro quién puede rastrear su actividad en línea y qué datos se recopilan sobre ellos. Las personas formadoras pueden utilizar estudios de casos locales para mostrar cómo las empresas y los gobiernos obtienen datos sobre las personas.
+- A menudo, los periodistas no tienen claro quién puede rastrear su actividad en línea y qué datos se recopilan sobre ellos. Las personas formadoras pueden utilizar casos de estudio locales para mostrar cómo las empresas y los gobiernos obtienen datos sobre las personas.
 - Algunas historias pueden volverse más riesgosas a medida que evolucionan, dejando a los periodistas y a sus fuentes vulnerables a intrusiones o ataques digitales. Por este motivo, es importante que el periodista revise la evaluación de riesgos en todo momento.
 - Los periodistas suelen tener poco tiempo y no podrán dedicarlo a probar nuevas herramientas, sobre todo si son demasiado técnicas.
 - Es habitual que los periodistas utilicen herramientas en línea porque les han dicho que son más seguras sin entender por qué lo son; esto puede crear una falsa sensación de seguridad.
@@ -236,7 +236,7 @@ _Los periodistas se beneficiarán de una explicación de vocabulario clave, como
 
 </div>
 
-_Nota para la persona formadora: las mejores prácticas para esta actividad se pueden encontrar en la sección, [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez), situada al principio de este capítulo. Antes de esta actividad de formación, las personas formadoras deberían investigar sobre los datos que las empresas recopilan sobre las personas usuarias en función de su contexto local y utilizar algunos estudios de casos de datos._
+_Nota para la persona formadora: las mejores prácticas para esta actividad se pueden encontrar en la sección, [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez), situada al principio de este capítulo. Antes de esta actividad de formación, las personas formadoras deberían investigar sobre los datos que las empresas recopilan sobre las personas usuarias en función de su contexto local y utilizar algunos casos de estudio de datos._
 
 ❶ **Primer paso**
 
