@@ -7,7 +7,7 @@ weight = 13
 toc = true
 +++
 
-Los periodistas se enfrentan a una amplia gama de riesgos digitales al llevar a cabosu trabajo. Completar una evaluación de riesgos es un factor importante para garantizar la seguridad de los datos y las fuentes. Esta plantilla de evaluación de riesgos está pensada para ayudarte a reflexionar sobre los riesgos a los que te enfrentas y las medidas que debes tomar para reducirlos.
+Los periodistas se enfrentan a una amplia gama de riesgos digitales al llevar a cabo su trabajo. Completar una evaluación de riesgos es un factor importante para garantizar la seguridad de los datos y las fuentes. Esta plantilla de evaluación de riesgos está pensada para ayudarte a reflexionar sobre los riesgos a los que te enfrentas y las medidas que debes tomar para reducirlos.
 
 Puedes completar la plantilla de evaluación de riesgos por tu cuenta o junto con otras personas con las que trabajas, como un redactor o un responsable de seguridad. Es posible que los periodistas necesiten consultar la guía SaferJourno para conocer las mejores prácticas sobre cómo llevar a cabo determinadas medidas de seguridad digital. Puede que no sea necesario completar toda la evaluación de riesgos; elija las secciones o preguntas que mejor se adapten a sus necesidades de seguridad.
 

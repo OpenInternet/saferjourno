@@ -175,7 +175,7 @@ Las siguientes actividades están diseñadas para acompañar esta sesión de for
 
 | Resultados del aprendizaje | Tiempo | Nivel de dificultad | Recursos |
 |---|---|---|---|
-| Los periodistas discuten experiencias de abuso en línea contra periodistas en su región y los grupos que los atacan en línea.<br>Los participantes pueden ver que otras personas tienen experiencias similares a las suyas.<br>Los periodistas aprenden algunas de las técnicas que utilizan los abusadores en línea | 60 minutos | Medio | Pizarra blanca o rotafolio, rotuladores de pizarra, estudios de caso locales de ataques en línea contra periodistas, comprensión de las diferentes estrategias que utilizan los acosadores en la región |
+| Los periodistas discuten experiencias de abuso en línea contra periodistas en su región y los grupos que los atacan en línea.<br>Los participantes pueden ver que otras personas tienen experiencias similares a las suyas.<br>Los periodistas aprenden algunas de las técnicas que utilizan los abusadores en línea | 60 minutos | Medio | Pizarra blanca o rotafolio, rotuladores de pizarra, casos de estudio locales de ataques en línea contra periodistas, comprensión de las diferentes estrategias que utilizan los acosadores en la región |
 
 </div>
 
@@ -185,7 +185,7 @@ _Las mejores prácticas para esta actividad se pueden encontrar en la sección [
 
 ❶ **Primer paso**
 
-- Muestra a los periodistas algunos estudios de casos de abuso en línea contra periodistas en la región y pregúnteles si están familiarizados con ellos.
+- Muestra a los periodistas algunos casos de estudio de abuso en línea contra periodistas en la región y pregúnteles si están familiarizados con ellos.
 - Reúne a los periodistas en pequeños grupos y pídales que discutan otros casos que puedan conocer. Puede ser útil hacerles reflexionar sobre las siguientes cuestiones: ¿Existen similitudes entre los casos en cuanto a la forma en que se ataca a los periodistas? ¿Cuáles son las razones de la agresión? ¿Se¿es capaz de identificar quién puede estar detrás de los ataques?
 - Organiza una sesión de intercambio de opiniones en grupo sobre las preguntas anteriores.
 
@@ -193,7 +193,7 @@ _Las mejores prácticas para esta actividad se pueden encontrar en la sección [
 
 - Indica a los periodistas que ahora van a examinar algunas de las técnicas que utilizan los acosadores en línea. Saber cómo atacan los acosadores en línea puede ayudar a los periodistas a defenderse mejor contra ello.
 
-- Presenta a los periodistas los ataques más comunes en su región utilizando estudios de casos preparados de antemano. Puede leer más sobre estos tipos de ataques en la sección [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez) Localizada al principio de este capítulo. Puede que quieras cubrir lo siguiente:
+- Presenta a los periodistas los ataques más comunes en su región utilizando casos de estudio preparados de antemano. Puede leer más sobre estos tipos de ataques en la sección [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez) Localizada al principio de este capítulo. Puede que quieras cubrir lo siguiente:
   - Preocupación por el trolling
   - Ataque de Cyber-mob
   - Doxing
@@ -313,6 +313,6 @@ Esta sección debe ayudar a los periodistas a comprender mejor los riesgos a los
 
 Este caso de estudio acompaña al material del curso y ofrece a los periodistas ejemplos reales de amenazas digitales contra trabajadores de los medios de comunicación. Los casos de estudio pueden utilizarse para fomentar el debate sobre los distintos tipos de riesgos, así como para enseñar a los periodistas los pasos necesarios para protegerse mejor a sí mismos y a los demás.
 
-Nuestro artículo: [Caso de estudio sobre abusos en línea y protección de datos](/case-studies#kyrgyz-journalists-on-the-online-fake-farms-that-threaten-to-kill-them)
+Nuestro artículo: [Caso de estudio sobre abusos en línea y protección de datos](/case-studies#granjas-cuentas)
 
 Escrito del CPJ: [Kyrgyz journalists on the online 'fake farms' that threaten to kill them](https://cpj.org/2021/03/kyrgyz-journalists-online-fake-farms/)

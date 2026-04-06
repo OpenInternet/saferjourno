@@ -23,7 +23,7 @@ En este capítulo se abordan los siguientes temas:
 Echa un vistazo a nuestra útil guía:
 
 - Los periodistas suelen utilizar sus cuentas en Internet tanto para fines personales como laborales, sobre todo si son autónomos. Esto significa que tienen mucho contenido sensible almacenado en sus cuentas personales. Hay que animar a los periodistas a que, en la medida de lo posible, separen sus cuentas online en personales y de trabajo.
-- A menudo, los periodistas desconocen dónde se almacena la información en sus cuentas y dispositivos. Destaca la importancia de llevar a cabo una auditoría de sus cuentas y de hacer copias de seguridad y borrar contenidos con regularidad. Los formadores pueden consultar el capítulo cinco de esta guía para más detalles sobre cómo hacerlo.
+- A menudo, los periodistas desconocen dónde se almacena la información en sus cuentas y dispositivos. Destaca la importancia de llevar a cabo una auditoría de sus cuentas y de hacer copias de seguridad y borrar contenidos con regularidad. Las personas formadoras pueden consultar el capítulo cinco de esta guía para más detalles sobre cómo hacerlo.
 - Los medios de comunicación a veces animan a los periodistas a utilizar sus redes sociales personales para fines laborales, incluido el contacto con fuentes. Los medios no suelen ofrecer a los periodistas ayuda para asegurarlas.
 - Aunque es poco frecuente, un tribunal o un gobierno puede pedir a una empresa o a un servicio en línea que entregue los datos que tiene sobre una persona usuaria. Si esto ocurre, es posible que la empresa tenga que compartir datos como el contenido de documentos, mensajes y fotos. Algunas empresas ofrecen cifrado de extremo a extremo, en el que ellas mismas no conocen ni pueden acceder al contenido almacenado en la nube. Este tipo de cifrado protegerá a los periodistas de las solicitudes de datos gubernamentales, pero también significará que las personas usuarias no podrán acceder a los datos si olvidan o pierden sus contraseñas y mecanismos de recuperación. Incluso si una empresa ofrece cifrado de extremo a extremo para los datos almacenados, normalmente seguirá recopilando cierto grado de metadatos (cuándo se conectó el periodista por última vez, qué direcciones de correo electrónico utilizó, cuánto ha almacenado en su cuenta), y puede que tenga que compartirlos con las autoridades.
 - Los medios de comunicación suelen tener directrices obsoletas sobre las mejores prácticas en materia de contraseñas y autenticación de dos factores. Estas directrices obsoletas pueden incluir la recomendación de que los periodistas utilicen contraseñas cortas con muchos caracteres aleatorios, o que cambien sus contraseñas con frecuencia. Algunos medios de comunicación tampoco promueven el autorelleno de los gestores de contraseñas o las claves de seguridad físicas como contramedidas contra el phishing. Es importante reconocerlo y decir a los periodistas que les estás enseñando las mejores prácticas actuales, que deberían utilizar para todas sus cuentas personales. Véase [aquí](https://www.ncsc.gov.uk/blog-post/problems-forcing-regular-password-expiry) por qué el Centro Nacional de Ciberseguridad del Reino Unido recomienda ahora no cambiar regularmente las contraseñas.
@@ -172,7 +172,7 @@ Los siguientes recursos pueden ser útiles para la enseñanza de este capítulo:
 
 ## Actividades
 
-Las siguientes actividades están diseñadas para acompañar esta sesión de formación sobre la seguridad de las cuentas. Los formadores deben sentirse libres de utilizar sus propias actividades, así como de adaptar los materiales de esta guía para que se ajusten mejor a las necesidades de los periodistas a los que están formando. El número y el tipo de actividades seleccionadas dependerán del nivel de conocimientos de la persona formadora, así como del tiempo de que disponga para dedicar a los participantes. Para quienes se inicien en la formación en seguridad digital, no olviden consultar la sección [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez), para obtener orientación sobre las mejores prácticas.
+Las siguientes actividades están diseñadas para acompañar esta sesión de formación sobre la seguridad de las cuentas. Las personas formadoras deben sentirse libres de utilizar sus propias actividades, así como de adaptar los materiales de esta guía para que se ajusten mejor a las necesidades de los periodistas a los que están formando. El número y el tipo de actividades seleccionadas dependerán del nivel de conocimientos de la persona formadora, así como del tiempo de que disponga para dedicar a los participantes. Para quienes se inicien en la formación en seguridad digital, no olviden consultar la sección [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez), para obtener orientación sobre las mejores prácticas.
 
 ### Cómo empezar
 
@@ -200,7 +200,7 @@ Las siguientes actividades están diseñadas para acompañar esta sesión de for
 
 ❸ **Paso tres**
 
-Guíe a los periodistas a través de las mejores prácticas básicas para la seguridad de las cuentas. Esto puede incluir:
+Guía a los periodistas a través de las mejores prácticas básicas para la seguridad de las cuentas. Esto puede incluir:
 
 - Tener cuentas de trabajo y personales separadas. Separar la información en línea ayuda a evitar que se acceda a todos los datos personales en caso de que se produzca un ataque a una de las cuentas.
 - Revisar el contenido de las cuentas, hacer copias de seguridad y eliminar la información que ya no se necesite.
@@ -250,7 +250,7 @@ _Nota para la persona formadora: esta actividad es la continuación de la activi
 
 </div>
 
-_Nota para la persona formadora: este ejercicio requiere que los formadores comprendan bien qué medidas pueden tomar los periodistas para protegerse en línea. Las mejores prácticas al respecto se encuentran al principio de cada capítulo de esta guía._
+_Nota para la persona formadora: este ejercicio requiere que las personas formadoras comprendan bien qué medidas pueden tomar los periodistas para protegerse en línea. Las mejores prácticas al respecto se encuentran al principio de cada capítulo de esta guía._
 
 ❶ **Primer paso**
 
@@ -284,6 +284,6 @@ Ayuda a los periodistas a reflexionar sobre el proceso haciendo las siguientes p
 
 Este caso de estudio acompaña al material del entrenamiento y ofrece a los periodistas ejemplos reales de amenazas digitales contra trabajadores de los medios de comunicación. Puede utilizarse para promover el debate en torno a los distintos tipos de riesgos, así como para enseñar a los periodistas los pasos necesarios para protegerse mejor a sí mismos y a los demás.
 
-Nuestro artículo: [Estudio de caso sobre seguridad de cuentas](/case-studies#iranian-backed-hacking-group-charming-kitten-targets-journalists-via-whatsapp-messages)
+Nuestro artículo: [Caso de estudio sobre seguridad de cuentas](/case-studies#charming-kitten)
 
 Informe de HRW: [Irán: Hacking de activistas, periodistas y políticos respaldado por el Estado](https://www.hrw.org/news/2022/12/05/iran-state-backed-hacking-activists-journalists-politicians).

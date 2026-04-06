@@ -289,8 +289,8 @@ Esta sección debe ayudar a los periodistas a comprender mejor los riesgos a los
 
 ## Casos de estudio
 
-Estos casos prácticos acompañan al material del curso y ofrecen a los periodistas ejemplos reales de amenazas digitales contra los trabajadores de los medios de comunicación. Los estudios de casos pueden utilizarse para fomentar el diálogo en torno a los distintos tipos de riesgos, así como para enseñar a los periodistas los pasos necesarios para protegerse mejor a sí mismos y a los demás.
+Estos casos prácticos acompañan al material del curso y ofrecen a los periodistas ejemplos reales de amenazas digitales contra los trabajadores de los medios de comunicación. Los casos de estudio pueden utilizarse para fomentar el diálogo en torno a los distintos tipos de riesgos, así como para enseñar a los periodistas los pasos necesarios para protegerse mejor a sí mismos y a los demás.
 
-Nuestro artículo: [Caso de estudio sobre protección de materiales](/case-studies#activists-put-at-risk-after-documentary-film-makers-devices-seized-by-syrian-security-agents)
+Nuestro artículo: [Caso de estudio sobre protección de materiales](/case-studies#documentalista-siria)
 
 Artículo de CJR: [Activistas en riesgo tras la incautación de los dispositivos de un cineasta documental por agentes de seguridad sirios](https://www.cjr.org/feature/the_spy_who_came_in_from_the_c.php)

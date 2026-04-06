@@ -17,6 +17,9 @@ The contents of the SaferJourno guide are released under a [CC-BY-SA 4.0 license
 * Guide written by Ela Stapley and Nikita Mazurov
 * Guide edited by Łukasz Król and Ashley Fowler 
 * Website designed and developed by [Ura Design](https://ura.design/en/)
+* Localization and adaptation into Latin American Spanish by [SocialTIC](https://socialtic.org/)
+
+
 
 ------
 

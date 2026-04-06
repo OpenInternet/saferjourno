@@ -108,7 +108,7 @@ Los siguientes recursos pueden ser útiles para la enseñanza de este capítulo:
 
 ## Actividades
 
-Las siguientes actividades están diseñadas para acompañar esta sesión de formación sobre la seguridad de las cuentas. Los formadores deben sentirse libres de utilizar sus propias actividades, así como de adaptar los materiales de esta guía para que se ajusten mejor a las necesidades de los periodistas a los que están formando. El número y el tipo de actividades seleccionadas dependerán del nivel de conocimientos del formador, así como del tiempo que tenga para dedicar a los participantes. Para quienes se inicien en la formación sobre seguridad digital, no olvides consultar la sección [_¿Estás impartiendo formación en seguridad digital por primera vez?_](#estás-impartiendo-formación-en-seguridad-digital-por-primera-vez)
+Las siguientes actividades están diseñadas para acompañar esta sesión de formación sobre la seguridad de las cuentas. Las personas formadoras deben sentirse libres de utilizar sus propias actividades, así como de adaptar los materiales de esta guía para que se ajusten mejor a las necesidades de los periodistas a los que están formando. El número y el tipo de actividades seleccionadas dependerán del nivel de conocimientos del formador, así como del tiempo que tenga para dedicar a los participantes. Para quienes se inicien en la formación sobre seguridad digital, no olvides consultar la sección [_¿Estás impartiendo formación en seguridad digital por primera vez?_](#estás-impartiendo-formación-en-seguridad-digital-por-primera-vez)
  para obtener orientación sobre las mejores prácticas.
 
 ### Primeros Pasos
@@ -184,7 +184,7 @@ _Nota para el formador: esta actividad es la continuación de la actividad intro
 
 </div>
 
-_Nota para el formador: este ejercicio requiere que los formadores comprendan bien qué medidas pueden tomar los periodistas para protegerse en línea. Las mejores prácticas al respecto se encuentran al principio de cada capítulo de esta guía._
+_Nota para el formador: este ejercicio requiere que las personas formadoras comprendan bien qué medidas pueden tomar los periodistas para protegerse en línea. Las mejores prácticas al respecto se encuentran al principio de cada capítulo de esta guía._
 
 ❶ **Primer paso**
 

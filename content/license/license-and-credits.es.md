@@ -1,18 +1,17 @@
 +++
-
 type = "report"
 title = "Licencia y créditos"
 layout = "single"
 weight = 14
 toc = true
-translation-review-pending = true
 +++
 
 El contenido de la guía SaferJourno se publica bajo licencia [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-* Guía redactada por Ela Stapley y Nikita Mazurov.
+* Guía redactada por Ela Stapley y Nikita Mazurov
 * Guía editada por Łukasz Król y Ashley Fowler
 * Sitio web diseñado y desarrollado por [Ura Design](https://ura.design/en/)
+* Localización y adaptación al español latinoamericano por [SocialTIC](https://socialtic.org/)
 
 ------
 
