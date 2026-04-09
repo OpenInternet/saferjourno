@@ -35,3 +35,12 @@ other = "Oops, page not found…"
 
 [lastModified]
 other = "Latest update: "
+
+[darkTheme]
+other = "Dark Theme"
+
+[lightTheme]
+other = "Light Theme"
+
+[collapseToc]
+other = "Collapse Table of Contents"

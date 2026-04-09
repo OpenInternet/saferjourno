@@ -35,3 +35,12 @@ other = "Oops, page not found…"
 
 [lastModified]
 other = "Última actualización: "
+
+[darkTheme]
+other = "Tema Oscuro"
+
+[lightTheme]
+other = "Tema Claro"
+
+[collapseToc]
+other = "Contraer Tabla de Contenidos"

@@ -96,3 +96,4 @@ chapters = "/:contentbasename/"
         [languages.es.params]
         languageName = "Spanish"
         direction = "ltr"
+        reportSubtitle = "Recursos de Seguridad Digital para Capacitadores de Periodistas"

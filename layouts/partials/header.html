@@ -3,7 +3,7 @@
 <div id="left-sidebar" class="d-flex flex-column left-sidebar show">
 
   <div id="navTitle" class="title">
-    <a aria-label="{{ .Site.Title }}" href="{{ .Site.BaseURL }}">
+    <a aria-label="{{ .Site.Title }}" href="{{ .Site.Home.RelPermalink }}">
       {{ partial "brand.html" . }}
     </a>
   </div>
@@ -11,12 +11,11 @@
   <hr>
 
   <button id="theme-toggle" class="themetoggle" aria-label="Toggle Dark Theme">
-    <span class="moon" aria-hidden="true">{{ partial "fontawesome.html" "regular/moon" }}</span> <span class="sun" aria-hidden="true">{{ partial "fontawesome.html" "regular/sun-bright" }}</span><span class="hidden-text moon">Dark Theme</span><span class="hidden-text sun">Light Theme</span>
+    <span class="moon" aria-hidden="true">{{ partial "fontawesome.html" "regular/moon" }}</span> <span class="sun" aria-hidden="true">{{ partial "fontawesome.html" "regular/sun-bright" }}</span><span class="hidden-text moon">{{ i18n "darkTheme" }}</span><span class="hidden-text sun">{{ i18n "lightTheme" }}</span>
   </button>
 
   <button id="toc-toggle" class="toctoggle" aria-label="Collapse Table of Contents">
-    <span class="close" aria-hidden="true">{{ partial "fontawesome.html" "solid/arrow-left-to-line" }}</span> <span class="open" aria-hidden="true">{{ partial "fontawesome.html" "solid/arrow-right-from-line" }}</span> <span class="hidden-text">Collapse Table
-    of Contents</span>
+    <span class="close" aria-hidden="true">{{ partial "fontawesome.html" "solid/arrow-left-to-line" }}</span> <span class="open" aria-hidden="true">{{ partial "fontawesome.html" "solid/arrow-right-from-line" }}</span> <span class="hidden-text">{{ i18n "collapseToc" }}</span>
   </button>
 
   <script>
