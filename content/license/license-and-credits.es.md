@@ -11,7 +11,7 @@ El contenido de la guía SaferJourno se publica bajo una [licencia CC-BY-SA 4.0]
 * Guía redactada por Ela Stapley y Nikita Mazurov
 * Guía editada por Łukasz Król y Ashley Fowler
 * Página web diseñada y desarrollada por [Ura Design](https://ura.design/en/)
-* Adaptación local y al español latinoamericano a cargo de [SocialTIC](https://socialtic.org/)
+* Adaptación local y al español latinoamericano a cargo de [SocialTIC](https://socialtic.org/) y [Fundacion Karisma](https://info.karisma.org.co/)
 
 ------
 
