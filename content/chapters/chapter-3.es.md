@@ -1,7 +1,7 @@
 ---
 
 type: report
-title: "Capítulo 3: Seguridad de los dispositivos"
+title: "Capítulo 3: Seguridad de dispositivos"
 layout: single
 weight: 4
 toc: true
@@ -9,155 +9,153 @@ toc: true
 
 ## Introducción
 
-Proteger los dispositivos y el contenido que contienen es una cuestión cada vez más complicada para los periodistas y las redacciones, especialmente con la amenaza de programas espía cada vez más sofisticados que se utilizan contra los reporteros. En esta sesión proporcionará a los periodistas una guía de buenas prácticas para proteger sus dispositivos y les ayudará a reflexionar sobre qué medidas deben tomar en función de su propia evaluación de riesgos.
+Proteger los dispositivos y la información que contienen es cada vez más complejo para los periodistas y las salas de redacción, en especial ante la amenaza de _spyware_ cada vez más sofisticado que se utiliza contra los reporteros. Esta sesión brindará a los periodistas las mejores prácticas para proteger mejor sus dispositivos y los ayudará a analizar qué medidas deben tomar según su propia evaluación de amenazas.
 
-Este capítulo cubrirá:
+Este capítulo incluye:
 
-* Pensar en el riesgo individual a la hora de proteger los dispositivos.
-* Las mejores prácticas para proteger los dispositivos
-* Protección contra el malware
-* Comprender cómo funcionan los operadores de telefonía móvil y los teléfonos móviles
-* Orientación sobre programas espía (spyware)
+* Reflexiones sobre el riesgo individual cuando se trata de protección de dispositivos
+* Prácticas recomendadas para proteger dispositivos
+* Protección contra el _malware_
+* Comprensión del funcionamiento de los operadores de telefonía celular y los teléfonos celulares
+* Guía sobre el _spyware_
 
-## ¿Estás capacitando a periodistas por primera vez?
+## ¿Es la primera vez que capacita periodistas?
 
 Puede ser útil tener en cuenta lo siguiente:
 
-**General**
+**Información general**
 
-* Los periodistas suelen utilizar sus dispositivos personales para contenidos relacionados con el trabajo.
-* El dinero es un problema para los periodistas, sobre todo para los que trabajan de forma autónoma, a la hora de comprar nuevos dispositivos. Las redacciones no siempre pueden o quieren proporcionar dispositivos de trabajo a su personal. Además, las redacciones más pequeñas carecen de los conocimientos necesarios para gestionar y proteger los dispositivos. El personal de TI de las redacciones se centran a menudo en funciones básicas, como la configuración del correo electrónico y las computadoras, y a veces carecen de experiencia más especializada en seguridad, sobre todo en lo que se refiere a las amenazas contra los periodistas.
-* Los trabajadores de los medios utilizan a veces dispositivos más antiguos, sobre todo teléfonos Android, que podrían ya no recibir actualizaciones de software. Los medios de comunicación también pueden estar utilizando computadoras de escritorio con versiones antiguas de Microsoft Windows. El software desactualizado puede contener vulnerabilidades de seguridad que los atacantes pueden explotar.
-* El uso de software pirata es muy común entre los periodistas de ciertas regiones del mundo. El software pirateado también puede contener vulnerabilidades de seguridad que los atacantes pueden explotar.
-* Los periodistas pueden no ser conscientes de qué contenido se almacena en sus dispositivos ni de dónde se están realizando las copias de seguridad.
+* Por lo general, los periodistas utilizan sus dispositivos personales para almacenar contenido relacionado con su trabajo.
+* El dinero es un problema para los periodistas, especialmente para los independientes, cuando se trata de comprar dispositivos nuevos. Las salas de redacción no siempre pueden o quieren proporcionar dispositivos de trabajo a su personal. Las redacciones más pequeñas también carecen de la experiencia necesaria para administrar y proteger los dispositivos. Usualmente, el departamento de TI de las salas de redacción se enfoca en funciones básicas, como configurar el correo electrónico y las computadoras, y a veces puede carecer de experiencia más especializada en seguridad, especialmente en lo que respecta a las amenazas contra los periodistas.
+* Las personas que trabajan en medios de comunicación a veces utilizan dispositivos antiguos, especialmente teléfonos Android, que tal vez ya no admiten actualizaciones de _software_. Del mismo modo, los medios de comunicación pueden estar utilizando computadoras de escritorio que funcionan con versiones antiguas de Microsoft Windows. El _software_ desactualizado puede contener brechas de seguridad que los atacantes pueden aprovechar.
+* El uso de software pirata es muy común entre los periodistas en ciertas regiones del mundo. El software pirata también puede contener brechas de seguridad que los atacantes pueden aprovechar.
+* Es posible que los periodistas no sepan qué información se almacena en sus dispositivos ni dónde se realiza la copia de seguridad.
 
 **Teléfonos móviles**
 
-* Los números de teléfono de los periodistas se han compartido con una amplia gama de contactos, que pueden incluir funcionarios del gobierno, las autoridades y personas que pueden ser consideradas hostiles al periodista.
-* Los periodistas habrán construido su lista de contactos durante años y no querrán dejar de utilizar su número de teléfono. Es mejor sugerir al periodista que consiga un nuevo número personal y mantenga el original para el trabajo.
-* Piensa si el periodista necesita más de un dispositivo o si sólo necesita un número extra.
-* Ten en cuenta que, en algunos países, tener más de un teléfono o un número SIM/teléfono emitido en otro país puede hacer que el periodista parezca sospechoso.
-* En muchos países es obligatorio registrar la tarjeta SIM, lo que significa que hay que presentar un pasaporte o documento similar para obtenerla. Esto significa que las autoridades pueden relacionar fácilmente un número de teléfono con su propietario legal.
-* En la actualidad, los periodistas realizan una gran parte de su trabajo desde el dispositivo móvil: graban entrevistas, graban vídeos y revisan documentos. En algunos países, los periodistas sólo utilizan el teléfono móvil para su trabajo y no tienen acceso a una computadora.
-* Las fuentes se pondrán en contacto con los periodistas y éstos accederán a menudo a los datos de las fuentes, incluidos los documentos, a través de su dispositivo móvil.
+* Los números de teléfono de los periodistas se habrán compartido con una amplia gama de contactos, que pueden incluir funcionarios del gobierno, autoridades, y personas que podrían considerarse hostiles hacia el periodista.
+* Los periodistas habrán construido su lista de contactos a lo largo de los años y no querrán dejar de usar su número de teléfono. Es mejor sugerir al periodista que se consiga un nuevo número personal y que conserve su número original para el trabajo.
+* Piense si el periodista necesita más de un dispositivo o si solo necesita un número adicional.
+* Tenga en cuenta que, en algunos países, tener más de un teléfono, una tarjeta SIM o un número de teléfono emitido en otro país puede hacer que el periodista parezca sospechoso.
+* Actualmente, muchos países cuentan con un sistema de registro obligatorio de tarjetas SIM, lo que significa que es necesario presentar un pasaporte o un documento similar para obtener una tarjeta SIM. Esto implica que las autoridades podrían vincular fácilmente un número de teléfono a su propietario legal.
+* Hoy en día, los periodistas realizan una parte importante de su trabajo en sus _smartphones_, como grabar entrevistas, filmar videos y revisar documentos. En algunos países, los periodistas solo utilizan un _smartphone_ para su trabajo y no tienen acceso a una computadora.
+* Las fuentes se pondrán en contacto con los periodistas y estos, a su vez, accederán con frecuencia a los datos de las fuentes, incluidos documentos, a través de su dispositivo móvil.
 
-## ¿Estás impartiendo una formación en seguridad digital por primera vez?
+## ¿Es la primera vez que capacita sobre seguridad digital?
 
-Esta sección cubre las mejores prácticas que se pueden utilizar al enseñar las actividades de este capítulo. Para más información, consulte la sección de recursos de este capítulo.
+Esta sección incluye mejores prácticas que pueden aplicarse a la hora de impartir las actividades de este capítulo. Revise la sección de [recursos](#recursos) de este capítulo para más información.
 
-*Buenas prácticas generales*
+_Buenas prácticas generales_
 
-* La computadora y el teléfono móvil de un periodista son un objetivo para los adversarios que quieran obtener la información que contienen. Los adversarios pueden utilizar muchas técnicas diferentes: podrían infectar el dispositivo con malware, podrían conseguir que las autoridades confiscaran un dispositivo, coaccionaran al periodista para que entregue la contraseña y  registrar el dispositivo o podrían intentar acceder al dispositivo desbloqueado mientras está desatendido.
-* Es importante actualizar siempre los sistemas operativos, las aplicaciones y los navegadores de todos los dispositivos. Todo el software contiene vulnerabilidades de seguridad; las actualizaciones de software corrigen esos vulnerabilidades de seguridad tan pronto como se descubren, de modo que los adversarios no pueden utilizarlos para entrar en los dispositivos de los periodistas. Hay que animar a los periodistas a que configuren sus dispositivos para que se actualicen automáticamente. Un dispositivo que ya no pueda recibir actualizaciones de software no debe considerarse totalmente seguro y, si es viable desde el punto de vista financiero y logístico, debe sustituirse por otro que sí pueda recibirlas.
-* Todos los dispositivos deben estar protegidos con contraseña, PIN o bloqueo biométrico. El que utilice el periodista dependerá de su perfil de riesgo individual y de sus jurisdicciones. En algunos lugares, las fuerzas de seguridad están autorizadas a pedir a la gente que desbloquee sus dispositivos proporcionando su huella dactilar o facial, pero no se les permite pedir contraseñas. Si un periodista utiliza un PIN o un código de acceso para iniciar sesión en su dispositivo, debe tener cuidado de que no sea captado por la cámara de alta resolución, por ejemplo las cámaras de seguridad de los ascensores. Tenga en cuenta que las fuerzas del orden y las agencias de seguridad también pueden tener los conocimientos técnicos necesarios para desbloquear determinadas marcas y modelos sin necesidad de código de acceso ni datos biométricos. Se sabe poco sobre cómo funcionan exactamente esos ataques, pero recomendamos establecer un código de acceso largo (por ejemplo, 10 dígitos con una mezcla de letras y números) como posible medida paliativa.
-* Evita dejar los dispositivos desbloqueados y desatendidos, por ejemplo en conferencias, hoteles o cafeterías. Si necesitas dejar tu dispositivo desatendido, asegúrate de que la pantalla está bloqueada (de modo que requiera una contraseña para volver a entrar) o apagada. Si necesitas dejar un dispositivo desatendido, puedes tirar los auriculares enredados u otros cables encima del dispositivo, y luego hacer una foto. Cuando vuelvas, comprueba con la foto si se han movido los cables. Si sospechas que alguien ha manipulado físicamente tu dispositivo, te recomendamos encarecidamente que dejes de usarlo y consigas uno nuevo, si es posible.
-* Disponer de un proceso para realizar copias de seguridad y eliminar contenidos tanto de computadoras como de dispositivos móviles garantiza que, si se accede a los dispositivos, se obtenga una cantidad mínima de contenidos. Puedes leer más sobre las copias de seguridad en el capítulo cinco.
+* La computadora y el celular de un periodista son un objetivo para los adversarios que quisieran obtener la información que se almacena en ellos. Los adversarios pueden utilizar muchas técnicas diferentes: podrían infectar el dispositivo con _malware_; podrían lograr que las autoridades lo incauten; podrían coaccionar al periodista para que revele la contraseña y así inspeccionarlo; o podrían intentar tomar un dispositivo desbloqueado y desatendido y revisarlo.
+* Es importante actualizar siempre los sistemas operativos, aplicaciones y navegadores en todos los dispositivos. Todo _software_ contiene brechas de seguridad; las actualizaciones de _software_ corrigen esas brechas tan pronto como se descubren, para que los adversarios no puedan aprovecharlas e infiltrarse en los dispositivos de los periodistas. Se debe alentar a los periodistas a configurar sus dispositivos para que realicen las actualizaciones automáticamente; esta opción se puede activar en los ajustes de sus dispositivos. Un dispositivo que ya no pueda recibir actualizaciones de _software_ no debe considerarse completamente seguro y, si es factible desde el punto de vista financiero y logístico, debe ser reemplazado por uno que sí pueda recibir actualizaciones.
+* Todos los dispositivos deben protegerse con una contraseña, un PIN o un bloqueo biométrico. La opción que elija el periodista dependerá de su perfil de riesgo individual y de la legislación vigente. En algunos lugares, las autoridades tienen permiso para pedirle a la gente que desbloquee sus dispositivos mediante su huella digital o reconocimiento facial, pero no pueden pedirles contraseñas. Si un periodista usa un PIN o una contraseña para iniciar sesión en su dispositivo, debe tener cuidado para que no sea captada por cámaras de alta definición, como las cámaras de seguridad en los ascensores. Tenga en cuenta que las autoridades y las agencias de inteligencia también pueden contar con los conocimientos técnicos para desbloquear ciertas marcas y modelos sin necesidad de un código de acceso ni datos biométricos. Se sabe poco sobre cómo funcionan exactamente esos ataques, pero recomendamos establecer un código de acceso largo (por ejemplo, 10 dígitos que combinen letras y números) como posible medida de mitigación.
+* Evite dejar los dispositivos desbloqueados y desatendidos, por ejemplo, en conferencias, hoteles o cafeterías. Si necesita dejar su dispositivo desatendido, asegúrese de que la pantalla esté bloqueada (para que se requiera una contraseña para volver a acceder) o de que esté apagado. Si necesita dejar un dispositivo desatendido, puede colocar unos audífonos enredados u otros cables encima del dispositivo y luego tomar una foto. Cuando regrese, revise la foto para comparar si los cables se han movido. Si sospecha que alguien ha manipulado físicamente su dispositivo, le recomendamos enérgicamente que deje de usarlo y adquiera uno nuevo, si es posible.
+* Contar con un proceso para hacer copias de seguridad y eliminar contenido tanto de computadoras como de dispositivos móviles garantiza que, en caso de que alguien acceda a los dispositivos, solo obtenga una cantidad mínima de contenido. Puede leer más sobre cómo hacer copias de seguridad en el capítulo cinco.
 
-*Malware*
+_Malware_
 
-* El malware es un software diseñado para causar daños en un dispositivo o permitir el acceso no autorizado.
-* Hay muchos tipos diferentes de malware, incluyendo,
+* El _malware_ es un _software_ diseñado para causar daño a un dispositivo o para otorgar un acceso no autorizado.
+* Existen muchos tipos de _malware_, entre ellos:
 
-  * Virus, infección que se replica una vez en un dispositivo destruyendo datos y/o corrompiendo el sistema operativo.
-  * Spyware, software malicioso que recoge información directamente del dispositivo y la envía a otra entidad.
+  * Virus, una infección que, una vez en un dispositivo, se replica y destruye datos y/o daña el sistema operativo.
+  * El _spyware_, _software_ malicioso que recopila información directamente del dispositivo y la envía a otra entidad.
 
-    * Un ejemplo de spyware es un keylogger, un programa informático que registra cada contenido tecleado por el usuario, incluidas las contraseñas.
-  * Ransomware, software que bloquea el acceso a un dispositivo a menos que se pague un rescate.
-  * Trojan malware, un virus disfrazado de programa legítimo, por ejemplo una app, que una vez descargado infecta el dispositivo.
+    * Un ejemplo de _spyware_ es un _keylogger_, un programa de computadora que registra todo lo que el usuario escribe, incluidas las contraseñas.
+  * El _ransomware_, un _software_ que bloquea el acceso a un dispositivo a menos que se pague un rescate.
+  * El _malware_ de tipo troyano, un virus disfrazado de programa legítimo, por ejemplo, una aplicación, que una vez descargado infecta el dispositivo.
 
-Los dispositivos pueden ser infectados por malware a través de lo siguiente:
+Los dispositivos pueden infectarse con _malware_ de las siguientes maneras:
 
-* Haciendo clic en enlaces maliciosos o descargando documentos que contienen malware.
-* Instalar programas o aplicaciones de proveedores que no son legítimos.
-* Navegar por sitios web inseguros
-* Hacer clic en anuncios maliciosos que aparecen en sitios web.
+* Al hacer clic en enlaces maliciosos o descargar documentos que contengan _malware_
+* Al instalar programas o aplicaciones de proveedores que no sean legítimos
+* Al navegar por páginas web inseguras
+* Al hacer clic en anuncios maliciosos que aparecen en páginas web.
 
-Puede protegerse contra el malware haciendo lo siguiente:
+Puede protegerse contra el _malware_ haciendo lo siguiente:
 
-* Evitar hacer clic en enlaces que parezcan sospechosos (por ejemplo, si han sido diseñados para parecerse a un enlace de Google Drive, pero tienen algunos pequeños errores ortográficos). Si necesitas abrir documentos de fuentes desconocidas, ábrelos en un editor basado en web como Google Docs u O365 o utiliza una herramienta como [Dangerzone](https://dangerzone.rocks/).
-* Descargue programas y aplicaciones sólo de sitios legítimos y tiendas aprobadas por el fabricante, como Google Play Store y Apple app store.
-* Asegúrate de que el antivirus integrado en tu sistema operativo está activado (Windows cuenta con Windows Defender, mientras que macOS dispone de multitud de mecanismos de seguridad, como Gatekeeper y XProtect).
+* Evite dar clic en enlaces que parezcan sospechosos (por ejemplo, si están diseñados para parecerse a un enlace de Google Drive, pero tienen pequeños errores ortográficos). Si necesita abrir documentos de fuentes desconocidas, ábralos en un editor en línea como Google Docs u O365, o utilice herramientas como [Dangerzone](https://dangerzone.rocks/).
+* Descargue programas y aplicaciones únicamente de páginas legítimas y tiendas aprobadas por los fabricantes, como Google Play Store y la App Store de Apple.
+* Asegúrese de que el antivirus integrado en su sistema operativo esté activado (Windows tiene Windows Defender, mientras que macOS tiene una serie de mecanismos de seguridad, entre ellos Gatekeeper y XProtect).
 
-*Computadoras*
+_Computadoras_
 
-* Se recomienda asegurar las computadoras para proteger la información que contienen, tanto estableciendo una buena cuenta/contraseña de acceso como cifrando la unidad interna. Si el disco duro de una computadora está cifrado, nadie podrá acceder a la información que contiene sin la contraseña necesaria para descifrar el contenido. Ten en cuenta que las fuerzas de seguridad pueden, en algunas jurisdicciones, solicitar que se descifren los dispositivos, por ejemplo obligando al usuario a revelar la contraseña.
-* Las computadoras macOS modernas (modelos lanzados en 2018 o después) y la mayoría de las computadoras Windows 11 tendrán el cifrado de disco activado por defecto. Para comprobar si tu computadoras Windows está cifrada, consulta [esta guía](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838).
+* Es recomendable proteger las computadoras para salvaguardar la información que contienen, tanto asignando una contraseña segura para la cuenta/inicio de sesión, como cifrando el disco duro interno. Si el disco duro de una computadora está cifrado, nadie podrá acceder a la información que contiene sin la contraseña necesaria para descifrar el contenido. Tenga en cuenta que, en algunas jurisdicciones, las autoridades pueden solicitar que se desencripten los dispositivos, por ejemplo, obligando al usuario a revelar la contraseña.
+* Las computadoras modernas con macOS (modelos lanzados en 2018 o después) y la mayoría de las computadoras con Windows 11 tienen el cifrado de disco activado de forma predeterminada. Para saber si su computadora Windows está cifrada, consulte [esta guía](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838).
 
-* Si necesitas activar manualmente el cifrado, haz primero una copia de seguridad de todos los datos de los dispositivos antes de cifrarlos. De esta forma, si hay problemas durante el proceso de cifrado y no puedes acceder a tus datos, podrás restaurarlos desde las copias de seguridad.
-* También puedes cifrar tus unidades de copia de seguridad, algo especialmente importante si te preocupan los asaltos a tu casa u oficina o si viajas con copias de seguridad. Esto significa que cualquiera que acceda a tu unidad de copia de seguridad no podrá leer su contenido sin la contraseña que se utilizó para cifrarlas. Time Machine, el programa de copia de seguridad por defecto de macOS, permite realizar copias de seguridad cifradas. Los usuarios de las ediciones Pro de Windows pueden utilizar Bitlocker para cifrar sus unidades de copia de seguridad, mientras que los de las ediciones Home deberían utilizar idealmente [VeraCrypt](https://www.veracrypt.fr/en/Home.html), una herramienta de terceros de buena reputación.
+* Si necesita habilitar el cifrado manualmente, primero haga una copia de seguridad de todos los datos de los dispositivos antes de cifrarlos. De esa manera, si surgen problemas durante el proceso de cifrado y no puede acceder a sus datos, podrá restaurarlos de las copias de seguridad.
+* También puede cifrar sus discos de respaldo, algo que es especialmente importante si le preocupan los allanamientos de su casa u oficina, o si viaja con sus respaldos. Esto significa que cualquier persona que acceda a su disco de respaldo no podrá leer su contenido sin la contraseña que se utilizó para cifrarlo. Time Machine, el programa de respaldo predeterminado de macOS, permite realizar respaldos cifrados. Los usuarios de las ediciones Pro de Windows pueden usar BitLocker para cifrar sus unidades de respaldo, mientras que quienes utilizan las ediciones Home deberían, idealmente, usar [VeraCrypt](https://www.veracrypt.fr/en/Home.html), una herramienta de terceros acreditada.
 
-*Teléfonos móviles*
+_Teléfonos celulares_
 
-* Los teléfonos móviles siempre están conectados a los servicios que los rodean para recibir y transmitir información. Esto incluye torres de telefonía móvil, conexiones a Internet y Bluetooth. Todas estas conexiones proporcionan datos sobre los usuarios de teléfonos móviles, incluida su ubicación. Para una visión técnica y en profundidad de cómo funcionan los teléfonos móviles y cómo pueden revelar y filtrar las ubicaciones, consulte [este informe de Citizen Lab](https://citizenlab.ca/2023/10/finding-you-teleco-vulnerabilities-for-location-disclosure/).
-* ¿De qué está compuesto un teléfono móvil?
+* Los teléfonos celulares siempre están conectados a los servicios que los rodean para recibir y transmitir información. Esto incluye las torres de telefonía celular, las conexiones a Internet y el Bluetooth. Todas estas conexiones revelan datos sobre los usuarios de los teléfonos celulares, incluida su ubicación. Para obtener una visión técnica y detallada de cómo funcionan los teléfonos celulares y cómo pueden revelar y filtrar ubicaciones, consulte [este informe de Citizen Lab](https://citizenlab.ca/2023/10/finding-you-teleco-vulnerabilities-for-location-disclosure/).
+* ¿De qué está compuesto un teléfono celular?
 
-  * **Antena**: Permite la comunicación entre el teléfono y la red.
-  * **Batería**: Alimenta el aparato y ya no es extraíble.
-  * **Microprocesador de banda base**: Gestiona las comunicaciones del teléfono, incluidas las órdenes del usuario al teléfono y del teléfono a la red móvil.
-  * **Bluetooth**: Tecnología inalámbrica que utiliza la radiofrecuencia para compartir datos a una distancia limitada. Puede utilizarse en un teléfono para compartir documentos y otros datos, así como para conectarse a otros servicios que ofrezcan Bluetooth
-  * **GPS**: Significa Sistema de Posicionamiento Global. Se trata de un receptor en el teléfono que se conecta con los satélites. Puede desactivarse en la sección de ajustes del teléfono.
-  * **SIM y ranura SIM**: Donde se guarda la tarjeta SIM. Algunos teléfonos tienen la opción de doble tarjeta SIM. Algunos teléfonos utilizan ahora una eSIM en su lugar, que consiste en una computadora dedicado en el dispositivo que almacena los datos del abonado.
-* Todos los teléfonos móviles tienen un número de identidad único llamado número de Identidad de Equipo Móvil, también conocido como IMEI (Identidad Internacional de Equipo Móvil). Este número lo utilizan las empresas de telecomunicaciones para identificar un dispositivo y prestarle un servicio en su red. Un proveedor de red de telefonía móvil suele conocer la ubicación física de cada teléfono. Las personas pueden utilizarlo para localizar aparatos perdidos o robados. También puede ser utilizado por los gobiernos para localizar a personas. Esto puede ser un riesgo para los periodistas si se reúnen con fuentes sensibles o viajan a lugares que preferirían que otros no conocieran.
-* Todas las tarjetas SIM tienen además un número de identidad único, conocido como número IMSI. Cuando la tarjeta de teléfono móvil se conecta a la red, comparte este número con el proveedor. El IMSI contiene información sobre la tarjeta SIM, incluido el país en el que se emitió. Esta información está a disposición de los proveedores de telefonía móvil y les permite conocer su ubicación. Esta información puede compartirse con los gobiernos. Para quienes viven en países donde su número de identificación está vinculado a su tarjeta SIM, esto significa que el gobierno sabe qué tarjeta SIM están utilizando. Esto se conoce como tarjeta SIM registrada. Las tarjetas SIM no registradas son tarjetas SIM que no están vinculadas a su identidad.
-* Un teléfono móvil revela datos sobre la ubicación de un periodista y con quién se comunica. Estos datos los recopila la empresa de telecomunicaciones y pueden transmitirse a los gobiernos. Las compañías de telecomunicaciones recopilan otros datos, como el historial de llamadas telefónicas, los números de teléfono de las personas con las que te comunicas al hacer llamadas de móvil y los mensajes SMS.Si te proporcionan cobertura de internet también pueden estar obteniendo datos sobre tu historial de navegación. A estos datos pueden acceder personas de la empresa y también pueden obtenerlos los gobiernos.
-* Las unidades internas de todos los iPhones están cifrados por defecto, al igual que todos los dispositivos Android con Android 10 o posterior. Para activar el cifrado de un teléfono Android, asegúrese de que el dispositivo está cargado y enchufado, haga primero una copia de seguridad de cualquier contenido del dispositivo y, a continuación, siga las instrucciones de la sección de configuración del teléfono.
-* Además de las buenas prácticas descritas anteriormente, en la sección de buenas prácticas generales, se aconseja seguir los siguientes pasos para proteger el teléfono, los datos y el número de teléfono.
+  * **Antena**: Permite la comunicación entre el teléfono y la red
+  * **Batería**: Alimenta el dispositivo y ya no se puede extraer
+  * **Microprocesador de banda base**: Gestiona las comunicaciones del teléfono, incluyendo los comandos del usuario al teléfono y del teléfono a la red móvil
+  * **Bluetooth**: Una tecnología inalámbrica que utiliza radiofrecuencia para compartir datos a una distancia limitada. Se puede utilizar en un teléfono para compartir documentos y otros datos, así como para conectarse a otros servicios que ofrecen Bluetooth
+  * **GPS**: Significa Sistema de Posicionamiento Global. Es un receptor en el teléfono que se conecta con satélites. Se puede desactivar en la sección de ajustes del teléfono.
+  * **SIM y ranura para SIM**: Donde se almacena la tarjeta SIM. Algunos teléfonos tienen la opción de doble tarjeta SIM. Algunos teléfonos ahora utilizan una eSIM en su lugar, que consiste en un equipo integrado en el dispositivo que almacena los datos del suscriptor.
+* Todos los teléfonos celulares tienen un número de identificación único denominado _Mobile Equipment Identity_, también conocido como IMEI (en inglés _International Mobile Equipment Identity_, identidad internacional de equipo móvil). Las empresas de telecomunicaciones utilizan este número para identificar un dispositivo y brindarle servicio en su red. Por lo general, un proveedor de red de telefonía celular conoce la ubicación física de cada teléfono. Esto puede ser utilizado por las personas para localizar dispositivos perdidos o robados. También puede ser utilizado por los gobiernos para localizar a personas. Esto podría representar un riesgo para los periodistas si se reúnen con fuentes confidenciales o viajan a lugares que preferirían que otros desconozcan.
+* Todas las tarjetas SIM también tienen un número de identidad único conocido como número IMSI (del inglés _International Mobile Subscriber identity_). Cuando la tarjeta del celular se conecta a la red, comparte este número con el proveedor. El IMSI contiene información sobre la tarjeta SIM, incluido el país en el que fue emitida. Esta información está disponible para los proveedores de telefonía celular y les permite conocer su ubicación. Esta información puede compartirse con los gobiernos. Para quienes viven en países en los que su número de documento de identificación está vinculado a su tarjeta SIM, esto significa que el gobierno sabe qué tarjeta SIM están utilizando. Esto se conoce como una tarjeta SIM registrada. Las tarjetas SIM no registradas son aquellas que no están vinculadas a su identidad.
+* Un teléfono celular revela información sobre la ubicación de un periodista y con quién se comunica. La empresa de telecomunicaciones recopila estos datos y puede transmitirlos a los gobiernos. Las empresas de telecomunicaciones recopilan otros datos, como el historial de llamadas, los números de teléfono de las personas con quienes se comunica por llamadas y los mensajes de texto. Si le brindan servicio de Internet o datos móviles, también pueden estar obteniendo datos sobre su historial de navegación. El personal de la empresa puede acceder a estos datos, y los gobiernos también pueden obtenerlos.
+* Los discos internos de todos los iPhones están cifrados de forma predeterminada, al igual que todos los dispositivos Android con Android 10 o posteriores. Para activar el cifrado en un teléfono Android, asegúrese de que el dispositivo esté cargado y conectado a la corriente, haga primero una copia de seguridad de todo el contenido del dispositivo y, luego, siga las instrucciones que aparecen en la sección de ajustes del teléfono.
+* Además de las mejores prácticas descritas anteriormente, en la sección sobre buenas prácticas generales, se recomienda seguir los siguientes pasos para proteger su teléfono, sus datos y su número de teléfono:
 
-  * Cuando recibas una notificación, tu dispositivo podría mostrar el contenido completo del mensaje en la pantalla. Algunas configuraciones de dispositivos requieren que desbloquees el teléfono con tu cara o huella dactilar antes de ver la notificación completa, otras no. Puedes ajustar la visibilidad de las notificaciones en la sección de ajustes del teléfono.
-  * Muchos periodistas y otras personas en situación de riesgo podrían ser blanco de un ataque conocido como [SIM jacking](https://www.wired.com/story/sim-swap-attack-defend-phone/). Para reducir las posibilidades de este ataque, puedes llamar a tu proveedor de telefonía móvil y pedirle que active medidas adicionales, por ejemplo un PIN o una contraseña que tengas que darle, antes de que te ofrezca un duplicado de la tarjeta SIM.
-  * Desactivar el rastreo de localización de aplicaciones y servicios cuando dicho rastreo no sea absolutamente necesario para que la aplicación funcione. Para más información, consulte la [guía de seguridad sobre localización de dispositivos](https://internews.org/resource/device-location-security/) de Internews, y los artículos del Planificador de Seguridad de Consumer Reports sobre la revisión de permisos [Android](https://securityplanner.consumerreports.org/tool/review-android-app-permissions) e [iOS](https://securityplanner.consumerreports.org/tool/review-iphone-app-permissions).
-  * Asegúrate de que tus dispositivos tienen activada la función de borrado remoto, que te permitirá eliminar todo su contenido en caso de pérdida, incautación o robo. Ten en cuenta que el borrado remoto sólo funcionará si el dispositivo sigue conectado a Internet, por lo que algunos atacantes habilitarán la función de modo avión o pondrán el teléfono en una habitación sin cobertura para frustrar los intentos de borrado remoto. Lee cómo activar el borrado remoto para Apple [aquí](https://support.apple.com/en-gb/guide/icloud/mmfc0ef36f/icloud) y para Google [aquí](https://support.google.com/accounts/answer/6160491?hl=en).
+  * Cuando recibe una notificación, es posible que su dispositivo muestre el contenido completo del mensaje en la pantalla. Algunas configuraciones del dispositivo requieren que desbloquee el teléfono con su rostro o huella antes de poder ver la notificación completa; otras no. Puede configurar la visibilidad de las notificaciones en la sección de ajustes del teléfono.
+  * Muchos periodistas y otras personas en situación de riesgo podrían ser víctimas de un ataque conocido como [_SIM jacking_](https://www.wired.com/story/sim-swap-attack-defend-phone/). Para reducir las posibilidades de que se produzca este ataque, puede llamar a su proveedor de telefonía celular y pedirle que implemente medidas adicionales, como, por ejemplo, un PIN o una contraseña que deba proporcionarles antes de que le entreguen un duplicado de su tarjeta SIM.
+  * Desactive el seguimiento de la ubicación en las aplicaciones y servicios cuando dicho seguimiento no sea absolutamente necesario para que la aplicación funcione. Para obtener más información, consulte la [guía de seguridad sobre la ubicación de dispositivos](https://internews.org/resource/device-location-security/) de Internews y los artículos del Security Planner de Consumer Reports sobre cómo revisar los permisos de [iOS](https://securityplanner.consumerreports.org/tool/review-android-app-permissions) y [Android](https://securityplanner.consumerreports.org/tool/review-iphone-app-permissions).
+  * Asegúrese de que sus dispositivos tengan habilitada la función de borrado remoto, lo cual le permitirá eliminar todo el contenido que almacenen en caso de que se pierdan, sean incautados o robados. Tenga en cuenta que el borrado remoto solo funcionará si el dispositivo sigue conectado a Internet; por lo tanto, algunos atacantes activarán el modo avión o colocarán el teléfono en una habitación sin señal para frustrar los intentos de borrarlo de forma remota. Lea [aquí](https://support.apple.com/en-gb/guide/icloud/mmfc0ef36f/icloud) sobre cómo habilitar el borrado remoto para Apple y [aquí](https://support.google.com/accounts/answer/6160491?hl=en) para Google.
 
-*Software espía (Sypware)*
+_Spyware_
 
-*El spyware es una forma de malware que normalmente se utiliza para infectar teléfonos móviles con el fin de obtener información. Hay diferentes tipos de spyware y varían en la cantidad de datos que pueden recopilar y la forma en que infectan el teléfono.
-* Los gobiernos utilizan cada vez más programas espía sofisticados para vigilar a los periodistas y sus comunicaciones. Algunos ejemplos de este tipo de spyware son el spyware Pegasus y el spyware Predator. Puedes leer más sobre estos tipos de spyware [aquí](https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/). Una vez que este spyware está en un dispositivo, toda la actividad, incluidas las llamadas, el correo electrónico y otras aplicaciones vinculadas al dispositivo, puede ser monitorizada, grabada y compartida con otros.
-* Para introducir spyware en un dispositivo, el adversario puede dirigirse al usuario utilizando sofisticadas técnicas de spear phishing. Puedes leer más sobre phishing y spear phishing en el capítulo dos. Cada vez más, el spyware se inserta en un dispositivo sin que el usuario haga nada. Es lo que se conoce como ataque de "zero-click".
-* Si hay spyware en un dispositivo, todas las comunicaciones pueden ser controladas; esto incluye cualquier servicio cifrado de extremo a extremo, como Signal y WhatsApp. Esto se debe a que es el propio dispositivo el que está comprometido y el adversario está obteniendo datos directamente del teléfono.
-* Los dispositivos de Apple tienen un modo especial que reduce significativamente la probabilidad de infecciones por spyware, al tiempo que limita ciertas funciones. Se llama [Lockdown Mode](https://support.apple.com/en-gb/HT212650) y está disponible en iOS 16 y superiores para teléfonos, relojes, computadoras y iPads. Los periodistas con alto riesgo de ser infectados por programas espía deben activar este modo en sus dispositivos. Deben asegurarse de que otras personas que estén en alto riesgo (posiblemente sus compañeros de trabajo, familia, fuentes y otros) también activen el Modo de Bloqueo cuando sea posible.
-* Los dispositivos que ejecutan Android 16 también tienen un nuevo conjunto de características de seguridad llamadas [Protección Avanzada](https://security.googleblog.com/2025/05/advanced-protection-mobile-devices.html). Los periodistas con alto riesgo de sufrir spyware o ciberataques avanzados deberían activar esta función en sus dispositivos y animar a otras personas con alto riesgo (compañeros de trabajo, familiares, fuentes y otros) a hacer lo mismo.
-* Asegúrate de que el sistema operativo de tu teléfono móvil está actualizado. Esto, además del Modo de Bloqueo de iOS y la Protección Avanzada de Android, es la medida más eficaz que puede tomar, ya que el software espía aprovecha los errores de software que se corrigen en las actualizaciones posteriores.
+El _spyware_ es un tipo de _malware_ que normalmente se utiliza para infectar teléfonos celulares con el fin de obtener información. Existen diferentes tipos de _spyware_, que varían en la cantidad de datos que pueden recopilar y la forma en que infectan el teléfono.
+* Los gobiernos utilizan cada vez más _spyware_ sofisticado para vigilar a los periodistas y sus comunicaciones. Algunos ejemplos de este tipo de _spyware_ son «Pegasus» y «Predator». Puede leer más sobre este tipo de _spyware_ [aquí](https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/). Una vez que el _spyware está_ instalado en un dispositivo, toda la actividad, incluidas llamadas, correos electrónicos y otras aplicaciones vinculadas al dispositivo, puede ser monitoreada, grabada y compartida con terceros.
+* Para instalar _spyware_ en un dispositivo, el adversario puede dirigir su ataque al usuario mediante sofisticadas técnicas de _spear phishing_. Puede leer más sobre el _phishing_ y el _spear phishing_ en el capítulo dos. Cada vez es más frecuente que el _spyware_ se instale en un dispositivo sin que el usuario haga nada. A esto se le conoce como un ataque de cero clics.
+* Si hay _spyware_ en un dispositivo, todas las comunicaciones pueden ser monitoreadas; esto incluye cualquier servicio con cifrado de extremo a extremo, como Signal y WhatsApp. Esto se debe a que es el dispositivo mismo el que está comprometido y el adversario obtiene los datos directamente del teléfono.
+* Los dispositivos de Apple cuentan con un modo especial que reduce significativamente la probabilidad de infecciones por _spyware_, aunque limita ciertas funciones. Se llama «[Modo de bloqueo](https://support.apple.com/en-gb/HT212650)» y está disponible en iOS 16 y versiones posteriores para teléfonos, relojes, computadoras y iPads. Los periodistas que corren un alto riesgo de ser infectados por _spyware_ deben activar esta función en sus dispositivos. Deben asegurarse de que otras personas que también corren un alto riesgo (como sus colegas, familiares, fuentes y otros) activen el «Modo de bloqueo» cuando sea posible.
+* Los dispositivos Android 16 también cuentan con una nueva serie de funciones de seguridad llamada «[Protección avanzada](https://security.googleblog.com/2025/05/advanced-protection-mobile-devices.html)». Los periodistas que se encuentren en alto riesgo de sufrir ataques de _spyware_ o ciberataques avanzados deben activar esta función en sus dispositivos e invitar a otras personas en situación de alto riesgo (colegas, familiares, fuentes y otros) a hacer lo mismo.
+* Asegúrese de que el sistema operativo de su celular esté actualizado. Esto, junto con el Modo de bloqueo de iOS y la Protección avanzada de Android, es la medida más eficaz que puede tomar, ya que el _spyware_ se aprovecha de fallas de _software_ que se corrigen en actualizaciones posteriores.
 
-## Completar la evaluación de riesgos
+## Realización de la evaluación de riesgos
 
-Al hablar de la evaluación de riesgos y el plan de seguridad personal puede ser útil tocar lo siguiente:
+Al hablar sobre la evaluación de riesgos y el plan de seguridad personal, puede ser útil mencionar lo siguiente:
 
-* Al hacer que los periodistas piensen en la seguridad de los dispositivos, la persona formadora debe ayudarles a centrarse en el contenido que ya está en sus dispositivos y trabajar con ellos para pensar en cómo pueden crear un proceso para hacer copias de seguridad y eliminar la información.
-* Anima a los periodistas a determinar quién puede estar interesado en obtener sus dispositivos y/o el contenido de los mismos. Esto puede incluir a otras personas que ya tengan acceso físico al dispositivo, por ejemplo, miembros de la familia. Buenas preguntas para reflexionar
- * ¿Quién podría eliminar o borrar involuntariamente contenidos de mi dispositivo y cómo puedo protegerme contra ello?
- * ¿Qué probabilidades hay de que me roben o rompan el dispositivo cuando estoy cubriendo un evento?
- * ¿Tiene un gobierno que podría querer atacarme un historial de uso de programas espía y los ha utilizado contra periodistas?
- * ¿Qué probabilidades hay de que el gobierno me detenga y se lleve mis dispositivos?
-* Para mitigar estos riesgos, algunos periodistas prefieren retransmitir en directo durante los acontecimientos. Sin embargo, esto podría poner en peligro a las fuentes sensibles que aparezcan en la transmisión. El hecho de subir una copia de la información a la nube supone una contrapartida similar: aunque significa que la información permanece segura incluso si se destruyen o confiscan los dispositivos, también la expone a más solicitudes de datos por parte de las fuerzas de seguridad y otros organismos.
-* Es comprensible que los periodistas estén cada vez más preocupados por la posibilidad de ser infectados por programas espía. Puede ser útil hacerles reflexionar sobre su propio perfil de riesgo y si encaja con el de ser objetivo de un programa espía. Por ejemplo, ¿pertenecen a un país en el que el gobierno utiliza programas espía? Habla de los distintos tipos de programas espía y señale que los más sofisticados son caros, lo que significa que no se utilizan a gran escala.
+* Al hacer que los periodistas reflexionen sobre la seguridad de sus dispositivos, el instructor debe ayudarlos a enfocarse la información que ya tienen en sus dispositivos y trabajar con ellos para que piensen en cómo pueden crear un proceso para hacer copias de seguridad y eliminar información.
+* Anime a los periodistas a identificar a las personas que podrían estar interesadas en obtener sus dispositivos y/o la información que contienen. Esto puede incluir a otras personas que ya tengan acceso físico al dispositivo, por ejemplo, familiares. Algunas preguntas útiles que pueden plantearse son:
+ * ¿Quién podría eliminar información de mi dispositivo sin querer y cómo puedo protegerme contra eso?
+ * ¿Qué tan probable es que me roben o se me dañe el dispositivo cuando estoy cubriendo un evento?
+ * ¿Un gobierno que pudiera querer perseguirme tiene antecedentes de usar _spyware_ y lo ha utilizado contra periodistas?
+ * ¿Qué probabilidad hay de que el gobierno me detenga y me quite mis dispositivos?
+* Para mitigar esos riesgos, algunos periodistas preferirán transmitir en vivo durante los eventos. Sin embargo, esto podría poner en peligro a las fuentes confidenciales que aparezcan en la transmisión. Existe una disyuntiva similar al subir una copia de la información a la nube: si bien esto significa que la información permanece a salvo incluso si los dispositivos son destruidos o confiscados, también la expone a más solicitudes de datos por parte de las autoridades y otros.
+* Es comprensible que los periodistas estén cada vez más preocupados por la posibilidad de ser infectados por _spyware_. Puede ser útil hacerles reflexionar sobre su propio perfil de riesgo y si este los hace susceptibles de ser blanco de _spyware_. Por ejemplo, ¿son un país donde el gobierno utiliza _spyware_? Hable de los diferentes tipos de _spyware_ y resalte que el _spyware_ más sofisticado es costoso, lo que significa que no se implementa a gran escala.
 
 <div class="faq">
 
 ## Preguntas frecuentes
 
-A continuación se presentan algunas preguntas habituales que hacen los periodistas sobre la seguridad de las cuentas. Puede ser útil tener las respuestas preparadas de antemano.
+A continuación presentamos preguntas frecuentes que hacen los periodistas sobre la seguridad de las cuentas. Puede ser útil tener preparadas las respuestas con anticipación.
 
-**¿De verdad necesito un teléfono de trabajo? ¡Es un fastidio tener que cargar con dos dispositivos!**
+**¿De verdad necesito un celular de trabajo? ¡Es una molestia tener que andar con dos dispositivos!**
 
-Lo importante es que la persona formadora haga reflexionar al periodista sobre el riesgo que corre si no separa su trabajo de su vida personal en sus dispositivos. A partir de ahí, el periodista puede decidir si necesita un nuevo dispositivo. Buenas preguntas para la persona formadora: ¿corren tus dispositivos el riesgo de ser confiscados o infectados con malware específico, tienes que ponerte en contacto con contactos muy delicados o con personas que pueden estar infringiendo la ley?
+Lo importante aquí es que el instructor haga que el periodista reflexione sobre lo que está en riesgo si no separa su trabajo de su vida personal en sus dispositivos. Con base en esto, los periodistas pueden decidir por sí mismos si necesitan un nuevo dispositivo. Algunas preguntas útiles que el instructor puede plantear son: ¿sus dispositivos corren el riesgo de ser confiscados o infectados con _malware_ dirigido?, ¿tiene que comunicarse con contactos altamente confidenciales o con personas que podrían estar infringiendo la ley?
 
-**¿Cuánto sabe de mí mi proveedor de telefonía móvil?**
+**¿Qué sabe de mí mi proveedor de telefonía celular?**
 
-Explica que es difícil estar segura al cien por cien de cuántos datos recopila una empresa. Esto se debe a que los datos que recopilan a menudo están ocultos en largos términos y condiciones establecidos por la empresa y también pueden estar compartiendo datos con otras empresas sin su conocimiento. Un paso que pueden dar los periodistas es averiguar durante cuánto tiempo se exige legalmente a los proveedores de telefonía móvil que conserven los datos en su país y también si comparten esos datos con los gobiernos y cómo lo hacen. Para averiguarlo, pueden realizar una búsqueda en Internet con palabras clave como _retención de datos de telefonía móvil_ y _cita gubernamental_, entre otras.
-Siempre que tu teléfono móvil esté encendido y conectado a una red, tu operador de telecomunicaciones sabrá dónde se encuentra. Es una consecuencia inevitable de la forma en que se han diseñado las redes de telefonía móvil: la empresa de telecomunicaciones necesita saber dónde está el teléfono para enviarle la señal. Si a ti y a tu fuente les preocupa que una empresa de telecomunicaciones o un gobierno quiera rastrearlos a través de la ubicación de sus teléfonos móviles, no apaguen los teléfonos, sino dejenlos en un lugar que parezca normal (como una casa o una oficina) antes de reunirse con ellos. De ese modo, quien te rastree supondrá que ambos están en sus oficinas, en lugar de recibir la alerta de que vuestros dos teléfonos "se apagan".
-Las torres de telefonía móvil rastrean dispositivos, no personas. Si compras una nueva tarjeta SIM anónima y la colocas en un teléfono recién comprado, tu operador de telecomunicaciones verá un nuevo dispositivo, pero no podrá relacionarlo contigo a menos que vea que el dispositivo ha estado en los mismos lugares (casa, oficina, viaje de negocios) en los que tú has estado.
+Explique que es difícil estar cien por ciento seguro de la cantidad de datos que recopila una empresa. Esto se debe a que los datos que recopilan suelen estar ocultos en largos documentos de términos y condiciones establecidos por la empresa, y es posible que también compartan datos con otras empresas sin su conocimiento. Una medida que pueden tomar los periodistas es averiguar durante cuánto tiempo se les exige legalmente a los proveedores de telefonía celular que conserven los datos en su país, y también si comparten esos datos con los gobiernos y cómo lo hacen. Para averiguarlo, pueden realizar una búsqueda en línea con términos clave como «retención de datos de telefonía celular» y «citación judicial del gobierno», entre otras. Cada vez que su celular está encendido y conectado a una red, su proveedor de telecomunicaciones sabrá dónde se encuentra. Esta es una consecuencia inevitable de la forma en que se han diseñado las redes de telefonía celular: el proveedor necesita saber dónde está el celular para poder enviarle la señal. Si a usted y a su fuente les preocupa que una empresa de telecomunicaciones o el gobierno quiera rastrearlos a través de la ubicación de sus teléfonos celulares, no apaguen sus teléfonos, sino déjenlos en un lugar que parezca habitual (como su casa u oficina) antes de reunirse con ellos. De esa manera, cualquiera que los rastree asumirá que ambos están en sus oficinas, en lugar de sospechar que los teléfonos de ambos han dejado de estar activos. Las torres de telefonía celular rastrean dispositivos, no personas. Si compra una nueva tarjeta SIM anónima y la coloca en un teléfono recién comprado, su proveedor de servicios de telecomunicaciones detectará un nuevo dispositivo, pero es posible que no pueda vincularlo a usted a menos que observe que el dispositivo ha estado en los mismos lugares (casa, oficina, viajes de negocios) en los que usted ha estado.
 
-**Si borro contenido de mis dispositivos, ¿hay alguna forma de recuperarlo?**
+**Si elimino el contenido de mis dispositivos, ¿hay alguna forma de recuperarlo?**
 
-Explica que siempre hay una forma de recuperar los datos, pero depende de la capacidad técnica de las personas que puedan acceder a los dispositivos. Por ejemplo, un gobierno podría tener capacidad para hacerlo. Esta es una buena oportunidad para que los periodistas evalúen quién puede estar interesado en obtener sus dispositivos y lo incorporen a su plan de trabajo para proteger mejor sus materiales.
+Explique que siempre hay una forma de recuperar los datos, pero esto depende de la capacidad técnica de las personas que puedan tener acceso a los dispositivos. Por ejemplo, un gobierno podría tener las capacidades para hacerlo. Esta es una buena oportunidad para que los periodistas evalúen quién podría estar interesado en obtener sus dispositivos e incorporen esto en su plan de trabajo para proteger mejor sus materiales.
 
-**¿Cómo puedo saber si hay spyware en mi dispositivo?**
+**¿Cómo puedo saber si hay _spyware_ en mi dispositivo?**
 
-La persona formadora debe centrarse, en primer lugar, en hacer que el periodista considere si corre un alto riesgo de tener programas espía en sus dispositivos. Una buena pregunta es si viven en un país en el que el gobierno tiene antecedentes de uso de programas espía, si cubren noticias que les exponen a un mayor riesgo de ser víctimas de programas espía o si ellos o alguien que conocen ha sido atacado. Explica que existen distintos tipos de programas espía y que la única forma de saber con certeza si un dispositivo ha sido infectado es enviarlo a un análisis forense. Las personas formadoras pueden investigar antes de la clase si en su región hay laboratorios de amenazas u organizaciones que puedan realizar análisis forenses de dispositivos para organizaciones sin ánimo de lucro.
+El instructor debe enfocarse primero en que el periodista evalúe si corre un alto riesgo de tener _spyware_ en sus dispositivos. Algunas preguntas útiles que se pueden plantear son: si vive en un país donde el gobierno tiene antecedentes de usar _spyware_; si está cubriendo temas que lo exponen a un mayor riesgo de _spyware_; o si el periodista o alguien que conoce ha sido blanco de _spyware_. Explique que existen diferentes tipos de _spyware_ y que la única forma de estar seguro de que un dispositivo ha sido infectado es que sea analizado minuciosamente. Los instructores podrían investigar antes de la sesión si hay algún laboratorio de amenazas, u organizaciones sin ánimo de lucro que puedan realizar análisis periciales de dispositivos para organizaciones, en su región.
 
-**Dado el riesgo de spyware, ¿debería usar simplemente un teléfono básico (como un Nokia 3310) para llamadas sensibles?**
+**Dado el riesgo de _spyware_, ¿debería simplemente usar un celular básico (como un Nokia 3310) para las llamadas confidenciales?**
 
-Los teléfonos básicos no son susceptibles a gran parte del spyware moderno, pero no deberían utilizarse para comunicaciones confidenciales o sensibles. Las llamadas y los mensajes de texto enviados desde este tipo de teléfonos no están cifrados, y sería relativamente fácil para una empresa de telecomunicaciones o para un gobierno escucharlos o interceptarlos. En lugar de un teléfono básico, se recomienda usar un smartphone de una empresa reconocida, asegurarse de que el dispositivo reciba actualizaciones de software regularmente y que pueda ejecutar aplicaciones de mensajería cifrada como Signal o WhatsApp.
+Los teléfonos básicos no son vulnerables a la mayoría del _spyware_ moderno, pero no deben usarse para comunicaciones confidenciales o sensibles. Las llamadas y los mensajes de texto enviados desde esos teléfonos no están cifrados, por lo que sería relativamente fácil para una empresa de telecomunicaciones o el gobierno interceptarlos. En lugar de un teléfono básico, recomiende un _smartphone_ de una marca reconocida; asegúrese de que el dispositivo reciba actualizaciones de _software_ periódicas y de que pueda ejecutar aplicaciones de mensajería encriptadas como Signal y WhatsApp.
 
 </div>
 
@@ -167,10 +165,10 @@ Los teléfonos básicos no son susceptibles a gran parte del spyware moderno, pe
 
 Al final de la sesión los periodistas:
 
-* Sabrán qué información hay en sus dispositivos y en las cuentas vinculadas a sus dispositivos y comprenderán cómo esto podría ponerles en riesgo.
-* Serán capaces de tomar decisiones informadas sobre las mejores prácticas en función de su propio perfil de riesgo.
-* Comprenderán cómo cifrar su computadora y cómo verificar si su teléfono está cifrado.
-* Comprenderán mejor cómo funcionan los teléfonos móviles y los proveedores de telefonía móvil.
+* Sabrán qué contenido está almacenado en sus dispositivos y en las cuentas vinculadas a ellos, y entenderán cómo esto podría ponerlos en riesgo.
+* Serán capaces de tomar decisiones informadas sobre las mejores prácticas a seguir según su propio perfil de riesgo.
+* Entenderán cómo encriptar su computadora y cómo saber si su teléfono ha sido cifrado.
+* Comprenderán mejor cómo funcionan los teléfonos celulares y los proveedores de servicios de telefonía celular.
 
 </div>
 
@@ -180,10 +178,10 @@ Al final de la sesión los periodistas:
 
 Las siguientes plantillas y herramientas pueden ser útiles para impartir esta sesión:
 
-* Servicios de cifrado, como Bitlocker y Filevault. Encontrarás información más detallada al respecto al principio de este capítulo.
-* [Lockdown Mode](https://support.apple.com/en-gb/HT212650) de Apple y [Advanced Protection](https://support.google.com/android/answer/16339980?hl=es) de Android (no confundir con el otro [Advanced Protection Program](https://landing.google.com/advancedprotection/) de Google, que se centra en la seguridad de las cuentas) que protegen contra el spyware.
-* [Escenarios](/scenarios) para ayudar a los periodistas a proteger su teléfono
-* [Plantilla de evaluación de riesgos](/digital-risk-assessment-template)
+* Servicios de cifrado, como BitLocker y FileVault. Se puede encontrar información más detallada al respecto al inicio de este capítulo.
+* El [Modo de bloqueo](https://support.apple.com/en-gb/HT212650) de Apple y la [Protección avanzada](https://support.google.com/android/answer/16339980?hl=es) de Android (que no debe confundirse con el otro [Programa de Protección Avanzada](https://landing.google.com/advancedprotection/) de Google, que se enfoca en la seguridad de la cuenta) sirven para proteger contra el _spyware_.
+* [Situaciones hipotéticas](/scenarios) con las que se puede ayudar a los periodistas a proteger su teléfono.
+* [Plantilla de evaluación de riesgos](/digital-risk-assessment-template).
 
 </div>
 
@@ -191,206 +189,206 @@ Las siguientes plantillas y herramientas pueden ser útiles para impartir esta s
 
 ## Recursos
 
-Los siguientes recursos pueden ser útiles para la enseñanza de este capítulo:
+Los siguientes recursos pueden ser útiles para impartir esta sesión:
 
-[Cómo utilizan las compañías telefónicas nuestros datos personales](https://www.europeandatajournalism.eu/cp_data_news/How-phone-companies-use-our-personal-data/) de la Red Europea de Periodismo de Datos
+[Cómo utilizan las compañías telefónicas nuestros datos personales](https://www.europeandatajournalism.eu/cp_data_news/How-phone-companies-use-our-personal-data/) por la Red Europea de Periodismo de Datos
 
-[Doce millones de teléfonos, un conjunto de datos, privacidad cero](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) por el New York Times
+[Doce millones de teléfonos, un conjunto de datos, cero privacidad](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) por el New York Times
 
-[What to do if your phone is seized by the police](https://freedom.press/training/mobile-security-for-activists-and-journalists/) por Freedom of the Press Foundation
+[Qué hacer si la policía le confisca el celular](https://freedom.press/training/mobile-security-for-activists-and-journalists/) por la Fundación para la Libertad de Prensa
 
-[Seguridad física y digital: arresto y detención](https://cpj.org/2021/02/physical-and-digital-safety-arrest-and-detention/) del Comité para la Protección de los Periodistas
+[Seguridad física y digital: arrestos y detenciones](https://cpj.org/2021/02/physical-and-digital-safety-arrest-and-detention/) por el Comité para la Protección de los Periodistas
 
-[Controla los datos de tu smartphone](https://datadetoxkit.org/en/privacy/essentials) de Tactical Tech
+[Controle los datos de su _smartphone_](https://datadetoxkit.org/en/privacy/essentials) por Tactical Tech
 
-[Archivos Pegasus](https://citizenlab.ca/tag/pegasus/) de Citizen Lab
+[Los Archivos Pegasus](https://citizenlab.ca/tag/pegasus/) por Citizen Lab
 
-[Acerca del modo de bloqueo](https://support.apple.com/en-gb/HT212650) de Apple
+[Sobre el Modo de Bloqueo](https://support.apple.com/en-gb/HT212650) por Apple
 
-[Protección avanzada: la mayor seguridad de Google para dispositivos móviles](https://security.googleblog.com/2025/05/advanced-protection-mobile-devices.html) de Google
+[Protección Avanzada: la seguridad más sólida de Google para dispositivos móviles](https://security.googleblog.com/2025/05/advanced-protection-mobile-devices.html) por Google
 
-[Mejore la seguridad de sus dispositivos con Advanced Protection](https://support.google.com/android/answer/16339980?hl=en)
+[Mejore la seguridad de sus dispositivos con protección avanzada](https://support.google.com/android/answer/16339980?hl=en) por Google
 
 </div>
 
 ## Actividades
 
-Las siguientes actividades están diseñadas para acompañar esta sesión de formación sobre la seguridad de los dispositivos. Las personas formadoras deben sentirse libres de utilizar sus propias actividades, así como de adaptar los materiales de esta guía para que se ajusten mejor a las necesidades de los periodistas a los que están formando. El número y el tipo de actividades seleccionadas dependerán del nivel de conocimientos de la persona formadora, así como del tiempo que tenga para dedicar a los participantes. Para quienes se inicien en la formación en seguridad digital, no olviden consultar la sección [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez) para obtener orientación sobre las mejores prácticas.
+Las actividades presentadas a continuación están diseñadas para complementar esta sesión de capacitación sobre seguridad de los dispositivos. Los instructores deben sentirse libres de usar sus propias actividades, así como de adaptar los materiales de esta guía para ajustarse mejor a las necesidades de los periodistas a los que están capacitando. El número y tipo de actividades seleccionadas dependerán del nivel de conocimiento del instructor, así como del tiempo que disponga para dedicar a los participantes. Para quienes son nuevos en formación sobre seguridad digital, no olviden consultar la sección [¿Es la primera vez que capacita sobre seguridad digital?](#es-la-primera-vez-que-capacita-sobre-seguridad-digital) para obtener orientación sobre las mejores prácticas.
 
-### Cómo empezar
+### Primeros pasos
 
-#### ¿Qué hay en tus dispositivos?
-
-<div class="table">
-
-| Resultados del aprendizaje | Tiempo | Nivel de dificultad | Recursos |
-|----------------------------|--------|---------------------|----------|
-| Los periodistas son más conscientes de los contenidos almacenados en sus dispositivos y de cómo pueden ponerlos en peligro a ellos y a otros. | 60 minutos | — | Pizarra blanca o rotafolio, bolígrafos, notas adhesivas. |
-
-</div>
-
-❶ **Primer paso**
-
-* Pon a los periodistas en parejas y repárteles un paquete de notas adhesivas.
-* A continuación, pide a los periodistas que piensen qué tipo de contenido tienen en sus dispositivos. Pídeles que escriban un contenido en una nota post-it. Por ejemplo, una cuenta de correo electrónico, el contenido de la bandeja de entrada y también la cuenta en la nube vinculada a la cuenta de correo electrónico.
-* Da a los periodistas cinco minutos para completar la actividad.
-* Pídeles que trabajen con su compañero para agrupar el contenido en categorías, por ejemplo, documentos de trabajo, aplicaciones de redes sociales.
-
-❷ **Segundo paso**
-
-* Facilite una conversación sobre lo que los periodistas aprendieron al realizar esta actividad. Plantea las siguientes preguntas
-
-  * ¿Les sorprendió la cantidad de datos e información que había en sus dispositivos?
-  * ¿Aprendieron algo sorprendente?
-  * ¿Qué información está en peligro? ¿Qué medidas crees que puedes tomar para protegerla?
-
-### Construcción de conocimientos
-
-#### Hablar de buenas prácticas
+#### ¿Qué hay en sus dispositivos?
 
 <div class="table">
 
-| Resultados del aprendizaje | Tiempo | Nivel de dificultad | Recursos |
+| **Resultados del aprendizaje** | **Tiempo** | **Nivel de dificultad** | **Recursos** |
 |----------------------------|--------|---------------------|----------|
-| Los periodistas entienden lo básico sobre cómo proteger sus dispositivos | 30–45 minutos | Medio | Pizarra blanca o rotafolios, bolígrafos de pizarra, diapositivas de PowerPoint preparadas por la persona formadora, incluyendo casos de estudio que muestren el contexto local |
+| Los periodistas son cada vez más conscientes de qué información se almacena en sus dispositivos y cómo puede ponerlos a ellos y a otras personas en riesgo. | 60 minutos | Bajo | Pizarra blanca o rotafolio, marcadores para pizarra, _Post-its_ |
 
 </div>
 
-*Nota para la persona formadora: las mejores prácticas para esta actividad se pueden encontrar en la sección "¿Formación sobre seguridad digital por primera vez?", situada al principio de este capítulo. Es posible que la persona formadora quiera utilizar ejemplos locales de cómo la gente ha apuntado a los dispositivos, por ejemplo, dispositivos incautados durante protestas.*
+❶ **Paso uno**
 
-❶ **Primer paso**
+* Divida a los periodistas en parejas y reparta un paquete de _post-its_.
+* Luego, pídales que piensen qué tipo de contenido tienen en sus dispositivos. Pídales que escriban un tipo de contenido en cada nota adhesiva. Por ejemplo, una cuenta de correo electrónico, el contenido de la bandeja de entrada y también la cuenta en la nube vinculada a esa cuenta de correo electrónico.
+* Concédales cinco minutos para completar la actividad.
+* Pídales que trabajen con su compañero para agrupar el contenido en categorías, por ejemplo, documentos de trabajo o aplicaciones de redes sociales.
 
-* Pregunta a los periodistas qué medidas toman actualmente para proteger sus dispositivos.
+❷ **Paso dos**
 
-  * Utilizando sus respuestas como punto de partida, repasa las mejores prácticas generales para proteger los dispositivos, incluyendo:
-  * Una breve descripción de cómo los adversarios atacan los dispositivos.
-  * La importancia de no dejar los dispositivos desbloqueados sin vigilancia, por ejemplo en habitaciones de hotel o en conferencias.
-  * Tener cuidado con lo que se conecta a los dispositivos, incluidas las memorias USB que pueden contener malware.
-  * La importancia de actualizar los sistemas operativos, las aplicaciones y los navegadores cuando se les solicite. Explique que esto ayuda a corregir las vulnerabilidades del código que pueden ser explotadas por agentes maliciosos.
-  * Utilizar las funciones antivirus integradas en el sistema operativo o un antivirus de terceros.
-  * Proteger los dispositivos con contraseñas, bloqueos con pin y biométricos. Puede ser útil discutir los pros y los contras de estas opciones en función del perfil de riesgo del periodista.
-  * Un breve vistazo al phishing y al malware. En el capítulo dos se incluyen orientaciones detalladas sobre la protección contra el phishing.
-  * La importancia de cifrar los dispositivos. Explica que este capítulo tratará sobre cómo cifrar las computadoras.
+* Facilite una discusión sobre lo que los periodistas aprendieron al realizar esta actividad. Plantee las siguientes preguntas:
 
-Con cada uno de estos pasos puede ser útil que los periodistas piensen por qué están llevando a cabo esta buena práctica y contra qué les protege en términos de su propio análisis de riesgos.
+  * ¿Se sorprendió por la cantidad de datos que hay en sus dispositivos?
+  * ¿Aprendió algo sorprendente?
+  * ¿Qué información está en riesgo? ¿Qué medidas cree que puede tomar para protegerla?
 
-❷ **Segundo paso**
+### Desarrollo del conocimiento
 
-* Cierre la sesión pidiendo a los periodistas que piensen y discutan las siguientes preguntas
-
-  * ¿Qué creo que hago bien cuando se trata de asegurar mis dispositivos?
-  * ¿Qué necesito hacer ahora para asegurar mejor mis dispositivos?
-
-#### II Malware: lo básico
+#### I. Discutiendo las mejores prácticas
 
 <div class="table">
 
-| Resultados del aprendizaje | Tiempo | Nivel de dificultad | Recursos |
+| **Resultados del aprendizaje** | **Tiempo** | **Nivel de dificultad** | **Recursos** |
 |----------------------------|--------|---------------------|----------|
-| Los periodistas entienden cómo el malware puede infectar los dispositivos y qué medidas pueden tomar para protegerse contra él. | 60 minutos | Medio | Pizarra blanca o rotafolios, bolígrafos de pizarra, diapositivas de PowerPoint preparadas por la persona formadora, incluyendo casos de estudio de contextos locales |
+| Los periodistas conocen los conceptos básicos sobre cómo proteger sus dispositivos | 30 - 45 minutos | Medio | Pizarra o rotafolio, marcadores para pizarra, diapositivas de PowerPoint preparadas por el instructor, que incluyan estudios de casos que exponen el contexto local |
 
 </div>
 
-*Este ejercicio ha sido adaptado del capítulo de Level Up Malware y otro software malicioso.*
+_Nota para el instructor: las mejores prácticas para esta actividad pueden encontrarse en la sección_ [_¿Es la primera vez que capacita sobre seguridad digital?_](#es-la-primera-vez-que-capacita-sobre-seguridad-digital)_, ubicada al inicio de este capítulo. Es posible que el instructor quiera utilizar ejemplos locales de cómo se han incautado dispositivos, por ejemplo, dispositivos incautados durante manifestaciones._
 
-*Nota para la persona formadora: las mejores prácticas para esta actividad se pueden encontrar en la sección "¿Formación en seguridad digital por primera vez?", al principio de este capítulo.*
+❶ **Paso uno**
 
-❶ **Primer paso**
+* Pregunte a los periodistas qué medidas toman actualmente para proteger sus dispositivos.
 
-* Explica a los participantes qué es el malware y repasa algunos de los tipos de malware que existen. Se recomienda cubrir lo siguiente:
+  * Utilizando sus respuestas como punto de partida, repase las mejores prácticas generales para proteger los dispositivos, entre esas:
+  * Un breve resumen de cómo los adversarios escogen de blanco a los dispositivos
+  * La importancia de no dejar dispositivos desbloqueados y desatendidos, por ejemplo, en habitaciones de hotel o en conferencias
+  * Estar atentos a lo que conectan a sus dispositivos, incluidas memorias USB que podrían contener _malware_.
+  * La importancia de actualizar los sistemas operativos, las aplicaciones y los navegadores cuando se les pida hacerlo. Explique que esto ayuda a corregir vulnerabilidades en el código que podrían ser aprovechadas por personas malintencionadas.
+  * El uso de las funciones antivirus integradas en su sistema operativo o un antivirus de terceros.
+  * Proteger los dispositivos con contraseñas, códigos PIN y datos biométricos. Puede ser útil analizar las ventajas y desventajas de estas opciones según el perfil de riesgo de cada periodista.
+  * Una breve introducción al _phishing_ y al _malware_. El capítulo dos incluye una guía detallada sobre cómo protegerse contra el _phishing_.
+  * La importancia de cifrar los dispositivos. Explique que este capítulo abordará cómo cifrar computadoras
 
-  * Troyanos
-  * Spyware
-  * Ransomware
-  * Keylogger
+En cada uno de estos pasos, puede ser útil hacer que los periodistas reflexionen sobre el porqué aplican estas buenas prácticas y contra qué los protegen, según su propio análisis de riesgos.
+
+❷ **Paso dos**
+
+* Cierre la sesión pidiendo a los periodistas que reflexionen y discutan las siguientes preguntas:
+
+  * ¿Qué siento que hago bien en cuanto a la seguridad de mis dispositivos?
+  * ¿Qué necesito hacer ahora para proteger mejor mis dispositivos?
+
+#### II. _Malware_: conceptos básicos
+
+<div class="table">
+
+| **Resultados del aprendizaje** | **Tiempo** | **Nivel de dificultad** | **Recursos** |
+|----------------------------|--------|---------------------|----------|
+| Los periodistas entienden cómo el _malware_ puede infectar los dispositivos y qué medidas pueden tomar para protegerse contra él. | 60 minutos | Medio | Pizarra o rotafolio, marcadores para pizarra, diapositivas de PowerPoint preparadas por el instructor, que incluyan estudios de casos que exponen el contexto local |
+
+</div>
+
+_Este ejercicio es una adaptación del artículo «Malware y otros tipos de software malicioso» de Level Up._
+
+_Nota para el instructor: Las mejores prácticas para esta actividad pueden encontrarse en la sección_ [_¿Es la primera vez que capacita sobre seguridad digital?_](#es-la-primera-vez-que-capacita-sobre-seguridad-digital)_, ubicada al inicio de este capítulo._
+
+❶ **Paso uno**
+
+* Explique a los participantes qué es el _malware_ y repase algunos de los tipos de _malware_ que existen. Se recomienda abordar los siguientes temas:
+
+  * Troyano
+  * _Spyware_
+  * _Ransomware_
+  * _Keylogger_
   * Virus
 
 ❷ **Paso dos**
 
-* Explicar algunas de las formas más comunes en que los dispositivos se infectan con malware, y las prácticas inseguras que pueden conducir a tales infecciones.
-* También es importante explicar los diferentes propósitos o motivaciones que hay detrás de las infecciones de malware:
+* Explique algunas de las formas más comunes en que los dispositivos se infectan con _malware_, así como las prácticas inseguras que pueden provocar dichas infecciones.
+* También es importante explicar los diferentes propósitos o motivaciones detrás de la distribución de _malware_:
 
-  * Algunos programas maliciosos se difunden a gran escala sin un objetivo concreto;
-  * Otros se dirigen específicamente a activistas, periodistas o disidentes para acceder a sus datos o comunicaciones;
-  * Otros se dirigen a personas que se sabe que están conectadas con varios activistas, periodistas o disidentes con la esperanza de infectar a múltiples objetivos a través de una red.
-
-❸ **Tercer paso**
-
-* Muestre ejemplos locales de diferentes tipos de ataques de malware y genere un debate entre los participantes sobre esta cuestión. Las preguntas sobre las que puede hablar incluyen, ¿ha visto alguno de estos tipos de ataques? ¿Son los periodistas de esta región objetivo de este tipo de malware? ¿Quién se dirige a ti con este tipo de ataques?
-
-❹ **Paso cuatro**
-
-* Pregunte a los periodistas qué hacen actualmente para protegerse contra el malware.
-* Explícales que una de las mejores formas de proteger sus computadoras es activar el antivirus que viene por defecto con su sistema operativo.
-* Explica que los programas maliciosos suelen descargarse en los dispositivos a través de ataques de phishing. La persona formadora puede explicar a los periodistas las mejores prácticas para protegerse contra el phishing en el capítulo 2.
-
-#### III Cifrar una computadora
-
-<div class="table">
-
-| Resultados del aprendizaje | Tiempo | Nivel de dificultad | Recursos |
-|----------------------------|--------|---------------------|----------|
-| El periodista observa el proceso de cifrado de una computadora y se siente en confianza cifrando sus propios dispositivos en casa | 60 minutos | Avanzado | Pizarra blanca o rotafolio, bolígrafos de pizarra, proyector y configuración del portátil |
-
-</div> <div>
-
-*Nota para la persona formadora: este ejercicio está diseñado para personas formadoras de nivel avanzado. Prepare la tecnología antes del taller. Necesitará un computadora de prueba para esta actividad. Muestra FileVault para Mac, BitLocker/Cifrado de disco para Windows o VeraCrypt para todos los sistemas operativos, en función de las computadoras que vayan a utilizar los participantes.*
-
-*La mejor práctica para esta actividad se puede encontrar en la sección Formación en seguridad digital por primera vez, al principio de este capítulo.*
-
-❶ **Primer paso**
-
-* Pregunta a los periodistas por qué creen que es importante cifrar su unidad de disco. Averigua si alguien en la sala tiene experiencia en cifrar sus dispositivos y/o qué sabe la gente sobre el proceso de cifrado.
-* Explica que hay diferentes formas de cifrar una unidad en función de si el usuario utiliza Windows (BitLocker funciona en las ediciones Pro de Windows, Windows Disk Encryption funciona en las ediciones Home) o macOS (el cifrado por hardware por defecto en los Mac más nuevos o FileVault son las soluciones ideales, entonces). VeraCrypt también es excelente y funciona en todos los sistemas operativos.
-
-❷ **Paso dos**
-
-* Di a los periodistas que vas a hacerles una demostración práctica de cómo cifrar un computadora.
-* Explica que es una buena práctica hacer primero una copia de seguridad de los datos de los dispositivos antes de cifrarlos. Asegúrate de que las copias de seguridad también están cifradas y protegidas por una contraseña segura. Puedes cifrar las copias de seguridad utilizando Bitlocker en Windows Pro, VeraCrypt en Windows Home, y utilizando copias de seguridad cifradas de Time Machine en macOS.
-* Explica que una vez que la computadora esté cifrada necesitará una contraseña para poder acceder al contenido del dispositivo. Esta contraseña es lo que los periodistas utilizan para iniciar sesión en el dispositivo, por lo que deben asegurarse de que la contraseña sigue las mejores prácticas para la creación de contraseñas como se detalla en el capítulo dos.
-* Explica la importancia de crear y guardar de forma segura una clave de seguridad. Explica que si alguien intenta acceder al dispositivo y no puede entrar, el servicio bloqueará la computadora y pedirá la clave de seguridad para desbloquearlo.
-* Guía al periodista por el proceso paso a paso para cifrar el dispositivo.
+  * Algunos tipos de _malware_ se difunden a gran escala sin un objetivo específico;
+  * Otros se dirigen específicamente a activistas, periodistas y opositores para obtener acceso a sus datos o comunicaciones;
+  * Y otros se dirigen a personas que se sabe que están conectadas con varios activistas, periodistas y opositores, con la esperanza de infectar a múltiples objetivos a lo largo de una red.
 
 ❸ **Paso tres**
 
-* Responde a cualquier pregunta que los periodistas puedan tener.
+* Presente ejemplos locales de diferentes tipos de ataques de malware y propicie una discusión entre los participantes al respecto. Algunas preguntas que podrían plantear incluyen: ¿han visto algunos de estos tipos de ataques? ¿Los periodistas de esta región son blanco de este tipo de malware? ¿Quién los tiene como objetivo de este tipo de ataques?
 
-#### IV ¿Cómo funciona tu dispositivo móvil?
+❹ **Paso cuatro**
+
+* Pregunte a los periodistas qué están haciendo actualmente para protegerse contra el _malware_.
+* Explique que una de las mejores formas de proteger sus computadoras es activar el antivirus que viene con su sistema operativo.
+* Explique que el _malware_ suele descargarse en los dispositivos a través de ataques de _phishing_. El instructor tal vez quiera guiar a los periodistas por las mejores prácticas para protegerse contra el _phishing_ en el capítulo dos.
+
+#### III. Cifrado de una computadora
 
 <div class="table">
 
-| Resultados del aprendizaje | Tiempo | Nivel de dificultad | Recursos |
+| **Resultados del aprendizaje** | **Tiempo** | **Nivel de dificultad** | **Recursos** |
 |----------------------------|--------|---------------------|----------|
-| Los periodistas aprenden sobre la relación entre las redes móviles y los teléfonos móviles y cómo los datos que recogen pueden ponerlos en peligro | 90 minutos | Medio | Pizarra blanca o rotafolio, bolígrafos de pizarra, diapositivas de PowerPoint preparadas por la persona formadora, ejemplos locales de cómo se han utilizado los teléfonos móviles para rastrear a los ciudadanos |
+| Los periodistas observan cómo se cifra una computadora y se sienten cómodos al cifrar sus propios dispositivos en casa | 60 minutos | Avanzado | Pizarra o rotafolio, marcadores para pizarra, proyector y computadora portátil |
+
+</div> <div>
+
+_Nota para el instructor: este ejercicio está diseñado para instructores de nivel avanzado. Prepare el equipo técnico antes del taller. Necesitará una computadora de prueba para esta actividad. Presente FileVault para Mac, BitLocker/Cifrado de disco para Windows o VeraCrypt para todos los sistemas operativos, dependiendo de qué computadoras sea más probable que utilicen los participantes._
+
+_Las mejores prácticas para esta actividad pueden encontrarse en la sección ¿Es la primera vez que capacita sobre seguridad digital?, ubicada al inicio de este capítulo._
+
+❶ **Paso uno**
+
+* Pregunte a los periodistas por qué creen que es importante cifrar su disco duro. Averigüe si alguien en la sala tiene experiencia en cifrar sus dispositivos y/o qué saben sobre el proceso de cifrado.
+* Explique que existen diferentes formas de cifrar un disco, dependiendo de si el usuario utiliza Windows (BitLocker funciona en las ediciones Pro de Windows, mientras que el cifrado de disco de Windows funciona en las ediciones Home) o macOS (en ese caso, las soluciones ideales son el cifrado de _hardware_ predeterminado de las Mac más nuevas o FileVault). VeraCrypt también es una excelente opción y funciona en todos los sistemas operativos.
+
+❷ **Paso dos**
+
+* Dígales a los periodistas que les va a dar una demostración práctica de cómo cifrar una computadora.
+* Explique que es una buena práctica hacer una copia de seguridad de los datos en los dispositivos antes de cifrarlos. Asegúrese de que las copias de seguridad también estén cifradas y protegidas con una contraseña segura. Puede cifrar las copias de seguridad usando BitLocker en Windows Pro, VeraCrypt en Windows Home y Time Machine en macOS.
+* Explica que, una vez que la computadora esté cifrada, se necesitará una contraseña para acceder al contenido del dispositivo. Esta contraseña es la que los periodistas usarán para iniciar sesión en el dispositivo, por lo que deben asegurarse de que cumpla con las mejores prácticas para la creación de contraseñas, tal como se detalla en el capítulo dos.
+* Hable de la importancia de crear y almacenar de manera segura una clave de respaldo. Explique que, si alguien intenta acceder al dispositivo y no puede entrar, el servicio bloqueará la computadora y solicitará la clave de respaldo para desbloquearla.
+* Guíe al periodista paso a paso por el proceso de cifrado del dispositivo.
+
+❸ **Paso tres**
+
+* Responda cualquier pregunta que puedan tener los periodistas.
+
+#### IV. ¿Cómo funciona su dispositivo móvil?
+
+<div class="table">
+
+| **Resultados del aprendizaje** | **Tiempo** | **Nivel de dificultad** | **Recursos** |
+|----------------------------|--------|---------------------|----------|
+| Los periodistas aprenden sobre la relación entre las redes móviles y los teléfonos celulares, y cómo los datos que recopilan pueden ponerlos en riesgo | 90 minutos | Medio | Pizarra o rotafolio, marcadores para pizarra, diapositivas de PowerPoint preparadas por el instructor, ejemplos locales de cómo se han utilizado teléfonos celulares para rastrear ciudadanos |
 
 </div>
 
-*Este ejercicio ha sido adaptado del capítulo de Level Up ¿Cómo funcionan los dispositivos móviles?*
+_Este ejercicio es una adaptación del artículo «¿Cómo funcionan los dispositivos móviles?» de Level Up._
 
-*Nota para la persona formadora: las mejores prácticas para esta actividad se pueden encontrar en la sección Formación en seguridad digital por primera vez, al principio de este capítulo.*
+_Nota para el instructor: Las mejores prácticas para esta actividad pueden encontrarse en la sección ¿Es la primera vez que capacita sobre seguridad digital?, ubicada al inicio de este capítulo._
 
-❶ **Primer paso**
+❶ **Paso uno**
 
-* Explica a los periodistas que vas a repasar el vocabulario clave relacionado con los teléfonos móviles. Para ello, puedes utilizar una presentación en PowerPoint y emplear el lenguaje mencionado en la sección sobre teléfonos móviles de la guía ¿Formación en seguridad digital por primera vez? Esto incluye:
+* Dígales a los periodistas que va a repasar algunos términos clave relacionados con los teléfonos celulares. Esto se puede hacer mediante una presentación de PowerPoint y puede utilizar el vocabulario mencionado en la sección sobre teléfonos celulares de la sección _¿Es la primera vez que capacita sobre seguridad digital?_. Esto incluye:
 
   * Antena
   * Batería
   * Bluetooth
   * GPS
-  * SIM y ranura SIM
-  * Medios extraíbles
+  * SIM y ranura para SIM
+  * Dispositivos extraíbles
   * Micrófono y altavoz
 
-❷ **Segundo paso**
+❷ **Paso dos**
 
-* Hablar sobre cómo se identifica el usuario en la red. Esto incluye:
+* Explique cómo el usuario es identificado en la red. Esto incluye:
 
   * Número IMEI
   * Número IMSI
   * Tarjetas SIM registradas y no registradas
-* Dar una visión general de los datos que la red y otros pueden ver, incluyendo:
+* Ofrezca una visión general de los datos que pueden ver la red y otros usuarios, entre ellos:
 
-  * Celda de red
+  * Red móvil
   * Ubicación
   * Metadatos
   * Aplicaciones y datos de localización
@@ -398,128 +396,128 @@ Con cada uno de estos pasos puede ser útil que los periodistas piensen por qué
 
 ❸ **Paso tres**
 
-* Pon a los periodistas en grupos y pídeles que identifiquen qué riesgos supone llevar un teléfono móvil. Por ejemplo, la localización por GPS.
-* Pídeles que piensen cuáles de estos riesgos son aplicables en sus propias circunstancias.
-* Pregunte a los periodistas si conocen algún caso local en el que se haya rastreado a periodistas utilizando su teléfono móvil. La persona formadora puede proporcionar algunos ejemplos de la vida real.
+* Divida a los periodistas en grupos y pídales que identifiquen los riesgos que conlleva tener un celular. Por ejemplo, el rastreo por GPS.
+* Pídales que reflexionen sobre cuáles de estos riesgos son aplicables a su propia situación.
+* Pregunte a los periodistas si conocen algún caso local en el que se haya rastreado a periodistas a través de su celular. En este punto, el instructor puede aportar algunos ejemplos reales.
 
-#### V Proteger el teléfono móvil
+#### V. Cómo proteger su celular
 
 <div class="table">
 
-| Resultados del aprendizaje | Tiempo | Recursos |
+| **Resultados del aprendizaje** | **Tiempo** | **Recursos** |
 |----------------------------|--------|----------|
-| Los periodistas aprenden las mejores prácticas para proteger su dispositivo y el contenido que contiene.<br>Los periodistas son capaces de tomar una decisión informada sobre las medidas que deben adoptar en función de su perfil de riesgo. | 90 minutos | Pizarra blanca o rotafolio, rotuladores, diapositivas de PowerPoint preparadas por la persona formadora. |
+| Los periodistas aprenden las mejores prácticas para proteger sus dispositivos y el contenido que almacenan. Los periodistas pueden tomar una decisión informada sobre las medidas que deben adoptar en función de su perfil de riesgo. | 90 minutos | Pizarra o rotafolio, marcadores para pizarra, diapositivas de PowerPoint preparadas por el instructor. |
 
 </div>
 
-*Nota para la persona formadora: las mejores prácticas para esta actividad pueden encontrarse en la sección [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez), situada al principio de este capítulo.*
+_Nota para el instructor: Las mejores prácticas para esta actividad pueden encontrarse en la sección_ [_¿Es la primera vez que capacita sobre seguridad digital?_](#es-la-primera-vez-que-capacita-sobre-seguridad-digital)_, ubicada al inicio de este capítulo._
 
-❶ **Primer paso**
+❶ **Paso uno**
 
-* Pon a los periodistas en pequeños grupos y pídeles que trabajen juntos para determinar qué hacen actualmente para proteger sus teléfonos móviles y el contenido que contienen. Pregúntales si hay ciertos escenarios en los que se sienten más preocupados por la seguridad del dispositivo.
-* Facilita una discusión sobre el tema y anota en la pizarra las mejores prácticas que aporten.
+* Divida a los periodistas en grupos pequeños y pídales que trabajen juntos para identificar qué medidas toman actualmente para proteger sus teléfonos celulares y el contenido que almacenan en ellos. Pregúnteles si hay situaciones específicas en las que se sienten más preocupados por la seguridad del dispositivo.
+* Modere un debate sobre el tema y anote en la pizarra cualquier práctica recomendada que propongan.
 
-❷ **Segundo paso**
+❷ **Paso dos**
 
-* Guía a los periodistas a través de las mejores prácticas para proteger sus dispositivos móviles. Esta guía se puede encontrar al principio de este capítulo en la sección [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez). La persona formadora puede hablar de lo siguiente:
+* Explique a los periodistas las mejores prácticas para proteger sus dispositivos móviles. Estas recomendaciones se pueden encontrar al inicio de este capítulo, en la sección [_¿Es la primera vez que capacita sobre seguridad digital?_](#es-la-primera-vez-que-capacita-sobre-seguridad-digital). El instructor puede abordar los siguientes temas:
 
-  * Cifrar el teléfono
+  * Cifrado del teléfono
   * Copia de seguridad y eliminación de datos del dispositivo
   * Bloqueo del teléfono
-  * Configurar un dispositivo para borrarlo a distancia
-  * Desactivar el seguimiento de la ubicación
-  * Borrar el historial de navegación
-* Pregunta a los periodistas cuál de estas buenas prácticas les parece más aplicable.
+  * Configuración del dispositivo para el borrado remoto
+  * Desactivación del rastreo de ubicación
+  * Eliminación del historial de navegación
+* Pregunte a los periodistas cuál de estas prácticas consideran que es más aplicable a su caso.
 
-❸ **Tercer paso**
+❸ **Paso tres**
 
-*Nota para la persona formadora: tendrá que utilizar el escenario I para el siguiente ejercicio.*
+_Nota para el instructor: necesitará la Situación hipotética I para el siguiente ejercicio._
 
-* Pon a los periodistas en pequeños grupos y diles que van a leer un escenario.
-* Pide a los periodistas que trabajen juntos para responder a la pregunta del escenario y planificar la mejor manera de proteger al periodista.
-* Organiza una discusión en la sesión sobre la situación y pregunta a los periodistas qué medidas han tomado para proteger al periodista.
+* Divida a los periodistas en grupos pequeños y dígales que van a leer una situación hipotética.
+* Pida a los periodistas que trabajen juntos para responder a la pregunta de la situación hipotética y planifiquen cuál es la mejor manera de proteger al periodista.
+* Organice una discusión grupal sobre la situación hipotética y pregunte a los periodistas qué medidas han tomado para proteger al periodista.
 
-#### VI Mejor protección contra los programas espía
+#### VI. Mejor protección contra el _spyware_
 
 <div class="table">
 
-| Resultados del aprendizaje | Tiempo | Nivel de dificultad | Recursos |
+| **Resultados del aprendizaje** | **Tiempo** | **Nivel de dificultad** | **Recursos** |
 |----------------------------|--------|---------------------|----------|
-| Los periodistas son capaces de tomar decisiones informadas sobre las mejores prácticas para protegerse mejor contra el spyware.<br>Los periodistas son capaces de evaluar mejor si están en riesgo de ser blanco de spyware | 60 minutos | Medio | Pizarra blanca o rotafolios, bolígrafos de pizarra, diapositivas PPT creadas por la persona formadora, un caso de estudio de un periodista blanco de spyware en la región |
+| Los periodistas pueden tomar decisiones informadas sobre las mejores prácticas para protegerse mejor contra el _spyware_. Los periodistas pueden evaluar mejor si corren el riesgo de ser blanco de _spyware_. | 60 minutos | Medio | Pizarra o rotafolio, marcadores para pizarra, diapositivas de PowerPoint preparadas por el instructor, un caso de estudio sobre un periodista que fue blanco de _spyware_ en la región |
 
 </div>
 
-*Nota para la persona formadora: Existe mucha ansiedad en torno a los programas espía. Intenta dar pasos prácticos que los periodistas puedan dar para protegerse de ellos.*
+_Nota para el instructor: Existe mucha ansiedad y preocupación en torno al spyware. Intente ofrecer medidas prácticas que puedan tomar los periodistas para protegerse de él._
 
-*Las mejores prácticas para esta actividad se pueden encontrar en la sección [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez), ubicada al principio de este capítulo. La persona formadora puede utilizar ejemplos locales de cómo se han infectado dispositivos con programas espía sofisticados.*
+_Las mejores prácticas para esta actividad pueden encontrarse en la sección_ [_¿Es la primera vez que capacita sobre seguridad digital?_](#es-la-primera-vez-que-capacita-sobre-seguridad-digital)_, ubicada al inicio de este capítulo. Es posible que el instructor quiera utilizar ejemplos locales de cómo se han infectado dispositivos con spyware sofisticado._
 
-❶ **Primer paso**
+❶ **Paso uno**
 
-* Escribe Pegasus en la pizarra y pregunta a los periodistas qué saben sobre él.
-* Diles que van a leer el caso de un periodista infectado por Pegasus. Después de leer el caso, discutan sobre él. Puedes utilizar las siguientes preguntas:
+* Escriba «Pegasus» en la pizarra y pregunte a los periodistas qué saben al respecto.
+* Explique que van a leer el caso de un periodista que fue víctima de «Pegasus». Una vez que hayan leído el caso, discútanlo. Puede utilizar las siguientes preguntas:
 
-  * ¿Ha habido casos similares en su región?
-  * ¿Por qué crees que atacaron al periodista?
-  * ¿Qué información crees que pudieron obtener para el teléfono del periodista?
-* Pida a los periodistas que se tomen un tiempo para pensar y escribir la información general que puedan tener en su teléfono o en sus cuentas y que no les gustaría que otros encontraran. No es necesario que transmitan esta información al grupo si no se sienten cómodos haciéndolo. Diles que la sesión tratará más adelante algunas buenas prácticas para proteger mejor esos datos.
-* Haz una descripción general de los programas espía. Puede ser útil disponer de diapositivas e ilustraciones para hablar de ello.
+  * ¿Han tenido algún caso similar en su región?
+  * ¿Por qué creen que el periodista fue blanco de este ataque?
+  * ¿Qué información creen que pudieron obtener del teléfono del periodista?
+* Pida a los periodistas que se tomen un tiempo para pensar y anotar el tipo de información que puedan tener en su teléfono o en sus cuentas y que no querrían que otros encontraran. No tienen que compartir esta información con el grupo si no se sienten cómodos haciéndolo. Dígales que más adelante en la sesión se abordarán algunas prácticas recomendadas para proteger mejor esos datos.
+* Ofrezca una visión general del _spyware_. Puede ser útil tener diapositivas e ilustraciones para hablar de este tema.
 
-  * Pegasus es uno de los muchos tipos de programas espía.
-  * Los programas espía varían en cuanto a su sofisticación y a la forma en que infectan los dispositivos.
-  * Utiliza ejemplos para mostrar las distintas formas en que los programas espía han infectado los dispositivos, incluidos los ataques de phishing selectivo. Encontrará más información sobre este tipo de ataques en el capítulo 2.
-  * Hablar de los ataques "zero-click".
-* Guía a los periodistas a través de las mejores prácticas para protegerse contra los programas espía. Los puntos a mencionar pueden incluir:
+  * «Pegasus» es uno de los muchos tipos de _spyware_.
+  * El _spyware_ varía en cuanto a su sofisticación y la forma en que infecta los dispositivos.
+  * Utilice ejemplos para mostrar las diferentes formas en que el _spyware_ ha infectado dispositivos, incluidos los ataques de _spear phishing_. Se puede encontrar más información sobre este tipo de ataques en el capítulo dos.
+  * Hable sobre los ataques de cero clics.
+* Exponga a los periodistas algunas prácticas recomendadas para protegerse contra el _spyware_. Algunos puntos que se pueden mencionar son:
 
-  * Nunca se puede estar cien por cien seguro contra los programas espía; sólo existe la opción de gestionar el riesgo. Cuanto más arriesgado sea el perfil del periodista en términos de spyware, más medidas tendrá que tomar para intentar proteger sus dispositivos.
-  * Haz que los periodistas reflexionen sobre si corren un alto riesgo de contraer programas espía, teniendo en cuenta, entre otras cosas, las siguientes consideracionesLa ubicación y el uso de programas espía en esa región, los reportajes que cubren, el medio para el que trabajan y su notoriedad.
-  * Importancia de actualizar los dispositivos para protegerlos del malware.
-  * Realizar un restablecimiento de fábrica del dispositivo si se sospecha que está infectado. Deben hacer una copia de seguridad del dispositivo antes de restablecerlo.
-  * Activar el [Modo de aislamiento] (https://support.apple.com/en-gb/HT212650) en los dispositivos Apple con iOS 16 o superior, si el periodista corre un alto riesgo de sufrir ataques selectivos.
-  * Activar la [Protección Avanzada](https://security.googleblog.com/2025/05/advanced-protection-mobile-devices.html), [(enlace alternativo)](https://support.google.com/android/answer/16339980?hl=en) para dispositivos Android con Android 16 o superior, si el periodista está en alto riesgo de ataques dirigidos.
-  * Limitar la cantidad de contenido en el teléfono, incluidas las aplicaciones. Por ejemplo, evitar vincular el correo electrónico del trabajo al teléfono.
-  * En la medida de lo posible, tener dispositivos separados para el trabajo y el uso personal.
-  * Las mejores prácticas para protegerse de los ataques de phishing. Consulta el capítulo 2 para obtener más información al respecto.
-* Concluye la sesión con las siguientes preguntas:
+  * Nunca se puede estar cien por ciento seguro contra el _spyware_; solo existe la opción de gestionar el riesgo. Cuanto mayor sea el riesgo al que se exponga el periodista en cuanto al _spyware_, más medidas deberá tomar para proteger sus dispositivos.
+  * Haga que los periodistas reflexionen sobre si se encuentran en una situación de alto riesgo frente al _spyware_, teniendo en cuenta su ubicación y el uso de _spyware_ en esa región, los temas que cubren, el medio para el que trabajan y su nivel de notoriedad.
+  * La importancia de actualizar los dispositivos para protegerse contra el _malware._
+  * Realice un restablecimiento de fábrica del dispositivo si le preocupa que esté infectado. Deben hacer una copia de seguridad del dispositivo antes de restablecerlo.
+  * Active el [Modo de bloqueo](https://support.apple.com/en-gb/HT212650) en dispositivos Apple con iOS 16 o superior, si el periodista corre un alto riesgo de sufrir ataques dirigidos.
+  * Active la [Protección avanzada](https://security.googleblog.com/2025/05/advanced-protection-mobile-devices.html) ([enlace alternativo](https://support.google.com/android/answer/16339980?hl=en)) en dispositivos Android con Android 16 o superior, si el periodista corre un alto riesgo de sufrir ataques dirigidos.
+  * Limite la cantidad de contenido en su teléfono, incluidas las aplicaciones. Por ejemplo, evite vincular su correo electrónico de trabajo a su teléfono.
+  * Siempre que sea posible, tenga dispositivos separados para el trabajo y el uso personal.
+  * Mejores prácticas para protegerse contra los ataques de _phishing_. Consulte el capítulo dos para obtener más detalles al respecto.
+* Concluya la sesión haciendo las siguientes preguntas::
 
-  * ¿Consideras que conoces mejor los programas espía?
-  * ¿Qué medidas debes tomar para estar más seguro?
+  * ¿Siente que ahora tiene una mejor comprensión sobre el _spyware_?
+  * ¿Qué medidas debe tomar para estar más seguro?
 
-❷ **Segundo paso**
+❷ **Paso dos**
 
-* Guía a los periodistas a través de las mejores prácticas para proteger sus dispositivos móviles. Esta guía se encuentra al principio de este capítulo, en la sección [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez). La persona formadora puede hablar de lo siguiente:
+* Explique a los periodistas las mejores prácticas para proteger sus dispositivos móviles. Estas recomendaciones se pueden encontrar al inicio de este capítulo, en la sección [_¿Es la primera vez que capacita sobre seguridad digital?_](#es-la-primera-vez-que-capacita-sobre-seguridad-digital). El instructor puede abordar los siguientes temas:
 
-  * Cifrar el teléfono
-  * Copia de seguridad y eliminación de datos del dispositivo
+  * Cifrado del teléfono
+  * Copia de seguridad y eliminación datos del dispositivo
   * Bloqueo del teléfono
-  * Configurar un dispositivo para borrarlo a distancia
-  * Desactivar el seguimiento de la ubicación
-  * Borrar el historial de navegación
-* Pregunta a los periodistas cuál de estas buenas prácticas les parece más aplicable.
+  * Configuración del dispositivo para el borrado remoto
+  * Desactivación del rastreo de ubicación
+  * Eliminación del historial de navegación
+* Pregunte a los periodistas cuál de estas prácticas consideran que es más aplicable a su caso.
 
-❸ **Tercer paso**
+❸ **Paso tres**
 
-*Nota para la persona formadora: tendrá que utilizar el escenario I para el siguiente ejercicio.
+_Nota para el instructor: necesitará la Situación hipotética I para el siguiente ejercicio._
 
-* Pon a los periodistas en pequeños grupos y diles que van a leer un escenario.
-* Pide a los periodistas que trabajen juntos para responder a la pregunta del escenario y planificar la mejor manera de proteger al periodista.
-* Organiza una discusión en la sesión sobre la situación y pregunta a los periodistas qué medidas han tomado para proteger al periodista.
+* Divida a los periodistas en grupos pequeños y dígales que van a leer una situación hipotética.
+* Pida a los periodistas que trabajen juntos para responder a la pregunta de la situación hipotética y planifiquen cuál es la mejor manera de proteger al periodista.
+* Organice una discusión grupal sobre la situación hipotética y pregunte a los periodistas qué medidas han tomado para proteger al periodista.
 
 ## Plan de seguridad personal
 
-### Completar la evaluación de riesgos
+### Realización de la evaluación de riesgos
 
 <div class="table">
 
-| Resultados del aprendizaje | Tiempo | Recursos |
+| **Resultados del aprendizaje** | **Tiempo** | **Recursos** |
 |----------------------------|--------|----------|
-| Los periodistas reflexionan sobre su riesgo individual y el riesgo asociado con una historia en particular cuando utilizan sus dispositivos.<br>Los periodistas son capaces de pensar en la mitigación de esos riesgos. | 20–30 minutos | [Plantilla de evaluación de riesgos](/digital-risk-assessment-template) |
+| Los periodistas analizan los riesgos individuales y los riesgos asociados a un reportaje en particular cuando utilizan sus dispositivos. Los periodistas son capaces de pensar en medidas para mitigar esos riesgos. | 20 - 30 minutos | [Plantilla de evaluación de riesgos](/digital-risk-assessment-template) |
 
 </div>
 
 ## Caso de estudio
 
-Este caso de estudio acompaña al material del curso y ofrece a los periodistas ejemplos reales de amenazas digitales contra los trabajadores de los medios de comunicación. Los casos de estudio pueden utilizarse para promover el debate entorno a distintos tipos de riesgos, así como para enseñar a los periodistas los pasos necesarios para protegerse mejor a sí mismos y a los demás.
+Este caso de estudio complementa el material del curso y ofrece a los periodistas ejemplos reales de amenazas digitales contra trabajadores de medios de comunicación. Los estudios de caso pueden utilizarse para fomentar el debate sobre los diferentes tipos de riesgos, así como para enseñar a los periodistas las medidas que deben tomar para protegerse mejor a sí mismos y a los demás.
 
-Nuestro artículo: [Confiscación del teléfono de un periodista en un viaje del Pentágono a Europa](/case-studies#telefono-confiscado)
+Nuestro artículo: [Le confiscaron el celular a un reportero durante un viaje del Pentágono a Europa](/case-studies#telefono-confiscado)
 
-Informe de US Press Freedom Tracker: [El teléfono de un reportero de Reuters confiscado en un viaje del Pentágono a Europa](https://pressfreedomtracker.us/all-incidents/reuters-reporters-phone-confiscated-on-pentagon-trip-to-europe/)
+Artículo de US Press Freedom Tracker: [Confiscan el celular de un reportero de Reuters durante un viaje del Pentágono a Europa](https://pressfreedomtracker.us/all-incidents/reuters-reporters-phone-confiscated-on-pentagon-trip-to-europe/)
