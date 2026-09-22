@@ -9,62 +9,62 @@ toc = true
 
 ## Introducción
 
-Los periodistas se enfrentan a una amplia gama de amenazas digitales debido al trabajo que realizan. Estas amenazas van desde el abuso en línea a el robo de cuentas, pasando por los programas espía, y tienen graves consecuencias tanto para los propios periodistas como para la libertad de expresión. Aunque estos retos son importantes, hay medidas que los periodistas pueden tomar para protegerse. La primera es comprender el riesgo digital y cómo mitigarlo.
+Los periodistas se enfrentan a una amplia variedad de amenazas digitales debido al trabajo que realizan. Estas amenazas van desde el ciberacoso hasta el _hackeo_ informático y el _software_ espía, y tienen consecuencias muy graves tanto para los periodistas como para la libertad de expresión. Aunque estos retos son importantes, existen medidas que los periodistas pueden adoptar para protegerse. La primera de ellas es comprender los riesgos digitales y cómo mitigarlos.
 
 
-## ¿Estás capacitando a periodistas por primera vez?
+## ¿Es la primera vez que capacita periodistas?
 
-Echa un vistazo a nuestra útil guía:
+Revise nuestras útiles recomendaciones a continuación:
 
-- Los periodistas se enfrentan a una amplia gama de amenazas digitales porque a menudo revelan información que otros no quieren que se haga pública y también porque los periodistas suelen estar de cara al público y necesitan tener presencia en Internet. Esto les convierte, por desgracia, en un blanco fácil para los ataques digitales.
-- No todos los periodistas se enfrentan a los mismos riesgos digitales. Los riesgos a los que se enfrentan dependen de una serie de factores, como los temas sobre los que informan, quiénes son las personas o grupos que quieren atacarles (adversarios) y cuáles son sus conocimientos tecnológicos y su capacidad, el país en el que se encuentran los periodistas y sus adversarios y la capacidad tecnológica de ese gobierno, los conocimientos tecnológicos de los periodistas y si ya han sido identificados como objetivos.
-- Aunque los periodistas saben que la seguridad digital es un tema importante, puede que no tengan tiempo para dedicarle.
-- Los periodistas pueden estar utilizando consejos de seguridad digital obsoletos.
-- Los periodistas utilizan a menudo sus dispositivos personales para trabajar; con frecuencia tienen muy poca separación entre su trabajo y su vida personal, tanto en línea como fuera de ella.
-- Una evaluación de riesgos digitales es un documento con preguntas que ayuda a los periodistas a reflexionar sobre los riesgos digitales a los que se enfrentan, así como sobre las formas de reducirlos. Los periodistas pueden o no estar familiarizados con las evaluaciones de riesgos, ya que pueden haber tenido que completar una evaluación de riesgos físicos para algunas historias.
+- Los periodistas se enfrentan a una amplia variedad de amenazas digitales porque revelan con frecuencia información que otras personas no quieren que sea pública y porque suelen tener un perfil público y necesitan tener una presencia en línea. Desafortunadamente, esto los convierte en un blanco fácil para los ataques digitales.
+- No todos los periodistas enfrentan los mismos riesgos digitales. Los riesgos a los que se enfrentan dependen de una serie de factores, incluidos los temas sobre los que informan, quiénes son las personas o grupos de personas que quieren atacarlos (adversarios) y cuáles son sus capacidades y conocimientos tecnológicos, el país en el que se encuentran los periodistas y sus adversarios y la capacidad tecnológica de ese gobierno, qué tan hábiles en temas de tecnología son los periodistas, y si ya han sido identificados como objetivos.
+- Pese a que los periodistas saben que la seguridad digital es un tema importante, puede que no tengan tiempo para dedicarle.
+- Es posible que los periodistas estén siguiendo consejos de seguridad digital obsoletos.
+- Los periodistas suelen utilizar sus dispositivos personales para trabajar y, con frecuencia, la línea que separa su vida laboral de la personal es muy difusa, tanto en Internet como en la vida real.
+- Una evaluación de riesgos digitales es un documento con preguntas que ayuda a los periodistas a reflexionar sobre los riesgos digitales a los que se enfrentan, así como sobre formas para reducirlos. Puede que los periodistas estén familiarizados o no con las evaluaciones de riesgo, ya que quizá hayan tenido que realizar una evaluación de riesgos físicos para algunos reportajes.
 
-## ¿Estás impartiendo una formación en seguridad digital por primera vez?
+## ¿Es la primera vez que capacita sobre seguridad digital?
 
 
-Esta sección cubre las mejores prácticas que pueden utilizarse al enseñar las actividades de este capítulo. Para más información, consulte la sección [recursos](#recursos) de este capítulo.
+Esta sección incluye mejores prácticas que pueden aplicarse a la hora de impartir las actividades de este capítulo. Revise la sección de [recursos](#recursos) de este capítulo para más información.
 
-- Los periodistas se enfrentan a una amplia gama de riesgos digitales. Esto se debe a la naturaleza de su trabajo y a que a menudo publican información que otros no quieren que se haga pública.
-- Los adversarios pueden atacar a un periodista de diversas formas y por distintos motivos. Algunas amenazas habituales son
-  - Apoderarse de cuentas para obtener información guardada en ellas o publicar información que pueda desacreditar al periodista.
-  - Apoderarse de dispositivos o infectarlos con programas espía para obtener la información guardada en ellos.
-  - Vigilar su actividad en Internet, lo que navegan y cuándo lo hacen.
-  - Obtener información sobre sus investigaciones y sus contactos.
-  - Interceptar las comunicaciones
-  - Abuso en línea, con el objetivo de desalentarles de la profesión en su conjunto.
-  - Intentar desacreditar al periodista y debilitar su reputación, para que deje de publicar contenidos o para obligarle a desconectarse.
-- Conseguir que el periodista entienda quién puede querer atacarle y la capacidad tecnológica de ese adversario es una parte importante para mantenerle más seguro. Los gobiernos, por ejemplo, tienen acceso a altos niveles de capacidad tecnológica, así como la capacidad financiera para contratar a otros para cometer amenazas digitales en su nombre. Los adversarios no gubernamentales también pueden disponer de mucho tiempo, determinación o herramientas avanzadas. A veces, los adversarios gubernamentales y no gubernamentales trabajan codo con codo. Investiga la tecnología y la capacidad operativa de un adversario realizando una búsqueda en línea con el nombre del atacante más palabras clave, como hacking, spyware, ataques en línea. También es útil echar un vistazo a las distintas ATP (amenazas persistentes avanzadas) que operan en este momento, ver cuáles tienen como objetivo a los periodistas y qué técnicas utilizan.
-- Una evaluación de riesgos digitales es un documento con preguntas que ayuda a los periodistas a reflexionar sobre los riesgos digitales a los que se enfrentan, así como sobre las formas de reducirlos. Al final de cada sección de esta guía, los periodistas tienen la opción de completar una sección de una evaluación de riesgos.
+- Los periodistas se enfrentan a una amplia variedad de riesgos digitales. Esto se debe a la naturaleza de su trabajo y a que, con frecuencia, publican información que otros no quieren que se haga pública.
+- Los adversarios pueden estar en contra de un periodista de diversas maneras y por distintas razones. Algunas amenazas comunes incluyen:
+  - Tomar el control de sus cuentas para obtener la información guardada en ellas o publicar contenido que pueda desacreditar al periodista.
+  - Confiscar dispositivos o infectarlos con programas espía para obtener la información almacenada en ellos.
+  - Monitorear su actividad en Internet, incluidas las páginas visitan y cuándo lo hacen.
+  - Obtener información sobre sus investigaciones y las personas a quienes contactan.
+  - Interceptar sus comunicaciones.
+  - Ciberacoso, con el objetivo de disuadirlos de ejercer su profesión en general.
+  - Intentar desacreditar al periodista y buscar socavar su reputación, para lograr que deje de publicar o que abandone el entorno digital.
+- Lograr que el periodista entienda quién podría tener la intención de atacar y la capacidad tecnológica de dicho adversario es una parte importante para mantenerlo más seguro. Los gobiernos, por ejemplo, tienen acceso a altos niveles de capacidad tecnológica, así como a recursos financieros para contratar a terceros para que ejecuten amenazas digitales en su nombre. Los adversarios no gubernamentales también pueden tener mucho tiempo, determinación o herramientas avanzadas. En ocasiones, los adversarios gubernamentales y no gubernamentales trabajan de la mano. Se puede investigar la capacidad tecnológica y operativa de un adversario realizando una búsqueda en línea con el nombre del adversario junto con términos clave como hackeo informático (_hacking_), programas espía (_spyware_) o ataques en línea. También resulta útil observar las diversas APT (Amenazas Persistentes Avanzadas) que operan en este momento, ver cuáles se dirigen a los periodistas y qué técnicas utilizan.
+- Una evaluación de riesgos digitales es un documento con preguntas que ayuda a los periodistas a reflexionar sobre los riesgos digitales a los que se enfrentan, así como sobre las formas de reducirlos. Al final de cada sección de esta guía, los periodistas tienen la opción de completar una parte de una evaluación de riesgos.
 
-## Completar la evaluación de riesgos
+## Realización de la evaluación de riesgos
 
-Al hablar de la evaluación de riesgos y del plan de seguridad personal puede ser útil tocar los siguientes puntos:
+Al hablar sobre la evaluación de riesgos y el plan de seguridad personal, puede ser útil mencionar lo siguiente:
 
-- Haz que los periodistas se centren en los tipos de riesgos digitales a los que pueden enfrentarse en función de dónde vivan y del tipo de reportajes que cubran. Anímales a que piensen, busquen en Internet o hablen con otros periodistas de su región o que cubran la misma fuente y averigüen a qué riesgos se enfrentan. ¿Hay periodistas que hayan denunciado intentos de robo de sus cuentas? ¿Han recibido notificaciones en sus cuentas de que un adversario avanzado quiere entrar? ¿Han tenido que hacer frente a peticiones judiciales de sus datos? ¿Son frecuentes los abusos en línea y quién está detrás de ellos? Las respuestas a estas preguntas ayudarán a los periodistas a calibrar mejor su propio riesgo.
-- Pídeles que piensen en historias concretas o que podrían ser más arriesgadas que otras. Por ejemplo, ¿están cubriendo una noticia en la que las fuentes pueden causarles daño o están haciendo algo ilegal? ¿Reciben material sensible? ¿Tienen que ponerse en contacto con gente para hablar de un tema que podría considerarse delicado?
-- Pídeles que piensen en su visibilidad en Internet. ¿Comparten muchos datos sobre sí mismos? ¿Son de cara al público, por ejemplo, presentan un programa o escriben artículos de opinión? ¿Qué riesgo corren al hacer este trabajo?
+- Pida a los periodistas que se enfoquen en los tipos de riesgos digitales que podrían enfrentar según el lugar en el que viven y el tipo de historias que cubren. Anímelos a pensar, investigar en Internet o hablar con otros periodistas de su región o que cubran la misma fuente, y a descubrir los riesgos que enfrentan. ¿Algún periodista ha reportado intentos de hackeo informático o ingreso no autorizado en sus cuentas? ¿Alguien ha recibido notificaciones en sus cuentas de que un adversario avanzado quiere infiltrarse? ¿Han enfrentado solicitudes legales para entregar sus datos? ¿Es frecuente el ciberacoso y quién está detrás de él? Tener respuestas a estas preguntas ayudará a los periodistas a evaluar mejor su propio riesgo.
+- Hágales pensar en historias o fuentes particulares que podrían ser más riesgosas que otras. Por ejemplo, ¿están cubriendo una historia en la que las fuentes podrían causarles daño o están haciendo algo ilegal? ¿Están recibiendo información sensible o confidencial? ¿Tienen que contactar a personas para hablar sobre un tema que podría considerarse delicado?
+- Pídales que piensen en qué tan visibles son en Internet. ¿Comparten muchos datos sobre sí mismos? ¿Tienen un perfil público, por ejemplo, conducen un programa o escriben artículos de opinión? ¿Qué tanto riesgo corren al realizar este trabajo?
 
 <div class="faq">
 
 ## Preguntas frecuentes
 
-A continuación se presentan algunas preguntas frecuentes que hacen los periodistas sobre la seguridad de las cuentas. Puede ser útil tener las respuestas preparadas de antemano.
+A continuación presentamos preguntas frecuentes que hacen los periodistas sobre la seguridad de las cuentas. Puede ser útil tener preparadas las respuestas con anticipación
 
-**¿Qué es una evaluación de riesgos para la seguridad digital?**
+**¿Qué es una evaluación de riesgos digitales?**
 
-Explica que es un documento con preguntas que ayudan al periodista a pensar en los riesgos a los que podría enfrentarse, así como en las medidas que podría tomar para reducir ese riesgo. Diles que lo ideal sería que la evaluación de riesgos se completara con el apoyo de un editor y que la copia final se compartiera con el editor y/o el equipo con el que trabaja el periodista. Señale que es importante realizar una evaluación de riesgos para todas las historias que puedan incluir un riesgo digital. Esto podría incluir historias que impliquen contactar con fuentes sensibles, recibir información sensible o que puedan atraer la atención de adversarios poderosos que podrían querer lanzar campañas de abuso o intentar entrar en las cuentas de los periodistas.
+Explique que es un documento con preguntas que ayudan al periodista a analizar los riesgos que podría enfrentar, así como las medidas que puede tomar para reducirlos. Dígales que, idealmente, la evaluación de riesgos debería ser completada con la ayuda de un editor y el documento final debería compartirse con el editor y/o con el equipo en el que trabaja el periodista. Señale que es importante hacer una evaluación de riesgos para todos los reportajes que puedan conllevar riesgos digitales. Esto puede incluir reportajes que impliquen ponerse en contacto con fuentes delicadas, recibir información confidencial o sensible o que puedan llamar la atención de adversarios poderosos que quieran lanzar campañas de acoso o intentar acceder a las cuentas de los periodistas.
 
 **¿Por qué tengo que hacer una evaluación de riesgos?**
 
-Completar una evaluación de riesgos es la mejor manera de poder predecir el riesgo y luego mitigarlo. Así, los periodistas tendrán tiempo y espacio para adoptar las medidas de seguridad necesarias antes de publicar un artículo. De este modo, si surge un problema de seguridad, el periodista ya habrá tomado todas las medidas necesarias para garantizar la mayor seguridad posible y sabrá qué hacer en caso de incidente.
+Realizar una evaluación de riesgos es la mejor forma de preverlos y, posteriormente, mitigarlos. Le dará a los periodistas el tiempo y el margen necesarios para llevar a cabo las medidas de seguridad que necesiten adoptar con antelación a un reportaje. Esto significa que, si surge un problema de seguridad, el periodista ya habrá tomado las medidas necesarias para garantizar su máxima seguridad y sabrá qué hacer si un incidente ocurre.
 
-**Una vez realizada la evaluación de riesgos, ¿qué debo hacer con ella?**
+**Luego de haber completado la evaluación de riesgos, ¿qué debo hacer con ella?**
 
-Explica que es importante compartir la evaluación de riesgos con el redactor jefe u otras personas de la redacción que puedan necesitar acceder a ella. Si la evaluación de riesgos contiene datos sensibles, el periodista debe restringir su distribución y compartirla únicamente a través de canales encriptados, que se tratarán con más detalle en los capítulos 5 y 6 de esta guía.
+Explique que es importante compartir esa evaluación de riesgos con el editor o con otras personas de la redacción que podrían necesitar acceder a ella. Si la evaluación de riesgos contiene datos sensibles o privados, el periodista debe limitar su difusión y compartirla únicamente a través de canales cifrados, que serán explicados más a detalle en los capítulos cinco y seis de esta guía.
 
 </div>
 
@@ -72,11 +72,11 @@ Explica que es importante compartir la evaluación de riesgos con el redactor je
 
 ## Resultados del aprendizaje
 
-Al final de la sesión los periodistas:
+Al final de la sesión, los periodistas:
 
-- Serán más conscientes de cómo utilizan la tecnología en su vida cotidiana.
-- Comprenderán mejor las amenazas digitales a las que se enfrentan en función de su propio perfil de riesgo.
-- Entenderán qué es una evaluación de riesgos y cómo realizarla.
+- Tendrán mayor conciencia de cómo utilizan la tecnología en su día a día
+- Comprenderán mejor las amenazas digitales a las que se enfrentan con base en su propio perfil de riesgo
+- Sabrán qué es una evaluación de riesgos y cómo completarla
 
 </div>
 
@@ -84,7 +84,7 @@ Al final de la sesión los periodistas:
 
 ## Plantillas y herramientas
 
-Las siguientes plantillas y herramientas pueden ser útiles para impartir esta sesión:
+Las siguientes plantillas y herramientas pueden ser útiles para esta sesión:
 
 [Plantilla de evaluación de riesgos](/digital-risk-assessment-template)
 
@@ -96,119 +96,118 @@ Las siguientes plantillas y herramientas pueden ser útiles para impartir esta s
 
 Los siguientes recursos pueden ser útiles para la enseñanza de este capítulo:
 
-[Amenazas que silencian: tendencias en la seguridad de los periodistas](https://www.unesco.org/reports/world-media-trends/2021/en/safety-journalists) de la UNESCO
+[Amenazas que silencian: tendencias en seguridad de los periodistas](https://www.unesco.org/reports/world-media-trends/2021/en/safety-journalists) por la UNESCO
 
-[How technology is changing the harassment of journalists and what newsrooms can do about it](https://freedom.press/training/blog/mob-censorship-paper/) de Freedom of the Press Foundation
+[Cómo la tecnología está cambiando el acoso a los periodistas y qué pueden hacer las redacciones al respecto](https://freedom.press/training/blog/mob-censorship-paper/) por la Fundación para la Libertad de Prensa
 
-[Seguridad y evaluación de riesgos](https://rorypecktrust.org/how-we-help/freelance-resources/safety-and-risk-assessment/) de Rory Peck Trust
+[Seguridad y evaluación de riesgos](https://rorypecktrust.org/how-we-help/freelance-resources/safety-and-risk-assessment/) por la Fundación Rory Peck
 
-[Online Harassment Field Manual](https://onlineharassmentfieldmanual.pen.org/) de PEN America
+[Manual práctico sobre el ciberacoso](https://onlineharassmentfieldmanual.pen.org/) por PEN América
 
 </div>
 
 ## Actividades
 
-Las siguientes actividades están diseñadas para acompañar esta sesión de formación sobre la seguridad de las cuentas. Las personas formadoras deben sentirse libres de utilizar sus propias actividades, así como de adaptar los materiales de esta guía para que se ajusten mejor a las necesidades de los periodistas a los que están formando. El número y el tipo de actividades seleccionadas dependerán del nivel de conocimientos del formador, así como del tiempo que tenga para dedicar a los participantes. Para quienes se inicien en la formación sobre seguridad digital, no olvides consultar la sección [_¿Estás impartiendo formación en seguridad digital por primera vez?_](#estás-impartiendo-formación-en-seguridad-digital-por-primera-vez)
- para obtener orientación sobre las mejores prácticas.
+Las actividades presentadas a continuación están diseñadas para complementar esta sesión de capacitación sobre seguridad de cuentas. Los instructores deben sentirse libres de usar sus propias actividades, así como de adaptar los materiales de esta guía para ajustarse mejor a las necesidades de los periodistas a los que están capacitando. El número y tipo de actividades seleccionadas dependerán del nivel de conocimiento del instructor, así como del tiempo que disponga para dedicar a los participantes. Para quienes son nuevos en formación sobre seguridad digital, no olviden consultar la sección [_¿Es la primera vez que capacita sobre seguridad digital?_](#es-la-primera-vez-que-capacita-sobre-seguridad-digital) para obtener orientación sobre las mejores prácticas.
 
-### Primeros Pasos
+### Primeros pasos
 
-#### Tú y la tecnología
+#### La tecnología y usted
 
 <div class="table">
 
-| Resultados de aprendizaje                                                                                                                                                                                                                                                                                                                                 | Tiempo      | Nivel de dificultad | Recursos                                                     |
+| **Resultados del aprendizaje** | **Tiempo** | **Nivel de dificultad** | **Recursos** |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------- | ------------------------------------------------------------ |
-| Los participantes adquieren una comprensión más profunda del papel que desempeña la tecnología en su vida diaria<br> Los participantes comprenden cómo el uso que otras personas hacen de la tecnología puede ser un factor importante en su propia seguridad<br> La comprensión desarrollada en esta sesión ayudará a los participantes a identificar los riesgos relacionados con el uso de la tecnología en las siguientes dos sesiones | 30 minutos | Bajo                | Pizarra o rotafolio, marcadores, papel, bolígrafos, post-its |
+| Los participantes adquieren una visión más profunda sobre el papel que juega la tecnología en su cotidianidad. Los participantes entienden cómo el uso que otros hacen de la tecnología puede ser un factor importante para su propia seguridad. Los conocimientos desarrollados en esta sesión ayudarán a los participantes a identificar los riesgos relacionados con el uso de la tecnología en las próximas dos sesiones. | 30 minutos | Bajo | Pizarra blanca o rotafolio, marcadores para pizarra, papel, lapiceros, _Post-its_ |
 
 </div>
 
 
-❶ **Primer paso**
+❶ **Paso uno**
 
-- Pregunta a los participantes sobre su uso cotidiano del uso de la tecnología. Algunas preguntas clave podrían ser:
-- ¿Hasta qué punto disfrutan con la tecnología?
-- ¿Qué tan viejos son sus dispositivos o prefieren comprar los modelos más recientes?
-- ¿Quién más utiliza dispositivos en su casa? ¿Comparten dispositivos?
-- ¿Utilizan sus dispositivos personales para contenidos relacionados con el trabajo?
+- Pregunte a los periodistas sobre su uso cotidiano de la tecnología. Algunas preguntas clave incluyen:
+- ¿Qué tanto disfrutan con la tecnología?
+- ¿Qué tan antiguos son sus dispositivos? ¿O les gusta comprar los últimos modelos?
+- ¿Quién más usa dispositivos en su casa? ¿Comparten dispositivos?
+- ¿Usan sus dispositivos personales para contenidos relacionados con sus trabajos?
 
-❷ **Segundo paso**
+❷ **Paso dos**
 
-- Indica a los periodistas que van a dedicar un tiempo a mapear en una hoja de papel las distintas formas en las que interactúan con la tecnología. Esto puede incluir: marcas y modelos de dispositivos (si los conocen), quién tiene acceso a sus dispositivos, qué tipo de cuentas en línea tienen, por ejemplo, aplicaciones de mensajería o aplicaciones de entrega de comida, y dónde se encuentran estas aplicaciones, si utilizan alguna aplicación o servicio que comparta detalles como su ubicación, a qué dispositivos se conectan en su casa, por ejemplo, su televisor.
+- Dígales a los periodistas que van a trazar en un papel las diferentes formas en que interactúan con la tecnología. Esto puede incluir: marcas y modelos de dispositivos (si los conocen); quién tiene acceso a sus dispositivos; qué tipo de cuentas en línea tienen, por ejemplo, aplicaciones de mensajería o de entrega de comida, y dónde están ubicadas esas aplicaciones; si utilizan o no algunas aplicaciones o servicios que compartan datos como sus ubicaciones; y a qué dispositivos se conectan en sus casas, por ejemplo, su televisor.
 
 ❸ **Paso tres**
 
-- Espacio de reflexión o discusión sobre las formas en que los periodistas interactúan con la tecnología. Algunos puntos que se pueden abordar son: cómo utilizan la tecnología en el trabajo y en su vida personal, cómo influyen la familia y los amigos en la tecnología que utilizan y cómo interactúan con ella. ¿Existe alguna diferencia entre el uso que hacen de la tecnología en el trabajo y en su vida personal? Cómo su trabajo requiere tecnología y cuánto apoyo tienen de los medios de comunicación.
+- Organice un debate grupal enfocado en las formas en que los periodistas interactúan con la tecnología. Los puntos a discutir incluyen: ¿cómo usan la tecnología en sus trabajos y en sus vidas personales? ¿Cómo influyen sus amigos y familia en la tecnología que usan y la forma en que interactúan con ella? ¿Qué diferencias existen entre cómo usan la tecnología en el trabajo y en su vida personal? ¿Cómo sus trabajos exigen el uso de la tecnología y qué tanto apoyo reciben de los medios de comunicación?
 
-### Construcción del conocimiento
+### Desarrollo del conocimiento
 
-#### I Riesgo y tecnología
-
-<div class="table">
+#### I. Riesgo y tecnología
 
 <div class="table">
 
-| Resultados de aprendizaje                                                                                                                                                                                                                                                                    | Tiempo      | Nivel de dificultad | Recursos                  |
+<div class="table">
+
+| **Resultados del aprendizaje** | **Tiempo** | **Nivel de dificultad** | **Recursos** |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------- | ------------------------- |
-| Los periodistas comienzan a reflexionar sobre los riesgos que implica el uso de la tecnología tanto en su vida personal como en su entorno laboral, y sobre cómo su trabajo incrementa esos riesgos.<br> Los participantes adquieren una comprensión más profunda de cómo otras personas dentro de su red pueden aumentar o reducir su nivel de riesgo | 45 minutos | Medio               | Pizarra o rotafolio, bolígrafos |
+| Los periodistas empiezan a contemplar los riesgos asociados al uso de la tecnología, tanto en sus vidas personales como en sus entornos laborales, y cómo su trabajo potencia ese riesgo. Los participantes obtienen una visión más profunda sobre cómo otras personas de su red pueden potenciar o reducir sus riesgos. | 45 minutos | Medio | Pizarra o rotafolio, lapiceros |
 
 </div>
 
-_Nota para el formador: esta actividad es la continuación de la actividad introductoria del principio de este capítulo. En parte de esta actividad se pide a los periodistas que hablen de posibles temas delicados. Recuérdeles que no tienen por qué hablar de sus propias experiencias personales, sino que pueden hablar de temas más generales. Las mejores prácticas para esta actividad se pueden encontrar en la sección [_¿Formación en seguridad digital por primera vez?_](#formación-seguridad-digital-por-primera-vez), situada al principio de este capítulo._
+_Nota para el instructor: esta actividad es una continuación de la actividad introductoria del inicio de este capítulo. Partes de esta actividad requieren que los periodistas hablen sobre posibles temas sensibles. Recuérdeles que no tienen que hablar de sus propias experiencias personales, sino que pueden hablar de situaciones generales. Las mejores prácticas para esta actividad pueden encontrarse en la sección_ [_¿Es la primera vez que capacita sobre seguridad digital?_](#es-la-primera-vez-que-capacita-sobre-seguridad-digital)_, ubicada al inicio de este capítulo._
 
-❶ **Primer paso**
+❶ **Paso uno**
 
-- Pide a los periodistas que analicen su trabajo previo en torno al uso que hacen de la tecnología en el ejercicio anterior. Solicítales que reflexionen sobre los posibles riesgos que podrían enfrentar por el uso de la tecnología. Por ejemplo, ¿les preocupa que les roben sus cuentas? ¿Les preocupan los datos que las aplicaciones y los servicios recopilan sobre ellos? ¿Les gustaría saber más sobre cómo proteger documentos sensibles?
+- Pídale a los periodistas que revisen su trabajo sobre el uso de la tecnología del ejercicio anterior. Pídales que piensen en los posibles riesgos a los que se podrían enfrentar al usar tecnología. Por ejemplo, ¿les preocupa que hackeen sus cuentas? ¿Les preocupa qué datos personales recopilan las aplicaciones y servicios? ¿Qué más les gustaría aprender sobre cómo asegurar documentos sensibles?
 
-❷ **Segundo paso**
+❷ **Paso dos**
 
-- Escribe lo siguiente: ¿Qué quieres proteger? De quién lo vas a proteger? Cómo lo vas a proteger? ¿Qué pasa si no lo proteges?
-- Pide a los periodistas que analicen las preguntas y piensen a qué amenazas podrían enfrentarse. Pídeles que escriban las respuestas a las preguntas.
-- Ayúdalos a pensar en los tipos de datos que podrían ser más vulnerables, por ejemplo, datos financieros, documentos sensibles que les entregan las fuentes.
-- Piensa en quién puede ser su objetivo. Por ejemplo, ¿les preocupa que los delincuentes puedan robar su identidad? ¿Les preocupa que los gobiernos obtengan sus datos? ¿Podrían verse amenazados por grupos en línea que intenten robar su información?
-- Diles que es posible que aún no sepan cómo protegerse y que éstas serán habilidades que adquirirán durante la sesión de formación.
-- Anímales a pensar en el peor de los casos y en lo que ocurriría si alguien consiguiera acceder a sus datos. Explícales que pensar en lo que podríales ayudará a planificar mejor su protección.
-- Anima a los participantes a pensar en los riesgos que se producen cuando su vida personal se solapa con su profesión. Por ejemplo, utilizar el mismo teléfono para las comunicaciones laborales y personales.
+- Escriba lo siguiente: ¿qué quiere proteger? ¿De quién lo está protegiendo? ¿Cómo lo va a proteger? ¿Qué pasaría si no puede protegerlo?
+- Pídale a los periodistas que revisen las preguntas y reflexionen sobre las amenazas a las que se podrían enfrentar. Pídales que escriban las respuestas a las preguntas.
+- Ayúdelos a pensar qué tipos de datos podrían ser más vulnerables, por ejemplo, datos bancarios o documentos confidenciales entregados por sus fuentes.
+- Consideren quién podría tenerlos como objetivo. Por ejemplo, ¿les preocupa ser blanco de criminales que puedan robarles sus identidades? ¿Les preocupa que sus gobiernos obtengan sus datos? ¿Podrían ser amenazados por grupos en línea que intenten robar su información?
+- Dígales que puede que aún desconozcan cómo protegerse y que estas habilidades serán adquiridas a lo largo de la sesión de capacitación.
+- Invítelos a pensar en el peor de los casos y en lo que pasaría si alguien logra acceder a sus datos. Explique que pensar en lo que podría pasar les ayudará a planear cómo protegerlos mejor.
+- Anime a los participantes a pensar en qué situaciones surgen riesgos cuando sus vidas personales se superponen con sus vidas profesionales. Por ejemplo, al usar el mismo teléfono para comunicaciones personales y laborales.
 
 ❸ **Paso tres**
 
-- Facilita una discusión sobre este tema identificando amenazas comunes.
+- Promueva una discusión grupal sobre esto, identificando temas y amenazas comunes.
 
-#### II Presentación de la evaluación de riesgos
+#### II. Introducción a la evaluación de riesgos
 
 <div class="table">
 
-| Resultados de aprendizaje                                              | Tiempo      | Nivel de dificultad | Recursos                                                       |
+| **Resultados del aprendizaje** | **Tiempo** | **Nivel de dificultad** | **Recursos** |
 | ---------------------------------------------------------------------- | ----------- | ------------------- | -------------------------------------------------------------- |
-| Introducir a los participantes en la evaluación de riesgos y la mitigación de riesgos | 45 minutos | Medio               | Pizarra, rotafolio, bolígrafos, documento de evaluación de riesgos |
+| Presente a los participantes la evaluación y mitigación de riesgos | 45 minutos | Medio | Pizarra, rotafolio, lapiceros, documento de evaluación de riesgos. |
 
 </div>
 
-_Nota para el formador: este ejercicio requiere que las personas formadoras comprendan bien qué medidas pueden tomar los periodistas para protegerse en línea. Las mejores prácticas al respecto se encuentran al principio de cada capítulo de esta guía._
+_Nota para el instructor: Este ejercicio requiere que los instructores tengan un buen entendimiento de las medidas que pueden tomar los periodistas para protegerse en Internet. Las mejores prácticas al respecto pueden encontrarse al inicio de cada capítulo de esta guía._
 
-❶ **Primer paso**
+❶ **Paso uno**
 
-- Pregunta a los periodistas qué hacen actualmente para protegerse en términos de seguridad digital. Facilita un espacio de discusión y señala las respuestas comunes. Algunas respuestas frecuentes podrían ser:
-  - Utilizar contraseñas seguras
+- Pregunte a los periodistas qué hacen actualmente para protegerse en términos de seguridad digital. Promueva una discusión grupal y destaque respuestas en común. Algunas respuestas frecuentes podrían ser:
+  - Usar contraseñas seguras
   - Activar la autenticación de dos factores
-  - Utilizar Signal
-  - Utilizar una VPN
+  - Usar Signal
+  - Usar una VPN
 
-Señala que no es importante que los periodistas sepan todavía cómo realizar todos estos pasos de seguridad, ya que los aprenderán a lo largo del curso.
+Aclare que no importa si los periodistas aún no saben cómo tomar todas estas medidas de seguridad, ya que lo aprenderán a lo largo del curso.
 
-❷ **Segundo paso**
+❷ **Paso dos**
 
-- Pregunta al periodista si ha oído hablar de la evaluación del riesgo digital y para qué sirve. Si es necesario, haz una breve reseña utilizando la guía de este capítulo.
-- Comparte la plantilla de evaluación de riesgos con los periodistas y pídales que la revisen. Responde a sus preguntas.
+- Pregunte a los periodistas si han escuchado de una evaluación de riesgos digitales y para qué sirve. Ofrezca una pequeña descripción general usando las instrucciones anteriores de este capítulo como guía, si lo necesita.
+- Comparta la plantilla de evaluación de riesgos con los periodistas y pídales que la revisen. Responda cualquier pregunta que tengan.
 
 ❸ **Paso tres**
 
-- Dile a los periodistas que van a trabajar solos para completar su sección del título de la evaluación de riesgos pensando en el riesgo digital general.
-- Los periodistas deben trabajar para responder a las preguntas y dar pasos concretos para mitigar el riesgo.
-- En caso de que tengan preguntas, dudas o parezca que necesitan ayuda adicional, se les debe proporcionar apoyo.
+- Dígales a los periodistas que van a trabajar por su cuenta para completar su sección de la evaluación de riesgos titulada «Reflexiones sobre riesgos digitales generales».
+- Los periodistas deben trabajar en responder las preguntas y proponer medidas concretas para mitigar los riesgos.
+- Se debe brindar apoyo en caso de que tengan preguntas, dudas, o si parece que necesitan ayuda adicional.
 
 ❹ **Paso cuatro**
 
-- Ayuda a los periodistas a reflexionar sobre el proceso formulando las siguientes preguntas:
-  - ¿Qué información has aprendido en la sesión de hoy que te ha ayudado a tomar decisiones más informadas en torno a este tema?
-  - Qué más crees que necesitas aprender?
+- Ayude a los periodistas a reflexionar sobre el proceso haciendo las siguientes preguntas:
+  - ¿Qué información han aprendido en la sesión de hoy que les ha ayudado a tomar decisiones más informadas sobre este asunto?
+  - ¿Qué más creen que deberían aprender?

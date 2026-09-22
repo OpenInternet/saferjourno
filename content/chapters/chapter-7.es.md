@@ -9,111 +9,111 @@ toc = true
 
 ## Introducción
 
-Gobiernos, particulares y grupos organizados en línea utilizan cada vez más el abuso en línea para desacreditar y socavar a periodistas y medios de comunicación. Los acosadores rastrean la red en busca de datos personales de los periodistas y utilizan esta información para amenazarles e intimidarles a ellos y a sus familias. Estos ataques suelen ir acompañados de otras amenazas digitales, como el acceso no autorizado a las cuentas, los ataques de phishing o el doxing.
+Los gobiernos, las personas y los grupos organizados en línea recurren cada vez más al ciberacoso para desacreditar y socavar a los periodistas y a los medios de comunicación. Los acosadores rastrean Internet en busca de datos personales de los periodistas y utilizan esa información para amenazarlos e intimidarlos a ellos y a sus familias. Estos ataques suelen ir acompañados de otras amenazas digitales, como el _hackeo_ de cuentas, los ataques de _phishing_ o el _doxing_.
 
-Este capítulo tratará sobre:
+Este capítulo incluye:
 
-- Contexto regional de los ataques en línea contra periodistas
-- Cómo realizar búsquedas más avanzadas de datos personales en Internet
-- Cómo eliminar y/u ocultar datos personales en Internet
+- El contexto regional de los ataques en línea contra periodistas
+- Cómo realizar búsquedas en línea más avanzadas para encontrar datos personales
+- Cómo eliminar y/u ocultar datos personales en línea
 
-## ¿Estás capacitando a periodistas por primera vez?
+## ¿Es la primera vez que capacita periodistas?
 
 Puede ser útil tener en cuenta lo siguiente:
 
-- Por lo general, los periodistas necesitan tener presencia en Internet para hacer su trabajo. Esto implica elegir qué información sobre ellos que están dispuestos a compartir con el mundo y lo que prefieren mantener en privado. Los detalles familiares y sentimentales, el lugar donde se vive y los datos sobre la salud pueden entrar en la segunda categoría.
-- Desde el auge de las redes sociales, se ha animado a los periodistas a compartir una gran cantidad de datos personales en línea como forma de conectar con su audiencia. Algunos de estos datos se utilizan ahora para acosarles e intimidarles.
-- Los periodistas suelen tener muy poca separación entre su trabajo y su vida personal. Esto les hace más vulnerables al acoso y los abusos, porque la gente puede acosarles utilizando una serie de plataformas digitales, así como por teléfono y correo electrónico.
-- El abuso en línea también puede incluir otras amenazas digitales, como el acceso no autorizado a cuentas, el spear phishing, la suplantación de identidad y el doxing, entre otras. Muchas de estas amenazas no necesitan tener éxito para producir un efecto amedrentador o disuasorio.
-- Las mujeres periodistas y los periodistas de comunidades marginadas, por ejemplo los periodistas LGBTQIA+, son el blanco desproporcionado del acoso en línea. Este abuso incluye mensajes misóginos, racistas y homófobos que a menudo contienen amenazas de violencia física contra el periodista y su familia.
-- Las redacciones carecen a menudo de medidas suficientes para proteger a los periodistas del acoso en línea. Esto incluye la falta de apoyo informático a las cuentas de redes sociales, ya que no entran en el ámbito de una cuenta de trabajo, aunque se utilicen con fines laborales.
-- El abuso en línea está siendo utilizado como arma por una serie de actores en línea, incluidos los gobiernos, como una forma de limitar la libertad de expresión, disuadiendo a los periodistas de ejercer su labor informativa y tratando de obligarlos a abandonar la vida pública por completo.
+- Por lo general, los periodistas necesitan tener una presencia en Internet para poder realizar su trabajo. Esto implica escoger qué información sobre ellos están dispuestos a compartir con el mundo y qué información prefieren mantener en privado. Los detalles sobre la familia y relaciones personales, los lugares donde viven y la información sobre su salud podrían entrar en la segunda categoría.
+- Desde el auge de las redes sociales, se ha alentado a los periodistas a compartir una gran cantidad de información personal en línea como forma de conectarse con su audiencia. Algunos de estos datos ahora se están utilizando para acosarlos e intimidarlos.
+- A menudo, en Internet, los periodistas separan muy poco su trabajo de su vida personal. Esto los hace más vulnerables al ciberacoso y al abuso, ya que las personas pueden acosarlos utilizando una variedad de plataformas en línea, así como por teléfono y correo.
+- El ciberacoso también puede incluir una variedad de otras amenazas digitales, entre ellas el _hackeo_ de cuentas, el _spear phishing_, la suplantación de identidad, el _doxing_, entre otras. Muchas de esas amenazas no necesitan tener éxito para generar un efecto intimidatorio o disuasorio.
+- Las mujeres periodistas y los periodistas de comunidades excluidas, por ejemplo, los periodistas LGBTQIA+, son blanco de ciberacoso de manera desproporcionada. Este abuso incluye mensajes misóginos, racistas y homofóbicos que, con frecuencia, contienen amenazas de violencia física contra el periodista y su familia.
+- Las salas de redacción suelen carecer de medidas suficientes para proteger a los periodistas del ciberacoso. Esto incluye la falta de apoyo técnico para las cuentas de redes sociales, ya que estas no se consideran parte de una cuenta de trabajo, a pesar de que se utilizan con fines laborales.
+- El ciberacoso está siendo utilizado como arma por diversos actores de la red, incluidos los gobiernos, como una forma de limitar la libertad de expresión al desalentar a los periodistas de continuar con su labor periodística y tratar de obligarlos a abandonar por completo la vida pública.
 - Cuanto más puedan hacer los periodistas para proteger sus datos antes de un ataque, más seguros estarán.
 
-## ¿Estás impartiendo una formación en seguridad digital por primera vez?
+## ¿Es la primera vez que capacita sobre seguridad digital?
 
-Esta sección cubre las mejores prácticas que se pueden utilizar al enseñar las actividades de este capítulo. Para más información, consulte la sección [recursos](#recursos) de este capítulo.
+Esta sección incluye mejores prácticas que pueden aplicarse a la hora de impartir las actividades de este capítulo. Revise la sección de [recursos](#recursos) de este capítulo para más información.
 
 _Buenas prácticas generales_
 
-- Hay una amplia gama de personas que atacan a los periodistas en línea. Entre ellos se incluyen: agentes estatales y personas que trabajan para gobiernos a los que se paga por acosar a otros en línea, acosadores solitarios, grupos en línea que están bien organizados y que a menudo pueden trabajar a través de las fronteras, partidarios de un tema en particular que tiene relevancia para el país, incluyendo temas como la raza, el género y la salud de la mujer.
-- Los agresores en línea utilizan una amplia gama de tácticas contra los periodistas. PEN America [tiene una guía detallada](https://onlineharassmentfieldmanual.pen.org/) de estas tácticas que puedes leer aquí. Algunas de las más comunes son;
+- Existe una amplia variedad de personas que atacan a los periodistas en Internet. Entre ellas están: actores estatales y personas que trabajan para gobiernos a quienes se les paga para acosar a otros en línea, acosadores individuales, grupos en línea bien organizados que a menudo operan a nivel transfronterizo, y partidarios de un tema específico de relevancia para el país, como raza, género y salud de las mujeres.
+- Los acosadores en línea utilizan una amplia variedad de tácticas contra los periodistas. PEN America [tiene una guía detallada](https://onlineharassmentfieldmanual.pen.org/) sobre estas tácticas que puede leer aquí. Algunas de las más comunes incluyen:
 
-  - Concern trolling\
-    Un agresor aparenta apoyar el trabajo de un periodista, pero en lugar de ello utiliza el mensaje para hacer comentarios denigrantes.
-  - Doxing\
-    Los datos personales, como la dirección del domicilio, se difunden en Internet, a menudo con la intención de causar daños personales.
-  - Suplantación de identidad\
-    Los agresores crean cuentas falsas en nombre del periodista para publicar contenidos que podrían dañar su reputación.
+  - _Concern trolling_
+Un acosador aparenta apoyar el trabajo de un periodista, pero en realidad utiliza el mensaje para hacer comentarios degradantes
+  - _Doxing_
+Se difunden en línea datos personales, como la dirección particular, a menudo con la intención de causar daño personal.
+  - Suplantación de identidad
+Los acosadores crean cuentas falsas a nombre del periodista para publicar contenido que pueda dañar su reputación.
 
-- Varias tácticas implican otras amenazas digitales, como el acceso no autorizado a las cuentas y el phishing. Más información sobre cómo protegerse contra este tipo de ataques en el capítulo dos.
-- Conseguir que los periodistas comprendan qué datos es mejor mantener fuera de línea. Esto incluye datos que pueden ser utilizados para localizarlos, datos que pueden ser utilizados para contactar con ellos a través de un medio que no desean, y datos que pueden ser utilizados para robar su identidad. Ejemplos de este tipo de datos son la dirección particular de un periodista, su dirección personal de correo electrónico y su número de identidad. Es posible que estos datos ya estén disponibles en Internet. Si es así, los periodistas deben intentar eliminarlos. Si eso no es posible, es importante destacar que al menos saben que los datos están ahí y que podrían ser utilizados para atacarles.
-- Los acosadores en línea a menudo obtienen una gran cantidad de datos personales de un periodista a partir de las cuentas de redes sociales de sus familiares. Es importante que los periodistas hablen con sus familiares sobre los riesgos y que los ayuden activamente a proteger esas cuentas.
-- Los acosadores en línea pueden geolocalizar fotos o averiguar dónde fueron tomadas. Suelen hacerlo basándose en detalles que encuentran en el fondo, combinados con otra información que tienen sobre la persona objetivo. Esos detalles pueden incluir calles, árboles, puntos de referencia y, al menos en un caso, [sábanas de hotel](https://lfpress.com/news/local-news/first-swatting-and-now-doxing-online-harassment-of-trans-activist-continues). Las herramientas de inteligencia artificial [están mejorando](https://techcrunch.com/2025/04/17/the-latest-viral-chatgpt-trend-is-doing-reverse-location-search-from-photos/) a la hora de identificar dónde se tomaron las fotos. Por ello, recomendamos a los periodistas que eviten publicar fotos de lugares sensibles, como su casa, su barrio, el lugar donde se alojan o viajes confidenciales.
-- Los periodistas deben fijarse recordatorios en el calendario para buscarse a sí mismos en Internet con regularidad. La frecuencia dependerá del riesgo que corran. Los individuos de alto riesgo deberían buscarse a sí mismos al menos cada mes, mientras que otros pueden comprobarlo cada seis meses.
-- Haz que los periodistas configuren [alertas de Google](https://support.google.com/websearch/answer/4815696?hl=en) para su nombre, errores ortográficos comunes de su nombre y otros datos personales, como su fecha de nacimiento. Esto enviará al periodista cualquier dato sobre él que sea recogido por el motor de búsqueda de Google.
+- Varias tácticas implican otras amenazas digitales, como el _hackeo_ de cuentas y el _phishing_. En el capítulo dos se puede encontrar más información sobre cómo protegerse contra este tipo de ataques.
+- Haga comprender a los periodistas qué datos es mejor mantener fuera de Internet. Esto incluye datos que puedan utilizarse para localizarlos, para contactarlos por medios que no desean y para suplantar su identidad. Algunos ejemplos de este tipo de datos son la dirección de su domicilio, su dirección de correo electrónico personal y su número de documento de identificación. Es posible que estos datos ya estén disponibles en línea. Si este es el caso, los periodistas deben intentar eliminarlos. Si eso no es posible, es importante destacar que, al menos sepan que los datos están ahí y podrían utilizarse para atacarlos.
+- Los acosadores en línea suelen obtener muchos datos personales sobre un periodista a partir de las cuentas de redes sociales de los familiares del periodista. Es importante que los periodistas hablen con sus familiares sobre los riesgos y que ayuden activamente a su familia a proteger estas cuentas.
+- Los acosadores en línea pueden geolocalizar fotos o averiguar dónde fueron tomadas. Por lo general, lo hacen basándose en detalles que encuentran en el fondo, combinados con otra información que tienen sobre la persona acosada. Esos detalles pueden incluir calles, árboles, puntos de referencia y, al menos en un caso, [sábanas de hotel](https://lfpress.com/news/local-news/first-swatting-and-now-doxing-online-harassment-of-trans-activist-continues). Las herramientas de Inteligencia Artificial [están mejorando](https://techcrunch.com/2025/04/17/the-latest-viral-chatgpt-trend-is-doing-reverse-location-search-from-photos/) cada vez más en la identificación del lugar donde se tomaron las fotos. Por eso, recomendamos que los periodistas eviten publicar fotos de lugares sensibles, como su casa, su vecindario, el lugar donde se están alojando o viajes confidenciales.
+- Los periodistas deben poner recordatorios en su calendario para buscar su nombre en Internet con regularidad. La frecuencia con la que lo hagan dependerá del riesgo al que estén expuestos. Las personas con alto riesgo tal vez quieran buscar su nombre cada mes, mientras que a otras les basta con hacerlo cada seis meses.
+- Anime a los periodistas a configurar [alertas de Google](https://support.google.com/websearch/answer/4815696?hl=en) con su nombre, las variantes ortográficas más comunes de su nombre y otros datos personales, como su fecha de nacimiento. De esta manera, el periodista recibirá cualquier información sobre sí mismo que detecte el motor de búsqueda de Google.
 
-_Búsqueda de datos personales en Internet_
+_Búsqueda de datos personales en línea_
 
-- Utiliza técnicas de búsqueda booleana, también conocidas como Google Dorking, para obtener resultados más precisos. Puedes leer más al respecto [aquí](https://support.google.com/websearch/answer/2466433?hl=en). Algunas de las más útiles son
-  - `#` para buscar hashtags
-  - Site: para buscar un sitio específico
-  - Caché: para buscar resultados en caché
+- Use técnicas de búsqueda booleana, también conocidas como «_Google Dorking_», para obtener resultados más precisos. Puede leer más al respecto [aquí](https://support.google.com/websearch/answer/2466433?hl=en). Algunas técnicas útiles que vale la pena mencionar son:
+  - # para buscar hashtags
+  - Site: para buscar una página web o dominio específico
+  - Cache: para buscar resultados almacenados en caché
   - PDF: para buscar archivos PDF.
-- Busca contenidos de vídeo y fotos, así como sitios web. Puedes realizar una [búsqueda avanzada de imágenes](https://www.google.com/advanced_image_search) para buscar una foto concreta y su ubicación en Internet.
-- Utiliza todos los motores de búsqueda, no sólo Google. Los motores de búsqueda arrojan resultados diferentes, por lo que es importante comprobarlos todos. Si procede, los periodistas deben consultar Yandex y Baidu, buscadores rusos y chinos.
-- Revisar las cuentas personales en las redes sociales para ver qué información está disponible para ser vista públicamente. La mayoría de las principales plataformas tienen ahora una guía de privacidad que los usuarios pueden seguir. Revisar la configuración de privacidad de [Facebook](https://www.facebook.com/help/443357099140264), [Instagram](https://help.instagram.com/196883487377501), [X](), [TikTok](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings).
+- Revise el contenido de videos y fotos, además de las páginas web. Puede realizar una [búsqueda avanzada de imágenes](https://www.google.com/advanced_image_search) para encontrar una foto en particular y su ubicación en Internet.
+- Utilice todos los motores de búsqueda, no solo Google. Los diferentes motores de búsqueda arrojan resultados distintos, por lo que es importante revisarlos todos. Si corresponde, los periodistas deben consultar Yandex y Baidu, los motores de búsqueda rusos y chinos.
+- Revise sus cuentas personales en redes sociales para ver qué información está disponible públicamente. Actualmente, la mayoría de las plataformas principales cuentan con una guía de privacidad que los usuarios pueden seguir. Revise la configuración de privacidad de [Facebook](https://www.facebook.com/help/443357099140264), [Instagram](https://help.instagram.com/196883487377501), [X]() y [TikTok](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings).
 
-_Eliminar o limitar el acceso a los datos de Internet_
+_Eliminar o limitar el acceso a los datos desde Internet_
 
-- Una vez que los datos personales se ponen en internet y luego se borran, es imposible garantizar que se han eliminado completamente de la red. Esto se debe a que es probable que la información se almacene en diferentes lugares, incluidas las cuentas de otros, bases de datos públicas, capturada por otros mediante pantallazos y archivada en servicios de archivo en línea, como [Wayback Machine](https://web.archive.org/). A pesar de ello, sigue siendo importante borrar el contenido siempre que sea posible, porque así será más difícil para los atacantes en línea obtener la información.
-- Si el periodista controla el sitio en el que está el contenido, por ejemplo su página personal de Facebook, puede hacer una copia de seguridad del contenido y luego borrarlo u ocultarlo. La información desaparecerá del sitio, pero no desaparecerá inmediatamente de los resultados de un motor de búsqueda.
-- Entre las mejores prácticas habituales para proteger los datos de las cuentas de redes sociales se incluyen:
-  - Elegir utilizar la cuenta de redes sociales para uso exclusivamente laboral o personal.
-  - Hacer privadas las cuentas de redes sociales personales no relacionadas con el trabajo
-  - Utilizar una foto no descriptiva, como una planta o un animal, como foto de la cuenta en las redes sociales.
-  - Revisar quién sigue o quién es amigo del titular de la cuenta y eliminar a las personas desconocidas o con las que ya no se comunica.
-  - Ocultar amigos o seguidores para que no se vean públicamente
-  - Eliminar fotos tomadas en lugares privados, como por ejemplo en su barrio o en viajes confidenciales. Asumir que cualquiera puede averiguar la ubicación de una foto basándose en su fondo
-  - Eliminar mensajes y publicaciones antiguos o restringir quién puede verlos
-  - Algunos sitios de redes sociales dan la opción de eliminar el sitio y su nombre de los resultados de los motores de búsqueda.
-  - Controlar quién puede ver, etiquetar y descargar fotos y vídeos
-- Los periodistas deben hablar con familiares y amigos sobre la posibilidad de eliminar u ocultar sus datos personales de sus cuentas de redes sociales.
-- Es probable que los datos se almacenen en plataformas de terceros sobre las que los periodistas no tienen control. Ejemplos de plataformas de terceros son las bases de datos gubernamentales, un sitio web gestionado por alguien desconocido y sitios web gestionados por empresas. Pueden retirar o no los datos personales en función de la legislación, las condiciones del sitio y si quieren o no retirar los datos.retirarlos o no. Cada sitio tendrá sus propios pasos para solicitar la retirada de datos.
-- Los periodistas deben revisar los servicios de archivo de Internet para ver si sus datos personales están disponibles y solicitar su eliminación.
-- Los periodistas pueden difuminar su domicilio en [Google Maps](https://support.google.com/maps/answer/15439776?hl=en) y [Apple Maps](https://maps.apple.com/imagecollection/). Esto evitará que los abusadores en línea puedan utilizar Internet para ver cómo es el exterior de la casa de un periodista.
+- Una vez que los datos personales se publican en Internet y luego se eliminan, es imposible garantizar que se hayan borrado por completo de la red. Esto se debe a que es probable que la información quede almacenada en distintos lugares, incluidas las cuentas de otras personas, bases de datos públicas, capturas de pantalla tomadas por terceros y servicios de archivo en línea, como [Wayback Machine](https://web.archive.org/). A pesar de ello, sigue siendo importante eliminar el contenido siempre que sea posible, ya que así será más difícil para los atacantes en línea obtener la información.
+- Si el periodista tiene control sobre el sitio donde se encuentra el contenido, por ejemplo, su página personal de Facebook, puede ingresar, hacer una copia de seguridad del contenido y luego borrarlo u ocultarlo. La información desaparecerá del sitio, pero no desaparecerá de inmediato de los resultados de los motores de búsqueda.
+- Las mejores prácticas para proteger los datos en las cuentas de redes sociales incluyen:
+  - Decidir si la cuenta de redes sociales se utilizará exclusivamente para fines laborales o personales.
+  - Hacer privadas las cuentas personales de redes sociales que no estén relacionadas con el trabajo.
+  - Usar una foto genérica, como una planta o un animal, como foto de perfil de la cuenta de redes sociales.
+  - Revisar quiénes siguen la cuenta o quiénes son sus amigos, y eliminar a las personas que no conozca o con las que ya no se comunique.
+  - Ocultar amigos o seguidores para que no se vean públicamente.
+  - Eliminar fotos tomadas en lugares privados, como en su vecindario o en viajes confidenciales. Asuma que cualquiera puede averiguar la ubicación de una foto basándose en su fondo.
+  - Eliminar mensajes y publicaciones antiguas o restringir quién puede verlas.
+  - Algunas redes sociales ofrecen la opción de evitar que la página y su nombre aparezcan en los resultados de los motores de búsqueda.
+  - Controlar quién puede ver, etiquetar y descargar fotos y videos.
+- Los periodistas deben hablar con sus familiares y amigos sobre cómo eliminar u ocultar sus datos personales de sus cuentas en redes sociales.
+- Es probable que los datos se almacenen en plataformas de terceros sobre las que los periodistas no tienen control. Algunos ejemplos de plataformas de terceros son las bases de datos gubernamentales, una página web administrada por alguien que no conocen y páginas web administradas por empresas. Estas plataformas pueden eliminar o no los datos personales, dependiendo de las leyes, los términos y condiciones del sitio, y de si desean eliminarlos o no. Cada plataforma tendrá sus propios pasos para solicitar la eliminación de datos.
+- Los periodistas deben revisar los servicios de archivo de Internet para ver si sus datos personales están disponibles y solicitar que se eliminen.
+- Es posible que los periodistas deseen difuminar la imagen de su casa en [Google Maps](https://support.google.com/maps/answer/15439776?hl=en) y [Apple Maps](https://maps.apple.com/imagecollection/). Esto impedirá que los acosadores en línea puedan ver cómo se ve el exterior de la casa de un periodista.
 
-## Completar la evaluación de riesgos
+## Realización de la evaluación de riesgos
 
-Al hablar de la evaluación de riesgos y del plan de seguridad personal puede ser útil tocar los siguientes puntos:
+Al hablar sobre la evaluación de riesgos y el plan de seguridad personal, puede ser útil mencionar lo siguiente:
 
-- Ayudar a los periodistas a pensar qué grupos pueden atacarles en Internet y las estrategias que utilizan. Para ello, el periodista puede hablar con otros periodistas de su red para ver si también sufren ataques similares. También pueden realizar búsquedas en línea utilizando el nombre del adversario y palabras clave como _online attack_, _online abuse_, _doxing_ entre otras.
-- Los periodistas deben saber qué datos está bien compartir en Internet y cuáles es mejor mantener en privado.
-- Los periodistas deben hablar con su familia sobre los datos que pueden compartir en línea y los que prefieren mantener en privado. Deben trabajar con su familia para proteger la cuenta de los miembros de su familia y ser conscientes de que si un agresor no puede localizar al periodista en Internet, es muy posible que se dirija a su familia.
+- Ayude a los periodistas a analizar qué grupos podrían atacarlos en línea y las estrategias que utilizan. Para ello, el periodista puede hablar con otros periodistas de su red para ver si ellos también están sufriendo ataques similares. También pueden realizar búsquedas en Internet utilizando el nombre del adversario y términos clave como «ataque en línea», «ciberacoso», «_doxing_», entre otras.
+- Los periodistas deben saber qué información es segura compartir en línea y qué información es mejor mantener privada.
+- Los periodistas deben hablar con su familia sobre qué información están dispuestos a compartir en línea y qué información preferirían mantener privada. Deben colaborar con su familia para proteger las cuentas de sus familiares y tener en cuenta que, si un agresor no puede localizar al periodista en línea, es muy probable que dirija su ataque a su familia.
 
 <div class="faq">
 
 ## Preguntas frecuentes
 
-A continuación se presentan algunas preguntas que hacen los periodistas sobre comunicaciones más seguras. Puede ser útil tener las respuestas preparadas de antemano. Encontrará orientaciones más detalladas en la sección [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez).
+A continuación presentamos preguntas frecuentes que hacen los periodistas sobre la seguridad de las cuentas. Puede ser útil tener preparadas las respuestas con anticipación. En la sección [_¿Es la primera vez que capacita sobre seguridad digital?_](#es-la-primera-vez-que-capacita-sobre-seguridad-digital) puede encontrar una guía más avanzada.
 
-**Tengo mucha información en Internet. ¿Por dónde empezar a eliminarla?**
+**Tengo muchísima información en línea. ¿Cuál es un buen punto de partida para eliminarla?**
 
-Los periodistas tienen una gran cantidad de información pública en internet y, a menudo, necesitan que así sea por motivos profesionales. Es importante explicar que ser más seguros no significa eliminar todo, sino centrarse en eliminar aquellos datos que puedan utilizarse para localizarlos, como su dirección de domicilio o fotos de su vecindario; información que permita contactarlos por medios que no desean, como un correo electrónico personal; y datos que puedan usarse para suplantar su identidad, como su fecha de nacimiento o su número de identificación nacional. También deben tomar medidas para eliminar información sobre sus familiares, incluidas fotografías. Idealmente, la única información pública que deberían tener en línea es información de contacto profesional, fotos profesionales y su trabajo periodístico.
+Los periodistas tienen mucha información pública en Internet y, a menudo, necesitan tenerla ahí por motivos profesionales. Explique que aumentar su seguridad no significa eliminar todo, sino que deben enfocarse en eliminar datos que puedan usarse para localizarlos, como la dirección de su casa o fotos de su vecindario; información que pueda usarse para contactarlos por medios que no desean, como una dirección de correo electrónico personal; y datos que puedan usarse para suplantar su identidad, incluyendo su fecha de nacimiento y su número de documento de identificación nacional. También deben tomar medidas para eliminar detalles sobre su familia, incluidas las fotos. Lo ideal es que la única información pública que tengan en línea sean sus datos de contacto profesionales, fotos profesionales y su trabajo periodístico.
 
-**¿Cómo puedo eliminar mis datos en Internet?**
+**¿Cómo puedo eliminar mis datos en línea?**
 
-Recomiéndales que dediquen un tiempo a la semana a revisar los datos disponibles sobre ellos y a eliminarlos. Deben seguir las mejores prácticas para buscar en Internet su información personal y eliminarla. [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez), al principio de este capítulo.
+Recomiende dedicar un tiempo cada semana a revisar qué datos hay sobre ellos y eliminarlos. Deben seguir las mejores prácticas para buscar en línea su información personal y eliminarla. Esta guía se puede encontrar en la sección [_¿Es la primera vez que capacita periodistas?_](#es-la-primera-vez-que-capacita-sobre-seguridad-digital) que se encuentra al principio de este capítulo.
 
-Algunos datos también son recogidos y revendidos por intermediarios de datos. También existen algunos servicios que se ponen en contacto con los corredores de datos en tu nombre y les piden que eliminen información sobre ti. Aunque muchos de esos servicios son eficaces, también son caros. También es posible ponerse en contacto con los corredores de datos y hacer este tipo de trabajo manualmente; para una guía rápida sobre cómo hacerlo, consulte [esta página de Yael Grauer](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List).
+Además, los _brokers_ de información recopilan y revenden ciertos datos. Hay algunos servicios que se comunican con los _brokers_ de información en nombre suyo y les piden que eliminen su información. Aunque muchos de estos servicios son eficaces, también son costosos. También es posible contactar a los _brokers_ de información y realizar este tipo de trabajo de manera manual: para obtener una guía rápida sobre cómo hacerlo, consulte esta [página de Yael Grauer](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List).
 
-**Una vez que mis datos han sido retirados, ¿han desaparecido realmente?**
+**Una vez que mis datos han sido eliminados, ¿realmente han desaparecido?**
 
-Explica que, una vez que la información se ha publicado en internet, es imposible garantizar por completo que haya sido eliminada. Esto se debe a que los datos pueden quedar almacenados en las cuentas de otras personas, incluidos familiares, mantenerse en bases de datos públicas y haberse capturado mediante capturas de pantalla. Los datos en línea también son archivados por servicios de archivo en línea, como [Wayback Machine](https://web.archive.org/). Sigue siendo importante eliminar cualquier dato potencialmente perjudicial para evitar que caiga fácilmente en manos de acosadores.
+Explique que, una vez que los datos se han publicado en Internet, es imposible garantizar que se hayan eliminado por completo. Esto se debe a que la información se almacena en las cuentas de otras personas, incluidos familiares, se conserva en bases de datos públicas y se obtiene mediante capturas de pantalla. Los datos en línea también son archivados por servicios de archivo en línea, como [Wayback Machine](https://web.archive.org/). Sigue siendo importante eliminar cualquier dato potencialmente dañino para evitar que caiga fácilmente en manos de acosadores.
 
-**¿Cuánto tiempo me va a llevar? Estoy muy ocupado y no tengo mucho tiempo.**
+**¿Cuánto tiempo va a tomar esto? ¡Estoy muy ocupado y no tengo mucho tiempo!**
 
-El tiempo que se tarde en eliminar los datos dependerá de la cantidad de información personal que el periodista tenga en línea. Explica que al principio siempre lleva más tiempo porque el periodista no sabrá qué datos hay disponibles sobre él y que el proceso de eliminación de datos puede ser largo. Una vez que sepan qué contenido hay sobre ellos en Internet y se sientan satisfechos con ello, sólo tendrán que fijarse recordatorios en el calendario para revisar los datos periódicamente y eliminar cualquier dato nuevo que aparezca.
+El tiempo que tome eliminar los datos dependerá de cuánta información personal tenga el periodista en Internet. Explique que al principio siempre lleva más tiempo porque el periodista no sabrá qué datos hay disponibles sobre sí mismo y que el proceso para eliminarlos puede ser largo. Una vez que sepa qué contenido hay disponible sobre él en línea y se sienta conforme con eso, solo tendrá que agregar recordatorios en su calendario para revisar los datos periódicamente y eliminar cualquier cosa nueva que aparezca.
 
 </div>
 
@@ -123,9 +123,9 @@ El tiempo que se tarde en eliminar los datos dependerá de la cantidad de inform
 
 Al final de la sesión los periodistas:
 
-- Comprenderán el contexto del abuso en línea en su región y serán capaces de identificar quién puede estar atacándoles y las tácticas que utiliza.
-- Sentirse seguros al buscar datos sobre sí mismos en línea utilizando técnicas probadas
-- Saber cómo eliminar sus datos cuando sea posible y/o esconderlos
+- Entenderán el contexto del ciberacoso en su región y serán capaces de identificar quién podría estar atacándolos y las tácticas que están utilizando.
+- Se sentirán confiados al buscar información sobre sí mismos en línea utilizando técnicas probadas y comprobadas.
+- Sabrán cómo eliminar sus datos cuando sea posible y/o ocultarlos.
 
 </div>
 
@@ -135,8 +135,8 @@ Al final de la sesión los periodistas:
 
 Las siguientes plantillas y herramientas pueden ser útiles para impartir esta sesión:
 
-- [Evaluación del riesgo de violencia en línea](https://docs.google.com/document/d/1dFpBDJlHdX5S-5w-db3zzJEAl5a_jdfse6YoD1iJRJg/edit) de la International Women's Media Foundation
-- [Lista de comprobación para proteger los datos del personal](https://docs.google.com/document/d/1RkON2WmMgzONzbz0voX5AusD2pUrFFtN4nU9mfsgGMA/edit?usp=sharing) de la International Women's Media Foundation
+- [Evaluación de riesgos de violencia en línea](https://docs.google.com/document/d/1dFpBDJlHdX5S-5w-db3zzJEAl5a_jdfse6YoD1iJRJg/edit) por la International Women’s Media Foundation
+- [_Checklist_ para proteger los datos del personal](https://docs.google.com/document/d/1RkON2WmMgzONzbz0voX5AusD2pUrFFtN4nU9mfsgGMA/edit?usp=sharing) por la International Women’s Media Foundation
 - [Plantilla de evaluación de riesgos](/digital-risk-assessment-template)
 
 </div>
@@ -145,174 +145,174 @@ Las siguientes plantillas y herramientas pueden ser útiles para impartir esta s
 
 ## Recursos
 
-Los siguientes recursos pueden ser útiles para la enseñanza de este capítulo:
+Los siguientes recursos pueden ser útiles para impartir esta sesión:
 
-[The Chilling: A global study of online violence against women](https://www.icfj.org/sites/default/files/2023-02/ICFJ%20Unesco_TheChilling_OnlineViolence.pdf) de la UNESCO y el Centro Internacional de Periodistas
+[_The Chilling_: Un estudio global sobre la violencia en línea contra las mujeres](https://www.icfj.org/sites/default/files/2023-02/ICFJ%20Unesco_TheChilling_OnlineViolence.pdf) por la UNESCO y el Centro Internacional para Periodistas
 
-[What is online abuse?](https://onlineharassmentfieldmanual.pen.org/what-is-online-abuse/) de PEN America's Online Harassment Field Manual
+[¿Qué es el ciberacoso?](https://onlineharassmentfieldmanual.pen.org/what-is-online-abuse/) por el Manual práctico sobre ciberacoso de PEN America
 
-[Refinar las búsquedas en Internet](https://support.google.com/websearch/answer/2466433?hl=en) de Google
+[Optimizar las búsquedas en la web](https://support.google.com/websearch/answer/2466433?hl=en) por Google
 
-[How to dox yourself on the internet](https://open.nytimes.com/how-to-dox-yourself-on-the-internet-d2892b4c5954) del equipo NYT Open
+[Cómo revelar su información en Internet](https://open.nytimes.com/how-to-dox-yourself-on-the-internet-d2892b4c5954) por el equipo de NYT Open
 
-[Eliminación de datos personales de Internet](https://cpj.org/2019/09/digital-safety-remove-personal-data-internet/) por el Comité para la Protección de los Periodistas
+[Cómo eliminar datos personales de Internet](https://cpj.org/2019/09/digital-safety-remove-personal-data-internet/) por el Comité para la Protección de los Periodistas
 
-[Protección frente a ataques selectivos en línea](https://cpj.org/es/2020/10/seguridad-digital-como-protegerse-contra-los-ataques-dirigidos-en-el-ciberespacio/) del Comité para la Protección de los Periodistas
+[Protección contra ataques en línea dirigidos](https://cpj.org/es/2020/10/seguridad-digital-como-protegerse-contra-los-ataques-dirigidos-en-el-ciberespacio/) por el Comité para la Protección de los Periodistas
 
-[Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) de Yael Grauer
+[Lista de exclusión voluntaria de Big Ass Data Broker](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) por Yael Grauer
 
 </div>
 
 ## Actividades
 
-Las siguientes actividades están diseñadas para acompañar esta sesión de formación sobre el abuso en línea. Las personas formadoras deben sentirse libres de utilizar sus propias actividades, así como de adaptar los materiales de esta guía para que se ajusten mejor a las necesidades de los periodistas a los que están formando. El número y el tipo de actividades seleccionadas dependerán del nivel de conocimientos de la persona formadora, así como del tiempo que tenga para dedicar a los participantes. Para quienes se inicien en la formación en seguridad digital, no olviden consultar la sección [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez) para obtener orientación sobre las mejores prácticas.
+Las actividades presentadas a continuación están diseñadas para complementar esta sesión de capacitación sobre ciberacoso. Los instructores deben sentirse libres de usar sus propias actividades, así como de adaptar los materiales de esta guía para ajustarse mejor a las necesidades de los periodistas a los que están capacitando. El número y tipo de actividades seleccionadas dependerán del nivel de conocimiento del instructor, así como del tiempo que disponga para dedicar a los participantes. Para quienes son nuevos en formación sobre seguridad digital, no olviden consultar la sección [_¿Es la primera vez que capacita sobre seguridad digital?_](#es-la-primera-vez-que-capacita-sobre-seguridad-digital) para obtener orientación sobre las mejores prácticas.
 
-### Cómo empezar
+### Primeros pasos
 
-#### ¿Quién te acosa en Internet?
+#### ¿Quién lo está acosando en línea?
 
 <div class="table">
 
-| Resultados del aprendizaje | Tiempo | Nivel de dificultad | Recursos |
+| **Resultados del aprendizaje** | **Tiempo** | **Nivel de dificultad** | **Recursos** |
 |---|---|---|---|
-| Los periodistas discuten experiencias de abuso en línea contra periodistas en su región y los grupos que los atacan en línea.<br>Los participantes pueden ver que otras personas tienen experiencias similares a las suyas.<br>Los periodistas aprenden algunas de las técnicas que utilizan los abusadores en línea | 60 minutos | Medio | Pizarra blanca o rotafolio, rotuladores de pizarra, casos de estudio locales de ataques en línea contra periodistas, comprensión de las diferentes estrategias que utilizan los acosadores en la región |
+| Los periodistas comparten sus experiencias sobre el ciberacoso contra periodistas en su región y los grupos que los atacan en Internet. Los participantes pueden darse cuenta de que otros tienen experiencias similares a las suyas. Los periodistas aprenden algunas de las técnicas que utilizan los acosadores en línea. | 60 minutos | Medio | Pizarra o rotafolio, marcadores para pizarra, casos de estudio locales de ataques en línea contra periodistas, conocimiento de las diferentes estrategias que utilizan los acosadores en la región |
 
 </div>
 
-_Nota para la persona formadora: la idea de esta sesión no es que los periodistas hablen de sus propios casos personales, que pueden ser traumáticos para ellos y para los demás en la sala, sino que se centren en casos de otros._
+_Nota para el instructor: el objetivo de esta sesión no es que los periodistas hablen de sus propias experiencias personales, lo cual podría resultar traumático tanto para ellos como para el resto de los participantes; por el contrario, se trata de que se concentren en las experiencias de otras personas._
 
-_Las mejores prácticas para esta actividad se pueden encontrar en la sección [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez) situada al principio de este capítulo. Las personas formadoras también pueden consultar el capítulo dos sobre seguridad de cuentas para conocer las mejores prácticas de protección contra la piratería y el phishing, que son tácticas comunes utilizadas por los abusadores en línea._
+_Las mejores prácticas para esta actividad pueden encontrarse en la sección_ [_¿Es la primera vez que capacita sobre seguridad digital?_](#es-la-primera-vez-que-capacita-sobre-seguridad-digital)_, ubicada al inicio de este capítulo. Los instructores también pueden consultar el capítulo dos, dedicado a la seguridad de las cuentas, para conocer las mejores prácticas de protección contra el hackeo y el phishing, que son tácticas comunes utilizadas por los abusadores en línea._
 
-❶ **Primer paso**
+❶ **Paso uno**
 
-- Muestra a los periodistas algunos casos de estudio de abuso en línea contra periodistas en la región y pregúnteles si están familiarizados con ellos.
-- Reúne a los periodistas en pequeños grupos y pídales que discutan otros casos que puedan conocer. Puede ser útil hacerles reflexionar sobre las siguientes cuestiones: ¿Existen similitudes entre los casos en cuanto a la forma en que se ataca a los periodistas? ¿Cuáles son las razones de la agresión? ¿Se¿es capaz de identificar quién puede estar detrás de los ataques?
-- Organiza una sesión de intercambio de opiniones en grupo sobre las preguntas anteriores.
+- Muestre a los periodistas algunos casos de estudio de ciberacoso contra periodistas en la región y pregúnteles si los conocen.
+- Divida a los periodistas en grupos pequeños y pídales que discutan otros casos que conozcan. Puede ser útil que reflexionen sobre las siguientes preguntas: ¿Existen similitudes entre los casos en cuanto a la forma en que se ataca a los periodistas? ¿Cuáles son las razones de los ataques? ¿Son capaces de identificar quién podría estar detrás de los ataques?
+- Facilite una sesión de retroalimentación en grupo sobre las preguntas anteriores.
 
-❷ **Segundo paso**
+❷ **Paso dos**
 
-- Indica a los periodistas que ahora van a examinar algunas de las técnicas que utilizan los acosadores en línea. Saber cómo atacan los acosadores en línea puede ayudar a los periodistas a defenderse mejor contra ello.
+- Dígales a los periodistas que ahora van a analizar algunas de las técnicas que utilizan los acosadores en línea. Saber cómo atacan los acosadores en línea puede ayudar a los periodistas a defenderse mejor contra ellos.
 
-- Presenta a los periodistas los ataques más comunes en su región utilizando casos de estudio preparados de antemano. Puede leer más sobre estos tipos de ataques en la sección [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez) Localizada al principio de este capítulo. Puede que quieras cubrir lo siguiente:
-  - Preocupación por el trolling
-  - Ataque de Cyber-mob
-  - Doxing
-  - Hacking
-  - Suplantación de identidad en línea
+- Presente a los periodistas los ataques más comunes en su región utilizando casos de estudio preparados previamente. Puede leer más sobre estos tipos de ataques en la sección [_¿Es la primera vez que capacita sobre seguridad digital?_](#es-la-primera-vez-que-capacita-sobre-seguridad-digital), ubicada al inicio de este capítulo. Es posible que desee abordar lo siguiente:
+  - _Concern trolling_
+  - Ataque de turba digital
+  - _Doxing_
+  - _Hackeo_
+  - Suplantación en línea
   - Amenazas
 
-Pregunta a los periodistas si conocen alguna de estas tácticas. Haz las siguientes preguntas: ¿Has visto este tipo de ataques en tu redacción o contra otros? ¿Existen otras formas de ataque de los agresores en línea? ¿Qué ataque le preocupa más?
+Pregunte a los periodistas si están familiarizados con alguna de estas tácticas. Haga las siguientes preguntas: ¿Han visto este tipo de ataques dentro de su sala de redacción o contra otras personas? ¿Existen otras formas en que los acosadores en línea atacan? ¿Qué tipo de ataque les preocupa más?
 
 ❸ **Paso tres**
 
-- Cierra la sesión haciendo las siguientes preguntas al grupo;
-  - ¿Qué hacen actualmente para protegerse?
-  - ¿Qué hace su medio de comunicación para protegerse a sí mismo y a ellos?
+- Concluya la sesión planteando al grupo las siguientes preguntas:
+  - ¿Qué están haciendo actualmente para protegerse a sí mismos?
+  - ¿Qué está haciendo su medio de comunicación para protegerse y protegerlos a ellos?
   - ¿Qué creen que necesitan para proteger sus datos y a sí mismos?
-- Explícales que las actividades de seguimiento de la sesión les ayudarán a proteger mejor sus datos.
+- Explique que las actividades de seguimiento que se realizarán durante la sesión les ayudarán a proteger mejor sus datos.
 
-### Desarrollo de conocimientos
+### Desarrollo del conocimiento
 
-#### I Trazar un mapa de sus datos en línea
+#### I. Mapeando sus datos en línea
 
 <div class="table">
 
-| Resultados del aprendizaje                                                                                           | Tiempo       | Nivel de dificultad | Recursos                                                                                                                          |
+| **Resultados del aprendizaje** | **Tiempo** | **Nivel de dificultad** | **Recursos** |
 |----------------------------------------------------------------------------------------------------------------------|--------------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| Los periodistas averiguan qué datos están disponibles sobre ellos en línea y dónde se encuentran                    | 60 minutos   | Medio               | Pizarra blanca o rotafolio, rotuladores de pizarra, conexión a internet, los participantes necesitarán sus dispositivos personales |
+| Los periodistas averiguan qué datos están disponibles en línea y dónde se encuentran | 60 minutos | Medio | Pizarra o rotafolio, marcadores para pizarra, conexión a Internet: los participantes necesitarán sus dispositivos personales para realizar búsquedas en línea |
 
 </div>
 
-_Nota para la persona formadora: esta sesión requiere que los periodistas se busquen a sí mismos en internet y compartan algunos detalles sobre lo que encuentren. Haz saber a los periodistas que no tienen por qué compartir información si no se sienten cómodos haciéndolo._
+_Nota para el instructor: esta sesión requiere que los periodistas busquen información sobre sí mismos en Internet y compartan algunos detalles de lo que encuentran. Hágales saber a los periodistas que no tienen que compartir información si no se sienten cómodos haciéndolo._
 
-_La mejor práctica para esta actividad se puede encontrar en la sección [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez)._
+_Las mejores prácticas para esta actividad pueden encontrarse en la sección_ [_¿Es la primera vez que capacita sobre seguridad digital?_](#es-la-primera-vez-que-capacita-sobre-seguridad-digital)_, ubicada al inicio de este capítulo._
 
-❶ **Primer paso**
+❶ **Paso uno**
 
-- Pregunta a los periodistas con qué frecuencia se buscan a sí mismos en Internet y si se sienten cómodos con los datos que encuentran. Facilite un breve debate al respecto.
-- Diles que realizar búsquedas frecuentes en línea de sus datos es una buena manera de protegerse mejor y que hoy van a aprender a hacerlo con más precisión.
+- Pregunte a los periodistas con qué frecuencia se buscan a sí mismos en Internet y si se sienten cómodos con la información que encuentran. Promueva una breve discusión sobre este tema.
+- Dígales que realizar búsquedas frecuentes en Internet sobre su información es una buena forma de protegerse y que hoy aprenderán a hacerlo con mayor precisión.
 
-❷ **Segundo paso**
+❷ **Paso dos**
 
-- Haz que los periodistas se busquen a sí mismos en Google y tomen nota de los datos que aparecen. Facilita un breve debate al respecto si los periodistas están dispuestos a hacerlo.
+- Pida a los periodistas que se busquen en Google y anoten qué información aparece. Modere una breve discusión sobre este tema si los periodistas están dispuestos a hacerlo.
 
 ❸ **Paso tres**
 
-- Guía a los periodistas a través de las mejores prácticas para realizar búsquedas más avanzadas. Las personas formadoras nuevos en este tema pueden consultar la sección [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez) situada al principio de este capítulo. La persona formadora puede tratar los siguientes temas:
-  - Uso de términos de búsqueda booleanos para refinar los resultados
-  - Uso de búsquedas avanzadas de imágenes para encontrar una imagen concreta
-  - Revisión de sitios de archivos de Internet
-  - Revisión de sus propios sitios de redes sociales
-  - Revisión de los sitios de familiares y amigos
+- Guíe a los periodistas por las mejores prácticas para realizar búsquedas más avanzadas. Los instructores que sean nuevos en este tema pueden consultar la sección [_¿Es la primera vez que capacita sobre seguridad digital?_](#es-la-primera-vez-que-capacita-sobre-seguridad-digital) que se encuentra al inicio de este capítulo. El instructor puede abordar los siguientes temas:
+  - El uso de términos de búsqueda booleanos para refinar los resultados
+  - El uso de búsquedas avanzadas de imágenes para encontrar una imagen en particular
+  - La revisión de sitios de archivos de Internet
+  - La revisión de sus propias cuentas de redes sociales
+  - La revisión de las cuentas de familiares y amigos
 
-❹ **Cuarta etapa**
+❹ **Paso cuatro**
 
-- Pide a los periodistas que realicen ahora una búsqueda más avanzada utilizando las técnicas descritas anteriormente y utilizando diferentes motores de búsqueda. Dígales que hoy no podrán buscar todo, por lo que esto debe considerarse como una búsqueda más general que pueden utilizar como punto de partida para una búsqueda más profunda más tarde en casa.
-- Pide a los periodistas que anoten cualquier información que deseen eliminar.
-- Mantén una breve discusión con los periodistas sobre los contenidos que hayan encontrado y que quieran retirar.
+- Ahora pida a los periodistas que realicen una búsqueda más avanzada utilizando las técnicas descritas anteriormente y diferentes motores de búsqueda. Explique que hoy no podrán buscar todo, por lo que esta búsqueda debe considerarse más bien general y servirles como punto de partida para una investigación más profunda que puedan realizar más adelante en casa.
+- Pida a los periodistas que anoten cualquier información que deseen eliminar.
+- Organice una breve discusión con los periodistas sobre cualquier contenido que hayan encontrado y que deseen eliminar.
 
-#### II Proteger los datos en línea
+#### II. Protección de los datos en línea
 
 <div class="table">
 
-| Resultados del aprendizaje                                                                                                         | Tiempo       | Nivel de dificultad | Recursos                                                                                                                                              |
+| **Resultados del aprendizaje** | **Tiempo** | **Nivel de dificultad** | **Recursos** |
 |------------------------------------------------------------------------------------------------------------------------------------|--------------|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Los periodistas aprenden las medidas que pueden tomar para proteger mejor sus datos en línea, incluida la eliminación y ocultación de los mismos | 60 minutos   | Medio               | Pizarra blanca o rotafolio, rotuladores de pizarra, presentación (PPT) creada por la persona formadora, ejemplos de protección de datos en línea |
+| Los periodistas aprenden qué medidas pueden tomar para proteger mejor sus datos en línea, cómo eliminarlos y ocultarlos | 60 minutos | Medio | Pizarra o rotafolio, marcadores para pizarra, presentación en PowerPoint creada por el instructor, ejemplos |
 
 </div>
 
-_Nota para la persona formadora: las mejores prácticas para esta actividad pueden encontrarse en la sección [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez)._
+_Nota para el instructor: Las mejores prácticas para esta actividad pueden encontrarse en la sección_ [_¿Es la primera vez que capacita sobre seguridad digital?_](#es-la-primera-vez-que-capacita-sobre-seguridad-digital)_, ubicada al inicio de este capítulo._
 
-❶ **Primer paso**
+❶ **Paso uno**
 
-- Explica a los periodistas que hay datos almacenados en sus cuentas, en las cuentas de familiares y amigos, y en otros sitios sobre los que no tienen control. Hazles saber que esta sesión les guiará en la eliminación de esos datos.
+- Explique a los periodistas que los datos se almacenan en sus cuentas, en las cuentas de familiares y amigos, y en otros sitios sobre los que no tienen control. Hágales saber que esta sesión los guiará a través del proceso para eliminar esos datos.
 
-❷ **Segundo paso**
+❷ **Paso dos**
 
-- Guía a los periodistas a través de las mejores prácticas para eliminar datos. La guía de mejores prácticas está disponible al principio de la sección llamada [¿Estás impartiendo una formación en seguridad digital por primera vez?](#estás-impartiendo-una-formación-en-seguridad-digital-por-primera-vez). La persona formadora podría querer mencionar:
-  - La diferencia entre los datos almacenados en una plataforma sobre la que se tiene control y una plataforma de terceros.
+- Guíe a los periodistas por las mejores prácticas para eliminar datos. Las mejores prácticas para esta actividad pueden encontrarse en la sección [¿Es la primera vez que capacita sobre seguridad digital?](#es-la-primera-vez-que-capacita-sobre-seguridad-digital), ubicada al inicio de este capítulo. El instructor podría mencionar:
+  - La diferencia entre los datos almacenados en una plataforma sobre la que tienen control y los almacenados en una plataforma de terceros
   - Cómo solicitar la eliminación de datos de una plataforma de terceros
-  - Técnicas habituales para eliminar u ocultar contenidos de las redes sociales
+  - Técnicas comunes para eliminar u ocultar contenido de las redes sociales
   - La importancia de hablar con familiares y amigos sobre los datos personales y la eliminación de información.
 
 ❸ **Paso tres**
 
-_Nota para la persona formadora: tendrás que utilizar el escenario II para el siguiente ejercicio._
+_Nota para el instructor: necesitará la Situación hipotética II para el siguiente ejercicio._
 
-- Coloca a los periodistas en pequeños grupos y diles que van a leer un escenario.
-- Pídeles a los periodistas que trabajen juntos para responder a la pregunta del escenario y planificar la mejor manera de proteger al periodista.
-- Organiza un debate en la sesión sobre el escenario y pregunta a los periodistas qué medidas han tomado para proteger al periodista.
+- Divida a los periodistas en grupos pequeños y dígales que van a leer una situación hipotética.
+- Pida a los periodistas que trabajen juntos para responder a la pregunta de la situación hipotética y planifiquen cuál es la mejor manera de proteger al periodista.
+- Organice una discusión grupal sobre la situación hipotética y pregunte a los periodistas qué medidas han tomado para proteger al periodista.
 
 ## Plan de seguridad personal
 
-### Completar la evaluación de riesgos
+### Realización de la evaluación de riesgos
 
 <div class="table">
 
-| Resultados del aprendizaje | Tiempo | Recursos |
+| **Resultados del aprendizaje** | **Tiempo** | **Recursos** |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------- |
-| Los periodistas reflexionan sobre su riesgo individual y el riesgo asociado a una historia concreta cuando llevan a cabo una investigación en línea.<br>Los periodistas son capaces de reflexionar sobre la mitigación de esos riesgos. | 20 - 30 minutos | [Plantilla de evaluación de riesgos](/digital-risk-assessment-template) |
+| Los periodistas analizan los riesgos individuales y los riesgos asociados a un reportaje en particular cuando utilizan sus dispositivos. Los periodistas son capaces de pensar en medidas para mitigar esos riesgos. | 20 - 30 minutos | [Plantilla de evaluación de riesgos](/digital-risk-assessment-template) |
 
 </div>
 
-Esta sección debe ayudar a los periodistas a comprender mejor los riesgos a los que se enfrentan y a pensar en medidas concretas para mitigarlos.
+Esta sección debería ayudar a los periodistas a comprender mejor los riesgos a los que se enfrentan y a reflexionar sobre medidas concretas para mitigar esos riesgos.
 
-❶ **Primer paso**
+❶ **Paso uno**
 
-- Dile a los periodistas que van a trabajar solos para completar su sección de la evaluación de riesgos titulada abuso en línea y protección de datos personales.
-- Los periodistas deben trabajar respondiendo a las preguntas y dando pasos concretos para mitigar el riesgo.
-- Se les debe proporcionar apoyo en caso de que tengan preguntas, dudas o parezca que necesitan ayuda adicional.
+- Dígales a los periodistas que van a trabajar de forma individual para completar su sección de la evaluación de riesgos titulada «ciberacoso y protección de datos personales».
+- Los periodistas deben trabajar en responder las preguntas y proponer medidas concretas para mitigar los riesgos.
+- Se les debe brindar apoyo en caso de que tengan preguntas, dudas o parezca que necesitan ayuda adicional.
 
-❷ **Segundo paso**
+❷ **Paso dos**
 
-- Ayuda a los periodistas a reflexionar sobre el proceso formulando las siguientes preguntas:
-  - ¿Qué información has aprendido en la sesión de hoy que te haya ayudado a tomar decisiones más informadas en torno al abuso en línea y la protección de datos?
-  - ¿Qué más crees que necesitas aprender?
+- Ayude a los periodistas a reflexionar sobre el proceso haciéndoles las siguientes preguntas:
+  - ¿Qué información han aprendido en la sesión de hoy que les ha ayudado a tomar decisiones más informadas sobre el ciberacoso y la protección de los datos?
+  - ¿Qué más creen que deberían aprender?
 
-## Casos de Estudio
+## Caso de estudio
 
-Este caso de estudio acompaña al material del curso y ofrece a los periodistas ejemplos reales de amenazas digitales contra trabajadores de los medios de comunicación. Los casos de estudio pueden utilizarse para fomentar el debate sobre los distintos tipos de riesgos, así como para enseñar a los periodistas los pasos necesarios para protegerse mejor a sí mismos y a los demás.
+Este caso de estudio complementa el material del curso y ofrece a los periodistas ejemplos reales de amenazas digitales contra trabajadores de medios de comunicación. Se puede utilizar para fomentar el debate sobre los diferentes tipos de riesgos, así como para enseñar a los periodistas las medidas que deben tomar para protegerse mejor a sí mismos y a los demás.
 
-Nuestro artículo: [Caso de estudio sobre abusos en línea y protección de datos](/case-studies#granjas-cuentas)
+Nuestro artículo: [Caso de estudio sobre ciberacoso y protección de sus datos](/case-studies#granjas-cuentas)
 
-Escrito del CPJ: [Kyrgyz journalists on the online 'fake farms' that threaten to kill them](https://cpj.org/2021/03/kyrgyz-journalists-online-fake-farms/)
+Artículo de la CPJ: [Periodistas kirguizos hablan sobre las «_fake farms_» en línea que amenazan con matarlos](https://cpj.org/2021/03/kyrgyz-journalists-online-fake-farms/)
